@@ -1,0 +1,50 @@
+{
+ "url": "https://www.nseindia.com/api/corporate-announcements?index=equities&symbol=KANSAINER&from_date=20-10-2026&to_date=31-10-2026",
+ "status": 200,
+ "data": [
+  {
+   "an_dt": "26-Oct-2026 15:37:41",
+   "attFileSize": "1.05 MB",
+   "attchmntFile": "https://nsearchives.nseindia.com/corporate/KANSAINER_26102026153719_SEintimation_Q2FY27_Invite_signed.pdf",
+   "attchmntText": "Kansai Nerolac Paints Limited has informed the Exchange about Schedule of meet",
+   "bflag": null,
+   "csvName": null,
+   "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "difference": "00:00:02",
+   "dt": "26102026153741",
+   "exchdisstime": "26-Oct-2026 15:37:43",
+   "fileSize": "1.05 MB",
+   "hasXbrl": true,
+   "old_new": null,
+   "orgid": null,
+   "seq_id": "106828461",
+   "smIndustry": "Paints",
+   "sm_isin": "INE531A01016",
+   "sm_name": "Kansai Nerolac Paints Limited",
+   "sort_date": "2026-10-26 15:37:41",
+   "symbol": "KANSAINER"
+  },
+  {
+   "an_dt": "26-Oct-2026 15:13:01",
+   "attFileSize": "1.00 MB",
+   "attchmntFile": "https://nsearchives.nseindia.com/corporate/KANSAINER_26102026151035_SEintimation_RSUallotment_lot_15_signed.pdf",
+   "attchmntText": "Kansai Nerolac Paints Limited has informed the Exchange regarding Allotment of 22971  Shares.",
+   "bflag": null,
+   "csvName": null,
+   "desc": "ESOP/ESOS/ESPS",
+   "difference": "00:00:00",
+   "dt": "26102026151301",
+   "exchdisstime": "26-Oct-2026 15:13:01",
+   "fileSize": "1.00 MB",
+   "hasXbrl": true,
+   "old_new": null,
+   "orgid": null,
+   "seq_id": "106828411",
+   "smIndustry": "Paints",
+   "sm_isin": "INE531A01016",
+   "sm_name": "Kansai Nerolac Paints Limited",
+   "sort_date": "2026-10-26 15:13:01",
+   "symbol": "KANSAINER"
+  }
+ ]
+}

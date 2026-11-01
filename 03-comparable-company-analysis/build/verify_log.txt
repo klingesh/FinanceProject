@@ -1,0 +1,189 @@
+Excel 16.0: CalculateFull done
+Football_Field chart objects: 1
+chart exported to d:\Financeprojects\_scratch\p03\ff_chart_native2.png
+saved
+cells with content: 1915; formulas: 868
+error values: 0 []
+formulas with no cached value: 0 []
+--- Checks
+  1   PASS  Market cap (price x shares) within 1% of Screener's, all five companies  [0.0001293069640226907]
+  2   PASS  P/E (market cap / TTM PAT) within 2% of Screener's, all five companies  [0.0013887241242038773]
+  3   PASS  Asian Paints TTM revenue (Screener) within 0.1% of the filing (FY26 + H1 FY27 - H1 FY26)  [2.148468491403044e-05]
+  4   PASS  Asian Paints TTM EBITDA (Screener) within 0.1% of the filing  [8.226615844475482e-05]
+  5   PASS  Asian Paints debt incl. leases (Screener) within 0.5% of the filing  [6.527841242909282e-05]
+  6   PASS  Asian Paints cash + liquid investments (S&P) within 0.5% of the filing  [3.265530044593845e-06]
+  7   PASS  Asian Paints minority interest (Screener) within 0.5% of the filing  [-0.00045972920466841316]
+  8   PASS  Peer statistics in order (min <= 25th <= median <= 75th <= max) in every column  [None]
+  9   PASS  Drop-one medians stay inside the four-peer min-max  [None]
+ 10   PASS  Every implied value per share is positive  [591.3364446057819]
+ 11   PASS  FY2026 profit before tax rebuilt from EBITDA equals the reported figure (within Rs 1 cr)  [0]
+ 12   PASS  H1 FY2027 profit before tax rebuilt from EBITDA equals the reported figure (within Rs 1 cr)  [0]
+ 13   PASS  FY2027E FCFF equals H1 FY2027A + H2 FY2027E  [0]
+ 14   PASS  WACC is above the terminal growth rate  [0.06678140307445832]
+ 15   PASS  Sensitivity grid centre equals the DCF value  [0]
+ 16   PASS  WACC above g in every grid cell  [None]
+ 17   PASS  WACC within the 10-14% sanity range  [0.12678140307445832]
+ 18   PASS  Terminal value between 50% and 90% of EV  [0.7706666214270375]
+ 19   PASS  Capital-structure weights sum to 100%  [0.9999999999999999]
+ 20   PASS  Beta used within 0.15 of the 5-year regression beta  [0.014600000000000057]
+ 21   PASS  Football field: every low <= high  [None]
+ 22   PASS  No error values in the key output ranges  [None]
+      PASS  Overall result  [22 of 22 checks pass]
+      None  Information (not pass/fail)  [None]
+         3  Peers whose TTM ends Jun-2026 (one quarter older than Asian Paints)  [Berger, Kansai Nerolac and JSW Dulux reported Q2 FY27 after the 30-Oct-2026 price date]
+    Indigo  Peer with results published after the price date's close  [Filed 30-Oct-2026 at 17:41 IST; its TTM includes the quarter but the price does not]
+--- Comps (EV Rs cr, EV/EBITDA, P/E, EV/Sales, EV/EBITDA FY27E, P/E FY27E, margin)
+Asian Paints    TTM Sep-2026  mcap    222,534  EV    221,679   30.4x  44.9x  5.74x   29.4x  43.0x   18.9%
+Berger Paints   TTM Jun-2026  mcap     54,231  EV     53,601   28.0x  44.2x  4.37x   26.0x  40.3x   15.6%
+Kansai Nerolac  TTM Jun-2026  mcap     14,257  EV     11,950   12.0x  22.1x  1.45x   11.2x  19.8x   12.1%
+JSW Dulux       TTM Jun-2026  mcap     12,041  EV     11,810   24.2x  31.4x  3.30x   19.7x  30.0x   13.7%
+Indigo Paints   TTM Sep-2026  mcap      4,760  EV      4,525   17.6x  31.0x  2.99x   15.3x  26.3x   17.0%
+Minimum                                       EV/EBITDA 11.962  P/E 22.070  EV/Sales 1.446  EV/EBITDA27 11.228  P/E27 19.758
+25th percentile                               EV/EBITDA 16.195  P/E 28.793  EV/Sales 2.604  EV/EBITDA27 14.283  P/E27 24.649
+Median                                        EV/EBITDA 20.879  P/E 31.196  EV/Sales 3.146  EV/EBITDA27 17.489  P/E27 28.128
+75th percentile                               EV/EBITDA 25.122  P/E 34.567  EV/Sales 3.569  EV/EBITDA27 21.246  P/E27 32.557
+Maximum                                       EV/EBITDA 28.034  P/E 44.198  EV/Sales 4.371  EV/EBITDA27 25.953  P/E27 40.296
+Asian Paints premium / (discount) to the peer median EV/EBITDA 0.456  P/E 0.441  EV/Sales 0.824  EV/EBITDA27 0.680  P/E27 0.529
+--- Implied values (Rs/share): min, 25th, median, 75th, max, median vs price
+EV/EBITDA TTM x TTM EBITDA (₹ cr)             919  1,240  1,597  1,919  2,141  -31.2%
+P/E TTM x TTM EPS (₹)                         1,139  1,486  1,610  1,784  2,281  -30.6%
+EV/Sales TTM x TTM revenue (₹ cr)             591  1,058  1,276  1,446  1,769  -45.0%
+EV/EBITDA FY27E x FY27E EBITDA (₹ cr)         892  1,132  1,384  1,680  2,050  -40.3%
+P/E FY27E x FY27E EPS (₹)                     1,066  1,330  1,517  1,756  2,174  -34.6%
+--- Drop-one (median EV/EBITDA, P/E, EV/Sales -> implied Rs)
+None (all four peers)                    20.88  31.20  3.15  1,596.57  1,610.19  1,276.04
+Drop Berger Paints                       17.61  31.03  2.99  1,347.67  1,601.89  1,213.36
+Drop Kansai Nerolac                      24.15  31.36  3.30  1,845.47  1,618.49  1,338.71
+Drop JSW Dulux                           17.61  31.03  2.99  1,347.67  1,601.89  1,213.36
+Drop Indigo Paints                       24.15  31.36  3.30  1,845.47  1,618.49  1,338.71
+Lowest drop-one result                   17.61  31.03  2.99  1,347.67  1,601.89  1,213.36
+Highest drop-one result                  24.15  31.36  3.30  1,845.47  1,618.49  1,338.71
+Largest change vs the four-peer result   0.16  0.01  0.05  0.16  0.01  0.05
+--- DCF
+Revenue growth (H1 vs H1; H2 vs H2)           0.0495 | 0.1745 | 0.1500 | 0.1620 | 0.0800 | 0.0850 | 0.0850 | 0.0800
+Revenue                                       35,584 | 20,518 | 20,831 | 41,349 | 44,657 | 48,453 | 52,572 | 56,777
+EBITDA margin                                 0.1882 | 0.1816 | 0.1700 | 0.1757 | 0.1850 | 0.1900 | 0.1900 | 0.1900
+EBITDA                                        6,696 | 3,726 | 3,541 | 7,267 | 8,262 | 9,206 | 9,989 | 10,788
+Depreciation and amortisation                 1,229 | 618 | 646 | 1,264 | 1,429 | 1,550 | 1,682 | 1,817
+EBIT                                          5,467 | 3,108 | 2,895 | 6,003 | 6,833 | 7,656 | 8,306 | 8,971
+NOPAT = EBIT x (1 - tax)                      4,091 | 2,326 | 2,167 | 4,492 | 5,113 | 5,729 | 6,216 | 6,713
+- Capex                                       1,487 | 605 | 729 | 1,334 | 1,786 | 1,841 | 1,840 | 1,987
+- New leases (right-of-use additions)         340 | 205 | 208 | 413 | 447 | 485 | 526 | 568
+Trade working capital (period end)            6,348 | 8,016 | 7,856 | 7,856 | 8,485 | 9,206 | 9,989 | 10,788
+- Increase in trade working capital           -837 | 1,669 | -160 | 1,509 | 629 | 721 | 783 | 799
+Free cash flow to the firm (FCFF)             4,330 | 465 | 2,035 | 2,500 | 3,680 | 4,232 | 4,750 | 5,176
+FCFF counted in the valuation                  |  | 2,035 |  | 3,680 | 4,232 | 4,750 | 5,176
+Discount period (years from 30-Sep-2026)       |  | 0.4986 |  | 1.4986 | 2.4986 | 3.4986 | 4.4986
+Discount factor at WACC                        |  | 0.9422 |  | 0.8362 | 0.7421 | 0.6586 | 0.5845
+PV of FCFF                                     |  | 1,917 |  | 3,078 | 3,141 | 3,128 | 3,025
+Profit before tax                             6,003 | 3,574 | 3,302 | 6,875 | 7,703 | 8,600 | 9,331 | 10,078
+PAT attributable to owners                    4,325 | 2,607 | 2,407 | 5,013 | 5,615 | 6,269 | 6,802 | 7,346
+EPS (₹, on ₹95.92 crore shares)               45 | 27 | 25 | 52 | 59 | 65 | 71 | 77
+Sum of PV of FCFF (H2 FY2027E to FY2031E)                                   14289.25251381622
+WACC                                                                        0.12678140307445832
+Terminal growth rate (g)                                                    0.06
+FCFF in FY2031E                                                             5175.662750976868
+Terminal value at end-FY2031E = FCFF x (1 + g) / (WACC - g)                 82151.65096065152
+PV of terminal value                                                        48018.522319187825
+Enterprise value                                                            62307.77483300405
++ Cash and bank balances                                                    612.61
++ Current investments (liquid mutual funds)                                 5511.97
++ Non-current investments incl. associates (book value)                     877.21
+- Borrowings                                                                2899.88
+- Lease liabilities                                                         1695.8200000000002
+- Non-controlling interests (book value)                                    674.31
+Net adjustments from EV to equity                                           1731.7799999999997
+Equity value                                                                64039.55483300405
+Diluted shares (crore)                                                      95.9198
+DCF value per share (₹)                                                     667.6364507953941
+Share price, 30-Oct-2026 (₹)                                                2320
+Upside / (downside) = value / price - 1                                     -0.712225667760606
+Verdict                                                                     DCF value is more than 10% below the market price
+Terminal value as % of EV                                                   0.7706666214270375
+EBITDA in FY2031E                                                           10787.678474516599
+EV/EBITDA implied by the Gordon terminal value (TV / FY2031E EBITDA)        7.615322532527813
+Exit multiple: peer median EV/EBITDA TTM                                    20.878531781886323
+Terminal value at the exit multiple                                         225230.8878829658
+EV using the exit-multiple terminal value                                   145939.1255268237
+Value per share using the exit multiple (₹)                                 1539.5247438675194
+Perpetual growth implied by the exit multiple                               0.10147031482483977
+Market EV on the same definition (market cap - net adjustments)             220802.156
+Terminal value needed for the DCF to equal the market EV                    353308.9971677127
+Perpetual FCFF growth after FY2031E implied by the market price             0.11051336935243326
+Market EV / FY2027E EBITDA                                                  30.38396371190578
+DCF EV / FY2027E EBITDA                                                     8.573997662847058
+FCFF check: H1 FY2027A + H2 FY2027E - FY2027E (should be 0)                 0
+--- WACC
+Risk-free rate: India 10-year G-sec, 30-Oct-2026                            0.0741
+Regression beta: 5 years of weekly returns vs NIFTY 50                      0.8854
+Blume-adjusted beta (0.67 x raw + 0.33)                                     0.9232180000000001
+Peer median beta (5y weekly)                                                0.8927
+Beta used (judgment)                                                        0.9
+Equity risk premium (ERP)                                                   0.06
+Cost of equity (Ke)                                                         0.1281
+Memo: Damodaran total ERP for India, Jan-2026                               0.0708
+Memo: India sovereign default spread (already in the G-sec yield)           0.0187
+Memo: Ke on Damodaran's method = (rf - default spread) + beta x total ERP   0.11912
+Cost of debt                                                                None
+Spread over the G-sec (judgment)                                            0.01
+Pre-tax cost of debt (Kd)                                                   0.0841
+Memo: FY2026 finance costs / average debt incl. leases                      0.06283279742765273
+Tax rate                                                                    0.2517
+After-tax cost of debt                                                      0.06293202999999999
+Capital structure (market values) and WACC                                  None
+Market capitalisation (₹ cr) = price x shares                               222533.936
+Debt incl. lease liabilities, 30-Sep-2026 (₹ cr)                            4595.7
+Equity weight E / (D + E)                                                   0.9797661807550292
+Debt weight D / (D + E)                                                     0.020233819244970745
+WACC                                                                        0.12678140307445832
+Sanity check (Indian large caps ~10-14% at current rates)                   Within range
+--- Sensitivity grid
+667.6365  0.05  0.055  0.06  0.065  0.07
+0.1168  686.7861  731.2177  783.4743  845.8226  921.4985
+0.1218  639.4687  677.1174  720.8599  772.3061  833.6876
+0.1268  598.3293  630.569  667.6365  710.7036  761.3556
+0.1318  562.2344  590.097  621.8412  658.3389  700.7441
+0.1368  530.3119  554.5865  582.0227  613.2811  649.2202
+--- Football field
+52-week trading range                         2115  2985.7  n/a  Yes
+DCF (WACC +/-0.5 pp, g +/-0.5 pp)             590.0969986500473  772.3061224427923  667.6364507953941  No
+EV/EBITDA comps (peer 25th-75th, TTM)         1240.394124714976  1919.270888381964  1596.569329972319  No
+P/E comps (peer 25th-75th, TTM)               1486.2062567991088  1784.1994770560852  1610.1904360565645  No
+EV/Sales comps (peer 25th-75th, TTM)          1057.8577027905617  1446.3750466472613  1276.037938463848  No
+Analyst price targets (low-high)              1925  3300  2850  Yes
+Share price, 30-Oct-2026 close                2320  2320  2320  None
+DCF base value (₹) -> 667.6364507953941 -0.712225667760606
+Comps blended median: average of the EV/EBITDA and P/E medians (₹) -> 1603.379883014442 -0.3088879814592923
+Gap between the DCF and the comps blended median (DCF / comps - 1) -> -0.5836068184040073 
+Share price (₹) -> 2320 
+Price inside the DCF range? -> No 
+Price inside the EV/EBITDA comps range? -> No 
+Price inside the P/E comps range? -> No 
+Price inside the EV/Sales comps range? -> No 
+Price inside the analyst price-target range? -> Yes 
+Do the DCF and EV/EBITDA comps ranges overlap? -> No 
+Highest valuation-based value (DCF and comps bars) vs price -> -0.17272806535260177 
+Asian Paints EV/EBITDA premium to the peer median -> 0.4556584908464707 
+Summary -> The price of Rs 2,320 is above every valuation-based range: comps give Rs 1,058-1,919 and the DCF Rs 590-772. Only the 52-week range and analyst targets contain it. 
+--- Cover
+Share price, 30-Oct-2026 (₹): 2320  Yahoo Finance close
+DCF value per share (₹): 667.6364507953941  Base case
+DCF upside / (downside) vs price: -0.712225667760606  DCF value is more than 10% below the market price
+DCF range, WACC +/-0.5 pp and g +/-0.5 pp (₹): 590 - 772  Inner 3x3 of the grid
+WACC: 0.12678140307445832  Ke 12.81% (rf 7.41%, beta 0.90, ERP 6.0%)
+Terminal growth (g): 0.06  Judgment
+Perpetual growth after FY2031E implied by the market price: 0.11051336935243326  Same cash flows and WACC; solves for g
+EV/EBITDA TTM: peer median | Asian Paints: 20.9x | 30.4x (premium 46%)  
+P/E TTM: peer median | Asian Paints: 31.2x | 44.9x (premium 44%)  
+EV/Sales TTM: peer median | Asian Paints: 3.15x | 5.74x (premium 82%)  
+Implied value, EV/EBITDA: median (25th-75th) (₹): 1,597 (1,240 - 1,919)  
+Implied value, P/E: median (25th-75th) (₹): 1,610 (1,486 - 1,784)  
+Implied value, EV/Sales: median (25th-75th) (₹): 1,276 (1,058 - 1,446)  
+Analyst price targets: low - median - high (₹): 1,925 - 2,850 - 3,300  S&P Global consensus, 34 analysts
+52-week range (₹): 2,115 - 2,986  Intraday
+Read-across: The price of Rs 2,320 is above every valuation-based range: comps give Rs 1,058-1,919 and the DCF Rs 590-772. Only the 52-week range and analyst targets contain it.  
+Scenario: None  
+Single base case (no scenario switch). The Sensitivity sheet varies WACC and g; the drop-one table on Comps varies the peer set.: None  
+Model checks: None  
+Overall status (Checks sheet): PASS  22 of 22 checks pass
+VERIFICATION PASSED

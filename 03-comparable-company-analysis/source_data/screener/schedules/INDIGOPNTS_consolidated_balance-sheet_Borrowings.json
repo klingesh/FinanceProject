@@ -1,0 +1,34 @@
+{
+  "url": "https://www.screener.in/api/company/1274826/schedules/?parent=Borrowings&section=balance-sheet&consolidated=true",
+  "status": 200,
+  "data": {
+    "Long term Borrowings": {
+      "Mar 2023": "0.00",
+      "Mar 2024": "1.51",
+      "Mar 2025": "0.88",
+      "Mar 2026": "0.26",
+      "Sep 2026": "0.21"
+    },
+    "Short term Borrowings": {
+      "Mar 2023": "0.00",
+      "Mar 2024": "1.57",
+      "Mar 2025": "5.52",
+      "Mar 2026": "1.65",
+      "Sep 2026": "2.59"
+    },
+    "Lease Liabilities": {
+      "Mar 2023": "11.85",
+      "Mar 2024": "17.94",
+      "Mar 2025": "20.87",
+      "Mar 2026": "19.23",
+      "Sep 2026": "22.27"
+    },
+    "Other Borrowings": {
+      "Mar 2023": "0.01",
+      "Mar 2024": "0.01",
+      "Mar 2025": "0.00",
+      "Mar 2026": "-0.01",
+      "Sep 2026": ""
+    }
+  }
+}

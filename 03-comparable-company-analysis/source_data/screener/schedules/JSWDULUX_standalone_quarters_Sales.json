@@ -1,0 +1,21 @@
+{
+  "url": "https://www.screener.in/api/company/115/schedules/?parent=Sales&section=quarters",
+  "status": 200,
+  "data": {
+    "YOY Sales Growth %": {
+      "Jun 2023": "6.56%",
+      "Sep 2023": "3.25%",
+      "Dec 2023": "4.65%",
+      "Mar 2024": "2.31%",
+      "Jun 2024": "3.71%",
+      "Sep 2024": "2.72%",
+      "Dec 2024": "1.72%",
+      "Mar 2025": "4.21%",
+      "Jun 2025": "-3.98%",
+      "Sep 2025": "-15.01%",
+      "Dec 2025": "-14.86%",
+      "Mar 2026": "-12.92%",
+      "Jun 2026": "-3.02%"
+    }
+  }
+}

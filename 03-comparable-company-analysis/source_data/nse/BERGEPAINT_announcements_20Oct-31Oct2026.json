@@ -1,0 +1,50 @@
+{
+ "url": "https://www.nseindia.com/api/corporate-announcements?index=equities&symbol=BERGEPAINT&from_date=20-10-2026&to_date=31-10-2026",
+ "status": 200,
+ "data": [
+  {
+   "an_dt": "30-Oct-2026 12:41:40",
+   "attFileSize": "451.25 KB",
+   "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAINTBERGE_30102026124130_concallinvite2710Letter.pdf",
+   "attchmntText": "Berger Paints (I) Limited has informed the Exchange about Schedule of meet",
+   "bflag": null,
+   "csvName": null,
+   "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "difference": "00:00:01",
+   "dt": "30102026124140",
+   "exchdisstime": "30-Oct-2026 12:41:41",
+   "fileSize": "451.25 KB",
+   "hasXbrl": true,
+   "old_new": null,
+   "orgid": null,
+   "seq_id": "106836074",
+   "smIndustry": "Paints",
+   "sm_isin": "INE463A01020",
+   "sm_name": "Berger Paints (I) Limited",
+   "sort_date": "2026-10-30 12:41:40",
+   "symbol": "BERGEPAINT"
+  },
+  {
+   "an_dt": "26-Oct-2026 11:39:03",
+   "attFileSize": "3.94 MB",
+   "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAINTBERGE_26102026113856_Letter12610Final.pdf",
+   "attchmntText": "Berger Paints (I) Limited has informed the Exchange about Copy of Newspaper Publication",
+   "bflag": null,
+   "csvName": null,
+   "desc": "Copy of Newspaper Publication",
+   "difference": "00:00:01",
+   "dt": "26102026113903",
+   "exchdisstime": "26-Oct-2026 11:39:04",
+   "fileSize": "3.94 MB",
+   "hasXbrl": true,
+   "old_new": null,
+   "orgid": null,
+   "seq_id": "106828088",
+   "smIndustry": "Paints",
+   "sm_isin": "INE463A01020",
+   "sm_name": "Berger Paints (I) Limited",
+   "sort_date": "2026-10-26 11:39:03",
+   "symbol": "BERGEPAINT"
+  }
+ ]
+}

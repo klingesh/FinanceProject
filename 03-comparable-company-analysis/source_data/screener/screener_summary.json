@@ -1,0 +1,1233 @@
+{
+  "ASIANPAINT_consolidated": {
+    "url": "https://www.screener.in/company/ASIANPAINT/consolidated/",
+    "basis": "consolidated",
+    "fetched_utc": "2026-11-01 01:39:15",
+    "name": "Asian Paints Ltd",
+    "top_ratios": {
+      "Market Cap": {
+        "text": "\u20b9 2,22,534 Cr.",
+        "numbers": [
+          222534.0
+        ]
+      },
+      "Current Price": {
+        "text": "\u20b9 2,320",
+        "numbers": [
+          2320.0
+        ]
+      },
+      "High / Low": {
+        "text": "\u20b9 2,986 / 2,115",
+        "numbers": [
+          2986.0,
+          2115.0
+        ]
+      },
+      "Stock P/E": {
+        "text": "45.0",
+        "numbers": [
+          45.0
+        ]
+      },
+      "Book Value": {
+        "text": "\u20b9 227",
+        "numbers": [
+          227.0
+        ]
+      },
+      "Dividend Yield": {
+        "text": "1.19 %",
+        "numbers": [
+          1.19
+        ]
+      },
+      "ROCE": {
+        "text": "26.3 %",
+        "numbers": [
+          26.3
+        ]
+      },
+      "ROE": {
+        "text": "21.8 %",
+        "numbers": [
+          21.8
+        ]
+      },
+      "Face Value": {
+        "text": "\u20b9 1.00",
+        "numbers": [
+          1.0
+        ]
+      }
+    },
+    "quarters_shape": [
+      11,
+      14
+    ],
+    "quarters_columns": [
+      "item",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "profit-loss_shape": [
+      12,
+      14
+    ],
+    "profit-loss_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026",
+      "TTM"
+    ],
+    "balance-sheet_shape": [
+      10,
+      14
+    ],
+    "balance-sheet_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026",
+      "Sep 2026"
+    ],
+    "cash-flow_shape": [
+      6,
+      13
+    ],
+    "cash-flow_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "ratios_shape": [
+      6,
+      13
+    ],
+    "ratios_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "shareholding_shape": [
+      7,
+      13
+    ],
+    "shareholding_columns": [
+      "item",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "company_id": "295"
+  },
+  "BERGEPAINT_consolidated": {
+    "url": "https://www.screener.in/company/BERGEPAINT/consolidated/",
+    "basis": "consolidated",
+    "fetched_utc": "2026-11-01 01:39:17",
+    "name": "Berger Paints India Ltd",
+    "top_ratios": {
+      "Market Cap": {
+        "text": "\u20b9 54,231 Cr.",
+        "numbers": [
+          54231.0
+        ]
+      },
+      "Current Price": {
+        "text": "\u20b9 465",
+        "numbers": [
+          465.0
+        ]
+      },
+      "High / Low": {
+        "text": "\u20b9 595 / 391",
+        "numbers": [
+          595.0,
+          391.0
+        ]
+      },
+      "Stock P/E": {
+        "text": "44.2",
+        "numbers": [
+          44.2
+        ]
+      },
+      "Book Value": {
+        "text": "\u20b9 59.3",
+        "numbers": [
+          59.3
+        ]
+      },
+      "Dividend Yield": {
+        "text": "0.86 %",
+        "numbers": [
+          0.86
+        ]
+      },
+      "ROCE": {
+        "text": "21.6 %",
+        "numbers": [
+          21.6
+        ]
+      },
+      "ROE": {
+        "text": "17.3 %",
+        "numbers": [
+          17.3
+        ]
+      },
+      "Face Value": {
+        "text": "\u20b9 1.00",
+        "numbers": [
+          1.0
+        ]
+      }
+    },
+    "quarters_shape": [
+      11,
+      14
+    ],
+    "quarters_columns": [
+      "item",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026"
+    ],
+    "profit-loss_shape": [
+      12,
+      14
+    ],
+    "profit-loss_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026",
+      "TTM"
+    ],
+    "balance-sheet_shape": [
+      10,
+      13
+    ],
+    "balance-sheet_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "cash-flow_shape": [
+      6,
+      13
+    ],
+    "cash-flow_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "ratios_shape": [
+      6,
+      13
+    ],
+    "ratios_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "shareholding_shape": [
+      5,
+      13
+    ],
+    "shareholding_columns": [
+      "item",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "company_id": "429"
+  },
+  "KANSAINER_consolidated": {
+    "url": "https://www.screener.in/company/KANSAINER/consolidated/",
+    "basis": "consolidated",
+    "fetched_utc": "2026-11-01 01:39:19",
+    "name": "Kansai Nerolac Paints Ltd",
+    "top_ratios": {
+      "Market Cap": {
+        "text": "\u20b9 14,259 Cr.",
+        "numbers": [
+          14259.0
+        ]
+      },
+      "Current Price": {
+        "text": "\u20b9 176",
+        "numbers": [
+          176.0
+        ]
+      },
+      "High / Low": {
+        "text": "\u20b9 264 / 158",
+        "numbers": [
+          264.0,
+          158.0
+        ]
+      },
+      "Stock P/E": {
+        "text": "22.1",
+        "numbers": [
+          22.1
+        ]
+      },
+      "Book Value": {
+        "text": "\u20b9 83.0",
+        "numbers": [
+          83.0
+        ]
+      },
+      "Dividend Yield": {
+        "text": "1.42 %",
+        "numbers": [
+          1.42
+        ]
+      },
+      "ROCE": {
+        "text": "12.0 %",
+        "numbers": [
+          12.0
+        ]
+      },
+      "ROE": {
+        "text": "8.82 %",
+        "numbers": [
+          8.82
+        ]
+      },
+      "Face Value": {
+        "text": "\u20b9 1.00",
+        "numbers": [
+          1.0
+        ]
+      }
+    },
+    "quarters_shape": [
+      11,
+      14
+    ],
+    "quarters_columns": [
+      "item",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026"
+    ],
+    "profit-loss_shape": [
+      12,
+      14
+    ],
+    "profit-loss_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026",
+      "TTM"
+    ],
+    "balance-sheet_shape": [
+      10,
+      13
+    ],
+    "balance-sheet_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "cash-flow_shape": [
+      6,
+      13
+    ],
+    "cash-flow_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "ratios_shape": [
+      6,
+      13
+    ],
+    "ratios_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "shareholding_shape": [
+      5,
+      13
+    ],
+    "shareholding_columns": [
+      "item",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "company_id": "1715"
+  },
+  "JSWDULUX_consolidated": {
+    "url": "https://www.screener.in/company/JSWDULUX/consolidated/",
+    "basis": "consolidated",
+    "fetched_utc": "2026-11-01 01:39:21",
+    "name": "JSW Dulux Ltd",
+    "top_ratios": {
+      "Market Cap": {
+        "text": "\u20b9 12,041 Cr.",
+        "numbers": [
+          12041.0
+        ]
+      },
+      "Current Price": {
+        "text": "\u20b9 264",
+        "numbers": [
+          264.0
+        ]
+      },
+      "High / Low": {
+        "text": "\u20b9 375 / 261",
+        "numbers": [
+          375.0,
+          261.0
+        ]
+      },
+      "Stock P/E": {
+        "text": "31.4",
+        "numbers": [
+          31.4
+        ]
+      },
+      "Book Value": {
+        "text": "\u20b9 53.8",
+        "numbers": [
+          53.8
+        ]
+      },
+      "Dividend Yield": {
+        "text": "1.89 %",
+        "numbers": [
+          1.89
+        ]
+      },
+      "ROCE": {
+        "text": "22.7 %",
+        "numbers": [
+          22.7
+        ]
+      },
+      "ROE": {
+        "text": "19.1 %",
+        "numbers": [
+          19.1
+        ]
+      },
+      "Face Value": {
+        "text": "\u20b9 1.00",
+        "numbers": [
+          1.0
+        ]
+      }
+    },
+    "quarters_shape": [
+      11,
+      14
+    ],
+    "quarters_columns": [
+      "item",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026"
+    ],
+    "profit-loss_shape": [
+      12,
+      14
+    ],
+    "profit-loss_columns": [
+      "item",
+      "Mar 2009",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026",
+      "TTM"
+    ],
+    "balance-sheet_shape": [
+      10,
+      13
+    ],
+    "balance-sheet_columns": [
+      "item",
+      "Mar 2009",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "cash-flow_shape": [
+      6,
+      13
+    ],
+    "cash-flow_columns": [
+      "item",
+      "Mar 2009",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "ratios_shape": [
+      6,
+      13
+    ],
+    "ratios_columns": [
+      "item",
+      "Mar 2009",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "shareholding_shape": [
+      5,
+      13
+    ],
+    "shareholding_columns": [
+      "item",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "company_id": "115"
+  },
+  "INDIGOPNTS_consolidated": {
+    "url": "https://www.screener.in/company/INDIGOPNTS/consolidated/",
+    "basis": "consolidated",
+    "fetched_utc": "2026-11-01 01:39:23",
+    "name": "Indigo Paints Ltd",
+    "top_ratios": {
+      "Market Cap": {
+        "text": "\u20b9 4,760 Cr.",
+        "numbers": [
+          4760.0
+        ]
+      },
+      "Current Price": {
+        "text": "\u20b9 997",
+        "numbers": [
+          997.0
+        ]
+      },
+      "High / Low": {
+        "text": "\u20b9 1,346 / 702",
+        "numbers": [
+          1346.0,
+          702.0
+        ]
+      },
+      "Stock P/E": {
+        "text": "31.0",
+        "numbers": [
+          31.0
+        ]
+      },
+      "Book Value": {
+        "text": "\u20b9 248",
+        "numbers": [
+          248.0
+        ]
+      },
+      "Dividend Yield": {
+        "text": "0.50 %",
+        "numbers": [
+          0.5
+        ]
+      },
+      "ROCE": {
+        "text": "18.6 %",
+        "numbers": [
+          18.6
+        ]
+      },
+      "ROE": {
+        "text": "13.7 %",
+        "numbers": [
+          13.7
+        ]
+      },
+      "Face Value": {
+        "text": "\u20b9 10.0",
+        "numbers": [
+          10.0
+        ]
+      }
+    },
+    "quarters_shape": [
+      11,
+      14
+    ],
+    "quarters_columns": [
+      "item",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "profit-loss_shape": [
+      12,
+      6
+    ],
+    "profit-loss_columns": [
+      "item",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026",
+      "TTM"
+    ],
+    "balance-sheet_shape": [
+      10,
+      6
+    ],
+    "balance-sheet_columns": [
+      "item",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026",
+      "Sep 2026"
+    ],
+    "cash-flow_shape": [
+      6,
+      5
+    ],
+    "cash-flow_columns": [
+      "item",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "ratios_shape": [
+      6,
+      5
+    ],
+    "ratios_columns": [
+      "item",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "shareholding_shape": [
+      5,
+      13
+    ],
+    "shareholding_columns": [
+      "item",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "company_id": "1274826"
+  },
+  "INDIGOPNTS_standalone": {
+    "url": "https://www.screener.in/company/INDIGOPNTS/",
+    "basis": "standalone",
+    "fetched_utc": "2026-11-01 01:39:24",
+    "name": "Indigo Paints Ltd",
+    "top_ratios": {
+      "Market Cap": {
+        "text": "\u20b9 4,760 Cr.",
+        "numbers": [
+          4760.0
+        ]
+      },
+      "Current Price": {
+        "text": "\u20b9 997",
+        "numbers": [
+          997.0
+        ]
+      },
+      "High / Low": {
+        "text": "\u20b9 1,346 / 702",
+        "numbers": [
+          1346.0,
+          702.0
+        ]
+      },
+      "Stock P/E": {
+        "text": "30.9",
+        "numbers": [
+          30.9
+        ]
+      },
+      "Book Value": {
+        "text": "\u20b9 255",
+        "numbers": [
+          255.0
+        ]
+      },
+      "Dividend Yield": {
+        "text": "0.50 %",
+        "numbers": [
+          0.5
+        ]
+      },
+      "ROCE": {
+        "text": "17.9 %",
+        "numbers": [
+          17.9
+        ]
+      },
+      "ROE": {
+        "text": "13.4 %",
+        "numbers": [
+          13.4
+        ]
+      },
+      "Face Value": {
+        "text": "\u20b9 10.0",
+        "numbers": [
+          10.0
+        ]
+      }
+    },
+    "quarters_shape": [
+      11,
+      14
+    ],
+    "quarters_columns": [
+      "item",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "profit-loss_shape": [
+      12,
+      14
+    ],
+    "profit-loss_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026",
+      "TTM"
+    ],
+    "balance-sheet_shape": [
+      10,
+      14
+    ],
+    "balance-sheet_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026",
+      "Sep 2026"
+    ],
+    "cash-flow_shape": [
+      6,
+      13
+    ],
+    "cash-flow_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "ratios_shape": [
+      6,
+      13
+    ],
+    "ratios_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "shareholding_shape": [
+      5,
+      13
+    ],
+    "shareholding_columns": [
+      "item",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "company_id": "1274826"
+  },
+  "JSWDULUX_standalone": {
+    "url": "https://www.screener.in/company/JSWDULUX/",
+    "basis": "standalone",
+    "fetched_utc": "2026-11-01 01:39:26",
+    "name": "JSW Dulux Ltd",
+    "top_ratios": {
+      "Market Cap": {
+        "text": "\u20b9 12,041 Cr.",
+        "numbers": [
+          12041.0
+        ]
+      },
+      "Current Price": {
+        "text": "\u20b9 264",
+        "numbers": [
+          264.0
+        ]
+      },
+      "High / Low": {
+        "text": "\u20b9 375 / 261",
+        "numbers": [
+          375.0,
+          261.0
+        ]
+      },
+      "Stock P/E": {
+        "text": "31.4",
+        "numbers": [
+          31.4
+        ]
+      },
+      "Book Value": {
+        "text": "\u20b9 52.6",
+        "numbers": [
+          52.6
+        ]
+      },
+      "Dividend Yield": {
+        "text": "1.89 %",
+        "numbers": [
+          1.89
+        ]
+      },
+      "ROCE": {
+        "text": "23.0 %",
+        "numbers": [
+          23.0
+        ]
+      },
+      "ROE": {
+        "text": "19.3 %",
+        "numbers": [
+          19.3
+        ]
+      },
+      "Face Value": {
+        "text": "\u20b9 1.00",
+        "numbers": [
+          1.0
+        ]
+      }
+    },
+    "quarters_shape": [
+      11,
+      14
+    ],
+    "quarters_columns": [
+      "item",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026"
+    ],
+    "profit-loss_shape": [
+      12,
+      14
+    ],
+    "profit-loss_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026",
+      "TTM"
+    ],
+    "balance-sheet_shape": [
+      10,
+      13
+    ],
+    "balance-sheet_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "cash-flow_shape": [
+      6,
+      13
+    ],
+    "cash-flow_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "ratios_shape": [
+      6,
+      13
+    ],
+    "ratios_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "shareholding_shape": [
+      5,
+      13
+    ],
+    "shareholding_columns": [
+      "item",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "company_id": "115"
+  }
+}

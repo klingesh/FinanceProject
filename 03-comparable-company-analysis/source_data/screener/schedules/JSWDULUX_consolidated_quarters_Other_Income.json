@@ -1,0 +1,36 @@
+{
+  "url": "https://www.screener.in/api/company/115/schedules/?parent=Other%20Income&section=quarters&consolidated=true",
+  "status": 200,
+  "data": {
+    "Exceptional items": {
+      "Jun 2023": "0.00",
+      "Sep 2023": "0.00",
+      "Dec 2023": "0.00",
+      "Mar 2024": "0.00",
+      "Jun 2024": "0.00",
+      "Sep 2024": "0.00",
+      "Dec 2024": "0.00",
+      "Mar 2025": "0.00",
+      "Jun 2025": "0.00",
+      "Sep 2025": "1,874.20",
+      "Dec 2025": "-28.30",
+      "Mar 2026": "0.00",
+      "Jun 2026": "0.00"
+    },
+    "Other income normal": {
+      "Jun 2023": "8.20",
+      "Sep 2023": "8.90",
+      "Dec 2023": "8.40",
+      "Mar 2024": "10.30",
+      "Jun 2024": "9.70",
+      "Sep 2024": "9.10",
+      "Dec 2024": "6.00",
+      "Mar 2025": "2.80",
+      "Jun 2025": "9.00",
+      "Sep 2025": "7.70",
+      "Dec 2025": "14.70",
+      "Mar 2026": "67.10",
+      "Jun 2026": "25.60"
+    }
+  }
+}

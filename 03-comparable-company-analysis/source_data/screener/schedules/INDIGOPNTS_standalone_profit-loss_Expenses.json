@@ -1,0 +1,63 @@
+{
+  "url": "https://www.screener.in/api/company/1274826/schedules/?parent=Expenses&section=profit-loss",
+  "status": 200,
+  "data": {
+    "Material Cost %": {
+      "Mar 2015": "52%",
+      "Mar 2016": "49%",
+      "Mar 2017": "56%",
+      "Mar 2018": "56%",
+      "Mar 2019": "56%",
+      "Mar 2020": "52%",
+      "Mar 2021": "52%",
+      "Mar 2022": "57%",
+      "Mar 2023": "55%",
+      "Mar 2024": "52%",
+      "Mar 2025": "53%",
+      "Mar 2026": "53%",
+      "isExpandable": "Company.showSchedule(\"Material Cost %\", \"profit-loss\", this)"
+    },
+    "Manufacturing Cost %": {
+      "Mar 2015": "1%",
+      "Mar 2016": "1%",
+      "Mar 2017": "1%",
+      "Mar 2018": "12%",
+      "Mar 2019": "2%",
+      "Mar 2020": "2%",
+      "Mar 2021": "2%",
+      "Mar 2022": "2%",
+      "Mar 2023": "11%",
+      "Mar 2024": "12%",
+      "Mar 2025": "11%",
+      "Mar 2026": "11%"
+    },
+    "Employee Cost %": {
+      "Mar 2015": "8%",
+      "Mar 2016": "8%",
+      "Mar 2017": "8%",
+      "Mar 2018": "7%",
+      "Mar 2019": "7%",
+      "Mar 2020": "7%",
+      "Mar 2021": "7%",
+      "Mar 2022": "6%",
+      "Mar 2023": "7%",
+      "Mar 2024": "7%",
+      "Mar 2025": "8%",
+      "Mar 2026": "9%"
+    },
+    "Other Cost %": {
+      "Mar 2015": "46%",
+      "Mar 2016": "46%",
+      "Mar 2017": "35%",
+      "Mar 2018": "19%",
+      "Mar 2019": "25%",
+      "Mar 2020": "25%",
+      "Mar 2021": "23%",
+      "Mar 2022": "21%",
+      "Mar 2023": "10%",
+      "Mar 2024": "10%",
+      "Mar 2025": "9%",
+      "Mar 2026": "9%"
+    }
+  }
+}

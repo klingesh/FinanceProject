@@ -1,0 +1,8 @@
+period,period_end,revenue,ebitda,depreciation,other_income,interest,pbt,tax_rate_pct,net_profit,eps_rs,cfo,capex,working_capital_change_cf,inventories,trade_receivables,trade_payables,borrowings_incl_leases,lease_liabilities,lease_principal_repaid,source
+FY2022A,Mar 2022,29101.0,4804.0,816.0,296.0,95.0,4188.0,26.0,3085.0,31.59,986.0,551.0,-2795.0,6153.0,3871.0,4164.0,1587.0,811.0,221.0,"Screener.in consolidated (annual P&L, cash flow, schedules)"
+FY2023A,Mar 2023,34489.0,6260.0,858.0,431.0,144.0,5689.0,26.0,4195.0,42.81,4193.0,1446.0,-772.0,6211.0,4637.0,3635.0,1932.0,960.0,256.0,"Screener.in consolidated (annual P&L, cash flow, schedules)"
+FY2024A,Mar 2024,35495.0,7585.0,853.0,821.0,205.0,7348.0,24.0,5558.0,56.92,6104.0,2496.0,10.0,5923.0,4889.0,3831.0,2474.0,1367.0,286.0,"Screener.in consolidated (annual P&L, cash flow, schedules)"
+FY2025A,Mar 2025,33906.0,6006.0,1026.0,350.0,227.0,5103.0,27.0,3710.0,38.23,4424.0,1830.0,-570.0,6719.0,4314.0,3848.0,2291.0,1427.0,325.0,"Screener.in consolidated (annual P&L, cash flow, schedules)"
+FY2026A,Mar 2026,35583.54,6695.92,1228.85,723.8,195.41,6003.44,26.8,4395.0,45.09,7088.0,1487.0,1476.0,5744.0,4462.0,3863.0,3929.0,1636.0,340.0,"FY2026 P&L: company filing (audited, Q2 FY27 results p.12); rest Screener.in"
+H1 FY2026A,Sep 2025,17469.82,3128.35,605.8,,,,,,,3482.26,708.27,,,,,,,,"Company filing: Q2 FY27 results (consolidated P&L p.12, cash flow p.14)"
+H1 FY2027A,Sep 2026,20518.45,3725.83,617.86,,,,,,,1899.83,604.82,,,,,,,,"Company filing: Q2 FY27 results (consolidated P&L p.12, cash flow p.14)"

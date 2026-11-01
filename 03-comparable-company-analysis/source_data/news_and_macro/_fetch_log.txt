@@ -1,0 +1,15 @@
+Investing_India_10Y_bond_historical_data.html: FAILED 403 len=3 for https://in.investing.com/rates-bonds/india-10-year-bond-yield-historical-data
+TradingEconomics_India_10Y_bond_yield.html: OK 200 420,009 bytes -> TradingEconomics_India_10Y_bond_yield.html
+ETBFSI_Reuters_India_bonds_October_2026.html: OK 200 285,677 bytes -> ETBFSI_Reuters_India_bonds_October_2026.html
+FinancialExpress_Gsec_yields_October_2026.html: OK 200 541,783 bytes -> FinancialExpress_Gsec_yields_October_2026.html
+Damodaran_country_risk_premium_Jan2026.html: OK 200 277,049 bytes -> Damodaran_country_risk_premium_Jan2026.html
+ET_AsianPaints_Q2FY27_results_29Oct2026.html: OK 200 279,261 bytes -> ET_AsianPaints_Q2FY27_results_29Oct2026.html
+BusinessStandard_AsianPaints_Q2FY27_29Oct2026.html: OK 200 176,506 bytes -> BusinessStandard_AsianPaints_Q2FY27_29Oct2026.html
+ET_AsianPaints_brokerages_cut_targets_30Oct2026.html: OK 200 345,118 bytes -> ET_AsianPaints_brokerages_cut_targets_30Oct2026.html
+Investing_AsianPaints_Q2FY27_presentation_summary.html: FAILED 403 len=3 for https://au.investing.com/news/stock-market-news/asian-paints-q2-fy27-slides-169-sales-growth-margin-pressure-93CH-4726180
+ET_AkzoNobel_India_renamed_JSW_Dulux_Mar2026.html: OK 200 284,898 bytes -> ET_AkzoNobel_India_renamed_JSW_Dulux_Mar2026.html
+Livemint_JSW_Dulux_1for10_split_record_date.html: OK 200 194,103 bytes -> Livemint_JSW_Dulux_1for10_split_record_date.html
+PCImag_AkzoNobel_completes_India_sale_Dec2025.html: FAILED 403 len=5828 for https://www.pcimag.com/articles/114243-akzo-completes-strategic-sale
+ETLegal_JSW_Paints_unlisted_completes_AkzoNobel_India.html: OK 200 131,738 bytes -> ETLegal_JSW_Paints_unlisted_completes_AkzoNobel_India.html
+BusinessWorld_Grasim_Birla_Opus_FY26.html: OK 200 146,932 bytes -> BusinessWorld_Grasim_Birla_Opus_FY26.html
+Daijiworld_Indigo_Paints_Q2FY27_30Oct2026.html: OK 200 83,484 bytes -> Daijiworld_Indigo_Paints_Q2FY27_30Oct2026.html

@@ -1,0 +1,13 @@
+# Project 3: Asian Paints comps + DCF (tested with Python 3.14 on Windows)
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+matplotlib>=3.7
+reportlab>=4.0
+# online download step only (build/fetch_sources.py)
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+yfinance>=0.2.40
+# Excel recalculation through COM (build/recalc_verify.py); needs Microsoft Excel
+pywin32>=306; sys_platform == "win32"

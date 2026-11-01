@@ -1,0 +1,56 @@
+item,value_rs_crore,period,statement,source_page,note
+revenue_from_operations,9976.51,Q2 FY27 (Jul-Sep 2026),Consolidated P&L,12,Revenue from sales 9953.89 + other operating revenue 22.62
+revenue_from_operations,10541.94,Q1 FY27 (Apr-Jun 2026),Consolidated P&L,12,
+revenue_from_operations,8531.27,Q2 FY26 (Jul-Sep 2025),Consolidated P&L,12,
+revenue_from_operations,20518.45,H1 FY27 (Apr-Sep 2026),Consolidated P&L,12,
+revenue_from_operations,17469.82,H1 FY26 (Apr-Sep 2025),Consolidated P&L,12,
+revenue_from_operations,35583.54,FY26 (Apr 2025-Mar 2026),Consolidated P&L,12,Audited
+net_sales,9953.89,Q2 FY27 (Jul-Sep 2026),Consolidated P&L,12,Press release headline net sales (+16.9%)
+net_sales,20475.33,H1 FY27 (Apr-Sep 2026),Consolidated P&L,12,
+ebitda_pbdit,1557.07,Q2 FY27 (Jul-Sep 2026),Consolidated P&L,12,Revenue less expenses before finance cost and D&A; press release p.18 shows 1557.1 (15.6% of net sales)
+ebitda_pbdit,3725.83,H1 FY27 (Apr-Sep 2026),Consolidated P&L,12,Press release p.18 shows 3725.8 (18.2% of net sales)
+ebitda_pbdit,3128.35,H1 FY26 (Apr-Sep 2025),Consolidated P&L,12,Press release p.18 shows 3128.3
+ebitda_pbdit,6695.92,FY26 (Apr 2025-Mar 2026),Consolidated P&L,12,35583.54 - (15384.05 + 4014.05 + 603.68 + 2799.59 + 6086.25)
+depreciation_amortisation,313.67,Q2 FY27 (Jul-Sep 2026),Consolidated P&L,12,
+depreciation_amortisation,617.86,H1 FY27 (Apr-Sep 2026),Consolidated P&L,12,
+depreciation_amortisation,605.80,H1 FY26 (Apr-Sep 2025),Consolidated P&L,12,
+depreciation_amortisation,1228.85,FY26 (Apr 2025-Mar 2026),Consolidated P&L,12,
+finance_costs,103.23,H1 FY27 (Apr-Sep 2026),Consolidated P&L,12,Includes interest on lease liabilities
+finance_costs,195.41,FY26 (Apr 2025-Mar 2026),Consolidated P&L,12,
+other_income,488.64,H1 FY27 (Apr-Sep 2026),Consolidated P&L,12,Mostly treasury income; excluded from EBITDA and FCFF
+other_income,723.80,FY26 (Apr 2025-Mar 2026),Consolidated P&L,12,
+share_of_profit_of_associates,80.15,H1 FY27 (Apr-Sep 2026),Consolidated P&L,12,PPG Asian Paints and others; excluded from EBITDA and FCFF
+share_of_profit_of_associates,165.59,FY26 (Apr 2025-Mar 2026),Consolidated P&L,12,
+exceptional_items_loss,157.61,FY26 (Apr 2025-Mar 2026),Consolidated P&L,12,
+profit_before_tax,3573.53,H1 FY27 (Apr-Sep 2026),Consolidated P&L,12,
+profit_before_tax,6003.44,FY26 (Apr 2025-Mar 2026),Consolidated P&L,12,
+tax_expense,928.73,H1 FY27 (Apr-Sep 2026),Consolidated P&L,12,
+tax_expense,1608.75,FY26 (Apr 2025-Mar 2026),Consolidated P&L,12,
+pat_attributable_to_owners,1067.63,Q2 FY27 (Jul-Sep 2026),Consolidated P&L,12,Press release: +7.5% YoY
+pat_attributable_to_owners,2606.88,H1 FY27 (Apr-Sep 2026),Consolidated P&L,12,
+pat_attributable_to_owners,2093.36,H1 FY26 (Apr-Sep 2025),Consolidated P&L,12,
+pat_attributable_to_owners,4325.35,FY26 (Apr 2025-Mar 2026),Consolidated P&L,12,
+diluted_eps_rs,11.14,Q2 FY27 (Jul-Sep 2026),Consolidated P&L,12,Rs per share; not annualised
+diluted_eps_rs,45.11,FY26 (Apr 2025-Mar 2026),Consolidated P&L,12,Rs per share
+equity_shares_crore,95.92,30-Sep-2026,Consolidated P&L,12,Paid-up capital Rs 95.92 crore at face value Re 1
+inventories,7262.77,30-Sep-2026,Consolidated balance sheet,13,
+inventories,5743.69,31-Mar-2026,Consolidated balance sheet,13,
+trade_receivables,5052.25,30-Sep-2026,Consolidated balance sheet,13,Current 5049.44 + non-current 2.81
+trade_receivables,4467.16,31-Mar-2026,Consolidated balance sheet,13,Current 4461.80 + non-current 5.36
+trade_payables,4298.71,30-Sep-2026,Consolidated balance sheet,13,MSME 258.57 + others 4040.14
+trade_payables,3863.04,31-Mar-2026,Consolidated balance sheet,13,MSME 258.56 + others 3604.48
+cash_and_cash_equivalents,259.66,30-Sep-2026,Consolidated balance sheet,13,
+other_balances_with_banks,352.95,30-Sep-2026,Consolidated balance sheet,13,Term deposits
+current_investments,5511.97,30-Sep-2026,Consolidated balance sheet,13,Mostly liquid mutual funds (5508.90 counted as cash equivalents in the cash flow statement p.15)
+noncurrent_investments,184.27,30-Sep-2026,Consolidated balance sheet,13,Financial assets - investments (non-current)
+investments_in_associates,692.94,30-Sep-2026,Consolidated balance sheet,13,Equity-accounted (PPG Asian Paints etc.)
+borrowings_noncurrent,1621.97,30-Sep-2026,Consolidated balance sheet,13,
+borrowings_current,1277.91,30-Sep-2026,Consolidated balance sheet,13,
+lease_liabilities_noncurrent,1362.44,30-Sep-2026,Consolidated balance sheet,13,
+lease_liabilities_current,333.38,30-Sep-2026,Consolidated balance sheet,13,
+non_controlling_interests,674.31,30-Sep-2026,Consolidated balance sheet,13,At book value
+equity_attributable_to_owners,21734.69,30-Sep-2026,Consolidated balance sheet,13,
+cash_from_operations,1899.83,H1 FY27 (Apr-Sep 2026),Consolidated cash flow,14,After tax; working capital rose (inventories +1519.08)
+cash_from_operations,3482.26,H1 FY26 (Apr-Sep 2025),Consolidated cash flow,14,
+capex_ppe_and_intangibles,604.82,H1 FY27 (Apr-Sep 2026),Consolidated cash flow,14,Purchase of property plant and equipment and other intangible assets
+capex_ppe_and_intangibles,708.27,H1 FY26 (Apr-Sep 2025),Consolidated cash flow,14,

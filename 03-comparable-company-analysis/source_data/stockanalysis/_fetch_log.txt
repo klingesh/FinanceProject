@@ -1,0 +1,80 @@
+ASIANPAINT statistics https://stockanalysis.com/quote/nse/ASIANPAINT/statistics/ -> 200 len=125107
+   tables=19
+ASIANPAINT income_annual https://stockanalysis.com/quote/nse/ASIANPAINT/financials/ -> 200 len=226199
+   tables=7
+ASIANPAINT income_quarterly https://stockanalysis.com/quote/nse/ASIANPAINT/financials/?p=quarterly -> 200 len=202550
+   tables=5
+ASIANPAINT balance_annual https://stockanalysis.com/quote/nse/ASIANPAINT/financials/balance-sheet/ -> 200 len=259785
+   tables=4
+ASIANPAINT balance_quarterly https://stockanalysis.com/quote/nse/ASIANPAINT/financials/balance-sheet/?p=quarterly -> 200 len=334069
+   tables=4
+ASIANPAINT cashflow_annual https://stockanalysis.com/quote/nse/ASIANPAINT/financials/cash-flow-statement/ -> 200 len=250469
+   tables=6
+ASIANPAINT ratios_annual https://stockanalysis.com/quote/nse/ASIANPAINT/financials/ratios/ -> 200 len=184204
+   tables=5
+ASIANPAINT forecast https://stockanalysis.com/quote/nse/ASIANPAINT/forecast/ -> 200 len=173337
+   tables=8
+BERGEPAINT statistics https://stockanalysis.com/quote/nse/BERGEPAINT/statistics/ -> 200 len=125052
+   tables=19
+BERGEPAINT income_annual https://stockanalysis.com/quote/nse/BERGEPAINT/financials/ -> 200 len=219779
+   tables=7
+BERGEPAINT income_quarterly https://stockanalysis.com/quote/nse/BERGEPAINT/financials/?p=quarterly -> 200 len=199692
+   tables=5
+BERGEPAINT balance_annual https://stockanalysis.com/quote/nse/BERGEPAINT/financials/balance-sheet/ -> 200 len=253728
+   tables=4
+BERGEPAINT balance_quarterly https://stockanalysis.com/quote/nse/BERGEPAINT/financials/balance-sheet/?p=quarterly -> 200 len=325833
+   tables=4
+BERGEPAINT cashflow_annual https://stockanalysis.com/quote/nse/BERGEPAINT/financials/cash-flow-statement/ -> 200 len=236437
+   tables=6
+BERGEPAINT ratios_annual https://stockanalysis.com/quote/nse/BERGEPAINT/financials/ratios/ -> 200 len=180408
+   tables=5
+BERGEPAINT forecast https://stockanalysis.com/quote/nse/BERGEPAINT/forecast/ -> 200 len=162797
+   tables=7
+KANSAINER statistics https://stockanalysis.com/quote/nse/KANSAINER/statistics/ -> 200 len=124927
+   tables=19
+KANSAINER income_annual https://stockanalysis.com/quote/nse/KANSAINER/financials/ -> 200 len=222468
+   tables=7
+KANSAINER income_quarterly https://stockanalysis.com/quote/nse/KANSAINER/financials/?p=quarterly -> 200 len=200451
+   tables=5
+KANSAINER balance_annual https://stockanalysis.com/quote/nse/KANSAINER/financials/balance-sheet/ -> 200 len=248717
+   tables=4
+KANSAINER balance_quarterly https://stockanalysis.com/quote/nse/KANSAINER/financials/balance-sheet/?p=quarterly -> 200 len=319034
+   tables=4
+KANSAINER cashflow_annual https://stockanalysis.com/quote/nse/KANSAINER/financials/cash-flow-statement/ -> 200 len=228935
+   tables=6
+KANSAINER ratios_annual https://stockanalysis.com/quote/nse/KANSAINER/financials/ratios/ -> 200 len=180353
+   tables=5
+KANSAINER forecast https://stockanalysis.com/quote/nse/KANSAINER/forecast/ -> 200 len=162531
+   tables=7
+JSWDULUX statistics https://stockanalysis.com/quote/nse/JSWDULUX/statistics/ -> 200 len=124342
+   tables=19
+JSWDULUX income_annual https://stockanalysis.com/quote/nse/JSWDULUX/financials/ -> 200 len=218954
+   tables=7
+JSWDULUX income_quarterly https://stockanalysis.com/quote/nse/JSWDULUX/financials/?p=quarterly -> 200 len=200062
+   tables=5
+JSWDULUX balance_annual https://stockanalysis.com/quote/nse/JSWDULUX/financials/balance-sheet/ -> 200 len=231086
+   tables=4
+JSWDULUX balance_quarterly https://stockanalysis.com/quote/nse/JSWDULUX/financials/balance-sheet/?p=quarterly -> 200 len=297221
+   tables=4
+JSWDULUX cashflow_annual https://stockanalysis.com/quote/nse/JSWDULUX/financials/cash-flow-statement/ -> 200 len=218829
+   tables=6
+JSWDULUX ratios_annual https://stockanalysis.com/quote/nse/JSWDULUX/financials/ratios/ -> 200 len=178155
+   tables=5
+JSWDULUX forecast https://stockanalysis.com/quote/nse/JSWDULUX/forecast/ -> 200 len=144252
+   tables=7
+INDIGOPNTS statistics https://stockanalysis.com/quote/nse/INDIGOPNTS/statistics/ -> 200 len=124896
+   tables=19
+INDIGOPNTS income_annual https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/ -> 200 len=221177
+   tables=7
+INDIGOPNTS income_quarterly https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/?p=quarterly -> 200 len=231224
+   tables=6
+INDIGOPNTS balance_annual https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/balance-sheet/ -> 200 len=251049
+   tables=4
+INDIGOPNTS balance_quarterly https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/balance-sheet/?p=quarterly -> 200 len=321524
+   tables=4
+INDIGOPNTS cashflow_annual https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/cash-flow-statement/ -> 200 len=234709
+   tables=6
+INDIGOPNTS ratios_annual https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/ratios/ -> 200 len=183601
+   tables=5
+INDIGOPNTS forecast https://stockanalysis.com/quote/nse/INDIGOPNTS/forecast/ -> 200 len=161757
+   tables=7
