@@ -1,0 +1,11 @@
+model,key,confidence,days,expected,exceptions,rate_pct,lr_pof,p_pof,n11,lr_ind,p_ind,lr_cc,p_cc,pof_verdict,ind_verdict,cc_verdict,exceptions_last250,expected_last250,p_pof_last250,basel_zone_last250,avg_var_pct
+Historical simulation,hs,0.95,990,49.5,56,5.66,0.863,0.3528,5,1.028,0.3106,1.905,0.3857,accept,accept,accept,23,12.5,0.0061,,0.793
+Historical simulation,hs,0.99,990,9.9,14,1.41,1.52,0.2176,1,1.729,0.1885,3.257,0.1962,accept,accept,accept,4,2.5,0.3805,green,1.387
+Normal (sample sigma),n_sample,0.95,990,49.5,43,4.34,0.938,0.3327,3,0.641,0.4235,1.565,0.4572,accept,accept,accept,13,12.5,0.8853,,0.854
+Normal (sample sigma),n_sample,0.99,990,9.9,18,1.82,5.389,0.0203,1,0.939,0.3324,6.345,0.0419,reject,accept,reject,7,2.5,0.019,yellow,1.208
+Normal (EWMA sigma),n_ewma,0.95,990,49.5,53,5.35,0.255,0.6137,4,0.475,0.4906,0.738,0.6915,accept,accept,accept,16,12.5,0.3294,,0.823
+Normal (EWMA sigma),n_ewma,0.99,990,9.9,28,2.83,22.358,0.0,1,0.053,0.8175,22.448,0.0,reject,accept,reject,10,2.5,0.0003,red,1.164
+Student-t (EWMA sigma),t_ewma,0.95,990,49.5,59,5.96,1.813,0.1782,5,0.632,0.4265,2.466,0.2915,accept,accept,accept,17,12.5,0.2146,,0.8
+Student-t (EWMA sigma),t_ewma,0.99,990,9.9,20,2.02,8.032,0.0046,1,0.656,0.4179,8.709,0.0128,reject,accept,reject,7,2.5,0.019,yellow,1.265
+Filtered HS (EWMA),fhs,0.95,990,49.5,51,5.15,0.047,0.8277,4,0.695,0.4045,0.746,0.6888,accept,accept,accept,17,12.5,0.2146,,0.835
+Filtered HS (EWMA),fhs,0.99,990,9.9,15,1.52,2.292,0.13,1,1.499,0.2208,3.802,0.1495,accept,accept,accept,5,2.5,0.1619,yellow,1.426

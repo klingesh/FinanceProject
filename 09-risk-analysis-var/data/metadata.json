@@ -1,0 +1,568 @@
+{
+  "project": "1-day and 10-day VaR / ES of a Rs 1 crore multi-asset ETF portfolio",
+  "portfolio_value_inr": 10000000,
+  "valuation_date": "2026-10-30",
+  "analysis_window": [
+    "2021-11-01",
+    "2026-10-30"
+  ],
+  "holdings": {
+    "NIFTYBEES.NS": {
+      "label": "NIFTYBEES",
+      "fund": "Nippon India ETF Nifty 50 BeES",
+      "asset_class": "Indian large-cap equity",
+      "weight": 0.3
+    },
+    "JUNIORBEES.NS": {
+      "label": "JUNIORBEES",
+      "fund": "Nippon India ETF Nifty Next 50 Junior BeES",
+      "asset_class": "Indian large/mid-cap equity",
+      "weight": 0.1
+    },
+    "BANKBEES.NS": {
+      "label": "BANKBEES",
+      "fund": "Nippon India ETF Nifty Bank BeES",
+      "asset_class": "Indian bank equity",
+      "weight": 0.1
+    },
+    "MON100.NS": {
+      "label": "MON100",
+      "fund": "Motilal Oswal Nasdaq 100 ETF",
+      "asset_class": "US equity (INR, unhedged)",
+      "weight": 0.1
+    },
+    "GOLDBEES.NS": {
+      "label": "GOLDBEES",
+      "fund": "Nippon India ETF Gold BeES",
+      "asset_class": "Gold",
+      "weight": 0.15
+    },
+    "SETF10GILT.NS": {
+      "label": "SETF10GILT",
+      "fund": "SBI Nifty 10 yr Benchmark G-Sec ETF",
+      "asset_class": "Indian government bond (10-year)",
+      "weight": 0.25
+    }
+  },
+  "price_field": "Adj Close (equals Close: the six ETFs paid no distributions in the period)",
+  "sources": {
+    "yahoo_finance": "yfinance.download(start=2021-10-01, end=2026-10-31 exclusive, auto_adjust=False, actions=True)",
+    "nse_bhavcopy": "https://nsearchives.nseindia.com/content/cm/BhavCopy_NSE_CM_0_0_0_<YYYYMMDD>_F_0000.csv.zip (official NSE closing prices, used to verify and patch Yahoo rows)"
+  },
+  "calendar": {
+    "trading_days_incl_base_date": 1241,
+    "rule": "NIFTY 50 (^NSEI) close dates on Yahoo, minus ETF-only holiday placeholder rows, plus sessions for which an NSE bhavcopy exists but Yahoo has no row"
+  },
+  "data_fixes": [
+    {
+      "date": "2026-01-15",
+      "ticker": "all six ETFs",
+      "action": "row dropped",
+      "reason": "no NIFTY 50 close and zero volume in every ETF: exchange-holiday placeholder row on Yahoo (no NSE bhavcopy exists for the date)"
+    },
+    {
+      "date": "2023-11-12",
+      "ticker": "all six ETFs",
+      "action": "session added",
+      "reason": "NSE held a session (bhavcopy exists) that Yahoo omits; closes taken from the NSE bhavcopy"
+    },
+    {
+      "date": "2024-01-20",
+      "ticker": "all six ETFs",
+      "action": "session added",
+      "reason": "NSE held a session (bhavcopy exists) that Yahoo omits; closes taken from the NSE bhavcopy"
+    },
+    {
+      "date": "2024-03-02",
+      "ticker": "all six ETFs",
+      "action": "session added",
+      "reason": "NSE held a session (bhavcopy exists) that Yahoo omits; closes taken from the NSE bhavcopy"
+    },
+    {
+      "date": "2024-05-18",
+      "ticker": "all six ETFs",
+      "action": "session added",
+      "reason": "NSE held a session (bhavcopy exists) that Yahoo omits; closes taken from the NSE bhavcopy"
+    },
+    {
+      "date": "2026-02-01",
+      "ticker": "all six ETFs",
+      "action": "session added",
+      "reason": "NSE held a session (bhavcopy exists) that Yahoo omits; closes taken from the NSE bhavcopy"
+    },
+    {
+      "date": "2023-11-12",
+      "ticker": "NIFTYBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 215.16 (volume 2,510,748)"
+    },
+    {
+      "date": "2024-01-20",
+      "ticker": "NIFTYBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 238.73 (volume 1,562,643)"
+    },
+    {
+      "date": "2024-03-02",
+      "ticker": "NIFTYBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 247.31 (volume 353,231)"
+    },
+    {
+      "date": "2024-05-18",
+      "ticker": "NIFTYBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 249.05 (volume 473,819)"
+    },
+    {
+      "date": "2024-11-01",
+      "ticker": "NIFTYBEES.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 270.64; NSE bhavcopy close 272.37 (volume 1,875,788), difference -0.64%"
+    },
+    {
+      "date": "2025-03-18",
+      "ticker": "NIFTYBEES.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 252.18; NSE bhavcopy close 255.82 (volume 7,134,763), difference -1.42%"
+    },
+    {
+      "date": "2025-10-24",
+      "ticker": "NIFTYBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 291.04 (volume 5,956,293)"
+    },
+    {
+      "date": "2026-02-01",
+      "ticker": "NIFTYBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 282.41 (volume 16,762,153)"
+    },
+    {
+      "date": "2023-11-12",
+      "ticker": "JUNIORBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 487.98 (volume 53,172)"
+    },
+    {
+      "date": "2024-01-20",
+      "ticker": "JUNIORBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 581.61 (volume 62,114)"
+    },
+    {
+      "date": "2024-03-02",
+      "ticker": "JUNIORBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 636.05 (volume 22,460)"
+    },
+    {
+      "date": "2024-05-18",
+      "ticker": "JUNIORBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 720.17 (volume 27,631)"
+    },
+    {
+      "date": "2024-11-01",
+      "ticker": "JUNIORBEES.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 746.59; NSE bhavcopy close 756.06 (volume 101,799), difference -1.25%"
+    },
+    {
+      "date": "2025-03-18",
+      "ticker": "JUNIORBEES.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 635.54; NSE bhavcopy close 652.43 (volume 562,657), difference -2.59%"
+    },
+    {
+      "date": "2025-10-24",
+      "ticker": "JUNIORBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 746.14 (volume 180,106)"
+    },
+    {
+      "date": "2025-12-19",
+      "ticker": "JUNIORBEES.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 734.83; NSE bhavcopy close 734.34 (volume 207,344), difference +0.07%"
+    },
+    {
+      "date": "2026-02-01",
+      "ticker": "JUNIORBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 718.13 (volume 622,890)"
+    },
+    {
+      "date": "2023-11-12",
+      "ticker": "BANKBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 447.68 (volume 278,850)"
+    },
+    {
+      "date": "2024-01-20",
+      "ticker": "BANKBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 469.75 (volume 760,407)"
+    },
+    {
+      "date": "2024-03-02",
+      "ticker": "BANKBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 481.51 (volume 133,365)"
+    },
+    {
+      "date": "2024-05-18",
+      "ticker": "BANKBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 492.26 (volume 69,931)"
+    },
+    {
+      "date": "2024-11-01",
+      "ticker": "BANKBEES.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 529.64; NSE bhavcopy close 530.44 (volume 162,586), difference -0.15%"
+    },
+    {
+      "date": "2025-03-18",
+      "ticker": "BANKBEES.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 495.86; NSE bhavcopy close 506.31 (volume 1,566,346), difference -2.06%"
+    },
+    {
+      "date": "2025-10-24",
+      "ticker": "BANKBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 594.80 (volume 1,152,659)"
+    },
+    {
+      "date": "2025-12-19",
+      "ticker": "BANKBEES.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 609.71; NSE bhavcopy close 609.42 (volume 266,711), difference +0.05%"
+    },
+    {
+      "date": "2026-02-01",
+      "ticker": "BANKBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 603.32 (volume 830,686)"
+    },
+    {
+      "date": "2022-09-12",
+      "ticker": "MON100.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 97.29; NSE bhavcopy close 98.72 (volume 455,487), difference -1.45%"
+    },
+    {
+      "date": "2023-11-12",
+      "ticker": "MON100.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 123.98 (volume 219,842)"
+    },
+    {
+      "date": "2024-01-15",
+      "ticker": "MON100.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 135.74; NSE bhavcopy close 136.08 (volume 237,155), difference -0.25%"
+    },
+    {
+      "date": "2024-01-20",
+      "ticker": "MON100.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 138.42 (volume 288,758)"
+    },
+    {
+      "date": "2024-03-02",
+      "ticker": "MON100.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 146.91 (volume 85,643)"
+    },
+    {
+      "date": "2024-05-18",
+      "ticker": "MON100.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 150.06 (volume 60,760)"
+    },
+    {
+      "date": "2024-11-01",
+      "ticker": "MON100.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 166.27; NSE bhavcopy close 165.97 (volume 228,127), difference +0.18%"
+    },
+    {
+      "date": "2025-03-18",
+      "ticker": "MON100.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 180.77; NSE bhavcopy close 177.20 (volume 1,445,271), difference +2.01%"
+    },
+    {
+      "date": "2025-10-24",
+      "ticker": "MON100.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 217.32; NSE bhavcopy close 241.80 (volume 721,477), difference -10.12%"
+    },
+    {
+      "date": "2026-02-01",
+      "ticker": "MON100.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 229.07 (volume 896,421)"
+    },
+    {
+      "date": "2023-11-12",
+      "ticker": "GOLDBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 51.21 (volume 5,283,923)"
+    },
+    {
+      "date": "2024-01-20",
+      "ticker": "GOLDBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 52.86 (volume 1,759,893)"
+    },
+    {
+      "date": "2024-03-02",
+      "ticker": "GOLDBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 53.56 (volume 1,851,738)"
+    },
+    {
+      "date": "2024-05-18",
+      "ticker": "GOLDBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 62.89 (volume 1,786,212)"
+    },
+    {
+      "date": "2024-11-01",
+      "ticker": "GOLDBEES.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 66.92; NSE bhavcopy close 66.62 (volume 10,737,626), difference +0.45%"
+    },
+    {
+      "date": "2025-03-18",
+      "ticker": "GOLDBEES.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 73.53; NSE bhavcopy close 74.13 (volume 13,200,842), difference -0.81%"
+    },
+    {
+      "date": "2025-10-24",
+      "ticker": "GOLDBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 100.42 (volume 45,384,572)"
+    },
+    {
+      "date": "2026-02-01",
+      "ticker": "GOLDBEES.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 122.31 (volume 253,578,131)"
+    },
+    {
+      "date": "2021-11-09",
+      "ticker": "SETF10GILT.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 206.07; NSE bhavcopy close 206.55 (volume 1), difference -0.23%"
+    },
+    {
+      "date": "2023-11-12",
+      "ticker": "SETF10GILT.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 219.20 (volume 237)"
+    },
+    {
+      "date": "2024-01-20",
+      "ticker": "SETF10GILT.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 223.46 (volume 1,858)"
+    },
+    {
+      "date": "2024-03-02",
+      "ticker": "SETF10GILT.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 226.98 (volume 3,280)"
+    },
+    {
+      "date": "2024-05-18",
+      "ticker": "SETF10GILT.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 232.42 (volume 4,956)"
+    },
+    {
+      "date": "2024-11-01",
+      "ticker": "SETF10GILT.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 239.38; NSE bhavcopy close 239.80 (volume 1,121), difference -0.18%"
+    },
+    {
+      "date": "2025-03-18",
+      "ticker": "SETF10GILT.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 247.42; NSE bhavcopy close 247.80 (volume 8,281), difference -0.15%"
+    },
+    {
+      "date": "2025-10-24",
+      "ticker": "SETF10GILT.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 259.24 (volume 12,213)"
+    },
+    {
+      "date": "2025-12-19",
+      "ticker": "SETF10GILT.NS",
+      "action": "close replaced",
+      "reason": "Yahoo bad print with zero volume 258.79; NSE bhavcopy close 258.44 (volume 24,702), difference +0.14%"
+    },
+    {
+      "date": "2026-02-01",
+      "ticker": "SETF10GILT.NS",
+      "action": "row inserted",
+      "reason": "trading day missing on Yahoo; NSE bhavcopy close 258.14 (volume 15,653)"
+    }
+  ],
+  "nse_crosscheck": {
+    "calendar_check": {
+      "yahoo_match": 0,
+      "clean_match": 30,
+      "prev_match": 30,
+      "rows": 30
+    },
+    "random_sample": {
+      "yahoo_match": 144,
+      "clean_match": 144,
+      "prev_match": 144,
+      "rows": 144
+    },
+    "verification": {
+      "yahoo_match": 255,
+      "clean_match": 279,
+      "prev_match": 279,
+      "rows": 279
+    }
+  },
+  "bond_selection": [
+    "SETF10GILT.NS"
+  ],
+  "download_log": {
+    "downloaded_at": "2026-10-31T23:51:10",
+    "yfinance_version": "1.7.0",
+    "tickers": {
+      "NIFTYBEES.NS": {
+        "rows": 1255,
+        "first": "2021-10-01",
+        "last": "2026-10-30",
+        "last_close": 262.89
+      },
+      "JUNIORBEES.NS": {
+        "rows": 1255,
+        "first": "2021-10-01",
+        "last": "2026-10-30",
+        "last_close": 730.9
+      },
+      "BANKBEES.NS": {
+        "rows": 1255,
+        "first": "2021-10-01",
+        "last": "2026-10-30",
+        "last_close": 565.47
+      },
+      "MON100.NS": {
+        "rows": 1256,
+        "first": "2021-10-01",
+        "last": "2026-10-30",
+        "last_close": 284.94
+      },
+      "GOLDBEES.NS": {
+        "rows": 1255,
+        "first": "2021-10-01",
+        "last": "2026-10-30",
+        "last_close": 115.23
+      },
+      "SETF10GILT.NS": {
+        "rows": 1255,
+        "first": "2021-10-01",
+        "last": "2026-10-30",
+        "last_close": 258.85
+      },
+      "LTGILTBEES.NS": {
+        "rows": 1234,
+        "first": "2021-10-01",
+        "last": "2026-10-30",
+        "last_close": 29.27
+      },
+      "GILT5YBEES.NS": {
+        "rows": 1251,
+        "first": "2021-10-01",
+        "last": "2026-10-30",
+        "last_close": 65.35
+      },
+      "EBBETF0433.NS": {
+        "rows": 408,
+        "first": "2025-03-03",
+        "last": "2026-10-30",
+        "last_close": 1283.85
+      },
+      "EBBETF0430.NS": {
+        "rows": 1255,
+        "first": "2021-10-01",
+        "last": "2026-10-30",
+        "last_close": 1593.4301
+      },
+      "EBBETF0431.NS": {
+        "rows": 1234,
+        "first": "2021-10-01",
+        "last": "2026-10-30",
+        "last_close": 1414.9399
+      },
+      "LICNETFGSC.NS": {
+        "rows": 1255,
+        "first": "2021-10-01",
+        "last": "2026-10-30",
+        "last_close": 28.85
+      },
+      "GSEC10IETF.NS": {
+        "rows": 427,
+        "first": "2025-02-03",
+        "last": "2026-10-30",
+        "last_close": 256.83
+      },
+      "GSEC10ABSL.NS": {
+        "rows": 408,
+        "first": "2025-03-03",
+        "last": "2026-10-30",
+        "last_close": 109.93
+      },
+      "^NSEI": {
+        "rows": 1255,
+        "first": "2021-10-01",
+        "last": "2026-10-30",
+        "last_close": 23053.0996
+      }
+    },
+    "names": {
+      "NIFTYBEES.NS": "Nippon India ETF Nifty 50 BeES",
+      "JUNIORBEES.NS": "Nippon India ETF Nifty Next 50 Junior BeES",
+      "BANKBEES.NS": "Nippon India ETF Nifty Bank BeES",
+      "MON100.NS": "Motilal Oswal NASDAQ 100 ETF",
+      "GOLDBEES.NS": "Nippon India ETF Gold BeES",
+      "SETF10GILT.NS": "SBI Nifty 10 yr Benchmark G-Sec ETF",
+      "LTGILTBEES.NS": "Nippon India Mutual Fund - Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt",
+      "GILT5YBEES.NS": "Nippon India ETF Nifty 5 Yr Benchmark G-Sec",
+      "EBBETF0433.NS": "BHARAT Bond ETF - April 2033",
+      "EBBETF0430.NS": "BHARAT Bond ETF April 2030",
+      "EBBETF0431.NS": "Edelweiss Amc Ltd - Edelweiss Mutual Fund - Edelweiss Bharat Bond Exchange Traded Fund, April 2031",
+      "LICNETFGSC.NS": "LIC MF Nifty 8-13 yr G-SEC ETF",
+      "GSEC10IETF.NS": "ICICI Prudential Nifty 10 yr Benchmark G-Sec ETF",
+      "GSEC10ABSL.NS": "Aditya BSL CRISIL 10 Year Gilt ETF"
+    },
+    "nse_requests": {
+      "total": 665,
+      "status_counts": {
+        "404": 588,
+        "200": 77
+      },
+      "added_later": "3 verification requests (3, 4 and 5 June 2024, all HTTP 200) added on 2026-11-01 with the same fetch_bhavcopy function",
+      "sessions_missing_on_yahoo": [
+        "2023-11-12",
+        "2024-01-20",
+        "2024-03-02",
+        "2024-05-18",
+        "2026-02-01"
+      ]
+    }
+  }
+}

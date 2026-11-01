@@ -1,0 +1,35 @@
+method,window,horizon_days,scaling,confidence,var_inr,var_pct,es_inr,es_pct,observations,notes
+Historical (full window),full,1,direct,0.95,91054.0,0.9105,132130.0,1.3213,1240,empirical quantile of daily P&L
+Historical (last 250 days),last 250,1,direct,0.95,103107.0,1.0311,167926.0,1.6793,250,"empirical quantile, most recent 250 days"
+"Normal, sample covariance",full,1,direct,0.95,91454.0,0.9145,114687.0,1.1469,1240,"z * sigma_p * V, sigma_p = 0.5560% per day, zero mean"
+"Normal, EWMA covariance",full (EWMA),1,direct,0.95,94932.0,0.9493,119049.0,1.1905,1240,"lambda = 0.94, sigma_p = 0.5771% per day, zero mean"
+Cornish-Fisher (modified),full,1,direct,0.95,92578.0,0.9258,150542.0,1.5054,1240,"skew = -0.316, excess kurtosis = 3.353"
+Monte Carlo normal,full,1,direct,0.95,91573.0,0.9157,114741.0,1.1474,100000,"Cholesky of sample covariance, seed 42"
+Monte Carlo Student-t,full,1,direct,0.95,85442.0,0.8544,125505.0,1.255,100000,"multivariate t, nu = 4.29 (MLE), covariance = sample, seed 42"
+Historical (full window),full,1,direct,0.99,155855.0,1.5585,196546.0,1.9655,1240,empirical quantile of daily P&L
+Historical (last 250 days),last 250,1,direct,0.99,187665.0,1.8766,255772.0,2.5577,250,"empirical quantile, most recent 250 days"
+"Normal, sample covariance",full,1,direct,0.99,129346.0,1.2935,148187.0,1.4819,1240,"z * sigma_p * V, sigma_p = 0.5560% per day, zero mean"
+"Normal, EWMA covariance",full (EWMA),1,direct,0.99,134265.0,1.3426,153822.0,1.5382,1240,"lambda = 0.94, sigma_p = 0.5771% per day, zero mean"
+Cornish-Fisher (modified),full,1,direct,0.99,183755.0,1.8376,253641.0,2.5364,1240,"skew = -0.316, excess kurtosis = 3.353"
+Monte Carlo normal,full,1,direct,0.99,129136.0,1.2914,147928.0,1.4793,100000,"Cholesky of sample covariance, seed 42"
+Monte Carlo Student-t,full,1,direct,0.99,147523.0,1.4752,197027.0,1.9703,100000,"multivariate t, nu = 4.29 (MLE), covariance = sample, seed 42"
+Historical (full window),full,10,sqrt-time,0.95,287937.0,2.8794,417832.0,4.1783,1240,1-day figure x sqrt(10)
+Historical (last 250 days),last 250,10,sqrt-time,0.95,326053.0,3.2605,531028.0,5.3103,250,1-day figure x sqrt(10)
+"Normal, sample covariance",full,10,sqrt-time,0.95,289204.0,2.892,362673.0,3.6267,1240,1-day figure x sqrt(10)
+"Normal, EWMA covariance",full (EWMA),10,sqrt-time,0.95,300203.0,3.002,376466.0,3.7647,1240,1-day figure x sqrt(10)
+Cornish-Fisher (modified),full,10,sqrt-time,0.95,292756.0,2.9276,476057.0,4.7606,1240,1-day figure x sqrt(10)
+Monte Carlo normal,full,10,sqrt-time,0.95,289578.0,2.8958,362843.0,3.6284,100000,1-day figure x sqrt(10)
+Monte Carlo Student-t,full,10,sqrt-time,0.95,270190.0,2.7019,396881.0,3.9688,100000,1-day figure x sqrt(10)
+Historical (full window),full,10,sqrt-time,0.99,492856.0,4.9286,621532.0,6.2153,1240,1-day figure x sqrt(10)
+Historical (last 250 days),last 250,10,sqrt-time,0.99,593448.0,5.9345,808821.0,8.0882,250,1-day figure x sqrt(10)
+"Normal, sample covariance",full,10,sqrt-time,0.99,409026.0,4.0903,468607.0,4.6861,1240,1-day figure x sqrt(10)
+"Normal, EWMA covariance",full (EWMA),10,sqrt-time,0.99,424582.0,4.2458,486429.0,4.8643,1240,1-day figure x sqrt(10)
+Cornish-Fisher (modified),full,10,sqrt-time,0.99,581085.0,5.8108,802083.0,8.0208,1240,1-day figure x sqrt(10)
+Monte Carlo normal,full,10,sqrt-time,0.99,408365.0,4.0836,467789.0,4.6779,100000,1-day figure x sqrt(10)
+Monte Carlo Student-t,full,10,sqrt-time,0.99,466510.0,4.6651,623054.0,6.2305,100000,1-day figure x sqrt(10)
+Historical (full window),full,10,direct,0.95,248203.0,2.482,357560.0,3.5756,1231,1231 overlapping 10-day windows (about 123 independent)
+Monte Carlo normal,full,10,direct,0.95,285884.0,2.8588,356753.0,3.5675,100000,"10 iid normal days compounded, seed 42"
+Monte Carlo Student-t,full,10,direct,0.95,283734.0,2.8373,369531.0,3.6953,100000,"10 iid Student-t days (nu = 4.29) compounded, seed 42"
+Historical (full window),full,10,direct,0.99,415396.0,4.154,481132.0,4.8113,1231,1231 overlapping 10-day windows (about 123 independent)
+Monte Carlo normal,full,10,direct,0.99,401257.0,4.0126,458435.0,4.5843,100000,"10 iid normal days compounded, seed 42"
+Monte Carlo Student-t,full,10,direct,0.99,418863.0,4.1886,506813.0,5.0681,100000,"10 iid Student-t days (nu = 4.29) compounded, seed 42"

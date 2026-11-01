@@ -1,0 +1,7 @@
+ticker,label,fund,asset_class,weight,value_inr,price_inr,units
+NIFTYBEES.NS,NIFTYBEES,Nippon India ETF Nifty 50 BeES,Indian large-cap equity,0.3,3000000.0,262.89,11411.617026132604
+JUNIORBEES.NS,JUNIORBEES,Nippon India ETF Nifty Next 50 Junior BeES,Indian large/mid-cap equity,0.1,1000000.0,730.9,1368.1762210972774
+BANKBEES.NS,BANKBEES,Nippon India ETF Nifty Bank BeES,Indian bank equity,0.1,1000000.0,565.47,1768.440412400304
+MON100.NS,MON100,Motilal Oswal Nasdaq 100 ETF,"US equity (INR, unhedged)",0.1,1000000.0,284.94,3509.510774198077
+GOLDBEES.NS,GOLDBEES,Nippon India ETF Gold BeES,Gold,0.15,1500000.0,115.23,13017.443374121322
+SETF10GILT.NS,SETF10GILT,SBI Nifty 10 yr Benchmark G-Sec ETF,Indian government bond (10-year),0.25,2500000.0,258.85,9658.103148541626
