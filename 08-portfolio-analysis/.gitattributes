@@ -1,0 +1,11 @@
+# Binary files: git must never change their line endings
+*.pdf binary
+*.xlsx binary
+*.xls binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.docx binary
+*.pptx binary

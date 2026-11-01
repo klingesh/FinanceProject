@@ -1,0 +1,194 @@
+{
+  "source": "Yahoo Finance, downloaded with the yfinance Python package",
+  "yfinance_version": "1.7.0",
+  "download_timestamp_utc": "2026-10-31T18:04:47+00:00",
+  "download_timestamp_ist": "2026-10-31 23:34:47 IST",
+  "parameters": {
+    "start": "2021-10-01",
+    "end_exclusive": "2026-10-31",
+    "interval": "1d",
+    "auto_adjust": false,
+    "actions": true
+  },
+  "tickers": {
+    "RELIANCE.NS": {
+      "label": "RELIANCE",
+      "name": "Reliance Industries"
+    },
+    "HDFCBANK.NS": {
+      "label": "HDFCBANK",
+      "name": "HDFC Bank"
+    },
+    "ICICIBANK.NS": {
+      "label": "ICICIBANK",
+      "name": "ICICI Bank"
+    },
+    "INFY.NS": {
+      "label": "INFY",
+      "name": "Infosys"
+    },
+    "BHARTIARTL.NS": {
+      "label": "BHARTIARTL",
+      "name": "Bharti Airtel"
+    },
+    "ITC.NS": {
+      "label": "ITC",
+      "name": "ITC"
+    },
+    "LT.NS": {
+      "label": "LT",
+      "name": "Larsen & Toubro"
+    },
+    "SUNPHARMA.NS": {
+      "label": "SUNPHARMA",
+      "name": "Sun Pharmaceutical"
+    },
+    "MARUTI.NS": {
+      "label": "MARUTI",
+      "name": "Maruti Suzuki"
+    },
+    "TITAN.NS": {
+      "label": "TITAN",
+      "name": "Titan Company"
+    },
+    "^NSEI": {
+      "label": "NIFTY50",
+      "name": "NIFTY 50 (price index)"
+    },
+    "NIFTYBEES.NS": {
+      "label": "NIFTYBEES",
+      "name": "Nippon India ETF Nifty 50 BeES"
+    }
+  },
+  "benchmark": "^NSEI",
+  "files": {
+    "raw": "data/raw/<TICKER>.csv ('^' replaced by 'IDX_')",
+    "tidy_adj_close": "data/prices_adjclose.csv (uncorrected, union of trading dates)"
+  },
+  "notes": [
+    "Adj Close is adjusted by Yahoo for splits, bonuses and cash dividends, but not for demergers (corrected in src/data_cleaning.py).",
+    "^NSEI is the NIFTY 50 price index; it excludes dividends."
+  ],
+  "summary": {
+    "RELIANCE.NS": {
+      "label": "RELIANCE",
+      "rows": 1256,
+      "first_date": "2021-10-01",
+      "last_date": "2026-10-30",
+      "last_close": 1164.9,
+      "missing_adj_close": 0,
+      "dividend_events": 5,
+      "split_events": 1
+    },
+    "HDFCBANK.NS": {
+      "label": "HDFCBANK",
+      "rows": 1256,
+      "first_date": "2021-10-01",
+      "last_date": "2026-10-30",
+      "last_close": 692.8,
+      "missing_adj_close": 0,
+      "dividend_events": 6,
+      "split_events": 1
+    },
+    "ICICIBANK.NS": {
+      "label": "ICICIBANK",
+      "rows": 1256,
+      "first_date": "2021-10-01",
+      "last_date": "2026-10-30",
+      "last_close": 1398.0,
+      "missing_adj_close": 0,
+      "dividend_events": 5,
+      "split_events": 0
+    },
+    "INFY.NS": {
+      "label": "INFY",
+      "rows": 1256,
+      "first_date": "2021-10-01",
+      "last_date": "2026-10-30",
+      "last_close": 1185.0,
+      "missing_adj_close": 0,
+      "dividend_events": 10,
+      "split_events": 0
+    },
+    "BHARTIARTL.NS": {
+      "label": "BHARTIARTL",
+      "rows": 1256,
+      "first_date": "2021-10-01",
+      "last_date": "2026-10-30",
+      "last_close": 1973.7,
+      "missing_adj_close": 0,
+      "dividend_events": 5,
+      "split_events": 0
+    },
+    "ITC.NS": {
+      "label": "ITC",
+      "rows": 1256,
+      "first_date": "2021-10-01",
+      "last_date": "2026-10-30",
+      "last_close": 265.6,
+      "missing_adj_close": 0,
+      "dividend_events": 10,
+      "split_events": 0
+    },
+    "LT.NS": {
+      "label": "LT",
+      "rows": 1256,
+      "first_date": "2021-10-01",
+      "last_date": "2026-10-30",
+      "last_close": 3871.7,
+      "missing_adj_close": 0,
+      "dividend_events": 5,
+      "split_events": 0
+    },
+    "SUNPHARMA.NS": {
+      "label": "SUNPHARMA",
+      "rows": 1256,
+      "first_date": "2021-10-01",
+      "last_date": "2026-10-30",
+      "last_close": 1777.7,
+      "missing_adj_close": 0,
+      "dividend_events": 10,
+      "split_events": 0
+    },
+    "MARUTI.NS": {
+      "label": "MARUTI",
+      "rows": 1256,
+      "first_date": "2021-10-01",
+      "last_date": "2026-10-30",
+      "last_close": 11397.0,
+      "missing_adj_close": 0,
+      "dividend_events": 5,
+      "split_events": 0
+    },
+    "TITAN.NS": {
+      "label": "TITAN",
+      "rows": 1256,
+      "first_date": "2021-10-01",
+      "last_date": "2026-10-30",
+      "last_close": 4436.5,
+      "missing_adj_close": 0,
+      "dividend_events": 5,
+      "split_events": 0
+    },
+    "^NSEI": {
+      "label": "NIFTY50",
+      "rows": 1255,
+      "first_date": "2021-10-01",
+      "last_date": "2026-10-30",
+      "last_close": 23053.1,
+      "missing_adj_close": 0,
+      "dividend_events": 0,
+      "split_events": 0
+    },
+    "NIFTYBEES.NS": {
+      "label": "NIFTYBEES",
+      "rows": 1255,
+      "first_date": "2021-10-01",
+      "last_date": "2026-10-30",
+      "last_close": 262.89,
+      "missing_adj_close": 0,
+      "dividend_events": 0,
+      "split_events": 0
+    }
+  }
+}

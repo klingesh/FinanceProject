@@ -1,0 +1,27 @@
+check,result,detail
+no missing values after alignment,PASS,data hygiene
+no zero-volume stock rows left,PASS,data hygiene
+demerger ex-date returns within +/-8% after correction,PASS,data hygiene
+every drop below -8% reviewed,PASS,data hygiene
+no artificial jump at bonus/split dates,PASS,data hygiene
+window covers 1-Nov-2021 to 30-Oct-2026,PASS,data hygiene
+Weights sum to 1 (all portfolios),PASS,max |sum-1| = 1.1e-16
+Weights >= 0 (long-only),PASS,min weight = 0.0e+00
+Capped weights <= 20%,PASS,max capped weight = 0.2000
+Frontier weights sum to 1 and >= 0,PASS,160 frontier portfolios
+Monte Carlo weights sum to 1 and >= 0,PASS,"20,000 portfolios"
+Frontier volatility non-decreasing above min variance (long-only),PASS,smallest step = 9.94e-06
+No frontier point below the min-variance volatility (long-only),PASS,min vol 12.5657% vs GMV 12.5657%
+"Frontier volatility non-decreasing above min variance (long-only, 20% cap)",PASS,smallest step = 3.05e-06
+"No frontier point below the min-variance volatility (long-only, 20% cap)",PASS,min vol 12.5780% vs GMV 12.5780%
+Tangency Sharpe >= every Monte Carlo Sharpe,PASS,tangency 1.0347 vs best random 0.9426
+Tangency Sharpe >= every frontier point,PASS,tangency 1.0347 vs best frontier point 1.0347
+Capped tangency Sharpe >= capped frontier points and <= uncapped tangency,PASS,capped 0.9060
+Tangency weights match the convex reformulation,PASS,max weight difference 2.2e-09
+"Tangency optimality (KKT): held stocks on the line, excluded stocks below",PASS,max relative gap 6.0e-10
+Min-variance vol <= every Monte Carlo vol,PASS,GMV 12.5657% vs lowest random 12.6487%
+Annualisation: w'mu = 252 x mean(daily portfolio return),PASS,max diff 4.2e-17
+Annualisation: sqrt(w'Cov w) = sqrt(252) x std(daily portfolio return),PASS,max diff 2.8e-17
+Annualisation: Sharpe = (mean x 252 - rf x 252) / (std x sqrt 252),PASS,max diff 5.6e-17
+Volatility drag: mean log return ~ mean - sigma^2/2 (within 1 pp),PASS,max gap 0.01%
+Weekly and daily annualised volatility agree within 25%,PASS,weekly/daily ratio 0.92 to 1.03
