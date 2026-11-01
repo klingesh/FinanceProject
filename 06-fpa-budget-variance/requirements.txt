@@ -1,0 +1,10 @@
+# Python 3.12+ (built and tested with Python 3.14.6 on Windows 11 with Microsoft Excel)
+openpyxl>=3.1.5
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.9
+pywin32>=306          # Excel COM automation for recalc_verify.py (Windows + Excel only)
+# only needed to download the sources again (build/fetch_source_data.py)
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.0

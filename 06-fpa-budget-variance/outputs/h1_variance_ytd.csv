@@ -1,0 +1,42 @@
+line_item,unit,budget_h1,actual_h1,variance,variance_pct,fav_unfav
+Namkeen & chips,t,6538.0,6566.5,28.5,0.004359,F
+Biscuits & cookies,t,10164,10032.3,-131.7,-0.012957,U
+Beverages (juices & RTD),t,14400.0,14085.7,-314.3,-0.021826,U
+Total volume,t,31102,30684.5,-417.5,-0.013424,U
+Namkeen & chips,₹ cr,155.6044,158.480487,2.876087,0.018483,F
+Biscuits & cookies,₹ cr,140.2632,138.44574,-1.81746,-0.012957,U
+Beverages (juices & RTD),₹ cr,109.44,107.05132,-2.38868,-0.021826,U
+Total gross sales,₹ cr,405.3076,403.977547,-1.330053,-0.003282,U
+Namkeen & chips,₹ cr,16.805275,17.921451,1.116176,0.066418,U
+Biscuits & cookies,₹ cr,14.419057,14.858294,0.439237,0.030462,U
+Beverages (juices & RTD),₹ cr,12.213504,12.331508,0.118004,0.009662,U
+Total trade spend,₹ cr,43.437836,45.111253,1.673417,0.038524,U
+Namkeen & chips,₹ cr,138.799125,140.559036,1.759911,0.01268,F
+Biscuits & cookies,₹ cr,125.844143,123.587446,-2.256697,-0.017932,U
+Beverages (juices & RTD),₹ cr,97.226496,94.719812,-2.506684,-0.025782,U
+Net revenue,₹ cr,361.869764,358.866294,-3.00347,-0.0083,U
+Material cost,₹ cr,158.261572,161.301173,3.039601,0.019206,U
+Packaging cost,₹ cr,45.4328,45.134445,-0.298355,-0.006567,F
+Conversion cost,₹ cr,30.7048,30.653649,-0.051151,-0.001666,F
+Total COGS,₹ cr,234.399172,237.089267,2.690095,0.011477,U
+Gross profit,₹ cr,127.470592,121.777027,-5.693565,-0.044666,U
+Freight & distribution,₹ cr,17.369749,18.243316,0.873567,0.050292,U
+Advertising & promotion (A&P),₹ cr,20.2,23.1,2.9,0.143564,U
+Employee cost,₹ cr,28.9487,27.5005,-1.4482,-0.050026,F
+Other overheads,₹ cr,17.4,17.63,0.23,0.013218,U
+EBITDA,₹ cr,43.552143,35.303211,-8.248932,-0.189404,U
+Depreciation & amortisation,₹ cr,10.5,10.5,0,0,-
+EBIT,₹ cr,33.052143,24.803211,-8.248932,-0.249573,U
+Interest,₹ cr,4.5,4.6275,0.1275,0.028333,U
+Profit before tax,₹ cr,28.552143,20.175711,-8.376432,-0.293373,U
+Tax,₹ cr,7.186574,5.078226,-2.108348,-0.293373,F
+Profit after tax,₹ cr,21.365569,15.097485,-6.268084,-0.293373,U
+Net realisation per kg,₹/kg,116.349355,116.953607,0.604252,,F
+Trade spend % of gross sales,%,0.107173,0.111668,0.004495,,U
+Gross margin % of net revenue,%,0.352255,0.339338,-0.012917,,U
+Material cost % of net revenue,%,0.437344,0.449474,0.01213,,U
+A&P % of net revenue,%,0.055821,0.064369,0.008548,,U
+Employee cost % of net revenue,%,0.079998,0.076632,-0.003366,,F
+EBITDA margin,%,0.120353,0.098374,-0.021979,,U
+PAT margin,%,0.059042,0.04207,-0.016972,,U
+E-com & QC share of net revenue,%,0.134235,0.149787,0.015551,,F

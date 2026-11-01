@@ -1,0 +1,253 @@
+period,erp_code,item,product_line_or_input,channel,unit,value
+2026-04,SD.VOL.NAM.GT,Sales volume billed,Namkeen & chips,General Trade,t,670.1
+2026-05,SD.VOL.NAM.GT,Sales volume billed,Namkeen & chips,General Trade,t,658.2
+2026-06,SD.VOL.NAM.GT,Sales volume billed,Namkeen & chips,General Trade,t,663.9
+2026-07,SD.VOL.NAM.GT,Sales volume billed,Namkeen & chips,General Trade,t,682.6
+2026-08,SD.VOL.NAM.GT,Sales volume billed,Namkeen & chips,General Trade,t,681.8
+2026-09,SD.VOL.NAM.GT,Sales volume billed,Namkeen & chips,General Trade,t,737.7
+2026-04,SD.VOL.NAM.MT,Sales volume billed,Namkeen & chips,Modern Trade,t,208.9
+2026-05,SD.VOL.NAM.MT,Sales volume billed,Namkeen & chips,Modern Trade,t,205.8
+2026-06,SD.VOL.NAM.MT,Sales volume billed,Namkeen & chips,Modern Trade,t,207.9
+2026-07,SD.VOL.NAM.MT,Sales volume billed,Namkeen & chips,Modern Trade,t,214.0
+2026-08,SD.VOL.NAM.MT,Sales volume billed,Namkeen & chips,Modern Trade,t,214.0
+2026-09,SD.VOL.NAM.MT,Sales volume billed,Namkeen & chips,Modern Trade,t,232.6
+2026-04,SD.VOL.NAM.EQC,Sales volume billed,Namkeen & chips,E-commerce & quick commerce,t,176.2
+2026-05,SD.VOL.NAM.EQC,Sales volume billed,Namkeen & chips,E-commerce & quick commerce,t,180.7
+2026-06,SD.VOL.NAM.EQC,Sales volume billed,Namkeen & chips,E-commerce & quick commerce,t,188.8
+2026-07,SD.VOL.NAM.EQC,Sales volume billed,Namkeen & chips,E-commerce & quick commerce,t,200.8
+2026-08,SD.VOL.NAM.EQC,Sales volume billed,Namkeen & chips,E-commerce & quick commerce,t,207.4
+2026-09,SD.VOL.NAM.EQC,Sales volume billed,Namkeen & chips,E-commerce & quick commerce,t,235.1
+2026-04,SD.VOL.BIS.GT,Sales volume billed,Biscuits & cookies,General Trade,t,1110.8
+2026-05,SD.VOL.BIS.GT,Sales volume billed,Biscuits & cookies,General Trade,t,1070.0
+2026-06,SD.VOL.BIS.GT,Sales volume billed,Biscuits & cookies,General Trade,t,1115.7
+2026-07,SD.VOL.BIS.GT,Sales volume billed,Biscuits & cookies,General Trade,t,1188.5
+2026-08,SD.VOL.BIS.GT,Sales volume billed,Biscuits & cookies,General Trade,t,1197.4
+2026-09,SD.VOL.BIS.GT,Sales volume billed,Biscuits & cookies,General Trade,t,1196.4
+2026-04,SD.VOL.BIS.MT,Sales volume billed,Biscuits & cookies,Modern Trade,t,287.3
+2026-05,SD.VOL.BIS.MT,Sales volume billed,Biscuits & cookies,Modern Trade,t,276.8
+2026-06,SD.VOL.BIS.MT,Sales volume billed,Biscuits & cookies,Modern Trade,t,290.3
+2026-07,SD.VOL.BIS.MT,Sales volume billed,Biscuits & cookies,Modern Trade,t,309.3
+2026-08,SD.VOL.BIS.MT,Sales volume billed,Biscuits & cookies,Modern Trade,t,313.4
+2026-09,SD.VOL.BIS.MT,Sales volume billed,Biscuits & cookies,Modern Trade,t,313.3
+2026-04,SD.VOL.BIS.EQC,Sales volume billed,Biscuits & cookies,E-commerce & quick commerce,t,197.9
+2026-05,SD.VOL.BIS.EQC,Sales volume billed,Biscuits & cookies,E-commerce & quick commerce,t,199.5
+2026-06,SD.VOL.BIS.EQC,Sales volume billed,Biscuits & cookies,E-commerce & quick commerce,t,215.7
+2026-07,SD.VOL.BIS.EQC,Sales volume billed,Biscuits & cookies,E-commerce & quick commerce,t,239.8
+2026-08,SD.VOL.BIS.EQC,Sales volume billed,Biscuits & cookies,E-commerce & quick commerce,t,250.0
+2026-09,SD.VOL.BIS.EQC,Sales volume billed,Biscuits & cookies,E-commerce & quick commerce,t,260.2
+2026-04,SD.VOL.BEV.GT,Sales volume billed,Beverages (juices & RTD),General Trade,t,1762.6
+2026-05,SD.VOL.BEV.GT,Sales volume billed,Beverages (juices & RTD),General Trade,t,1998.8
+2026-06,SD.VOL.BEV.GT,Sales volume billed,Beverages (juices & RTD),General Trade,t,1801.9
+2026-07,SD.VOL.BEV.GT,Sales volume billed,Beverages (juices & RTD),General Trade,t,831.2
+2026-08,SD.VOL.BEV.GT,Sales volume billed,Beverages (juices & RTD),General Trade,t,796.8
+2026-09,SD.VOL.BEV.GT,Sales volume billed,Beverages (juices & RTD),General Trade,t,821.2
+2026-04,SD.VOL.BEV.MT,Sales volume billed,Beverages (juices & RTD),Modern Trade,t,795.6
+2026-05,SD.VOL.BEV.MT,Sales volume billed,Beverages (juices & RTD),Modern Trade,t,908.5
+2026-06,SD.VOL.BEV.MT,Sales volume billed,Beverages (juices & RTD),Modern Trade,t,797.4
+2026-07,SD.VOL.BEV.MT,Sales volume billed,Beverages (juices & RTD),Modern Trade,t,396.9
+2026-08,SD.VOL.BEV.MT,Sales volume billed,Beverages (juices & RTD),Modern Trade,t,371.3
+2026-09,SD.VOL.BEV.MT,Sales volume billed,Beverages (juices & RTD),Modern Trade,t,373.9
+2026-04,SD.VOL.BEV.EQC,Sales volume billed,Beverages (juices & RTD),E-commerce & quick commerce,t,501.8
+2026-05,SD.VOL.BEV.EQC,Sales volume billed,Beverages (juices & RTD),E-commerce & quick commerce,t,587.1
+2026-06,SD.VOL.BEV.EQC,Sales volume billed,Beverages (juices & RTD),E-commerce & quick commerce,t,539.9
+2026-07,SD.VOL.BEV.EQC,Sales volume billed,Beverages (juices & RTD),E-commerce & quick commerce,t,269.6
+2026-08,SD.VOL.BEV.EQC,Sales volume billed,Beverages (juices & RTD),E-commerce & quick commerce,t,259.9
+2026-09,SD.VOL.BEV.EQC,Sales volume billed,Beverages (juices & RTD),E-commerce & quick commerce,t,271.3
+2026-04,SD.PRC.NAM,Realised list price,Namkeen & chips,,Rs/kg,238.0
+2026-05,SD.PRC.NAM,Realised list price,Namkeen & chips,,Rs/kg,238.0
+2026-06,SD.PRC.NAM,Realised list price,Namkeen & chips,,Rs/kg,238.0
+2026-07,SD.PRC.NAM,Realised list price,Namkeen & chips,,Rs/kg,238.0
+2026-08,SD.PRC.NAM,Realised list price,Namkeen & chips,,Rs/kg,247.52
+2026-09,SD.PRC.NAM,Realised list price,Namkeen & chips,,Rs/kg,247.52
+2026-04,SD.PRC.BIS,Realised list price,Biscuits & cookies,,Rs/kg,138.0
+2026-05,SD.PRC.BIS,Realised list price,Biscuits & cookies,,Rs/kg,138.0
+2026-06,SD.PRC.BIS,Realised list price,Biscuits & cookies,,Rs/kg,138.0
+2026-07,SD.PRC.BIS,Realised list price,Biscuits & cookies,,Rs/kg,138.0
+2026-08,SD.PRC.BIS,Realised list price,Biscuits & cookies,,Rs/kg,138.0
+2026-09,SD.PRC.BIS,Realised list price,Biscuits & cookies,,Rs/kg,138.0
+2026-04,SD.PRC.BEV,Realised list price,Beverages (juices & RTD),,Rs/kg,76.0
+2026-05,SD.PRC.BEV,Realised list price,Beverages (juices & RTD),,Rs/kg,76.0
+2026-06,SD.PRC.BEV,Realised list price,Beverages (juices & RTD),,Rs/kg,76.0
+2026-07,SD.PRC.BEV,Realised list price,Beverages (juices & RTD),,Rs/kg,76.0
+2026-08,SD.PRC.BEV,Realised list price,Beverages (juices & RTD),,Rs/kg,76.0
+2026-09,SD.PRC.BEV,Realised list price,Beverages (juices & RTD),,Rs/kg,76.0
+2026-04,MM.MAP.OIL,Raw material price,Edible oil,,Rs/kg,112.0
+2026-05,MM.MAP.OIL,Raw material price,Edible oil,,Rs/kg,115.0
+2026-06,MM.MAP.OIL,Raw material price,Edible oil,,Rs/kg,118.0
+2026-07,MM.MAP.OIL,Raw material price,Edible oil,,Rs/kg,122.0
+2026-08,MM.MAP.OIL,Raw material price,Edible oil,,Rs/kg,126.0
+2026-09,MM.MAP.OIL,Raw material price,Edible oil,,Rs/kg,128.0
+2026-04,MM.MAP.WHT,Raw material price,Wheat flour,,Rs/kg,32.0
+2026-05,MM.MAP.WHT,Raw material price,Wheat flour,,Rs/kg,32.0
+2026-06,MM.MAP.WHT,Raw material price,Wheat flour,,Rs/kg,32.0
+2026-07,MM.MAP.WHT,Raw material price,Wheat flour,,Rs/kg,32.0
+2026-08,MM.MAP.WHT,Raw material price,Wheat flour,,Rs/kg,32.5
+2026-09,MM.MAP.WHT,Raw material price,Wheat flour,,Rs/kg,32.5
+2026-04,MM.MAP.SUG,Raw material price,Sugar,,Rs/kg,40.0
+2026-05,MM.MAP.SUG,Raw material price,Sugar,,Rs/kg,40.0
+2026-06,MM.MAP.SUG,Raw material price,Sugar,,Rs/kg,40.2
+2026-07,MM.MAP.SUG,Raw material price,Sugar,,Rs/kg,42.5
+2026-08,MM.MAP.SUG,Raw material price,Sugar,,Rs/kg,54.0
+2026-09,MM.MAP.SUG,Raw material price,Sugar,,Rs/kg,55.0
+2026-04,MM.MAP.POT,Raw material price,Potato,,Rs/kg,12.0
+2026-05,MM.MAP.POT,Raw material price,Potato,,Rs/kg,12.2
+2026-06,MM.MAP.POT,Raw material price,Potato,,Rs/kg,12.5
+2026-07,MM.MAP.POT,Raw material price,Potato,,Rs/kg,12.9
+2026-08,MM.MAP.POT,Raw material price,Potato,,Rs/kg,13.4
+2026-09,MM.MAP.POT,Raw material price,Potato,,Rs/kg,13.9
+2026-04,MM.MAP.FRP,Raw material price,Fruit pulp blend,,Rs/kg,65.0
+2026-05,MM.MAP.FRP,Raw material price,Fruit pulp blend,,Rs/kg,65.0
+2026-06,MM.MAP.FRP,Raw material price,Fruit pulp blend,,Rs/kg,65.0
+2026-07,MM.MAP.FRP,Raw material price,Fruit pulp blend,,Rs/kg,65.5
+2026-08,MM.MAP.FRP,Raw material price,Fruit pulp blend,,Rs/kg,66.0
+2026-09,MM.MAP.FRP,Raw material price,Fruit pulp blend,,Rs/kg,66.0
+2026-04,FI.TSP.GT,Trade spend rate,General Trade,,share of gross sales,0.08
+2026-05,FI.TSP.GT,Trade spend rate,General Trade,,share of gross sales,0.08
+2026-06,FI.TSP.GT,Trade spend rate,General Trade,,share of gross sales,0.081
+2026-07,FI.TSP.GT,Trade spend rate,General Trade,,share of gross sales,0.082
+2026-08,FI.TSP.GT,Trade spend rate,General Trade,,share of gross sales,0.083
+2026-09,FI.TSP.GT,Trade spend rate,General Trade,,share of gross sales,0.086
+2026-04,FI.TSP.MT,Trade spend rate,Modern Trade,,share of gross sales,0.14
+2026-05,FI.TSP.MT,Trade spend rate,Modern Trade,,share of gross sales,0.14
+2026-06,FI.TSP.MT,Trade spend rate,Modern Trade,,share of gross sales,0.142
+2026-07,FI.TSP.MT,Trade spend rate,Modern Trade,,share of gross sales,0.152
+2026-08,FI.TSP.MT,Trade spend rate,Modern Trade,,share of gross sales,0.15
+2026-09,FI.TSP.MT,Trade spend rate,Modern Trade,,share of gross sales,0.143
+2026-04,FI.TSP.EQC,Trade spend rate,E-commerce & quick commerce,,share of gross sales,0.183
+2026-05,FI.TSP.EQC,Trade spend rate,E-commerce & quick commerce,,share of gross sales,0.184
+2026-06,FI.TSP.EQC,Trade spend rate,E-commerce & quick commerce,,share of gross sales,0.185
+2026-07,FI.TSP.EQC,Trade spend rate,E-commerce & quick commerce,,share of gross sales,0.186
+2026-08,FI.TSP.EQC,Trade spend rate,E-commerce & quick commerce,,share of gross sales,0.187
+2026-09,FI.TSP.EQC,Trade spend rate,E-commerce & quick commerce,,share of gross sales,0.188
+2026-04,CO.OTH.NAM,Other ingredients,Namkeen & chips,,Rs/kg,30.0
+2026-05,CO.OTH.NAM,Other ingredients,Namkeen & chips,,Rs/kg,30.0
+2026-06,CO.OTH.NAM,Other ingredients,Namkeen & chips,,Rs/kg,30.0
+2026-07,CO.OTH.NAM,Other ingredients,Namkeen & chips,,Rs/kg,30.2
+2026-08,CO.OTH.NAM,Other ingredients,Namkeen & chips,,Rs/kg,30.2
+2026-09,CO.OTH.NAM,Other ingredients,Namkeen & chips,,Rs/kg,30.2
+2026-04,CO.OTH.BIS,Other ingredients,Biscuits & cookies,,Rs/kg,18.0
+2026-05,CO.OTH.BIS,Other ingredients,Biscuits & cookies,,Rs/kg,18.0
+2026-06,CO.OTH.BIS,Other ingredients,Biscuits & cookies,,Rs/kg,18.0
+2026-07,CO.OTH.BIS,Other ingredients,Biscuits & cookies,,Rs/kg,18.0
+2026-08,CO.OTH.BIS,Other ingredients,Biscuits & cookies,,Rs/kg,18.2
+2026-09,CO.OTH.BIS,Other ingredients,Biscuits & cookies,,Rs/kg,18.2
+2026-04,CO.OTH.BEV,Other ingredients,Beverages (juices & RTD),,Rs/kg,6.0
+2026-05,CO.OTH.BEV,Other ingredients,Beverages (juices & RTD),,Rs/kg,6.0
+2026-06,CO.OTH.BEV,Other ingredients,Beverages (juices & RTD),,Rs/kg,6.0
+2026-07,CO.OTH.BEV,Other ingredients,Beverages (juices & RTD),,Rs/kg,6.0
+2026-08,CO.OTH.BEV,Other ingredients,Beverages (juices & RTD),,Rs/kg,6.0
+2026-09,CO.OTH.BEV,Other ingredients,Beverages (juices & RTD),,Rs/kg,6.0
+2026-04,CO.PAC.NAM,Packaging,Namkeen & chips,,Rs/kg,20.0
+2026-05,CO.PAC.NAM,Packaging,Namkeen & chips,,Rs/kg,20.0
+2026-06,CO.PAC.NAM,Packaging,Namkeen & chips,,Rs/kg,20.0
+2026-07,CO.PAC.NAM,Packaging,Namkeen & chips,,Rs/kg,20.3
+2026-08,CO.PAC.NAM,Packaging,Namkeen & chips,,Rs/kg,20.3
+2026-09,CO.PAC.NAM,Packaging,Namkeen & chips,,Rs/kg,20.3
+2026-04,CO.PAC.BIS,Packaging,Biscuits & cookies,,Rs/kg,12.0
+2026-05,CO.PAC.BIS,Packaging,Biscuits & cookies,,Rs/kg,12.0
+2026-06,CO.PAC.BIS,Packaging,Biscuits & cookies,,Rs/kg,12.0
+2026-07,CO.PAC.BIS,Packaging,Biscuits & cookies,,Rs/kg,12.1
+2026-08,CO.PAC.BIS,Packaging,Biscuits & cookies,,Rs/kg,12.1
+2026-09,CO.PAC.BIS,Packaging,Biscuits & cookies,,Rs/kg,12.1
+2026-04,CO.PAC.BEV,Packaging,Beverages (juices & RTD),,Rs/kg,14.0
+2026-05,CO.PAC.BEV,Packaging,Beverages (juices & RTD),,Rs/kg,14.0
+2026-06,CO.PAC.BEV,Packaging,Beverages (juices & RTD),,Rs/kg,14.0
+2026-07,CO.PAC.BEV,Packaging,Beverages (juices & RTD),,Rs/kg,14.2
+2026-08,CO.PAC.BEV,Packaging,Beverages (juices & RTD),,Rs/kg,14.2
+2026-09,CO.PAC.BEV,Packaging,Beverages (juices & RTD),,Rs/kg,14.2
+2026-04,CO.CON.NAM,Conversion,Namkeen & chips,,Rs/kg,16.0
+2026-05,CO.CON.NAM,Conversion,Namkeen & chips,,Rs/kg,16.0
+2026-06,CO.CON.NAM,Conversion,Namkeen & chips,,Rs/kg,15.9
+2026-07,CO.CON.NAM,Conversion,Namkeen & chips,,Rs/kg,16.2
+2026-08,CO.CON.NAM,Conversion,Namkeen & chips,,Rs/kg,16.1
+2026-09,CO.CON.NAM,Conversion,Namkeen & chips,,Rs/kg,16.0
+2026-04,CO.CON.BIS,Conversion,Biscuits & cookies,,Rs/kg,10.0
+2026-05,CO.CON.BIS,Conversion,Biscuits & cookies,,Rs/kg,10.0
+2026-06,CO.CON.BIS,Conversion,Biscuits & cookies,,Rs/kg,10.0
+2026-07,CO.CON.BIS,Conversion,Biscuits & cookies,,Rs/kg,10.2
+2026-08,CO.CON.BIS,Conversion,Biscuits & cookies,,Rs/kg,10.2
+2026-09,CO.CON.BIS,Conversion,Biscuits & cookies,,Rs/kg,10.1
+2026-04,CO.CON.BEV,Conversion,Beverages (juices & RTD),,Rs/kg,7.0
+2026-05,CO.CON.BEV,Conversion,Beverages (juices & RTD),,Rs/kg,7.0
+2026-06,CO.CON.BEV,Conversion,Beverages (juices & RTD),,Rs/kg,6.9
+2026-07,CO.CON.BEV,Conversion,Beverages (juices & RTD),,Rs/kg,7.6
+2026-08,CO.CON.BEV,Conversion,Beverages (juices & RTD),,Rs/kg,7.4
+2026-09,CO.CON.BEV,Conversion,Beverages (juices & RTD),,Rs/kg,7.2
+2026-04,FI.6110,Freight rate,,,share of net revenue,0.048
+2026-05,FI.6110,Freight rate,,,share of net revenue,0.048
+2026-06,FI.6110,Freight rate,,,share of net revenue,0.048
+2026-07,FI.6110,Freight rate,,,share of net revenue,0.049
+2026-08,FI.6110,Freight rate,,,share of net revenue,0.049
+2026-09,FI.6110,Freight rate,,,share of net revenue,0.049
+2026-04,FI.6115,One-off freight surcharge,,,Rs crore,0.0
+2026-05,FI.6115,One-off freight surcharge,,,Rs crore,0.0
+2026-06,FI.6115,One-off freight surcharge,,,Rs crore,0.0
+2026-07,FI.6115,One-off freight surcharge,,,Rs crore,0.85
+2026-08,FI.6115,One-off freight surcharge,,,Rs crore,0.0
+2026-09,FI.6115,One-off freight surcharge,,,Rs crore,0.0
+2026-04,FI.6300,A&P spend,,,Rs crore,3.5
+2026-05,FI.6300,A&P spend,,,Rs crore,3.9
+2026-06,FI.6300,A&P spend,,,Rs crore,3.1
+2026-07,FI.6300,A&P spend,,,Rs crore,2.7
+2026-08,FI.6300,A&P spend,,,Rs crore,4.3
+2026-09,FI.6300,A&P spend,,,Rs crore,5.6
+2026-04,FI.6900,Other overheads,,,Rs crore,2.85
+2026-05,FI.6900,Other overheads,,,Rs crore,2.92
+2026-06,FI.6900,Other overheads,,,Rs crore,2.88
+2026-07,FI.6900,Other overheads,,,Rs crore,2.95
+2026-08,FI.6900,Other overheads,,,Rs crore,3.05
+2026-09,FI.6900,Other overheads,,,Rs crore,2.98
+2026-04,FI.7100,Depreciation & amortisation,,,Rs crore,1.75
+2026-05,FI.7100,Depreciation & amortisation,,,Rs crore,1.75
+2026-06,FI.7100,Depreciation & amortisation,,,Rs crore,1.75
+2026-07,FI.7100,Depreciation & amortisation,,,Rs crore,1.75
+2026-08,FI.7100,Depreciation & amortisation,,,Rs crore,1.75
+2026-09,FI.7100,Depreciation & amortisation,,,Rs crore,1.75
+2026-04,TR.BORR,Average borrowings,,,Rs crore,92
+2026-05,TR.BORR,Average borrowings,,,Rs crore,94
+2026-06,TR.BORR,Average borrowings,,,Rs crore,96
+2026-07,TR.BORR,Average borrowings,,,Rs crore,108
+2026-08,TR.BORR,Average borrowings,,,Rs crore,112
+2026-09,TR.BORR,Average borrowings,,,Rs crore,115
+2026-04,TR.RATE,Interest rate,,,per year,0.09
+2026-05,TR.RATE,Interest rate,,,per year,0.09
+2026-06,TR.RATE,Interest rate,,,per year,0.09
+2026-07,TR.RATE,Interest rate,,,per year,0.09
+2026-08,TR.RATE,Interest rate,,,per year,0.09
+2026-09,TR.RATE,Interest rate,,,per year,0.09
+2026-04,HR.HC.FAC,Headcount,Factory & supply chain,,heads,812
+2026-04,HR.CTC.FAC,CTC per head before increment,Factory & supply chain,,Rs lakh per year,2.8
+2026-05,HR.HC.FAC,Headcount,Factory & supply chain,,heads,815
+2026-05,HR.CTC.FAC,CTC per head before increment,Factory & supply chain,,Rs lakh per year,2.8
+2026-06,HR.HC.FAC,Headcount,Factory & supply chain,,heads,818
+2026-06,HR.CTC.FAC,CTC per head before increment,Factory & supply chain,,Rs lakh per year,2.8
+2026-07,HR.HC.FAC,Headcount,Factory & supply chain,,heads,820
+2026-07,HR.CTC.FAC,CTC per head before increment,Factory & supply chain,,Rs lakh per year,2.8
+2026-08,HR.HC.FAC,Headcount,Factory & supply chain,,heads,822
+2026-08,HR.CTC.FAC,CTC per head before increment,Factory & supply chain,,Rs lakh per year,2.8
+2026-09,HR.HC.FAC,Headcount,Factory & supply chain,,heads,825
+2026-09,HR.CTC.FAC,CTC per head before increment,Factory & supply chain,,Rs lakh per year,2.8
+2026-04,HR.HC.SAL,Headcount,Sales & distribution,,heads,372
+2026-04,HR.CTC.SAL,CTC per head before increment,Sales & distribution,,Rs lakh per year,5.0
+2026-05,HR.HC.SAL,Headcount,Sales & distribution,,heads,375
+2026-05,HR.CTC.SAL,CTC per head before increment,Sales & distribution,,Rs lakh per year,5.0
+2026-06,HR.HC.SAL,Headcount,Sales & distribution,,heads,378
+2026-06,HR.CTC.SAL,CTC per head before increment,Sales & distribution,,Rs lakh per year,5.0
+2026-07,HR.HC.SAL,Headcount,Sales & distribution,,heads,380
+2026-07,HR.CTC.SAL,CTC per head before increment,Sales & distribution,,Rs lakh per year,5.0
+2026-08,HR.HC.SAL,Headcount,Sales & distribution,,heads,384
+2026-08,HR.CTC.SAL,CTC per head before increment,Sales & distribution,,Rs lakh per year,5.0
+2026-09,HR.HC.SAL,Headcount,Sales & distribution,,heads,386
+2026-09,HR.CTC.SAL,CTC per head before increment,Sales & distribution,,Rs lakh per year,5.0
+2026-04,HR.HC.COR,Headcount,Corporate,,heads,108
+2026-04,HR.CTC.COR,CTC per head before increment,Corporate,,Rs lakh per year,12.0
+2026-05,HR.HC.COR,Headcount,Corporate,,heads,108
+2026-05,HR.CTC.COR,CTC per head before increment,Corporate,,Rs lakh per year,12.0
+2026-06,HR.HC.COR,Headcount,Corporate,,heads,109
+2026-06,HR.CTC.COR,CTC per head before increment,Corporate,,Rs lakh per year,12.0
+2026-07,HR.HC.COR,Headcount,Corporate,,heads,110
+2026-07,HR.CTC.COR,CTC per head before increment,Corporate,,Rs lakh per year,12.0
+2026-08,HR.HC.COR,Headcount,Corporate,,heads,110
+2026-08,HR.CTC.COR,CTC per head before increment,Corporate,,Rs lakh per year,12.0
+2026-09,HR.HC.COR,Headcount,Corporate,,heads,111
+2026-09,HR.CTC.COR,CTC per head before increment,Corporate,,Rs lakh per year,12.0
