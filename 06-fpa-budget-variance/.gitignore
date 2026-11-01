@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+
+# Saved copies of news articles and commercial web pages are copyrighted: they stay on the local PC only.
+# source_data/README.md lists each one with its link and the fact used.
+source_data/news_and_macro/*.html
+source_data/government/*.html

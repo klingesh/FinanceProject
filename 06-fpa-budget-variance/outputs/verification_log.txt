@@ -1,0 +1,201 @@
+Workbook: D:\Financeprojects\FinanceProject-branches\project-06-fpa-budget-variance\06-fpa-budget-variance\Vriddhi_Foods_FPA_FY2027.xlsx
+Step 1: Excel CalculateFull + save
+Step 2: error scan and checks
+  Error values found: 0
+   1 PASS Inputs            Budget seasonality sums to 100% for each product line (value 5.55e-16)
+   2 PASS Inputs            Budget channel mix sums to 100% for each product line (value 1.11e-16)
+   3 PASS Inputs            Budget monthly volumes add up to the FY volume input (value 0.00e+00)
+   4 PASS Budget_PL         Sum of months = H1/H2/FY totals for every P&L line (cross-foot) (value 1.82e-12)
+   5 PASS Budget_PL         Sum of months = totals for every supporting-calculation line (value 1.14e-13)
+   6 PASS Budget_PL         Net revenue by product line = net revenue by channel (all columns) (value 2.20e-13)
+   7 PASS Budget_PL         Gross profit by product line adds up to P&L gross profit (value 1.35e-13)
+   8 PASS Actuals_H1        Sum of months = H1/H2/FY totals for every P&L line (cross-foot) (value 1.82e-12)
+   9 PASS Actuals_H1        Sum of months = totals for every supporting-calculation line (value 5.68e-14)
+  10 PASS Actuals_H1        Net revenue by product line = net revenue by channel (all columns) (value 1.42e-14)
+  11 PASS Actuals_H1        Gross profit by product line adds up to P&L gross profit (value 4.97e-14)
+  12 PASS Forecast_6plus6   Sum of months = H1/H2/FY totals for every P&L line (cross-foot) (value 7.28e-12)
+  13 PASS Forecast_6plus6   Sum of months = totals for every supporting-calculation line (value 1.14e-13)
+  14 PASS Forecast_6plus6   Net revenue by product line = net revenue by channel (all columns) (value 3.41e-13)
+  15 PASS Forecast_6plus6   Gross profit by product line adds up to P&L gross profit (value 2.34e-13)
+  16 PASS Forecast_6plus6   Forecast Apr-Sep equals actual Apr-Sep for every P&L line and ratio (value 0.00e+00)
+  17 PASS Forecast_6plus6   Forecast H1 column equals Actuals_H1 H1 column (value 0.00e+00)
+  18 PASS Forecast_6plus6   Forecast H2 channel mix sums to 100% for each product line (value 0.00e+00)
+  19 PASS Variance_Monthly  Sum of monthly variances = H1 variance for every ₹ and volume line (value 2.05e-12)
+  20 PASS Variance_YTD      YTD variance = sum of monthly variances (Variance_Monthly H1) for every line (value 0.00e+00)
+  21 PASS PVM_Bridge        Actual vs Budget: revenue PVM volume + mix + price = net revenue variance (total) (value -3.82e-14)
+  22 PASS PVM_Bridge        Actual vs Budget: revenue PVM reconciles for each product line (value 3.49e-14)
+  23 PASS PVM_Bridge        Actual vs Budget: volume effect by line = total formula (ΔV × budget average price) (value 0.00e+00)
+  24 PASS PVM_Bridge        Actual vs Budget: list price + trade-spend effects = price effect (value 1.52e-14)
+  25 PASS PVM_Bridge        Actual vs Budget: gross-profit bridge reconciles (each line and total) (value 8.53e-14)
+  26 PASS PVM_Bridge        Actual vs Budget: material rate by input = material rate effect (value 6.65e-14)
+  27 PASS PVM_Bridge        H1: net revenue bridge reconciles to the P&L (value 0.00e+00)
+  28 PASS PVM_Bridge        H1: gross-profit bridge reconciles to the P&L (value 0.00e+00)
+  29 PASS PVM_Bridge        H1: EBITDA bridge reconciles to the P&L (value 0.00e+00)
+  30 PASS FY_Outlook        FY variance = H1 variance + H2 variance for every ₹ and volume line (value 1.46e-11)
+  31 PASS FY_Outlook        Forecast vs Budget: revenue PVM volume + mix + price = net revenue variance (total) (value 3.46e-14)
+  32 PASS FY_Outlook        Forecast vs Budget: revenue PVM reconciles for each product line (value 9.37e-14)
+  33 PASS FY_Outlook        Forecast vs Budget: volume effect by line = total formula (ΔV × budget average price) (value 0.00e+00)
+  34 PASS FY_Outlook        Forecast vs Budget: list price + trade-spend effects = price effect (value 8.57e-14)
+  35 PASS FY_Outlook        Forecast vs Budget: gross-profit bridge reconciles (each line and total) (value 3.11e-14)
+  36 PASS FY_Outlook        Forecast vs Budget: material rate by input = material rate effect (value 3.38e-14)
+  37 PASS FY_Outlook        FY2027: net revenue bridge reconciles to the P&L (value 0.00e+00)
+  38 PASS FY_Outlook        FY2027: gross-profit bridge reconciles to the P&L (value 0.00e+00)
+  39 PASS FY_Outlook        FY2027: EBITDA bridge reconciles to the P&L (value -1.28e-13)
+  40 PASS Dashboard         EBITDA waterfall running total ends at actual H1 EBITDA (value 0.00e+00)
+  41 PASS Errors            No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on Cover (value 0.00e+00)
+  42 PASS Errors            No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on Assumptions_Budget (value 0.00e+00)
+  43 PASS Errors            No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on Budget_PL (value 0.00e+00)
+  44 PASS Errors            No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on Actuals_H1 (value 0.00e+00)
+  45 PASS Errors            No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on Forecast_6plus6 (value 0.00e+00)
+  46 PASS Errors            No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on Variance_Monthly (value 0.00e+00)
+  47 PASS Errors            No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on Variance_YTD (value 0.00e+00)
+  48 PASS Errors            No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on PVM_Bridge (value 0.00e+00)
+  49 PASS Errors            No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on FY_Outlook (value 0.00e+00)
+  50 PASS Errors            No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on Dashboard (value 0.00e+00)
+  51 PASS Errors            No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on Commentary (value 0.00e+00)
+  Checks: 51 total, 51 PASS, 0 FAIL; overall = ALL PASS
+Step 3: Excel vs independent Python model
+Budget H1:
+  vol_tot                                      excel   31102.0000  python   31102.0000  diff 0.00e+00  OK
+  gs_tot                                       excel     405.3076  python     405.3076  diff 5.68e-14  OK
+  ts_tot                                       excel      43.4378  python      43.4378  diff 0.00e+00  OK
+  nr_tot                                       excel     361.8698  python     361.8698  diff 0.00e+00  OK
+  mat                                          excel     158.2616  python     158.2616  diff 2.84e-14  OK
+  pack                                         excel      45.4328  python      45.4328  diff 7.11e-15  OK
+  conv                                         excel      30.7048  python      30.7048  diff 3.55e-15  OK
+  gp                                           excel     127.4706  python     127.4706  diff 2.84e-14  OK
+  freight                                      excel      17.3697  python      17.3697  diff 0.00e+00  OK
+  ap                                           excel      20.2000  python      20.2000  diff 0.00e+00  OK
+  emp                                          excel      28.9487  python      28.9487  diff 7.11e-15  OK
+  oth                                          excel      17.4000  python      17.4000  diff 0.00e+00  OK
+  ebitda                                       excel      43.5521  python      43.5521  diff 2.84e-14  OK
+  da                                           excel      10.5000  python      10.5000  diff 0.00e+00  OK
+  int                                          excel       4.5000  python       4.5000  diff 0.00e+00  OK
+  pbt                                          excel      28.5521  python      28.5521  diff 2.84e-14  OK
+  tax                                          excel       7.1866  python       7.1866  diff 6.22e-15  OK
+  pat                                          excel      21.3656  python      21.3656  diff 2.13e-14  OK
+Actual H1:
+  vol_tot                                      excel   30684.5000  python   30684.5000  diff 0.00e+00  OK
+  gs_tot                                       excel     403.9775  python     403.9775  diff 5.68e-14  OK
+  ts_tot                                       excel      45.1113  python      45.1113  diff 0.00e+00  OK
+  nr_tot                                       excel     358.8663  python     358.8663  diff 5.68e-14  OK
+  mat                                          excel     161.3012  python     161.3012  diff 5.68e-14  OK
+  pack                                         excel      45.1344  python      45.1344  diff 0.00e+00  OK
+  conv                                         excel      30.6536  python      30.6536  diff 0.00e+00  OK
+  gp                                           excel     121.7770  python     121.7770  diff 1.42e-14  OK
+  freight                                      excel      18.2433  python      18.2433  diff 0.00e+00  OK
+  ap                                           excel      23.1000  python      23.1000  diff 0.00e+00  OK
+  emp                                          excel      27.5005  python      27.5005  diff 0.00e+00  OK
+  oth                                          excel      17.6300  python      17.6300  diff 0.00e+00  OK
+  ebitda                                       excel      35.3032  python      35.3032  diff 1.42e-14  OK
+  da                                           excel      10.5000  python      10.5000  diff 0.00e+00  OK
+  int                                          excel       4.6275  python       4.6275  diff 0.00e+00  OK
+  pbt                                          excel      20.1757  python      20.1757  diff 1.07e-14  OK
+  tax                                          excel       5.0782  python       5.0782  diff 2.66e-15  OK
+  pat                                          excel      15.0975  python      15.0975  diff 1.07e-14  OK
+Budget FY:
+  vol_tot                                      excel   59000.0000  python   59000.0000  diff 0.00e+00  OK
+  gs_tot                                       excel     805.4000  python     805.4000  diff 2.27e-13  OK
+  ts_tot                                       excel      87.0594  python      87.0594  diff 0.00e+00  OK
+  nr_tot                                       excel     718.3406  python     718.3406  diff 1.14e-13  OK
+  mat                                          excel     317.3789  python     317.3789  diff 5.68e-14  OK
+  pack                                         excel      86.8000  python      86.8000  diff 0.00e+00  OK
+  conv                                         excel      60.2000  python      60.2000  diff 7.11e-15  OK
+  gp                                           excel     253.9617  python     253.9617  diff 2.84e-14  OK
+  freight                                      excel      34.4803  python      34.4803  diff 0.00e+00  OK
+  ap                                           excel      41.6000  python      41.6000  diff 0.00e+00  OK
+  emp                                          excel      59.6441  python      59.6441  diff 7.11e-15  OK
+  oth                                          excel      34.8000  python      34.8000  diff 7.11e-15  OK
+  ebitda                                       excel      83.4373  python      83.4373  diff 7.11e-14  OK
+  da                                           excel      22.2000  python      22.2000  diff 3.55e-15  OK
+  int                                          excel       8.7750  python       8.7750  diff 0.00e+00  OK
+  pbt                                          excel      52.4623  python      52.4623  diff 7.11e-14  OK
+  tax                                          excel      13.2048  python      13.2048  diff 2.13e-14  OK
+  pat                                          excel      39.2575  python      39.2575  diff 5.68e-14  OK
+Forecast FY:
+  vol_tot                                      excel   58165.2400  python   58165.2400  diff 7.28e-12  OK
+  gs_tot                                       excel     813.9305  python     813.9305  diff 1.14e-13  OK
+  ts_tot                                       excel      92.8208  python      92.8208  diff 1.42e-14  OK
+  nr_tot                                       excel     721.1097  python     721.1097  diff 1.14e-13  OK
+  mat                                          excel     328.0987  python     328.0987  diff 5.68e-14  OK
+  pack                                         excel      86.5688  python      86.5688  diff 0.00e+00  OK
+  conv                                         excel      59.9413  python      59.9413  diff 7.11e-15  OK
+  gp                                           excel     246.5009  python     246.5009  diff 1.99e-13  OK
+  freight                                      excel      35.9932  python      35.9932  diff 7.11e-15  OK
+  ap                                           excel      42.9000  python      42.9000  diff 0.00e+00  OK
+  emp                                          excel      58.1959  python      58.1959  diff 2.13e-14  OK
+  oth                                          excel      35.0300  python      35.0300  diff 0.00e+00  OK
+  ebitda                                       excel      74.3818  python      74.3818  diff 1.85e-13  OK
+  da                                           excel      22.2000  python      22.2000  diff 3.55e-15  OK
+  int                                          excel       9.3050  python       9.3050  diff 0.00e+00  OK
+  pbt                                          excel      42.8768  python      42.8768  diff 1.99e-13  OK
+  tax                                          excel      10.7921  python      10.7921  diff 4.97e-14  OK
+  pat                                          excel      32.0847  python      32.0847  diff 1.42e-13  OK
+H1 EBITDA bridge items:
+  Volume                                       excel      -1.7111  python      -1.7111  diff 4.44e-16  OK
+  Mix                                          excel       0.7893  python       0.7893  diff 1.04e-14  OK
+  List price                                   excel       1.9604  python       1.9604  diff 2.66e-15  OK
+  Trade spend rate & channel mix               excel      -1.8162  python      -1.8162  diff 9.33e-15  OK
+  Material rate                                excel      -4.4183  python      -4.4183  diff 7.11e-15  OK
+  Packaging & conversion rate                  excel      -0.4977  python      -0.4977  diff 7.77e-16  OK
+  Freight                                      excel      -0.8736  python      -0.8736  diff 0.00e+00  OK
+  A&P                                          excel      -2.9000  python      -2.9000  diff 0.00e+00  OK
+  Employee cost                                excel       1.4482  python       1.4482  diff 7.11e-15  OK
+  Other overheads                              excel      -0.2300  python      -0.2300  diff 0.00e+00  OK
+H1 revenue PVM:
+  volume                                       excel      -4.8576  python      -4.8576  diff 0.00e+00  OK
+  mix                                          excel       1.7099  python       1.7099  diff 2.82e-14  OK
+  list price                                   excel       1.9604  python       1.9604  diff 2.66e-15  OK
+  trade spend rate & channel mix               excel      -1.8162  python      -1.8162  diff 9.33e-15  OK
+  material rate: edible oil                    excel      -3.8632  python      -3.8632  diff 8.88e-15  OK
+FY EBITDA bridge items (forecast vs budget):
+  Volume                                       excel      -3.5932  python      -3.5932  diff 2.89e-14  OK
+  Mix                                          excel       2.5420  python       2.5420  diff 6.71e-14  OK
+  List price                                   excel      12.3673  python      12.3673  diff 2.63e-13  OK
+  Trade spend rate & channel mix               excel      -4.8453  python      -4.8453  diff 1.51e-14  OK
+  Material rate                                excel     -12.9147  python     -12.9147  diff 1.15e-13  OK
+  Packaging & conversion rate                  excel      -1.0170  python      -1.0170  diff 2.71e-14  OK
+  Freight                                      excel      -1.5129  python      -1.5129  diff 7.11e-15  OK
+  A&P                                          excel      -1.3000  python      -1.3000  diff 0.00e+00  OK
+  Employee cost                                excel       1.4482  python       1.4482  diff 1.42e-14  OK
+  Other overheads                              excel      -0.2300  python      -0.2300  diff 7.11e-15  OK
+  Values match: True
+Step 4: driver-change test on a copy
+Test A: Aug-26 actual edible-oil price 126 -> 140 Rs/kg
+Before: Actuals_H1!H165 = 126.0, H1 actual EBITDA = 35.3032, YTD EBITDA variance = -8.2489, Aug EBITDA variance = -3.0355, oil rate effect = -3.8632, checks = ALL PASS
+After:  Actuals_H1!H165 = 140, H1 actual EBITDA = 34.4146, YTD EBITDA variance = -9.1376, Aug EBITDA variance = -3.9241, oil rate effect = -4.7519, forecast H1 EBITDA = 34.4146, bridge end = 34.4146, checks = ALL PASS (0 failed)
+  A: H1 actual EBITDA                          excel      34.4146  python      34.4146  diff 2.13e-14  OK
+  A: Variance_YTD EBITDA variance              excel      -9.1376  python      -9.1376  diff 4.97e-14  OK
+  A: Variance_Monthly Aug-26 EBITDA variance   excel      -3.9241  python      -3.9241  diff 8.88e-16  OK
+  A: PVM_Bridge edible-oil rate effect         excel      -4.7519  python      -4.7519  diff 1.07e-14  OK
+  A: PVM_Bridge EBITDA bridge end              excel      34.4146  python      34.4146  diff 7.11e-15  OK
+  A: Forecast_6plus6 H1 EBITDA                 excel      34.4146  python      34.4146  diff 2.13e-14  OK
+  A: restored H1 actual EBITDA                 excel      35.3032  python      35.3032  diff 0.00e+00  OK
+Test B: Aug-26 actual Beverages General Trade volume -100 t
+Before: Actuals_H1!H153 = 796.8 t, beverages H1 volume variance = -314.3 t, net revenue variance = -3.0035, PVM volume / mix / list price / trade spend = -4.8576 / 1.7099 / 1.9604 / -1.8162, checks = ALL PASS
+After:  Actuals_H1!H153 = 696.8 t, beverages H1 volume variance = -414.3 t, net revenue variance = -3.7004, PVM volume / mix / list price / trade spend = -6.0211 / 2.1982 / 1.9604 / -1.8379, H1 EBITDA = 35.1102, checks = ALL PASS (0 failed)
+  B: Variance_YTD beverages volume variance (t) excel    -414.3000  python    -414.3000  diff 1.82e-12  OK
+  B: Variance_YTD net revenue variance         excel      -3.7004  python      -3.7004  diff 5.68e-14  OK
+  B: PVM_Bridge volume effect                  excel      -6.0211  python      -6.0211  diff 0.00e+00  OK
+  B: PVM_Bridge mix effect                     excel       2.1982  python       2.1982  diff 2.80e-14  OK
+  B: PVM_Bridge list price effect              excel       1.9604  python       1.9604  diff 2.66e-15  OK
+  B: PVM_Bridge trade-spend effect             excel      -1.8379  python      -1.8379  diff 9.33e-15  OK
+  B: PVM_Bridge revenue bridge end             excel     358.1694  python     358.1694  diff 5.68e-14  OK
+  B: PVM_Bridge EBITDA bridge end              excel      35.1102  python      35.1102  diff 2.84e-14  OK
+  B: restored H1 actual EBITDA                 excel      35.3032  python      35.3032  diff 0.00e+00  OK
+Test C: forecast case switch on Cover!D10
+Case 2: FY forecast EBITDA excel 69.6670 python 69.6670, checks = ALL PASS
+Case 3: FY forecast EBITDA excel 77.6679 python 77.6679, checks = ALL PASS
+Case 1: FY forecast EBITDA excel 74.3818 python 74.3818, checks = ALL PASS
+Temporary copy deleted: True
+  Driver-change test passed: True
+Step 5: export outputs
+Cover KPI block (H1 budget, H1 actual, FY budget, FY forecast):
+  Volume (t)                       31102.0000 30684.5000 59000.0000 58165.2400
+  Net revenue (₹ cr)                 361.8698   358.8663   718.3406   721.1097
+  Gross margin % of net revenue        0.3523     0.3393     0.3535     0.3418
+  EBITDA (₹ cr)                       43.5521    35.3032    83.4373    74.3818
+  EBITDA margin %                      0.1204     0.0984     0.1162     0.1031
+  PAT (₹ cr)                          21.3656    15.0975    39.2575    32.0847
+  Cover status: ALL PASS | 51 of 51 checks pass (see Checks)
+OVERALL VERIFICATION: PASS (6s)

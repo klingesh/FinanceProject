@@ -1,0 +1,122 @@
+{
+  "downloaded": "01-Nov-2026",
+  "peers": {
+    "BRITANNIA": {
+      "name": "Britannia Industries",
+      "short": "Britannia",
+      "segment": "Biscuits & cookies (market leader)",
+      "view": "consolidated",
+      "url": "https://www.screener.in/company/BRITANNIA/consolidated/",
+      "company_id": "553",
+      "sections": [
+        "quarters",
+        "profit-loss",
+        "balance-sheet",
+        "cash-flow",
+        "ratios",
+        "expenses_breakdown"
+      ],
+      "xlsx": "Britannia_Screener_Consolidated.xlsx"
+    },
+    "BECTORFOOD": {
+      "name": "Mrs Bectors Food Specialities",
+      "short": "MrsBectors",
+      "segment": "Biscuits (Cremica) and bakery",
+      "view": "consolidated",
+      "url": "https://www.screener.in/company/BECTORFOOD/consolidated/",
+      "company_id": "1274822",
+      "sections": [
+        "quarters",
+        "profit-loss",
+        "balance-sheet",
+        "cash-flow",
+        "ratios",
+        "expenses_breakdown"
+      ],
+      "xlsx": "MrsBectors_Screener_Consolidated.xlsx"
+    },
+    "BIKAJI": {
+      "name": "Bikaji Foods International",
+      "short": "Bikaji",
+      "segment": "Namkeen and ethnic snacks",
+      "view": "consolidated",
+      "url": "https://www.screener.in/company/BIKAJI/consolidated/",
+      "company_id": "1275353",
+      "sections": [
+        "quarters",
+        "profit-loss",
+        "balance-sheet",
+        "cash-flow",
+        "ratios",
+        "expenses_breakdown"
+      ],
+      "xlsx": "Bikaji_Screener_Consolidated.xlsx"
+    },
+    "GOPAL": {
+      "name": "Gopal Snacks",
+      "short": "GopalSnacks",
+      "segment": "Namkeen, gathiya and wafers",
+      "view": "standalone",
+      "url": "https://www.screener.in/company/GOPAL/",
+      "company_id": "1284708",
+      "sections": [
+        "quarters",
+        "profit-loss",
+        "balance-sheet",
+        "cash-flow",
+        "ratios"
+      ],
+      "xlsx": "GopalSnacks_Screener_Standalone.xlsx"
+    },
+    "DIAMONDYD": {
+      "name": "Prataap Snacks",
+      "short": "PrataapSnacks",
+      "segment": "Potato chips and extruded snacks (Yellow Diamond)",
+      "view": "standalone",
+      "url": "https://www.screener.in/company/DIAMONDYD/",
+      "company_id": "1274153",
+      "sections": [
+        "quarters",
+        "profit-loss",
+        "balance-sheet",
+        "cash-flow",
+        "ratios",
+        "expenses_breakdown"
+      ],
+      "xlsx": "PrataapSnacks_Screener_Standalone.xlsx"
+    },
+    "TATACONSUM": {
+      "name": "Tata Consumer Products",
+      "short": "TataConsumer",
+      "segment": "Branded foods and beverages incl. RTD",
+      "view": "consolidated",
+      "url": "https://www.screener.in/company/TATACONSUM/consolidated/",
+      "company_id": "3367",
+      "sections": [
+        "quarters",
+        "profit-loss",
+        "balance-sheet",
+        "cash-flow",
+        "ratios",
+        "expenses_breakdown"
+      ],
+      "xlsx": "TataConsumer_Screener_Consolidated.xlsx"
+    },
+    "DFMFOODS": {
+      "name": "DFM Foods (delisted)",
+      "short": "DFMFoods",
+      "segment": "Corn puffs and chips (Crax); delisted, last full year FY2022",
+      "view": "standalone",
+      "url": "https://www.screener.in/company/DFMFOODS/",
+      "company_id": "801",
+      "sections": [
+        "quarters",
+        "profit-loss",
+        "balance-sheet",
+        "cash-flow",
+        "ratios"
+      ],
+      "xlsx": "DFMFoods_Screener_Standalone.xlsx"
+    }
+  }
+}
