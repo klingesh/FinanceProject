@@ -1,0 +1,5 @@
+ASIANPAINT: status=200 announcements=7
+BERGEPAINT: status=200 announcements=2
+KANSAINER: status=200 announcements=2
+JSWDULUX: status=200 announcements=2
+INDIGOPNTS: status=200 announcements=4

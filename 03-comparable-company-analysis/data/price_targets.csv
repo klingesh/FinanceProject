@@ -1,0 +1,6 @@
+symbol,company,pt_low,pt_average,pt_median,pt_high,pt_analysts,source
+ASIANPAINT,Asian Paints,1925.0,2756.0,2850.0,3300.0,34,https://stockanalysis.com/quote/nse/ASIANPAINT/forecast/ (S&P Global consensus)
+BERGEPAINT,Berger Paints,440.0,568.59,559.5,685.0,22,https://stockanalysis.com/quote/nse/BERGEPAINT/forecast/ (S&P Global consensus)
+KANSAINER,Kansai Nerolac,193.0,245.65,240.0,316.0,17,https://stockanalysis.com/quote/nse/KANSAINER/forecast/ (S&P Global consensus)
+JSWDULUX,JSW Dulux,335.0,339.9,339.9,344.8,2,https://stockanalysis.com/quote/nse/JSWDULUX/forecast/ (S&P Global consensus)
+INDIGOPNTS,Indigo Paints,975.0,1275.0,1320.0,1515.0,8,https://stockanalysis.com/quote/nse/INDIGOPNTS/forecast/ (S&P Global consensus)

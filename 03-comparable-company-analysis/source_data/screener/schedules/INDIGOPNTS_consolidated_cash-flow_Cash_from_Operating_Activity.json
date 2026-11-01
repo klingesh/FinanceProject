@@ -1,0 +1,54 @@
+{
+  "url": "https://www.screener.in/api/company/1274826/schedules/?parent=Cash%20from%20Operating%20Activity&section=cash-flow&consolidated=true",
+  "status": 200,
+  "data": {
+    "Profit from operations": {
+      "Mar 2023": "191",
+      "Mar 2024": "248",
+      "Mar 2025": "240",
+      "Mar 2026": "256",
+      "setAttributes": {
+        "class": "strong"
+      }
+    },
+    "Receivables": {
+      "Mar 2023": "-29",
+      "Mar 2024": "-15",
+      "Mar 2025": "-21",
+      "Mar 2026": "-43"
+    },
+    "Inventory": {
+      "Mar 2023": "0",
+      "Mar 2024": "-49",
+      "Mar 2025": "17",
+      "Mar 2026": "-25"
+    },
+    "Payables": {
+      "Mar 2023": "9",
+      "Mar 2024": "31",
+      "Mar 2025": "-53",
+      "Mar 2026": "45"
+    },
+    "Other WC items": {
+      "Mar 2023": "-31",
+      "Mar 2024": "-4",
+      "Mar 2025": "53",
+      "Mar 2026": "47"
+    },
+    "Working capital changes": {
+      "Mar 2023": "-50",
+      "Mar 2024": "-38",
+      "Mar 2025": "-4",
+      "Mar 2026": "24",
+      "setAttributes": {
+        "class": "strong"
+      }
+    },
+    "Direct taxes": {
+      "Mar 2023": "-24",
+      "Mar 2024": "-59",
+      "Mar 2025": "-31",
+      "Mar 2026": "-58"
+    }
+  }
+}

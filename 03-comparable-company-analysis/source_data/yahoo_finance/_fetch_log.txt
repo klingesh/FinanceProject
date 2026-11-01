@@ -1,0 +1,7 @@
+Downloaded with yfinance 1.7.0 on 2026-11-01 01:42 UTC; start=2021-01-01, end(exclusive)=2026-10-31, auto_adjust=False
+ASIANPAINT.NS (Asian Paints): rows=1441 first=2021-01-01 last=2026-10-30 last_close=2320.00 splits=0 divs=11
+BERGEPAINT.NS (Berger Paints): rows=1441 first=2021-01-01 last=2026-10-30 last_close=465.10 splits=1 divs=6
+KANSAINER.NS (Kansai Nerolac): rows=1440 first=2021-01-01 last=2026-10-30 last_close=176.28 splits=1 divs=7
+JSWDULUX.NS (JSW Dulux): rows=1441 first=2021-01-01 last=2026-10-30 last_close=264.40 splits=1 divs=12
+INDIGOPNTS.NS (Indigo Paints): rows=1420 first=2021-02-02 last=2026-10-30 last_close=997.30 splits=0 divs=5
+^NSEI (NIFTY 50): rows=1440 first=2021-01-01 last=2026-10-30 last_close=23053.10 splits=0 divs=0

@@ -1,0 +1,6 @@
+AsianPaints_Q2FY27_Results_and_Press_Release_29Oct2026.pdf: OK 200 8,555,160 bytes -> AsianPaints_Q2FY27_Results_and_Press_Release_29Oct2026.pdf
+AsianPaints_Q2FY27_Investor_Presentation_29Oct2026.pdf: OK 200 5,156,008 bytes -> AsianPaints_Q2FY27_Investor_Presentation_29Oct2026.pdf
+IndigoPaints_Q2FY27_Results_30Oct2026.pdf: OK 200 6,067,001 bytes -> IndigoPaints_Q2FY27_Results_30Oct2026.pdf
+BergerPaints_Q2FY27_Analyst_Call_Intimation_30Oct2026.pdf: OK 200 462,082 bytes -> BergerPaints_Q2FY27_Analyst_Call_Intimation_30Oct2026.pdf
+KansaiNerolac_Q2FY27_Analyst_Call_Intimation_26Oct2026.pdf: OK 200 1,105,186 bytes -> KansaiNerolac_Q2FY27_Analyst_Call_Intimation_26Oct2026.pdf
+JSWDulux_Q2FY27_Investor_Call_Intimation_29Oct2026.pdf: OK 200 338,449 bytes -> JSWDulux_Q2FY27_Investor_Call_Intimation_29Oct2026.pdf

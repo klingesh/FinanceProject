@@ -1,0 +1,18 @@
+{
+  "url": "https://www.screener.in/api/company/1274826/schedules/?parent=Other%20Income&section=profit-loss&consolidated=true",
+  "status": 200,
+  "data": {
+    "Exceptional items": {
+      "Mar 2023": "0.98",
+      "Mar 2024": "0.70",
+      "Mar 2025": "0.36",
+      "Mar 2026": "-6.10"
+    },
+    "Other income normal": {
+      "Mar 2023": "9.09",
+      "Mar 2024": "13.52",
+      "Mar 2025": "18.14",
+      "Mar 2026": "12.92"
+    }
+  }
+}

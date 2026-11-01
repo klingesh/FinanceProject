@@ -1,0 +1,39 @@
+[ASIANPAINT] TTM Dec 2025 + Mar 2026 + Jun 2026 + Sep 2026: revenue 38633, EBITDA 7294, PAT for P/E 4951.0 (reported 4903, exceptional AT -114)
+[ASIANPAINT] debt incl. leases Screener 4596.0 vs S&P 4595.7; NCI 674.0 (S&P 674.3); cash 612.6, liquid investments 5512.0, non-current investments 877.2 at 30-Sep-2026
+[ASIANPAINT] price 2320.00 x shares 95.9198 cr = market cap 222,534 (Screener 222,534, diff -0.00%); P/E 44.9 (Screener 45.0)
+[ASIANPAINT] 52w high/low (intraday) 2985.7/2115.0; closes 2968.5/2121.3; Screener 2986.0/2115.0
+[ASIANPAINT] latest-quarter profit for EPS 1068.00 / EPS 11.13 = 95.957 cr shares (S&P count 95.920 cr, diff +0.04%)
+[BERGEPAINT] TTM Sep 2025 + Dec 2025 + Mar 2026 + Jun 2026: revenue 12263, EBITDA 1912, PAT for P/E 1227.0 (reported 1217, exceptional AT -12)
+[BERGEPAINT] debt incl. leases Screener 636.0 vs S&P 635.1; NCI 14.0 (S&P 13.7); cash 207.2, liquid investments 1072.7, non-current investments 295.8 at 31-Mar-2026
+[BERGEPAINT] price 465.10 x shares 116.6003 cr = market cap 54,231 (Screener 54,231, diff -0.00%); P/E 44.2 (Screener 44.2)
+[BERGEPAINT] 52w high/low (intraday) 594.5/391.1; closes 590.1/404.5; Screener 595.0/391.0
+[BERGEPAINT] latest-quarter profit for EPS 404.00 / EPS 3.47 = 116.427 cr shares (S&P count 116.600 cr, diff -0.15%)
+[KANSAINER] TTM Sep 2025 + Dec 2025 + Mar 2026 + Jun 2026: revenue 8264, EBITDA 999, PAT for P/E 646.0 (reported 588, exceptional AT -45)
+[KANSAINER] debt incl. leases Screener 303.0 vs S&P 302.7; NCI -25.0 (S&P -24.9); cash 196.8, liquid investments 2388.0, non-current investments 4.8 at 31-Mar-2026
+[KANSAINER] price 176.28 x shares 80.8779 cr = market cap 14,257 (Screener 14,259, diff -0.01%); P/E 22.1 (Screener 22.1)
+[KANSAINER] 52w high/low (intraday) 264.0/157.9; closes 249.3/159.1; Screener 264.0/158.0
+[KANSAINER] latest-quarter profit for EPS 232.00 / EPS 2.86 = 81.119 cr shares (S&P count 80.878 cr, diff +0.30%)
+[JSWDULUX] TTM Sep 2025 + Dec 2025 + Mar 2026 + Jun 2026: revenue 3577, EBITDA 489, PAT for P/E 384.0 (reported 1963, exceptional AT 1578)
+[JSWDULUX] debt incl. leases Screener 79.0 vs S&P 79.1; NCI 0.0 (S&P nan); cash 269.8, liquid investments 39.9, non-current investments 0.0 at 31-Mar-2026
+[JSWDULUX] price 264.40 x shares 45.5403 cr = market cap 12,041 (Screener 12,041, diff -0.00%); P/E 31.4 (Screener 31.4)
+[JSWDULUX] 52w high/low (intraday) 374.5/261.2; closes 363.4/264.4; Screener 375.0/261.0
+[JSWDULUX] latest-quarter profit for EPS 80.00 / EPS 1.75 = 45.714 cr shares (S&P count 45.540 cr, diff +0.38%)
+[INDIGOPNTS] TTM Dec 2025 + Mar 2026 + Jun 2026 + Sep 2026: revenue 1513, EBITDA 257, PAT for P/E 153.4 (reported 151, exceptional AT -4)
+[INDIGOPNTS] debt incl. leases Screener 25.1 vs S&P 25.1; NCI 61.7 (S&P nan); cash 12.0, liquid investments 310.6, non-current investments 0.0 at 30-Sep-2026
+[INDIGOPNTS] price 997.30 x shares 4.7733 cr = market cap 4,760 (Screener 4,760, diff +0.01%); P/E 31.0 (Screener 31.0)
+[INDIGOPNTS] 52w high/low (intraday) 1345.9/708.0; closes 1326.0/710.8; Screener 1346.0/702.0
+[INDIGOPNTS] latest-quarter profit for EPS 13.32 / EPS 2.79 = 4.774 cr shares (S&P count 4.773 cr, diff +0.02%)
+[AP FY2026] revenue: Screener 35,584.0 -> company filing 35,583.54
+[AP FY2026] ebitda: Screener 6,700.0 -> company filing 6,695.92
+[AP FY2026] depreciation: Screener 1,229.0 -> company filing 1,228.85
+[AP FY2026] other_income: Screener 728.0 -> company filing 723.80
+[AP FY2026] interest: Screener 195.0 -> company filing 195.41
+[AP FY2026] pbt: Screener 6,003.0 -> company filing 6,003.44
+[AP H1 FY27] revenue filing 20,518.45 vs Screener Jun+Sep 20,519
+[AP H1 FY27] EBITDA filing 3,725.83 vs Screener 3,726
+[beta ASIANPAINT] 5y weekly beta 0.885 (R2 0.250, n 260); weekly moves below -8%: [('2022-03-04', -0.122), ('2022-05-27', -0.088), ('2024-11-15', -0.103), ('2026-01-30', -0.102)]
+[beta BERGEPAINT] 5y weekly beta 0.921 (R2 0.228, n 260); weekly moves below -8%: [('2022-05-27', -0.087), ('2023-09-29', -0.15), ('2024-04-19', -0.094), ('2026-01-30', -0.082)]
+[beta KANSAINER] 5y weekly beta 0.893 (R2 0.184, n 260); weekly moves below -8%: [('2022-02-25', -0.089), ('2022-05-13', -0.118), ('2026-03-20', -0.084)]
+[beta JSWDULUX] 5y weekly beta 0.445 (R2 0.044, n 260); weekly moves below -8%: [('2022-10-14', -0.08), ('2024-03-01', -0.087), ('2024-11-08', -0.094), ('2024-11-15', -0.109), ('2025-02-14', -0.102), ('2025-12-19', -0.125), ('2026-07-10', -0.105)]
+[beta INDIGOPNTS] 5y weekly beta 0.892 (R2 0.129, n 260); weekly moves below -8%: [('2022-02-18', -0.09), ('2024-11-08', -0.085), ('2025-02-14', -0.135), ('2026-01-23', -0.153), ('2026-03-13', -0.099), ('2026-09-11', -0.081)]
+price targets: [{'symbol': 'ASIANPAINT', 'company': 'Asian Paints', 'pt_low': 1925.0, 'pt_average': 2756.0, 'pt_median': 2850.0, 'pt_high': 3300.0, 'pt_analysts': 34, 'source': 'https://stockanalysis.com/quote/nse/ASIANPAINT/forecast/ (S&P Global consensus)'}, {'symbol': 'BERGEPAINT', 'company': 'Berger Paints', 'pt_low': 440.0, 'pt_average': 568.59, 'pt_median': 559.5, 'pt_high': 685.0, 'pt_analysts': 22, 'source': 'https://stockanalysis.com/quote/nse/BERGEPAINT/forecast/ (S&P Global consensus)'}, {'symbol': 'KANSAINER', 'company': 'Kansai Nerolac', 'pt_low': 193.0, 'pt_average': 245.65, 'pt_median': 240.0, 'pt_high': 316.0, 'pt_analysts': 17, 'source': 'https://stockanalysis.com/quote/nse/KANSAINER/forecast/ (S&P Global consensus)'}, {'symbol': 'JSWDULUX', 'company': 'JSW Dulux', 'pt_low': 335.0, 'pt_average': 339.9, 'pt_median': 339.9, 'pt_high': 344.8, 'pt_analysts': 2, 'source': 'https://stockanalysis.com/quote/nse/JSWDULUX/forecast/ (S&P Global consensus)'}, {'symbol': 'INDIGOPNTS', 'company': 'Indigo Paints', 'pt_low': 975.0, 'pt_average': 1275.0, 'pt_median': 1320.0, 'pt_high': 1515.0, 'pt_analysts': 8, 'source': 'https://stockanalysis.com/quote/nse/INDIGOPNTS/forecast/ (S&P Global consensus)'}]

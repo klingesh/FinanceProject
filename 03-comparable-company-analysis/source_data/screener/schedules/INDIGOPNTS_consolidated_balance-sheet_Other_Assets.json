@@ -1,0 +1,42 @@
+{
+  "url": "https://www.screener.in/api/company/1274826/schedules/?parent=Other%20Assets&section=balance-sheet&consolidated=true",
+  "status": 200,
+  "data": {
+    "Inventories": {
+      "Mar 2023": "118",
+      "Mar 2024": "171",
+      "Mar 2025": "154",
+      "Mar 2026": "178",
+      "Sep 2026": "214"
+    },
+    "Trade receivables": {
+      "Mar 2023": "200",
+      "Mar 2024": "223",
+      "Mar 2025": "244",
+      "Mar 2026": "286",
+      "Sep 2026": "264",
+      "isExpandable": "Company.showSchedule(\"Trade receivables\", \"balance-sheet\", this)"
+    },
+    "Cash Equivalents": {
+      "Mar 2023": "49",
+      "Mar 2024": "33",
+      "Mar 2025": "37",
+      "Mar 2026": "32",
+      "Sep 2026": "12"
+    },
+    "Loans n Advances": {
+      "Mar 2023": "6",
+      "Mar 2024": "6",
+      "Mar 2025": "6",
+      "Mar 2026": "8",
+      "Sep 2026": "2"
+    },
+    "Other asset items": {
+      "Mar 2023": "42",
+      "Mar 2024": "63",
+      "Mar 2025": "40",
+      "Mar 2026": "15",
+      "Sep 2026": "25"
+    }
+  }
+}

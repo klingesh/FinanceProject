@@ -1,0 +1,8 @@
+case,median_ev_ebitda_ttm_x,median_pe_ttm_x,median_ev_sales_ttm_x,implied_rs_per_share_ev_ebitda,implied_rs_per_share_pe,implied_rs_per_share_ev_sales
+None (all four peers),20.8785,31.1955,3.1461,1597.0,1610.0,1276.0
+Drop Berger Paints,17.6054,31.0347,2.9905,1348.0,1602.0,1213.0
+Drop Kansai Nerolac,24.1516,31.3564,3.3017,1845.0,1618.0,1339.0
+Drop JSW Dulux,17.6054,31.0347,2.9905,1348.0,1602.0,1213.0
+Drop Indigo Paints,24.1516,31.3564,3.3017,1845.0,1618.0,1339.0
+Lowest drop-one result,17.6054,31.0347,2.9905,1348.0,1602.0,1213.0
+Highest drop-one result,24.1516,31.3564,3.3017,1845.0,1618.0,1339.0
