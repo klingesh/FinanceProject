@@ -1,0 +1,10 @@
+# Tested with Python 3.14.6, numpy 2.4.6, pandas 3.0.3, scipy 1.18.0, matplotlib 3.11.2,
+# yfinance 1.7.0, nbformat 5.11.1, nbconvert 7.17.2, ipykernel 7.4.0
+numpy>=2.0
+pandas>=2.2
+scipy>=1.11
+matplotlib>=3.8
+yfinance>=0.2.40      # only needed to re-download data (src/fetch_data.py)
+nbformat>=5.9         # notebook execution
+nbconvert>=7.0
+ipykernel>=6.0
