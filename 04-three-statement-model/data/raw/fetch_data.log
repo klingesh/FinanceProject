@@ -1,0 +1,104 @@
+screener page ok, company_id=3525
+schedule variant '&consolidated=true': status=200 keys=['Material Cost %', 'Manufacturing Cost %', 'Employee Cost %', 'Other Cost %']
+schedule variant '&consolidated=': status=200 keys=['Material Cost %', 'Manufacturing Cost %', 'Employee Cost %', 'Other Cost %']
+schedule variant '': status=200 keys=['Material Cost %', 'Manufacturing Cost %', 'Employee Cost %', 'Other Cost %']
+schedule profit-loss|Sales: {'ok': True, 'keys': ['Sales Growth %']}
+schedule profit-loss|Expenses: {'ok': True, 'keys': ['Material Cost %', 'Manufacturing Cost %', 'Employee Cost %', 'Other Cost %']}
+schedule profit-loss|Other Income: {'ok': True, 'keys': ['Exceptional items', 'Other income normal']}
+schedule profit-loss|Net Profit: {'ok': True, 'keys': ['Minority share', 'Exceptional items AT', 'Profit excl Excep', 'Profit for PE', 'Profit for EPS', 'Profit Growth %']}
+schedule quarters|Sales: {'ok': True, 'keys': ['YOY Sales Growth %']}
+schedule quarters|Expenses: {'ok': True, 'keys': ['Material Cost %', 'Employee Cost %']}
+schedule quarters|Other Income: {'ok': True, 'keys': ['Exceptional items', 'Other income normal']}
+schedule quarters|Net Profit: {'ok': True, 'keys': ['Minority share', 'Exceptional items AT', 'Profit excl Excep', 'Profit for PE', 'Profit for EPS', 'YOY Profit Growth %']}
+schedule balance-sheet|Borrowings: {'ok': True, 'keys': ['Long term Borrowings', 'Short term Borrowings', 'Lease Liabilities', 'Other Borrowings']}
+schedule balance-sheet|Other Liabilities: {'ok': True, 'keys': ['Non controlling int', 'Trade Payables', 'Advance from Customers', 'Other liability items']}
+schedule balance-sheet|Fixed Assets: {'ok': True, 'keys': ['Land', 'Building', 'Plant Machinery', 'Ships Vessels', 'Equipments', 'Furniture n fittings', 'Railway sidings', 'Vehicles', 'Intangible Assets', 'Other fixed assets', 'Gross Block', 'Accumulated Depreciation']}
+schedule balance-sheet|Other Assets: {'ok': True, 'keys': ['Inventories', 'Trade receivables', 'Cash Equivalents', 'Loans n Advances', 'Other asset items']}
+schedule balance-sheet|Investments: {'ok': True, 'keys': []}
+schedule cash-flow|Cash from Operating Activity: {'ok': True, 'keys': ['Profit from operations', 'Receivables', 'Inventory', 'Payables', 'Loans Advances', 'Other WC items', 'Working capital changes', 'Direct taxes']}
+schedule cash-flow|Cash from Investing Activity: {'ok': True, 'keys': ['Fixed assets purchased', 'Fixed assets sold', 'Investments purchased', 'Investments sold', 'Interest received', 'Dividends received', 'Invest in subsidiaries', 'Investment in group cos', 'Redemp n Canc of Shares', 'Acquisition of companies', 'Other investing items']}
+schedule cash-flow|Cash from Financing Activity: {'ok': True, 'keys': ['Proceeds from shares', 'Proceeds from borrowings', 'Repayment of borrowings', 'Interest paid fin', 'Dividends paid', 'Financial liabilities', 'Other financing items']}
+stockanalysis overview_annual: status=200 len=235614 url=https://stockanalysis.com/quote/nse/ULTRACEMCO/financials/
+  table0 shape=(7, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table1 shape=(7, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table2 shape=(5, 7) cols=['Fiscal Year | Period Ending', "Current | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table3 shape=(4, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table4 shape=(5, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table5 shape=(3, 7) cols=['Fiscal Year | Period Ending', "Current | Nov '26 Nov 1, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table6 shape=(4, 7) cols=['Fiscal Year | Period Ending', "Current | Nov '26 Nov 1, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  unit hint: Currency is INR 
+stockanalysis overview_quarterly: status=200 len=242360 url=https://stockanalysis.com/quote/nse/ULTRACEMCO/financials/?p=quarterly
+  table0 shape=(7, 21) cols=['Fiscal Quarter | Period Ending', "Q2 2027 | Sep '26 Sep 30, 2026", "Q1 2027 | Jun '26 Jun 30, 2026", "Q4 2026 | Mar '26 Mar 31, 2026", "Q3 2026 | Dec '25 Dec 31, 2025", "Q2 2026 | Sep '25 Sep 30, 2025", "Q1 2026 | Jun '25 Jun 30, 2025", "Q4 2025 | Mar '25 Mar 31, 2025", "Q3 2025 | Dec '24 Dec 31, 2024", "Q2 2025 | Sep '24 Sep 30, 2024"]
+  table1 shape=(7, 21) cols=['Fiscal Quarter | Period Ending', "Q3 2026 | Sep '26 Sep 30, 2026", "Q2 2026 | Jun '26 Jun 30, 2026", "Q1 2026 | Mar '26 Mar 31, 2026", "Q4 2025 | Dec '25 Dec 31, 2025", "Q3 2025 | Sep '25 Sep 30, 2025", "Q2 2025 | Jun '25 Jun 30, 2025", "Q1 2025 | Mar '25 Mar 31, 2025", "Q4 2024 | Dec '24 Dec 31, 2024", "Q3 2024 | Sep '24 Sep 30, 2024"]
+  table2 shape=(5, 21) cols=['Fiscal Quarter | Period Ending', "Q2 2027 | Sep '26 Sep 30, 2026", "Q1 2027 | Jun '26 Jun 30, 2026", "Q4 2026 | Mar '26 Mar 31, 2026", "Q3 2026 | Dec '25 Dec 31, 2025", "Q2 2026 | Sep '25 Sep 30, 2025", "Q1 2026 | Jun '25 Jun 30, 2025", "Q4 2025 | Mar '25 Mar 31, 2025", "Q3 2025 | Dec '24 Dec 31, 2024", "Q2 2025 | Sep '24 Sep 30, 2024"]
+  table3 shape=(4, 21) cols=['Fiscal Quarter | Period Ending', "Q2 2027 | Sep '26 Sep 30, 2026", "Q1 2027 | Jun '26 Jun 30, 2026", "Q4 2026 | Mar '26 Mar 31, 2026", "Q3 2026 | Dec '25 Dec 31, 2025", "Q2 2026 | Sep '25 Sep 30, 2025", "Q1 2026 | Jun '25 Jun 30, 2025", "Q4 2025 | Mar '25 Mar 31, 2025", "Q3 2025 | Dec '24 Dec 31, 2024", "Q2 2025 | Sep '24 Sep 30, 2024"]
+  table4 shape=(3, 20) cols=['Fiscal Quarter | Period Ending', "Q2 2027 | Sep '26 Sep 30, 2026", "Q1 2027 | Jun '26 Jun 30, 2026", "Q4 2026 | Mar '26 Mar 31, 2026", "Q3 2026 | Dec '25 Dec 31, 2025", "Q2 2026 | Sep '25 Sep 30, 2025", "Q1 2026 | Jun '25 Jun 30, 2025", "Q4 2025 | Mar '25 Mar 31, 2025", "Q3 2025 | Dec '24 Dec 31, 2024", "Q2 2025 | Sep '24 Sep 30, 2024"]
+  table5 shape=(3, 21) cols=['Fiscal Quarter | Period Ending', "Q2 2027 | Sep '26 Sep 30, 2026", "Q1 2027 | Jun '26 Jun 30, 2026", "Q4 2026 | Mar '26 Mar 31, 2026", "Q3 2026 | Dec '25 Dec 31, 2025", "Q2 2026 | Sep '25 Sep 30, 2025", "Q1 2026 | Jun '25 Jun 30, 2025", "Q4 2025 | Mar '25 Mar 31, 2025", "Q3 2025 | Dec '24 Dec 31, 2024", "Q2 2025 | Sep '24 Sep 30, 2024"]
+  unit hint: Currency is INR 
+stockanalysis income_annual: status=200 len=206138 url=https://stockanalysis.com/quote/nse/ULTRACEMCO/financials/income-statement/
+  table0 shape=(34, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table1 shape=(15, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  unit hint: Currency is INR 
+stockanalysis income_quarterly: status=200 len=256862 url=https://stockanalysis.com/quote/nse/ULTRACEMCO/financials/income-statement/?p=quarterly
+  table0 shape=(34, 21) cols=['Fiscal Quarter | Period Ending', "Q2 2027 | Sep '26 Sep 30, 2026", "Q1 2027 | Jun '26 Jun 30, 2026", "Q4 2026 | Mar '26 Mar 31, 2026", "Q3 2026 | Dec '25 Dec 31, 2025", "Q2 2026 | Sep '25 Sep 30, 2025", "Q1 2026 | Jun '25 Jun 30, 2025", "Q4 2025 | Mar '25 Mar 31, 2025", "Q3 2025 | Dec '24 Dec 31, 2024", "Q2 2025 | Sep '24 Sep 30, 2024"]
+  table1 shape=(12, 21) cols=['Fiscal Quarter | Period Ending', "Q2 2027 | Sep '26 Sep 30, 2026", "Q1 2027 | Jun '26 Jun 30, 2026", "Q4 2026 | Mar '26 Mar 31, 2026", "Q3 2026 | Dec '25 Dec 31, 2025", "Q2 2026 | Sep '25 Sep 30, 2025", "Q1 2026 | Jun '25 Jun 30, 2025", "Q4 2025 | Mar '25 Mar 31, 2025", "Q3 2025 | Dec '24 Dec 31, 2024", "Q2 2025 | Sep '24 Sep 30, 2024"]
+  unit hint: Currency is INR 
+stockanalysis balance_annual: status=200 len=257979 url=https://stockanalysis.com/quote/nse/ULTRACEMCO/financials/balance-sheet/
+  table0 shape=(19, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table1 shape=(16, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table2 shape=(9, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table3 shape=(14, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  unit hint: Currency is INR 
+stockanalysis balance_quarterly: status=200 len=331531 url=https://stockanalysis.com/quote/nse/ULTRACEMCO/financials/balance-sheet/?p=quarterly
+  table0 shape=(19, 21) cols=['Fiscal Quarter | Period Ending', "Q2 2027 | Sep '26 Sep 30, 2026", "Q1 2027 | Jun '26 Jun 30, 2026", "Q4 2026 | Mar '26 Mar 31, 2026", "Q3 2026 | Dec '25 Dec 31, 2025", "Q2 2026 | Sep '25 Sep 30, 2025", "Q1 2026 | Jun '25 Jun 30, 2025", "Q4 2025 | Mar '25 Mar 31, 2025", "Q3 2025 | Dec '24 Dec 31, 2024", "Q2 2025 | Sep '24 Sep 30, 2024"]
+  table1 shape=(16, 21) cols=['Fiscal Quarter | Period Ending', "Q2 2027 | Sep '26 Sep 30, 2026", "Q1 2027 | Jun '26 Jun 30, 2026", "Q4 2026 | Mar '26 Mar 31, 2026", "Q3 2026 | Dec '25 Dec 31, 2025", "Q2 2026 | Sep '25 Sep 30, 2025", "Q1 2026 | Jun '25 Jun 30, 2025", "Q4 2025 | Mar '25 Mar 31, 2025", "Q3 2025 | Dec '24 Dec 31, 2024", "Q2 2025 | Sep '24 Sep 30, 2024"]
+  table2 shape=(9, 21) cols=['Fiscal Quarter | Period Ending', "Q2 2027 | Sep '26 Sep 30, 2026", "Q1 2027 | Jun '26 Jun 30, 2026", "Q4 2026 | Mar '26 Mar 31, 2026", "Q3 2026 | Dec '25 Dec 31, 2025", "Q2 2026 | Sep '25 Sep 30, 2025", "Q1 2026 | Jun '25 Jun 30, 2025", "Q4 2025 | Mar '25 Mar 31, 2025", "Q3 2025 | Dec '24 Dec 31, 2024", "Q2 2025 | Sep '24 Sep 30, 2024"]
+  table3 shape=(14, 21) cols=['Fiscal Quarter | Period Ending', "Q2 2027 | Sep '26 Sep 30, 2026", "Q1 2027 | Jun '26 Jun 30, 2026", "Q4 2026 | Mar '26 Mar 31, 2026", "Q3 2026 | Dec '25 Dec 31, 2025", "Q2 2026 | Sep '25 Sep 30, 2025", "Q1 2026 | Jun '25 Jun 30, 2025", "Q4 2025 | Mar '25 Mar 31, 2025", "Q3 2025 | Dec '24 Dec 31, 2024", "Q2 2025 | Sep '24 Sep 30, 2024"]
+  unit hint: Currency is INR 
+stockanalysis cashflow_annual: status=200 len=255952 url=https://stockanalysis.com/quote/nse/ULTRACEMCO/financials/cash-flow-statement/
+  table0 shape=(16, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table1 shape=(7, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table2 shape=(14, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table3 shape=(3, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table4 shape=(7, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table5 shape=(3, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  unit hint: Currency is INR 
+stockanalysis ratios_annual: status=200 len=184410 url=https://stockanalysis.com/quote/nse/ULTRACEMCO/financials/ratios/
+  table0 shape=(4, 7) cols=['Fiscal Year | Period Ending', "Current | Oct '26 Oct 29, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table1 shape=(8, 7) cols=['Fiscal Year | Period Ending', "Current | Oct '26 Oct 29, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table2 shape=(4, 7) cols=['Fiscal Year | Period Ending', "Current | Oct '26 Oct 29, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table3 shape=(14, 7) cols=['Fiscal Year | Period Ending', "Current | Oct '26 Oct 29, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  table4 shape=(6, 7) cols=['Fiscal Year | Period Ending', "Current | Oct '26 Oct 29, 2026", "FY 2026 | Mar '26 Mar 31, 2026", "FY 2025 | Mar '25 Mar 31, 2025", "FY 2024 | Mar '24 Mar 31, 2024", "FY 2023 | Mar '23 Mar 31, 2023", "FY 2022 | Mar '22 Mar 31, 2022"]
+  unit hint: Currency is INR 
+stockanalysis statistics: status=200 len=125214 url=https://stockanalysis.com/quote/nse/ULTRACEMCO/statistics/
+  table0 shape=(2, 2) cols=['0', '1']
+  table1 shape=(2, 2) cols=['0', '1']
+  table2 shape=(7, 2) cols=['0', '1']
+  table3 shape=(8, 2) cols=['0', '1']
+  table4 shape=(5, 2) cols=['0', '1']
+  table5 shape=(6, 2) cols=['0', '1']
+  table6 shape=(10, 2) cols=['0', '1']
+  table7 shape=(2, 2) cols=['0', '1']
+  table8 shape=(6, 2) cols=['0', '1']
+  table9 shape=(5, 2) cols=['0', '1']
+  table10 shape=(8, 2) cols=['0', '1']
+  table11 shape=(7, 2) cols=['0', '1']
+  table12 shape=(6, 2) cols=['0', '1']
+  table13 shape=(7, 2) cols=['0', '1']
+  table14 shape=(10, 2) cols=['0', '1']
+  table15 shape=(4, 2) cols=['0', '1']
+  table16 shape=(6, 2) cols=['0', '1']
+  table17 shape=(3, 2) cols=['0', '1']
+  table18 shape=(2, 2) cols=['0', '1']
+  unit hint: Currency is INR 
+stockanalysis forecast: status=200 len=165642 url=https://stockanalysis.com/quote/nse/ULTRACEMCO/forecast/
+  table0 shape=(2, 5) cols=['Target', 'Low', 'Average', 'Median', 'High']
+  table1 shape=(6, 7) cols=['Rating', "May '26", "Jun '26", "Jul '26", "Aug '26", "Sep '26", "Oct '26"]
+  table2 shape=(4, 8) cols=['Analyst', 'Firm', 'Rating', 'Rating.1', 'Action', 'Price Target', 'Upside', 'Date']
+  table3 shape=(10, 9) cols=['Fiscal Year | Period Ending', 'FY 2022 | Mar 31, 2022', 'FY 2023 | Mar 31, 2023', 'FY 2024 | Mar 31, 2024', 'FY 2025 | Mar 31, 2025', 'FY 2026 | Mar 31, 2026', 'FY 2027 | Mar 31, 2027', 'FY 2028 | Mar 31, 2028', 'FY 2029 | Mar 31, 2029']
+  table4 shape=(3, 4) cols=['Revenue', '2027', '2028', '2029']
+  table5 shape=(3, 4) cols=['Revenue Growth', '2027', '2028', '2029']
+  table6 shape=(3, 4) cols=['EPS', '2027', '2028', '2029']
+  table7 shape=(3, 4) cols=['EPS Growth', '2027', '2028', '2029']
+  unit hint: Currency is INR 
+yahoo: {"ticker": "ULTRACEMCO.NS", "source": "Yahoo Finance via yfinance (auto_adjust=False)", "fetched_utc": "2026-11-01 02:11:52", "close_date": "2026-10-30", "close": 11045.0, "adj_close": 11045.0, "high_52w": 13110.0, "low_52w": 10325.0, "dividends": {"2021-08-02": 37.0, "2022-08-02": 38.0, "2023-07-27": 38.0, "2024-07-30": 70.0, "2025-07-25": 77.5, "2026-07-30": 240.0}}

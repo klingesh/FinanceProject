@@ -1,0 +1,18 @@
+{
+  "ticker": "ULTRACEMCO.NS",
+  "source": "Yahoo Finance via yfinance (auto_adjust=False)",
+  "fetched_utc": "2026-11-01 02:11:52",
+  "close_date": "2026-10-30",
+  "close": 11045.0,
+  "adj_close": 11045.0,
+  "high_52w": 13110.0,
+  "low_52w": 10325.0,
+  "dividends": {
+    "2021-08-02": 37.0,
+    "2022-08-02": 38.0,
+    "2023-07-27": 38.0,
+    "2024-07-30": 70.0,
+    "2025-07-25": 77.5,
+    "2026-07-30": 240.0
+  }
+}

@@ -1,0 +1,214 @@
+scenario,sheet,line,label,unit,FY2026A,FY2027E,FY2028E,FY2029E,FY2030E,FY2031E
+Base,Income_Statement,cap_close,Capacity at end of year,MTPA,196.8,213.1,242.9,254.9,266.9,278.9
+Base,Income_Statement,adds,Capacity additions,MTPA,8.0,16.3,29.8,12.0,12.0,12.0
+Base,Income_Statement,vol,Sales volume,MnT,154.25,168.059,182.4,199.12,211.329,223.778
+Base,Income_Statement,util,Capacity utilisation,%,0.8001,0.82,0.8,0.8,0.81,0.82
+Base,Income_Statement,real,Realisation (net sales per tonne),Rs/t,5665.0891,5891.6927,6009.5266,6129.7171,6252.3114,6377.3577
+Base,Income_Statement,rm_t,Raw materials per tonne (incl. traded goods),Rs/t,1114.3183,1142.1763,1170.7307,1199.9989,1229.9989,1260.7489
+Base,Income_Statement,pf_t,Power and fuel per tonne,Rs/t,1270.4804,1346.7092,1366.9099,1387.4135,1408.2247,1429.3481
+Base,Income_Statement,fr_t,Freight and forwarding per tonne,Rs/t,1242.7313,1273.7996,1305.6446,1338.2857,1371.7428,1406.0364
+Base,Income_Statement,oth_t,Other expenses per tonne,Rs/t,737.388,755.8227,774.7183,794.0862,813.9384,834.2868
+Base,Income_Statement,ebitda_t,EBITDA per tonne,Rs/t,1103.4185,1179.2195,1197.917,1218.2909,1231.0294,1243.0097
+Base,Income_Statement,ns,Net sales,Rs crore,87384.0,99015.1985,109613.7645,122054.9267,132129.4723,142711.2343
+Base,Income_Statement,rev,Revenue from operations,Rs crore,88511.53,100292.4945,111027.782,123629.4353,133833.9425,144552.2092
+Base,Income_Statement,opex,Total operating costs,Rs crore,71491.3,80474.6491,89177.7762,99370.8263,107818.7218,116736.3868
+Base,Income_Statement,ebitda,EBITDA,Rs crore,17020.23,19817.8455,21850.0059,24258.609,26015.2207,27815.8225
+Base,Income_Statement,ebitda_m,EBITDA margin,%,0.1923,0.1976,0.1968,0.1962,0.1944,0.1924
+Base,Income_Statement,da,Depreciation and amortisation,Rs crore,4644.46,4962.9975,5271.5611,5569.5812,5777.1884,5839.7415
+Base,Income_Statement,ebit,EBIT,Rs crore,12375.77,14854.848,16578.4447,18689.0278,20238.0323,21976.081
+Base,Income_Statement,oi,Other income,Rs crore,577.51,481.7449,490.3742,490.3742,504.8065,823.503
+Base,Income_Statement,fin,Finance costs,Rs crore,1871.71,2024.9039,2088.6816,2246.292,1834.1604,1735.8957
+Base,Income_Statement,pbt,Profit before tax,Rs crore,10927.19,13311.689,14980.1373,16933.11,18908.6784,21063.6883
+Base,Income_Statement,tax,Tax expense,Rs crore,2738.84,3350.5521,3770.5006,4262.0638,4759.3144,5301.7303
+Base,Income_Statement,pat,Profit after tax,Rs crore,8188.35,9961.1368,11209.6368,12671.0462,14149.3641,15761.9579
+Base,Income_Statement,nci,Non-controlling interest,Rs crore,22.71,49.8057,56.0482,63.3552,70.7468,78.8098
+Base,Income_Statement,own,Profit attributable to owners,Rs crore,8165.64,9911.3312,11153.5886,12607.691,14078.6172,15683.1481
+Base,Income_Statement,eps,EPS (basic),Rs,277.6484,337.0055,379.2448,428.6872,478.7017,533.259
+Base,Balance_Sheet,capex_exp,Expansion capex,Rs crore,,9957.6,9028.8,5184.0,5184.0,5184.0
+Base,Balance_Sheet,capex_mnt,Maintenance and other capex,Rs crore,,1476.0,1598.25,1821.75,1911.75,2001.75
+Base,Balance_Sheet,capex,Total capex,Rs crore,9677.77,11433.6,10627.05,7005.75,7095.75,7185.75
+Base,Balance_Sheet,capz,- Capitalised into fixed assets,Rs crore,,11134.27,11231.9625,9721.725,7028.25,7118.25
+Base,Balance_Sheet,cwip_close,Capital work-in-progress at end of year,Rs crore,8275.87,8575.2,7970.2875,5254.3125,5321.8125,5389.3125
+Base,Balance_Sheet,nfa_close,Net fixed assets at end of year,Rs crore,99259.95,105431.2225,111391.6239,115543.7677,116794.8293,118073.3378
+Base,Balance_Sheet,inv,Inventories,Rs crore,9694.28,11023.9245,12216.1337,13612.442,14769.6879,15991.2859
+Base,Balance_Sheet,rec,Trade receivables,Rs crore,6028.75,6869.3489,7604.6426,8467.7695,9166.7084,9900.8362
+Base,Balance_Sheet,pay,Trade payables,Rs crore,10236.71,11464.8815,12704.7791,14156.9396,15360.4754,16630.9373
+Base,Balance_Sheet,nwc,Trade working capital (inventories + receivables - payables),Rs crore,5486.32,6428.392,7115.9973,7923.2719,8575.9209,9261.1848
+Base,Balance_Sheet,a_cash,Cash and cash equivalents,Rs crore,354.48,500.0,500.0,743.3779,6117.6859,10912.3627
+Base,Balance_Sheet,ta,Total assets,Rs crore,141376.05,150162.416,157445.4077,161384.3896,169933.444,178029.8551
+Base,Balance_Sheet,te,Total equity,Rs crore,80712.44,83615.1768,89869.148,96963.4,104808.9185,113531.5678
+Base,Balance_Sheet,l_debt,Borrowings (term debt + revolver),Rs crore,22780.66,27436.1176,27225.2406,22617.81,22117.81,20221.11
+Base,Balance_Sheet,tel,Total equity and liabilities,Rs crore,141376.05,150162.416,157445.4077,161384.3896,169933.444,178029.8551
+Base,Balance_Sheet,bal,Balance check: assets - equity - liabilities (must be 0),Rs crore,0.0,0.0,0.0,0.0,0.0,0.0
+Base,Balance_Sheet,oe_div,- Dividends paid,Rs crore,2273.36,7058.4,4955.6656,5576.7943,6303.8455,7039.3086
+Base,Balance_Sheet,dps,Dividend per share paid in the year,Rs,77.2989,240.0,168.5027,189.6224,214.3436,239.3509
+Base,Balance_Sheet,nd,Net debt (borrowings - cash - other bank balances - current investments),Rs crore,17660.69,22170.6276,21959.7506,17108.9421,11234.6341,4543.2573
+Base,Balance_Sheet,nd_e,Net debt / EBITDA,x,1.0376,1.1187,1.005,0.7053,0.4318,0.1633
+Base,Balance_Sheet,ce,Capital employed (total equity + borrowings + lease liabilities),Rs crore,104467.53,112025.7245,118068.8186,120555.64,127901.1585,134727.1078
+Base,Balance_Sheet,roce,ROCE (EBIT + other income) / average capital employed,%,0.128,0.1417,0.1484,0.1607,0.167,0.1736
+Base,Cash_Flow,pat,Profit after tax (incl. minority share),Rs crore,,9961.1368,11209.6368,12671.0462,14149.3641,15761.9579
+Base,Cash_Flow,da,+ Depreciation and amortisation,Rs crore,,4962.9975,5271.5611,5569.5812,5777.1884,5839.7415
+Base,Cash_Flow,d_inv,- Increase in inventories,Rs crore,,-1329.6445,-1192.2092,-1396.3082,-1157.246,-1221.5979
+Base,Cash_Flow,d_rec,- Increase in trade receivables,Rs crore,,-840.5989,-735.2937,-863.1269,-698.9388,-734.1279
+Base,Cash_Flow,d_pay,+ Increase in trade payables,Rs crore,,1228.1715,1239.8976,1452.1606,1203.5358,1270.4619
+Base,Cash_Flow,cfo,Cash flow from operations (CFO),Rs crore,15315.86,13982.0624,15793.5926,17433.3528,19273.9034,20916.4355
+Base,Cash_Flow,capex,Capital expenditure,Rs crore,-9677.77,-11433.6,-10627.05,-7005.75,-7095.75,-7185.75
+Base,Cash_Flow,cfi,Cash flow from investing (CFI),Rs crore,-9480.08,-11433.6,-10627.05,-7005.75,-7095.75,-7185.75
+Base,Cash_Flow,new,+ New term debt drawn,Rs crore,,5000.0,3989.43,0.0,500.0,1896.7
+Base,Cash_Flow,rep,- Scheduled repayments,Rs crore,,-1173.42,-7978.86,0.0,-1000.0,-3793.4
+Base,Cash_Flow,rev,+ Revolver drawn / (repaid),Rs crore,,828.8776,3778.553,-4607.4306,0.0,0.0
+Base,Cash_Flow,div,- Dividends paid,Rs crore,,-7058.4,-4955.6656,-5576.7943,-6303.8455,-7039.3086
+Base,Cash_Flow,cff,Cash flow from financing (CFF),Rs crore,-5953.57,-2402.9424,-5166.5426,-10184.2249,-6803.8455,-8936.0086
+Base,Cash_Flow,net,Net change in cash,Rs crore,-117.79,145.52,0.0,243.3779,5374.3079,4794.6768
+Base,Cash_Flow,close,Cash at end of year,Rs crore,354.48,500.0,500.0,743.3779,6117.6859,10912.3627
+Base,Cash_Flow,fcf,Free cash flow (CFO - capex),Rs crore,5638.09,2548.4624,5166.5426,10427.6028,12178.1534,13730.6855
+Base,Debt_Schedule,t_close,Term debt at end of year,Rs crore,22780.66,26607.24,22617.81,22617.81,22117.81,20221.11
+Base,Debt_Schedule,t_int,Interest on term debt (rate x average balance),Rs crore,,2024.9039,2018.227,1854.6604,1834.1604,1735.8957
+Base,Debt_Schedule,r_draw,Revolver drawn / (repaid),Rs crore,,828.8776,3778.553,-4607.4306,0.0,0.0
+Base,Debt_Schedule,r_close,Revolver at end of year,Rs crore,0.0,828.8776,4607.4306,0.0,0.0,0.0
+Base,Debt_Schedule,r_int,Interest on revolver (rate x opening balance),Rs crore,,0.0,70.4546,391.6316,0.0,0.0
+Base,Debt_Schedule,fin_total,Total finance costs (to the income statement),Rs crore,1871.71,2024.9039,2088.6816,2246.292,1834.1604,1735.8957
+Base,Debt_Schedule,debt_total,Total borrowings (to the balance sheet),Rs crore,22780.66,27436.1176,27225.2406,22617.81,22117.81,20221.11
+Base,Debt_Schedule,icov,Interest cover (EBIT / finance costs),x,6.612,7.3361,7.9373,8.3199,11.0339,12.6598
+Bull,Income_Statement,cap_close,Capacity at end of year,MTPA,196.8,213.1,242.9,257.9,272.9,287.9
+Bull,Income_Statement,adds,Capacity additions,MTPA,8.0,16.3,29.8,15.0,15.0,15.0
+Bull,Income_Statement,vol,Sales volume,MnT,154.25,172.158,189.24,207.832,222.936,238.34
+Bull,Income_Statement,util,Capacity utilisation,%,0.8001,0.84,0.83,0.83,0.84,0.85
+Bull,Income_Statement,real,Realisation (net sales per tonne),Rs/t,5665.0891,5976.669,6126.0858,6279.2379,6436.2189,6597.1243
+Bull,Income_Statement,rm_t,Raw materials per tonne (incl. traded goods),Rs/t,1114.3183,1136.6047,1159.3368,1182.5235,1206.174,1230.2975
+Bull,Income_Statement,pf_t,Power and fuel per tonne,Rs/t,1270.4804,1308.5948,1315.1378,1321.7135,1328.322,1334.9636
+Bull,Income_Statement,fr_t,Freight and forwarding per tonne,Rs/t,1242.7313,1267.5859,1292.9376,1318.7964,1345.1723,1372.0758
+Bull,Income_Statement,oth_t,Other expenses per tonne,Rs/t,737.388,752.1358,767.1785,782.5221,798.1725,814.1359
+Bull,Income_Statement,ebitda_t,EBITDA per tonne,Rs/t,1103.4185,1327.7243,1413.9654,1502.3907,1587.3883,1674.1467
+Bull,Income_Statement,ns,Net sales,Rs crore,87384.0,102893.1389,115930.0471,130502.6574,143486.4888,157235.8614
+Bull,Income_Statement,rev,Revenue from operations,Rs crore,88511.53,104220.4604,117425.5447,132186.1417,145337.4645,159264.204
+Bull,Income_Statement,opex,Total operating costs,Rs crore,71491.3,81362.6248,90667.6636,100961.6546,109948.8655,119362.5925
+Bull,Income_Statement,ebitda,EBITDA,Rs crore,17020.23,22857.8356,26757.8811,31224.4871,35388.599,39901.6115
+Bull,Income_Statement,ebitda_m,EBITDA margin,%,0.1923,0.2193,0.2279,0.2362,0.2435,0.2505
+Bull,Income_Statement,da,Depreciation and amortisation,Rs crore,4644.46,4962.9975,5265.2224,5546.4831,5773.1402,5884.477
+Bull,Income_Statement,ebit,EBIT,Rs crore,12375.77,17894.8381,21492.6588,25678.0039,29615.4588,34017.1345
+Bull,Income_Statement,oi,Other income,Rs crore,577.51,481.7449,649.3042,574.7272,1021.0272,1550.8003
+Bull,Income_Statement,fin,Finance costs,Rs crore,1871.71,1975.516,1969.002,1809.4248,1789.4248,1693.5568
+Bull,Income_Statement,pbt,Profit before tax,Rs crore,10927.19,16401.067,20172.9609,24443.3064,28847.0613,33874.378
+Bull,Income_Statement,tax,Tax expense,Rs crore,2738.84,4128.1486,5077.5343,6152.3802,7260.8053,8526.1809
+Bull,Income_Statement,pat,Profit after tax,Rs crore,8188.35,12272.9184,15095.4267,18290.9262,21586.2559,25348.1971
+Bull,Income_Statement,nci,Non-controlling interest,Rs crore,22.71,61.3646,75.4771,91.4546,107.9313,126.741
+Bull,Income_Statement,own,Profit attributable to owners,Rs crore,8165.64,12211.5539,15019.9495,18199.4715,21478.3247,25221.4561
+Bull,Income_Statement,eps,EPS (basic),Rs,277.6484,415.2177,510.7089,618.8192,730.3069,857.581
+Bull,Balance_Sheet,capex_exp,Expansion capex,Rs crore,,9450.5,9184.0,6150.0,6150.0,6150.0
+Bull,Balance_Sheet,capex_mnt,Maintenance and other capex,Rs crore,,1476.0,1598.25,1821.75,1934.25,2046.75
+Bull,Balance_Sheet,capex,Total capex,Rs crore,9677.77,10926.5,10782.25,7971.75,8084.25,8196.75
+Bull,Balance_Sheet,capz,- Capitalised into fixed assets,Rs crore,,11007.495,10890.4375,10079.625,7999.875,8112.375
+Bull,Balance_Sheet,cwip_close,Capital work-in-progress at end of year,Rs crore,8275.87,8194.875,8086.6875,5978.8125,6063.1875,6147.5625
+Bull,Balance_Sheet,nfa_close,Net fixed assets at end of year,Rs crore,99259.95,105304.4475,110929.6626,115462.8045,117689.5393,119917.4373
+Bull,Balance_Sheet,inv,Inventories,Rs crore,9694.28,10699.7424,11923.4188,13277.1491,14459.0289,15696.9985
+Bull,Balance_Sheet,rec,Trade receivables,Rs crore,6028.75,6852.8522,7721.1317,8691.6915,9556.436,10472.1668
+Bull,Balance_Sheet,pay,Trade payables,Rs crore,10236.71,11814.2989,13165.4416,14660.1855,15965.1777,17332.1025
+Bull,Balance_Sheet,nwc,Trade working capital (inventories + receivables - payables),Rs crore,5486.32,5738.2957,6479.1089,7308.6551,8050.2872,8837.0628
+Bull,Balance_Sheet,a_cash,Cash and cash equivalents,Rs crore,354.48,3180.1003,1922.4792,9448.6174,18382.3958,27995.6819
+Bull,Balance_Sheet,ta,Total assets,Rs crore,141376.05,151994.7374,158346.0998,170621.7951,183913.3075,197992.567
+Bull,Balance_Sheet,te,Total equity,Rs crore,80712.44,85926.9584,94916.6082,105697.5596,118184.0798,132793.1145
+Bull,Balance_Sheet,l_debt,Borrowings (term debt + revolver),Rs crore,22780.66,26607.24,22617.81,22617.81,22117.81,20221.11
+Bull,Balance_Sheet,tel,Total equity and liabilities,Rs crore,141376.05,151994.7374,158346.0998,170621.7951,183913.3075,197992.567
+Bull,Balance_Sheet,bal,Balance check: assets - equity - liabilities (must be 0),Rs crore,0.0,0.0,0.0,0.0,0.0,0.0
+Bull,Balance_Sheet,oe_div,- Dividends paid,Rs crore,2273.36,7058.4,6105.7769,7509.9748,9099.7358,10739.1623
+Bull,Balance_Sheet,dps,Dividend per share paid in the year,Rs,77.2989,240.0,207.6089,255.3545,309.4096,365.1534
+Bull,Balance_Sheet,nd,Net debt (borrowings - cash - other bank balances - current investments),Rs crore,17660.69,18661.6497,15929.8408,8403.7026,-1030.0758,-12540.0619
+Bull,Balance_Sheet,nd_e,Net debt / EBITDA,x,1.0376,0.8164,0.5953,0.2691,-0.0291,-0.3143
+Bull,Balance_Sheet,ce,Capital employed (total equity + borrowings + lease liabilities),Rs crore,104467.53,113508.6284,118508.8482,129289.7996,141276.3198,153988.6545
+Bull,Balance_Sheet,roce,ROCE (EBIT + other income) / average capital employed,%,0.128,0.1686,0.1909,0.2119,0.2265,0.2409
+Bull,Cash_Flow,pat,Profit after tax (incl. minority share),Rs crore,,12272.9184,15095.4267,18290.9262,21586.2559,25348.1971
+Bull,Cash_Flow,da,+ Depreciation and amortisation,Rs crore,,4962.9975,5265.2224,5546.4831,5773.1402,5884.477
+Bull,Cash_Flow,d_inv,- Increase in inventories,Rs crore,,-1005.4624,-1223.6763,-1353.7303,-1181.8798,-1237.9696
+Bull,Cash_Flow,d_rec,- Increase in trade receivables,Rs crore,,-824.1022,-868.2795,-970.5598,-864.7445,-915.7308
+Bull,Cash_Flow,d_pay,+ Increase in trade payables,Rs crore,,1577.5889,1351.1426,1494.7439,1304.9923,1366.9247
+Bull,Cash_Flow,cfo,Cash flow from operations (CFO),Rs crore,15315.86,16983.9403,19619.8358,23007.8631,26617.7641,30445.8984
+Bull,Cash_Flow,capex,Capital expenditure,Rs crore,-9677.77,-10926.5,-10782.25,-7971.75,-8084.25,-8196.75
+Bull,Cash_Flow,cfi,Cash flow from investing (CFI),Rs crore,-9480.08,-10926.5,-10782.25,-7971.75,-8084.25,-8196.75
+Bull,Cash_Flow,new,+ New term debt drawn,Rs crore,,5000.0,3989.43,0.0,500.0,1896.7
+Bull,Cash_Flow,rep,- Scheduled repayments,Rs crore,,-1173.42,-7978.86,0.0,-1000.0,-3793.4
+Bull,Cash_Flow,rev,+ Revolver drawn / (repaid),Rs crore,,0.0,0.0,0.0,0.0,0.0
+Bull,Cash_Flow,div,- Dividends paid,Rs crore,,-7058.4,-6105.7769,-7509.9748,-9099.7358,-10739.1623
+Bull,Cash_Flow,cff,Cash flow from financing (CFF),Rs crore,-5953.57,-3231.82,-10095.2069,-7509.9748,-9599.7358,-12635.8623
+Bull,Cash_Flow,net,Net change in cash,Rs crore,-117.79,2825.6203,-1257.6211,7526.1383,8933.7784,9613.286
+Bull,Cash_Flow,close,Cash at end of year,Rs crore,354.48,3180.1003,1922.4792,9448.6174,18382.3958,27995.6819
+Bull,Cash_Flow,fcf,Free cash flow (CFO - capex),Rs crore,5638.09,6057.4403,8837.5858,15036.1131,18533.5141,22249.1484
+Bull,Debt_Schedule,t_close,Term debt at end of year,Rs crore,22780.66,26607.24,22617.81,22617.81,22117.81,20221.11
+Bull,Debt_Schedule,t_int,Interest on term debt (rate x average balance),Rs crore,,1975.516,1969.002,1809.4248,1789.4248,1693.5568
+Bull,Debt_Schedule,r_draw,Revolver drawn / (repaid),Rs crore,,0.0,0.0,0.0,0.0,0.0
+Bull,Debt_Schedule,r_close,Revolver at end of year,Rs crore,0.0,0.0,0.0,0.0,0.0,0.0
+Bull,Debt_Schedule,r_int,Interest on revolver (rate x opening balance),Rs crore,,0.0,0.0,0.0,0.0,0.0
+Bull,Debt_Schedule,fin_total,Total finance costs (to the income statement),Rs crore,1871.71,1975.516,1969.002,1809.4248,1789.4248,1693.5568
+Bull,Debt_Schedule,debt_total,Total borrowings (to the balance sheet),Rs crore,22780.66,26607.24,22617.81,22617.81,22117.81,20221.11
+Bull,Debt_Schedule,icov,Interest cover (EBIT / finance costs),x,6.612,9.0583,10.9155,14.1913,16.5503,20.0862
+Bear,Income_Statement,cap_close,Capacity at end of year,MTPA,196.8,213.1,235.9,247.9,253.9,259.9
+Bear,Income_Statement,adds,Capacity additions,MTPA,8.0,16.3,22.8,12.0,6.0,6.0
+Bear,Income_Statement,vol,Sales volume,MnT,154.25,161.9105,168.375,181.425,190.684,197.813
+Bear,Income_Statement,util,Capacity utilisation,%,0.8001,0.79,0.75,0.75,0.76,0.77
+Bear,Income_Statement,real,Realisation (net sales per tonne),Rs/t,5665.0891,5778.3909,5865.0668,5953.0428,6042.3384,6132.9735
+Bear,Income_Statement,rm_t,Raw materials per tonne (incl. traded goods),Rs/t,1114.3183,1142.1763,1170.7307,1199.9989,1229.9989,1260.7489
+Bear,Income_Statement,pf_t,Power and fuel per tonne,Rs/t,1270.4804,1372.1188,1385.84,1399.6984,1413.6954,1427.8323
+Bear,Income_Statement,fr_t,Freight and forwarding per tonne,Rs/t,1242.7313,1273.7996,1305.6446,1338.2857,1371.7428,1406.0364
+Bear,Income_Statement,oth_t,Other expenses per tonne,Rs/t,737.388,755.8227,774.7183,794.0862,813.9384,834.2868
+Bear,Income_Statement,ebitda_t,EBITDA per tonne,Rs/t,1103.4185,1026.2238,1004.6655,992.396,971.3108,944.2961
+Bear,Income_Statement,ns,Net sales,Rs crore,87384.0,93558.2164,98753.062,108003.0788,115217.7261,121318.1889
+Bear,Income_Statement,rev,Revenue from operations,Rs crore,88511.53,94765.1174,100026.9765,109396.3185,116704.0348,122883.1935
+Bear,Income_Statement,opex,Total operating costs,Rs crore,71491.3,78149.4772,83110.9204,91391.774,98182.6923,104203.7891
+Bear,Income_Statement,ebitda,EBITDA,Rs crore,17020.23,16615.6402,16916.0561,18004.5445,18521.3425,18679.4044
+Bear,Income_Statement,ebitda_m,EBITDA margin,%,0.1923,0.1753,0.1691,0.1646,0.1587,0.152
+Bear,Income_Statement,da,Depreciation and amortisation,Rs crore,4644.46,4962.9975,5263.1693,5526.8858,5695.9665,5696.6932
+Bear,Income_Statement,ebit,EBIT,Rs crore,12375.77,11652.6427,11652.8869,12477.6587,12825.376,12982.7112
+Bear,Income_Statement,oi,Other income,Rs crore,577.51,481.7449,490.3742,490.3742,490.3742,490.3742
+Bear,Income_Statement,fin,Finance costs,Rs crore,1871.71,2123.6797,2484.3315,2784.2414,2533.4237,2079.4088
+Bear,Income_Statement,pbt,Profit before tax,Rs crore,10927.19,10010.7079,9658.9296,10183.7915,10782.3265,11393.6767
+Bear,Income_Statement,tax,Tax expense,Rs crore,2738.84,2519.6952,2431.1526,2563.2603,2713.9116,2867.7884
+Bear,Income_Statement,pat,Profit after tax,Rs crore,8188.35,7491.0127,7227.777,7620.5312,8068.4149,8525.8883
+Bear,Income_Statement,nci,Non-controlling interest,Rs crore,22.71,37.4551,36.1389,38.1027,40.3421,42.6294
+Bear,Income_Statement,own,Profit attributable to owners,Rs crore,8165.64,7453.5576,7191.6381,7582.4286,8028.0728,8483.2588
+Bear,Income_Statement,eps,EPS (basic),Rs,277.6484,253.4362,244.5304,257.818,272.9709,288.4481
+Bear,Balance_Sheet,capex_exp,Expansion capex,Rs crore,,9286.25,8265.0,4275.0,2850.0,2850.0
+Bear,Balance_Sheet,capex_mnt,Maintenance and other capex,Rs crore,,1476.0,1598.25,1769.25,1859.25,1904.25
+Bear,Balance_Sheet,capex,Total capex,Rs crore,9677.77,10762.25,9863.25,6044.25,4709.25,4754.25
+Bear,Balance_Sheet,capz,- Capitalised into fixed assets,Rs crore,,10966.4325,10537.5,8908.5,5710.5,4720.5
+Bear,Balance_Sheet,cwip_close,Capital work-in-progress at end of year,Rs crore,8275.87,8071.6875,7397.4375,4533.1875,3531.9375,3565.6875
+Bear,Balance_Sheet,nfa_close,Net fixed assets at end of year,Rs crore,99259.95,105263.385,110537.7158,113919.33,113933.8635,112957.6703
+Bear,Balance_Sheet,inv,Inventories,Rs crore,9694.28,11561.8405,12295.8622,13520.9748,14525.6586,15416.451
+Bear,Balance_Sheet,rec,Trade receivables,Rs crore,6028.75,7269.6528,7673.3023,8392.0464,8952.6383,9426.6559
+Bear,Balance_Sheet,pay,Trade payables,Rs crore,10236.71,10705.4078,11385.0576,12519.4211,13449.6839,14274.4917
+Bear,Balance_Sheet,nwc,Trade working capital (inventories + receivables - payables),Rs crore,5486.32,8126.0855,8584.1069,9393.6,10028.613,10568.6153
+Bear,Balance_Sheet,a_cash,Cash and cash equivalents,Rs crore,354.48,500.0,500.0,500.0,500.0,500.0
+Bear,Balance_Sheet,ta,Total assets,Rs crore,141376.05,150429.2858,156167.0378,158628.2586,159206.8178,159629.1847
+Bear,Balance_Sheet,te,Total equity,Rs crore,80712.44,81145.0527,84646.0509,88670.763,92947.9637,97459.8155
+Bear,Balance_Sheet,l_debt,Borrowings (term debt + revolver),Rs crore,22780.66,30932.5853,32489.6893,29791.8345,25162.9303,20248.6375
+Bear,Balance_Sheet,tel,Total equity and liabilities,Rs crore,141376.05,150429.2858,156167.0378,158628.2586,159206.8178,159629.1847
+Bear,Balance_Sheet,bal,Balance check: assets - equity - liabilities (must be 0),Rs crore,0.0,0.0,0.0,0.0,0.0,0.0
+Bear,Balance_Sheet,oe_div,- Dividends paid,Rs crore,2273.36,7058.4,3726.7788,3595.8191,3791.2143,4014.0364
+Bear,Balance_Sheet,dps,Dividend per share paid in the year,Rs,77.2989,240.0,126.7181,122.2652,128.909,136.4854
+Bear,Balance_Sheet,nd,Net debt (borrowings - cash - other bank balances - current investments),Rs crore,17660.69,25667.0953,27224.1993,24526.3445,19897.4403,14983.1475
+Bear,Balance_Sheet,nd_e,Net debt / EBITDA,x,1.0376,1.5448,1.6094,1.3622,1.0743,0.8021
+Bear,Balance_Sheet,ce,Capital employed (total equity + borrowings + lease liabilities),Rs crore,104467.53,113052.068,118110.1702,119437.0275,119085.324,118682.8831
+Bear,Balance_Sheet,roce,ROCE (EBIT + other income) / average capital employed,%,0.128,0.1116,0.1051,0.1092,0.1117,0.1133
+Bear,Cash_Flow,pat,Profit after tax (incl. minority share),Rs crore,,7491.0127,7227.777,7620.5312,8068.4149,8525.8883
+Bear,Cash_Flow,da,+ Depreciation and amortisation,Rs crore,,4962.9975,5263.1693,5526.8858,5695.9665,5696.6932
+Bear,Cash_Flow,d_inv,- Increase in inventories,Rs crore,,-1867.5605,-734.0217,-1225.1126,-1004.6838,-890.7924
+Bear,Cash_Flow,d_rec,- Increase in trade receivables,Rs crore,,-1240.9028,-403.6495,-718.744,-560.5919,-474.0177
+Bear,Cash_Flow,d_pay,+ Increase in trade payables,Rs crore,,468.6978,679.6498,1134.3635,930.2628,824.8078
+Bear,Cash_Flow,cfo,Cash flow from operations (CFO),Rs crore,15315.86,9814.2447,12032.9248,12337.9239,13129.3685,13682.5792
+Bear,Cash_Flow,capex,Capital expenditure,Rs crore,-9677.77,-10762.25,-9863.25,-6044.25,-4709.25,-4754.25
+Bear,Cash_Flow,cfi,Cash flow from investing (CFI),Rs crore,-9480.08,-10762.25,-9863.25,-6044.25,-4709.25,-4754.25
+Bear,Cash_Flow,new,+ New term debt drawn,Rs crore,,5000.0,3989.43,0.0,500.0,1896.7
+Bear,Cash_Flow,rep,- Scheduled repayments,Rs crore,,-1173.42,-7978.86,0.0,-1000.0,-3793.4
+Bear,Cash_Flow,rev,+ Revolver drawn / (repaid),Rs crore,,4325.3453,5546.534,-2697.8548,-4128.9042,-3017.5927
+Bear,Cash_Flow,div,- Dividends paid,Rs crore,,-7058.4,-3726.7788,-3595.8191,-3791.2143,-4014.0364
+Bear,Cash_Flow,cff,Cash flow from financing (CFF),Rs crore,-5953.57,1093.5253,-2169.6748,-6293.6739,-8420.1185,-8928.3292
+Bear,Cash_Flow,net,Net change in cash,Rs crore,-117.79,145.52,0.0,0.0,0.0,0.0
+Bear,Cash_Flow,close,Cash at end of year,Rs crore,354.48,500.0,500.0,500.0,500.0,500.0
+Bear,Cash_Flow,fcf,Free cash flow (CFO - capex),Rs crore,5638.09,-948.0053,2169.6748,6293.6739,8420.1185,8928.3292
+Bear,Debt_Schedule,t_close,Term debt at end of year,Rs crore,22780.66,26607.24,22617.81,22617.81,22117.81,20221.11
+Bear,Debt_Schedule,t_int,Interest on term debt (rate x average balance),Rs crore,,2123.6797,2116.6771,1945.1317,1923.6317,1820.5736
+Bear,Debt_Schedule,r_draw,Revolver drawn / (repaid),Rs crore,,4325.3453,5546.534,-2697.8548,-4128.9042,-3017.5927
+Bear,Debt_Schedule,r_close,Revolver at end of year,Rs crore,0.0,4325.3453,9871.8793,7174.0245,3045.1203,27.5275
+Bear,Debt_Schedule,r_int,Interest on revolver (rate x opening balance),Rs crore,,0.0,367.6543,839.1097,609.7921,258.8352
+Bear,Debt_Schedule,fin_total,Total finance costs (to the income statement),Rs crore,1871.71,2123.6797,2484.3315,2784.2414,2533.4237,2079.4088
+Bear,Debt_Schedule,debt_total,Total borrowings (to the balance sheet),Rs crore,22780.66,30932.5853,32489.6893,29791.8345,25162.9303,20248.6375
+Bear,Debt_Schedule,icov,Interest cover (EBIT / finance costs),x,6.612,5.487,4.6906,4.4815,5.0625,6.2435

@@ -1,0 +1,376 @@
+{
+  "ULTRACEMCO": {
+    "url": "https://www.screener.in/company/ULTRACEMCO/consolidated/",
+    "fetched_utc": "2026-11-01 02:11:14",
+    "name": "UltraTech Cement Ltd",
+    "top_ratios": {
+      "Market Cap": {
+        "text": "\u20b9 3,25,473 Cr.",
+        "numbers": [
+          325473.0
+        ]
+      },
+      "Current Price": {
+        "text": "\u20b9 11,045",
+        "numbers": [
+          11045.0
+        ]
+      },
+      "High / Low": {
+        "text": "\u20b9 13,110 / 10,325",
+        "numbers": [
+          13110.0,
+          10325.0
+        ]
+      },
+      "Stock P/E": {
+        "text": "36.6",
+        "numbers": [
+          36.6
+        ]
+      },
+      "Book Value": {
+        "text": "\u20b9 2,497",
+        "numbers": [
+          2497.0
+        ]
+      },
+      "Dividend Yield": {
+        "text": "2.17 %",
+        "numbers": [
+          2.17
+        ]
+      },
+      "ROCE": {
+        "text": "12.7 %",
+        "numbers": [
+          12.7
+        ]
+      },
+      "ROE": {
+        "text": "11.1 %",
+        "numbers": [
+          11.1
+        ]
+      },
+      "Face Value": {
+        "text": "\u20b9 10.0",
+        "numbers": [
+          10.0
+        ]
+      }
+    },
+    "quarters_shape": [
+      11,
+      14
+    ],
+    "quarters_columns": [
+      "item",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "quarters_items": [
+      "Sales",
+      "Expenses",
+      "Operating Profit",
+      "OPM %",
+      "Other Income",
+      "Interest",
+      "Depreciation",
+      "Profit before tax",
+      "Tax %",
+      "Net Profit",
+      "EPS in Rs"
+    ],
+    "profit-loss_shape": [
+      12,
+      14
+    ],
+    "profit-loss_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026",
+      "TTM"
+    ],
+    "profit-loss_items": [
+      "Sales",
+      "Expenses",
+      "Operating Profit",
+      "OPM %",
+      "Other Income",
+      "Interest",
+      "Depreciation",
+      "Profit before tax",
+      "Tax %",
+      "Net Profit",
+      "EPS in Rs",
+      "Dividend Payout %"
+    ],
+    "balance-sheet_shape": [
+      10,
+      14
+    ],
+    "balance-sheet_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026",
+      "Sep 2026"
+    ],
+    "balance-sheet_items": [
+      "Equity Capital",
+      "Reserves",
+      "Borrowings",
+      "Other Liabilities",
+      "Total Liabilities",
+      "Fixed Assets",
+      "CWIP",
+      "Investments",
+      "Other Assets",
+      "Total Assets"
+    ],
+    "cash-flow_shape": [
+      6,
+      13
+    ],
+    "cash-flow_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "cash-flow_items": [
+      "Cash from Operating Activity",
+      "Cash from Investing Activity",
+      "Cash from Financing Activity",
+      "Net Cash Flow",
+      "Free Cash Flow",
+      "CFO/EBITDA  Share of operating profit converting into cash: CFO (before tax) / Operating Profit"
+    ],
+    "ratios_shape": [
+      6,
+      13
+    ],
+    "ratios_columns": [
+      "item",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "Mar 2026"
+    ],
+    "ratios_items": [
+      "Debtor Days",
+      "Inventory Days",
+      "Days Payable",
+      "Cash Conversion Cycle",
+      "Working Capital Days",
+      "ROCE %"
+    ],
+    "company_id": "3525",
+    "about": "UltraTech Cement is engaged in the manufacturing and sale of Cement and Cement related product primarily across globe. [1]",
+    "schedule_variant": "&consolidated=true",
+    "schedules": {
+      "profit-loss|Sales": {
+        "ok": true,
+        "keys": [
+          "Sales Growth %"
+        ]
+      },
+      "profit-loss|Expenses": {
+        "ok": true,
+        "keys": [
+          "Material Cost %",
+          "Manufacturing Cost %",
+          "Employee Cost %",
+          "Other Cost %"
+        ]
+      },
+      "profit-loss|Other Income": {
+        "ok": true,
+        "keys": [
+          "Exceptional items",
+          "Other income normal"
+        ]
+      },
+      "profit-loss|Net Profit": {
+        "ok": true,
+        "keys": [
+          "Minority share",
+          "Exceptional items AT",
+          "Profit excl Excep",
+          "Profit for PE",
+          "Profit for EPS",
+          "Profit Growth %"
+        ]
+      },
+      "quarters|Sales": {
+        "ok": true,
+        "keys": [
+          "YOY Sales Growth %"
+        ]
+      },
+      "quarters|Expenses": {
+        "ok": true,
+        "keys": [
+          "Material Cost %",
+          "Employee Cost %"
+        ]
+      },
+      "quarters|Other Income": {
+        "ok": true,
+        "keys": [
+          "Exceptional items",
+          "Other income normal"
+        ]
+      },
+      "quarters|Net Profit": {
+        "ok": true,
+        "keys": [
+          "Minority share",
+          "Exceptional items AT",
+          "Profit excl Excep",
+          "Profit for PE",
+          "Profit for EPS",
+          "YOY Profit Growth %"
+        ]
+      },
+      "balance-sheet|Borrowings": {
+        "ok": true,
+        "keys": [
+          "Long term Borrowings",
+          "Short term Borrowings",
+          "Lease Liabilities",
+          "Other Borrowings"
+        ]
+      },
+      "balance-sheet|Other Liabilities": {
+        "ok": true,
+        "keys": [
+          "Non controlling int",
+          "Trade Payables",
+          "Advance from Customers",
+          "Other liability items"
+        ]
+      },
+      "balance-sheet|Fixed Assets": {
+        "ok": true,
+        "keys": [
+          "Land",
+          "Building",
+          "Plant Machinery",
+          "Ships Vessels",
+          "Equipments",
+          "Furniture n fittings",
+          "Railway sidings",
+          "Vehicles",
+          "Intangible Assets",
+          "Other fixed assets",
+          "Gross Block",
+          "Accumulated Depreciation"
+        ]
+      },
+      "balance-sheet|Other Assets": {
+        "ok": true,
+        "keys": [
+          "Inventories",
+          "Trade receivables",
+          "Cash Equivalents",
+          "Loans n Advances",
+          "Other asset items"
+        ]
+      },
+      "balance-sheet|Investments": {
+        "ok": true,
+        "keys": []
+      },
+      "cash-flow|Cash from Operating Activity": {
+        "ok": true,
+        "keys": [
+          "Profit from operations",
+          "Receivables",
+          "Inventory",
+          "Payables",
+          "Loans Advances",
+          "Other WC items",
+          "Working capital changes",
+          "Direct taxes"
+        ]
+      },
+      "cash-flow|Cash from Investing Activity": {
+        "ok": true,
+        "keys": [
+          "Fixed assets purchased",
+          "Fixed assets sold",
+          "Investments purchased",
+          "Investments sold",
+          "Interest received",
+          "Dividends received",
+          "Invest in subsidiaries",
+          "Investment in group cos",
+          "Redemp n Canc of Shares",
+          "Acquisition of companies",
+          "Other investing items"
+        ]
+      },
+      "cash-flow|Cash from Financing Activity": {
+        "ok": true,
+        "keys": [
+          "Proceeds from shares",
+          "Proceeds from borrowings",
+          "Repayment of borrowings",
+          "Interest paid fin",
+          "Dividends paid",
+          "Financial liabilities",
+          "Other financing items"
+        ]
+      }
+    }
+  }
+}

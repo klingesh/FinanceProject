@@ -1,0 +1,35 @@
+{
+  "valuation_date": "2026-10-30",
+  "share_price_rs": 11045.0,
+  "share_price_source": "Yahoo Finance ULTRACEMCO.NS close 30-Oct-2026 (source_data/yahoo_finance/quote_30Oct2026.json)",
+  "shares_issued_crore": 29.468,
+  "shares_for_eps_crore": 29.41,
+  "shares_note": "issued = equity capital / Rs 10 face value; EPS share count = FY26 profit to owners / basic EPS (net of treasury shares held by the employee trust)",
+  "macro": {
+    "repo_rate": [
+      0.055,
+      "RBI hike of 7-Oct-2026 (The Hindu, Mint)",
+      "news_and_macro/TheHindu_RBI_repo_hike_7Oct2026.html"
+    ],
+    "tbill_91d": [
+      0.0593,
+      "RBI auction 28-Oct-2026 (Economic Times)",
+      "news_and_macro/ET_TBill_auction_28Oct2026.html"
+    ],
+    "gsec_10y": [
+      0.0741,
+      "30-Oct-2026 close: Reuters via ETBFSI 7.4139%, Trading Economics 7.40%",
+      "news_and_macro/ETBFSI_Reuters_India_bonds_30Oct2026.html"
+    ],
+    "tax_rate": [
+      0.2517,
+      "s.115BAA: 22% + 10% surcharge + 4% cess",
+      "news_and_macro/ClearTax_section_115BAA.html"
+    ],
+    "usd_inr": [
+      95.15,
+      "Yahoo INR=X close 30-Oct-2026",
+      "yahoo_finance/USDINR_INR=X_daily.csv"
+    ]
+  }
+}
