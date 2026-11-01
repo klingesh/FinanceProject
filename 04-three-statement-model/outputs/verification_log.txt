@@ -1,0 +1,32 @@
+verify run 2026-11-01 17:54 file=UltraTech_3Statement_Model.xlsx
+data table created on Cover!B43:E88 (row input cell C6)
+scenario 1 (Base): overall checks = PASS
+   data table column 1 vs live model: max abs difference 0.000000
+scenario 2 (Bull): overall checks = PASS
+   data table column 2 vs live model: max abs difference 0.000000
+scenario 3 (Bear): overall checks = PASS
+   data table column 3 vs live model: max abs difference 0.000000
+restored scenario 1 (Base); overall checks = PASS
+wrote outputs: checks_log.csv (57 rows), model_outputs_by_scenario.csv (213 rows), scenario_summary.csv (27 rows)
+openpyxl: 1328 formula cells, 0 without a cached value, 0 error values
+openpyxl: Checks!C3 = PASS; 19 of 19 checks PASS (Base saved)
+openpyxl: data table cells with numbers = 135 of 135
+   Base rev      FY2026A=88,511.53  FY2027E=100,292.49  FY2028E=111,027.78  FY2029E=123,629.44  FY2030E=133,833.94  FY2031E=144,552.21
+   Base ebitda   FY2026A=17,020.23  FY2027E=19,817.85  FY2028E=21,850.01  FY2029E=24,258.61  FY2030E=26,015.22  FY2031E=27,815.82
+   Base ebitda_t FY2026A=1,103.42  FY2027E=1,179.22  FY2028E=1,197.92  FY2029E=1,218.29  FY2030E=1,231.03  FY2031E=1,243.01
+   Base own      FY2026A=8,165.64  FY2027E=9,911.33  FY2028E=11,153.59  FY2029E=12,607.69  FY2030E=14,078.62  FY2031E=15,683.15
+   Base eps      FY2026A=277.65  FY2027E=337.01  FY2028E=379.24  FY2029E=428.69  FY2030E=478.70  FY2031E=533.26
+   Base capex    FY2026A=9,677.77  FY2027E=11,433.60  FY2028E=10,627.05  FY2029E=7,005.75  FY2030E=7,095.75  FY2031E=7,185.75
+   Base fcf      FY2026A=5,638.09  FY2027E=2,548.46  FY2028E=5,166.54  FY2029E=10,427.60  FY2030E=12,178.15  FY2031E=13,730.69
+   Base nd       FY2026A=17,660.69  FY2027E=22,170.63  FY2028E=21,959.75  FY2029E=17,108.94  FY2030E=11,234.63  FY2031E=4,543.26
+   Base nd_e     FY2026A=1.04  FY2027E=1.12  FY2028E=1.01  FY2029E=0.71  FY2030E=0.43  FY2031E=0.16
+   Base roce     FY2026A=0.13  FY2027E=0.14  FY2028E=0.15  FY2029E=0.16  FY2030E=0.17  FY2031E=0.17
+   Base util     FY2026A=0.80  FY2027E=0.82  FY2028E=0.80  FY2029E=0.80  FY2030E=0.81  FY2031E=0.82
+   Base bal      FY2026A=0.00  FY2027E=0.00  FY2028E=0.00  FY2029E=0.00  FY2030E=0.00  FY2031E=0.00
+   sanity PASS: utilisation <= 100%
+   sanity PASS: EBITDA per tonne within Rs 600-2,000
+   sanity PASS: profit to owners positive
+   sanity PASS: net debt / EBITDA below 3x
+   sanity PASS: balance check zero every year
+   sanity PASS: FY2026A revenue = 88,511.53
+RESULT: 57 of 57 checks PASS across 3 scenarios

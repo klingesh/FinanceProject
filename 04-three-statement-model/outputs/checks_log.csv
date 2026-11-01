@@ -1,0 +1,58 @@
+scenario,check_no,check,value,tolerance,result
+Base,1,Historical balance sheets balance and tie to reported total assets (FY2022-FY2026),0.0,0.5,PASS
+Base,2,"Historical P&L subtotals tie to reported total expenses, PBT and owners' profit",0.0,0.5,PASS
+Base,3,Historical cash flow: closing cash ties to reported and to balance-sheet cash,0.0,0.5,PASS
+Base,4,Forecast balance sheet balances every year: |assets - equity - liabilities| < 0.5,0.0,0.5,PASS
+Base,5,Cash-flow closing cash = balance-sheet cash every year,0.0,0.5,PASS
+Base,6,Other equity roll-forward: closing = opening + profit to owners - dividends,0.0,0.5,PASS
+Base,7,Minority interest roll-forward: closing = opening + minority share of profit,0.0,0.5,PASS
+Base,8,Fixed assets and CWIP roll-forwards tie (opening + additions - D&A / capitalisation = closing),0.0,0.5,PASS
+Base,9,No negative capitalisation or CWIP (count of cells),0.0,0.5,PASS
+Base,10,Cash never falls below the minimum balance (count of years),0.0,0.5,PASS
+Base,11,Debt is never negative: term debt and revolver (count of years),0.0,0.5,PASS
+Base,12,Revolver is repaid before surplus cash builds up (count of years with both),0.0,0.5,PASS
+Base,13,Borrowings and finance costs equal the debt schedule,0.0,0.5,PASS
+Base,14,Sum checks: cost buckets add to total costs; revenue = net sales + other operating income,0.0,0.5,PASS
+Base,15,Sum checks: net change in cash = CFO + CFI + CFF = closing - opening - other,0.0,0.5,PASS
+Base,16,Volume never exceeds capacity (count of years with utilisation above 100%),0.0,0.5,PASS
+Base,17,"FY2026A column equals the reported figures (revenue, PBT, PAT, total assets)",0.0,0.5,PASS
+Base,18,Scenario data table matches the live model for the selected scenario,0.0,0.5,PASS
+Base,19,"No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on any sheet (count)",0.0,0.5,PASS
+Bull,1,Historical balance sheets balance and tie to reported total assets (FY2022-FY2026),0.0,0.5,PASS
+Bull,2,"Historical P&L subtotals tie to reported total expenses, PBT and owners' profit",0.0,0.5,PASS
+Bull,3,Historical cash flow: closing cash ties to reported and to balance-sheet cash,0.0,0.5,PASS
+Bull,4,Forecast balance sheet balances every year: |assets - equity - liabilities| < 0.5,0.0,0.5,PASS
+Bull,5,Cash-flow closing cash = balance-sheet cash every year,0.0,0.5,PASS
+Bull,6,Other equity roll-forward: closing = opening + profit to owners - dividends,0.0,0.5,PASS
+Bull,7,Minority interest roll-forward: closing = opening + minority share of profit,0.0,0.5,PASS
+Bull,8,Fixed assets and CWIP roll-forwards tie (opening + additions - D&A / capitalisation = closing),0.0,0.5,PASS
+Bull,9,No negative capitalisation or CWIP (count of cells),0.0,0.5,PASS
+Bull,10,Cash never falls below the minimum balance (count of years),0.0,0.5,PASS
+Bull,11,Debt is never negative: term debt and revolver (count of years),0.0,0.5,PASS
+Bull,12,Revolver is repaid before surplus cash builds up (count of years with both),0.0,0.5,PASS
+Bull,13,Borrowings and finance costs equal the debt schedule,0.0,0.5,PASS
+Bull,14,Sum checks: cost buckets add to total costs; revenue = net sales + other operating income,0.0,0.5,PASS
+Bull,15,Sum checks: net change in cash = CFO + CFI + CFF = closing - opening - other,0.0,0.5,PASS
+Bull,16,Volume never exceeds capacity (count of years with utilisation above 100%),0.0,0.5,PASS
+Bull,17,"FY2026A column equals the reported figures (revenue, PBT, PAT, total assets)",0.0,0.5,PASS
+Bull,18,Scenario data table matches the live model for the selected scenario,0.0,0.5,PASS
+Bull,19,"No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on any sheet (count)",0.0,0.5,PASS
+Bear,1,Historical balance sheets balance and tie to reported total assets (FY2022-FY2026),0.0,0.5,PASS
+Bear,2,"Historical P&L subtotals tie to reported total expenses, PBT and owners' profit",0.0,0.5,PASS
+Bear,3,Historical cash flow: closing cash ties to reported and to balance-sheet cash,0.0,0.5,PASS
+Bear,4,Forecast balance sheet balances every year: |assets - equity - liabilities| < 0.5,0.0,0.5,PASS
+Bear,5,Cash-flow closing cash = balance-sheet cash every year,0.0,0.5,PASS
+Bear,6,Other equity roll-forward: closing = opening + profit to owners - dividends,0.0,0.5,PASS
+Bear,7,Minority interest roll-forward: closing = opening + minority share of profit,0.0,0.5,PASS
+Bear,8,Fixed assets and CWIP roll-forwards tie (opening + additions - D&A / capitalisation = closing),0.0,0.5,PASS
+Bear,9,No negative capitalisation or CWIP (count of cells),0.0,0.5,PASS
+Bear,10,Cash never falls below the minimum balance (count of years),0.0,0.5,PASS
+Bear,11,Debt is never negative: term debt and revolver (count of years),0.0,0.5,PASS
+Bear,12,Revolver is repaid before surplus cash builds up (count of years with both),0.0,0.5,PASS
+Bear,13,Borrowings and finance costs equal the debt schedule,0.0,0.5,PASS
+Bear,14,Sum checks: cost buckets add to total costs; revenue = net sales + other operating income,0.0,0.5,PASS
+Bear,15,Sum checks: net change in cash = CFO + CFI + CFF = closing - opening - other,0.0,0.5,PASS
+Bear,16,Volume never exceeds capacity (count of years with utilisation above 100%),0.0,0.5,PASS
+Bear,17,"FY2026A column equals the reported figures (revenue, PBT, PAT, total assets)",0.0,0.5,PASS
+Bear,18,Scenario data table matches the live model for the selected scenario,0.0,0.5,PASS
+Bear,19,"No error values (#REF!, #DIV/0!, #VALUE!, #NAME?, #N/A) on any sheet (count)",0.0,0.5,PASS

@@ -1,0 +1,67 @@
+prepare_data: 60 PASS, 0 FAIL
+PASS | IS FY2022 total expenses: computed 44,743.94 vs reported 44,743.94
+PASS | IS FY2022 profit before tax: computed 8,364.40 vs reported 8,364.40
+PASS | IS FY2022 net profit: computed 7,334.26 vs reported 7,334.26
+PASS | IS FY2022 profit to owners: computed 7,344.31 vs reported 7,344.31
+PASS | IS FY2023 total expenses: computed 56,330.84 vs reported 56,330.84
+PASS | IS FY2023 profit before tax: computed 7,416.25 vs reported 7,416.25
+PASS | IS FY2023 net profit: computed 5,073.40 vs reported 5,073.40
+PASS | IS FY2023 profit to owners: computed 5,063.96 vs reported 5,063.96
+PASS | IS FY2024 total expenses: computed 62,052.88 vs reported 62,052.88
+PASS | IS FY2024 profit before tax: computed 9,422.22 vs reported 9,422.22
+PASS | IS FY2024 net profit: computed 7,003.96 vs reported 7,003.96
+PASS | IS FY2024 profit to owners: computed 7,005.00 vs reported 7,005.00
+PASS | IS FY2025 total expenses: computed 69,063.17 vs reported 69,063.17
+PASS | IS FY2025 profit before tax: computed 7,528.13 vs reported 7,528.13
+PASS | IS FY2025 net profit: computed 6,039.64 vs reported 6,039.64
+PASS | IS FY2025 profit to owners: computed 6,039.11 vs reported 6,039.11
+PASS | IS FY2026 total expenses: computed 78,007.47 vs reported 78,007.47
+PASS | IS FY2026 profit before tax: computed 10,927.19 vs reported 10,927.19
+PASS | IS FY2026 net profit: computed 8,188.35 vs reported 8,188.35
+PASS | IS FY2026 profit to owners: computed 8,165.64 vs reported 8,165.64
+PASS | BS FY2022 subtotal NCA: computed 66,338.32 vs reported 66,338.32
+PASS | BS FY2022 subtotal CA: computed 17,479.94 vs reported 17,479.94
+PASS | BS FY2022 subtotal NCL: computed 13,240.39 vs reported 13,240.39
+PASS | BS FY2022 subtotal CL: computed 20,155.19 vs reported 20,155.19
+PASS | BS FY2022 total assets: computed 83,827.79 vs reported 83,827.79
+PASS | BS FY2022 total equity and liabilities: computed 83,827.79 vs reported 83,827.79
+PASS | BS FY2023 subtotal NCA: computed 70,644.06 vs reported 70,644.06
+PASS | BS FY2023 subtotal CA: computed 20,724.88 vs reported 20,724.88
+PASS | BS FY2023 subtotal NCL: computed 13,575.00 vs reported 13,575.00
+PASS | BS FY2023 subtotal CL: computed 23,431.79 vs reported 23,431.79
+PASS | BS FY2023 total assets: computed 91,386.96 vs reported 91,386.96
+PASS | BS FY2023 total equity and liabilities: computed 91,386.96 vs reported 91,386.96
+PASS | BS FY2024 subtotal NCA: computed 77,643.64 vs reported 77,643.64
+PASS | BS FY2024 subtotal CA: computed 23,143.47 vs reported 23,143.47
+PASS | BS FY2024 subtotal NCL: computed 13,612.63 vs reported 13,612.63
+PASS | BS FY2024 subtotal CL: computed 26,905.96 vs reported 26,905.96
+PASS | BS FY2024 total assets: computed 100,802.01 vs reported 100,802.01
+PASS | BS FY2024 total equity and liabilities: computed 100,802.01 vs reported 100,802.01
+PASS | BS FY2025 subtotal NCA: computed 109,959.95 vs reported 109,959.95
+PASS | BS FY2025 subtotal CA: computed 23,599.51 vs reported 23,599.51
+PASS | BS FY2025 subtotal NCL: computed 27,438.82 vs reported 27,438.82
+PASS | BS FY2025 subtotal CL: computed 32,364.97 vs reported 32,364.97
+PASS | BS FY2025 total assets: computed 133,697.15 vs reported 133,697.15
+PASS | BS FY2025 total equity and liabilities: computed 133,697.15 vs reported 133,697.15
+PASS | BS FY2026 subtotal NCA: computed 116,128.61 vs reported 116,128.61
+PASS | BS FY2026 subtotal CA: computed 25,101.75 vs reported 25,101.75
+PASS | BS FY2026 subtotal NCL: computed 26,831.91 vs reported 26,831.91
+PASS | BS FY2026 subtotal CL: computed 33,831.70 vs reported 33,831.70
+PASS | BS FY2026 total assets: computed 141,376.05 vs reported 141,376.05
+PASS | BS FY2026 total equity and liabilities: computed 141,376.05 vs reported 141,376.05
+PASS | CF FY2022 closing cash: computed 120.54 vs reported 120.54
+PASS | CF FY2022 closing cash = BS cash: computed 120.54 vs reported 120.54
+PASS | CF FY2023 closing cash: computed 370.37 vs reported 370.37
+PASS | CF FY2023 closing cash = BS cash: computed 370.37 vs reported 370.37
+PASS | CF FY2024 closing cash: computed 553.58 vs reported 553.58
+PASS | CF FY2024 closing cash = BS cash: computed 553.58 vs reported 553.58
+PASS | CF FY2025 closing cash: computed 467.21 vs reported 467.21
+PASS | CF FY2025 closing cash = BS cash: computed 467.21 vs reported 467.21
+PASS | CF FY2026 closing cash: computed 354.48 vs reported 354.48
+PASS | CF FY2026 closing cash = BS cash: computed 354.48 vs reported 354.48
+INFO | FY2022 other operating income (revenue - net sales) = 890.83 (1.72% of net sales)
+INFO | FY2023 other operating income (revenue - net sales) = 901.98 (1.45% of net sales)
+INFO | FY2024 other operating income (revenue - net sales) = 1,098.14 (1.57% of net sales)
+INFO | FY2025 other operating income (revenue - net sales) = 1,019.13 (1.36% of net sales)
+INFO | FY2026 other operating income (revenue - net sales) = 1,127.53 (1.29% of net sales)
+INFO | Screener cross-check: 35 comparisons, 0 differ by more than 1%

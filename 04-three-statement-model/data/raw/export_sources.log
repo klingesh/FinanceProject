@@ -1,0 +1,40 @@
+export_sources: Screener and StockAnalysis tables -> .xlsx
+  Summary: 12 rows
+  Quarters: 11 rows
+  Profit_Loss: 12 rows
+  Balance_Sheet: 10 rows
+  Cash_Flow: 6 rows
+  Ratios: 6 rows
+  Sched_Profit_Loss: 4 blocks, 13 rows
+  Sched_Quarters: 4 blocks, 11 rows
+  Sched_Balance_Sheet: 5 blocks, 25 rows
+  Sched_Cash_Flow: 3 blocks, 26 rows
+  UltraTech_Income_Statement_StockAnalysis.xlsx / Annual: 2 tables, 49 rows
+  UltraTech_Income_Statement_StockAnalysis.xlsx / Quarterly: 2 tables, 46 rows
+  UltraTech_Balance_Sheet_StockAnalysis.xlsx / Annual: 4 tables, 58 rows
+  UltraTech_Balance_Sheet_StockAnalysis.xlsx / Quarterly: 4 tables, 58 rows
+  UltraTech_Cash_Flow_Statement_StockAnalysis.xlsx / Annual: 6 tables, 50 rows
+  UltraTech_Ratios_StockAnalysis.xlsx / Annual: 5 tables, 36 rows
+  UltraTech_Statistics_Valuation_StockAnalysis.xlsx / Statistics: 19 tables, 106 rows
+  UltraTech_Forecast_Analyst_Projections_StockAnalysis.xlsx / Financial_Forecast: 1 tables, 10 rows
+  UltraTech_Forecast_Analyst_Projections_StockAnalysis.xlsx / Revenue_Range: 1 tables, 3 rows
+  UltraTech_Forecast_Analyst_Projections_StockAnalysis.xlsx / Revenue_Growth_Range: 1 tables, 3 rows
+  UltraTech_Forecast_Analyst_Projections_StockAnalysis.xlsx / EPS_Range: 1 tables, 3 rows
+  UltraTech_Forecast_Analyst_Projections_StockAnalysis.xlsx / EPS_Growth_Range: 1 tables, 3 rows
+  UltraTech_Forecast_Analyst_Projections_StockAnalysis.xlsx / Price_Target: 1 tables, 2 rows
+  UltraTech_Forecast_Analyst_Projections_StockAnalysis.xlsx / Ratings: 1 tables, 6 rows
+  UltraTech_Forecast_Analyst_Projections_StockAnalysis.xlsx / Analyst_Calls: 1 tables, 4 rows
+  UltraTech_Financials_Overview_StockAnalysis.xlsx / Annual: 7 tables, 35 rows
+  UltraTech_Financials_Overview_StockAnalysis.xlsx / Quarterly: 6 tables, 29 rows
+  PASS spot check: Screener FY2026 sales = 88512 (filing 88,511.53)
+  PASS spot check: consensus FY2027 EPS average = 325.76
+  PASS rupee sign restored: '₹12,920'
+wrote source_data\screener\UltraTech_Screener_Consolidated.xlsx (27 KB)
+wrote source_data\stockanalysis\UltraTech_Income_Statement_StockAnalysis.xlsx (16 KB)
+wrote source_data\stockanalysis\UltraTech_Balance_Sheet_StockAnalysis.xlsx (17 KB)
+wrote source_data\stockanalysis\UltraTech_Cash_Flow_Statement_StockAnalysis.xlsx (8 KB)
+wrote source_data\stockanalysis\UltraTech_Ratios_StockAnalysis.xlsx (7 KB)
+wrote source_data\stockanalysis\UltraTech_Statistics_Valuation_StockAnalysis.xlsx (8 KB)
+wrote source_data\stockanalysis\UltraTech_Forecast_Analyst_Projections_StockAnalysis.xlsx (14 KB)
+wrote source_data\stockanalysis\UltraTech_Financials_Overview_StockAnalysis.xlsx (13 KB)
+RESULT: PASS
