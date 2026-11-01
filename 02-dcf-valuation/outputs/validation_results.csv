@@ -1,0 +1,21 @@
+area,check,result,target,status
+History,"Historical ratios and FCFF (FY2022-FY2026, rows 21-29) recomputed from the typed statement lines",44 of 44 cells,"all, gap < 1e-9",PASS
+WACC,WACC = E/(D+E) x (Rf + beta x ERP) + D/(D+E) x Rd x (1 - t),"11.910078% (workbook 11.910078%; cost of equity 11.95%, debt weight 1.31%)",equal to the workbook,PASS
+DCF,"Forecast, stub-period discounting, terminal value and equity bridge rebuilt in Python","43 of 43 cells; value per share Rs 2,072.28","all, gap < 1e-9",PASS
+DCF,Stub period: share of FY2027 left after the 30-Sep-2026 balance sheet,0.4986 years (182 days / 365),about 0.5,PASS
+DCF,"Exit-multiple cross-check, implied multiples and market EV rebuilt","8 of 8 cells; exit-multiple value Rs 2,403.31, implied g 5.80%","all, gap < 1e-9",PASS
+Sensitivity,"All 100 cells of the four sensitivity grids recomputed (WACC x g value and gap, beta x ERP WACC and value)","100 of 100; WACC x g range Rs 1,696 to Rs 2,725","all, gap < 1e-9",PASS
+Sensitivity,Cells of the WACC x g grid above the market price,3 of 25,information,INFO
+Reverse DCF,Block A: extra revenue growth every year that makes the DCF equal the price (root finder vs Goal Seek),4.297718% vs workbook 4.297718%,within 0.001 pp,PASS
+Reverse DCF,Block B: WACC that makes the DCF equal the price (root finder vs Goal Seek),10.698471% vs workbook 10.698471%; implied beta 0.595,within 0.001 pp,PASS
+Reverse DCF,Goal Seek residuals in the workbook (difference cells B24 and B47),Rs -4.5e-05 and Rs -9.7e-05 per share,below Rs 0.5 (the workbook's own test),PASS
+Workbook,The workbook's own Summary checks (rows 27-34),8 of 8 PASS,all PASS,PASS
+Source data,Historical inputs (14 lines x FY2022-FY2026) equal the StockAnalysis exports / 10 (Rs million to Rs crore),70 of 70,"all, within Rs 0.5 crore",PASS
+Source data,"Cash (Rs 51,024 cr) and lease debt (Rs 11,808 cr) at 30-Sep-2026 equal the balance-sheet export","cash True, debt True",both equal,PASS
+Source data,"Minority interests: model uses Rs 995 cr (30-Jun-2026, the latest figure on 20-Oct); the 23-Oct export shows the 30-Sep-2026 figure","Rs 1,008 cr; effect on value Rs 0.04 per share",information,INFO
+Source data,"Diluted shares 361.8 crore = 3,618 million in the income-statement export","3,618 million",equal,PASS
+Source data,"Model price Rs 2,459.10 (intraday, 19-Oct-2026) lies inside that day's NSE trading range (Yahoo Finance)","low 2,432.10, high 2,497.00, close 2,460.90",low <= price <= high,PASS
+Source data,Context: DCF value against the latest close in the saved price file,"close Rs 2,502.60 on 30-Oct-2026; gap -17.2%",information,INFO
+Source data,"Cited facts in the TCS PDFs: Q2 FY27 revenue Rs 731,880 mn and 24.0% operating margin (fact sheet), Q1 FY27 revenue Rs 72,275 cr (press release); H1 = 72,275 + 73,188 = 145,463",found,all found,PASS
+Write-up,"Numbers in the two-page PDF report (sensitivity grid, revenue, FCFF and PV rows, nine headline results) match the workbook",59 of 59,"all, to the digits shown",PASS
+Workbook,Excel error values in any formula cell,0 in 503 formulas,0,PASS

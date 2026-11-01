@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+
+# Download cache of build/fetch_sources.py
+build/_cache/
+
+# Saved copies of news and macro pages are copyrighted: they stay on the local PC only.
+# source_data/README.md lists each one with its link.
+source_data/news_and_macro/*.html
