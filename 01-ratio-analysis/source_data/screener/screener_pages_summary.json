@@ -1,0 +1,86 @@
+{
+  "HEROMOTOCO": {
+    "company": "Hero MotoCorp",
+    "url": "https://www.screener.in/company/HEROMOTOCO/consolidated/",
+    "profit-loss": [
+      12,
+      14
+    ],
+    "balance-sheet": [
+      10,
+      14
+    ],
+    "cash-flow": [
+      6,
+      13
+    ],
+    "ratios": [
+      6,
+      13
+    ],
+    "company_id": "1308"
+  },
+  "BAJAJ-AUTO": {
+    "company": "Bajaj Auto",
+    "url": "https://www.screener.in/company/BAJAJ-AUTO/consolidated/",
+    "profit-loss": [
+      12,
+      14
+    ],
+    "balance-sheet": [
+      10,
+      14
+    ],
+    "cash-flow": [
+      6,
+      13
+    ],
+    "ratios": [
+      6,
+      13
+    ],
+    "company_id": "369"
+  },
+  "TVSMOTOR": {
+    "company": "TVS Motor",
+    "url": "https://www.screener.in/company/TVSMOTOR/consolidated/",
+    "profit-loss": [
+      12,
+      14
+    ],
+    "balance-sheet": [
+      10,
+      14
+    ],
+    "cash-flow": [
+      6,
+      13
+    ],
+    "ratios": [
+      6,
+      13
+    ],
+    "company_id": "3502"
+  },
+  "EICHERMOT": {
+    "company": "Eicher Motors",
+    "url": "https://www.screener.in/company/EICHERMOT/consolidated/",
+    "profit-loss": [
+      12,
+      14
+    ],
+    "balance-sheet": [
+      10,
+      13
+    ],
+    "cash-flow": [
+      6,
+      13
+    ],
+    "ratios": [
+      6,
+      13
+    ],
+    "company_id": "888"
+  }
+}

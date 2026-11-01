@@ -1,0 +1,14 @@
+area,check,result,target,status
+Ratios,Python re-computation of 22 ratio rows x 4 companies x 5 years (440 cells) matches the Ratios sheet,440 of 440 (largest gap 1.1e-16),"all, gap < 1e-9",PASS
+Identities,DuPont: net margin x asset turnover x equity multiplier = ROE (20 company-years),largest gap 5.6e-17,< 1e-12,PASS
+Identities,Balance check 1: equity + borrowings + other liabilities = total assets (24 company-years),largest gap Rs 1.46e-11 cr,< Rs 0.01 cr,PASS
+Identities,Balance check 2: net block + CWIP + investments + other assets = total assets (24 company-years),largest gap Rs 7.28e-12 cr,< Rs 0.01 cr,PASS
+Identities,Raw_Data equity row = share capital + reserves,largest gap 0.0e+00,0,PASS
+Source data,"Raw_Data inputs equal the author's Screener Excel exports of 15-Oct-2026 (21 lines, FY2021-FY2026, 4 companies)",504 of 504,"all, within Rs 0.005 cr",PASS
+Source data,Raw_Data inputs agree with the Screener pages saved on 1-Nov-2026 (16 lines; the pages round to whole Rs crore),384 of 384,"all, within Rs 0.51 cr",PASS
+Source data,"Net profit: the workbook (and Screener's Excel export) uses profit attributable to owners; the Screener page shows profit including minority interests. FY2026 page minus workbook, Rs crore",Hero +34; Bajaj -170; TVS +168; Eicher -0,information (definition difference),INFO
+Source data,"Screener's own ROCE % (pages of 1-Nov-2026) vs the workbook's ROCE incl. other income (Ratios row 49), FY2022-FY2026",16 of 20 within 1 pp; largest gap 3.7 pp,information (Screener's capital base is not published),INFO
+Write-up,Typed FY2026 table on the Summary sheet (section 1) matches the recomputed ratios,49 of 49 (1 median taken from rounded values),"all, to the decimals shown",PASS
+Write-up,Numbers in the one-page PDF (FY2026 table and FY2022-FY2026 trend table) match the workbook,105 of 105,"all, to the decimals shown",PASS
+Workbook,"Excel error values (#REF!, #DIV/0!, #VALUE!, #N/A, ...) in any formula cell",0 in 1317 formulas,0,PASS
+Workbook,Formula cells / typed cells (all sheets),1317 / 1082,information,INFO

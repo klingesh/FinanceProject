@@ -1,0 +1,55 @@
+{
+  "BajajAuto_Annual_Report_FY2025-26_extract.pdf": {
+    "url": "https://www.bajajauto.com/-/media/images/bajajauto/media-kit/press-release/new-annual-reports/fy2025-26/bajaj-auto-annual-report-2025-26.pdf",
+    "pages_total": 364,
+    "pages_kept_1based": [
+      249,
+      250,
+      302,
+      303,
+      320,
+      321,
+      323,
+      324,
+      354,
+      355,
+      356,
+      357,
+      358
+    ],
+    "phrases": [
+      "953.10",
+      "645.71",
+      "Business combinations and acquisition of non-controlling interests",
+      "15,338.94",
+      "21,980.59",
+      "1,785.90"
+    ]
+  },
+  "BajajAuto_Annual_Report_FY2024-25_extract.pdf": {
+    "url": "https://investors.bajajauto.com/ar25/wp-content/uploads/2025/07/BAL_Annual_Report_2025.pdf",
+    "pages_total": 300,
+    "pages_kept_1based": [
+      38,
+      39,
+      146,
+      147,
+      195,
+      196,
+      224,
+      225,
+      234,
+      235,
+      238,
+      239,
+      269,
+      270,
+      292,
+      293
+    ],
+    "phrases": [
+      "915.48",
+      "211.26"
+    ]
+  }
+}
