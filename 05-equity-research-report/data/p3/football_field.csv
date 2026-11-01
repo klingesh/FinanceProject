@@ -1,0 +1,7 @@
+method,bar_type,low_rs,high_rs,mid_rs,price_inside_range,share_price_rs,basis
+52-week trading range,context,2115.0,2986.0,,Yes,2320.0,"Intraday low and high, 31-Oct-2025 to 30-Oct-2026 (Yahoo Finance). Context, not a valuation."
+"DCF (WACC +/-0.5 pp, g +/-0.5 pp)",valuation,590.0,772.0,668.0,No,2320.0,Inner 3x3 of the WACC x g grid; mid = base case
+"EV/EBITDA comps (peer 25th-75th, TTM)",valuation,1240.0,1919.0,1597.0,No,2320.0,Peer quartiles x Asian Paints TTM EBITDA; mid = peer median
+"P/E comps (peer 25th-75th, TTM)",valuation,1486.0,1784.0,1610.0,No,2320.0,Peer quartiles x Asian Paints TTM EPS; mid = peer median
+"EV/Sales comps (peer 25th-75th, TTM)",valuation,1058.0,1446.0,1276.0,No,2320.0,Peer quartiles x Asian Paints TTM revenue; ignores the margin gap
+Analyst price targets (low-high),context,1925.0,3300.0,2850.0,Yes,2320.0,S&P Global consensus via stockanalysis.com (34 analysts); mid = median

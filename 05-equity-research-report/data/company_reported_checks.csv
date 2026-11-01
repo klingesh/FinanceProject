@@ -1,0 +1,8 @@
+company,fiscal_year,item,value_rs_cr,source_file,where_in_file
+ASIANPAINT,FY2026,Revenue from operations,35583.54,source_data/company_filings/AsianPaints_Q2FY27_Results_and_Press_Release_29Oct2026.pdf,"Consolidated results, year ended 31.03.2026 column (page 12)"
+ASIANPAINT,FY2026,"COGS = materials consumed 15,384.05 + purchases of stock-in-trade 4,014.05 + change in inventories 603.68",20001.78,source_data/company_filings/AsianPaints_Q2FY27_Results_and_Press_Release_29Oct2026.pdf,"Consolidated results, year ended 31.03.2026 column (page 12)"
+ASIANPAINT,FY2026,Profit attributable to owners,4325.35,source_data/company_filings/AsianPaints_Q2FY27_Results_and_Press_Release_29Oct2026.pdf,"Consolidated results, year ended 31.03.2026 column (page 12)"
+ASIANPAINT,FY2026,Total assets,34534.49,source_data/company_filings/AsianPaints_Q2FY27_Results_and_Press_Release_29Oct2026.pdf,"Consolidated balance sheet as at 31.03.2026 (page 13)"
+ASIANPAINT,FY2026,Total current assets,20184.64,source_data/company_filings/AsianPaints_Q2FY27_Results_and_Press_Release_29Oct2026.pdf,"Consolidated balance sheet as at 31.03.2026 (page 13)"
+ASIANPAINT,FY2026,Total current liabilities,9137.03,source_data/company_filings/AsianPaints_Q2FY27_Results_and_Press_Release_29Oct2026.pdf,"Consolidated balance sheet as at 31.03.2026 (page 13)"
+ASIANPAINT,FY2026,Equity attributable to owners,21371.59,source_data/company_filings/AsianPaints_Q2FY27_Results_and_Press_Release_29Oct2026.pdf,"Consolidated balance sheet as at 31.03.2026 (page 13)"

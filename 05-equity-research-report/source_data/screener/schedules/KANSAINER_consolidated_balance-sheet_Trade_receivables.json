@@ -1,0 +1,48 @@
+{
+ "url": "https://www.screener.in/api/company/1715/schedules/?parent=Trade%20receivables&section=balance-sheet&consolidated=true",
+ "fetched": "2026-11-01 01:39 UTC",
+ "data": {
+  "Receivables over 6m": {
+   "Mar 2015": "14",
+   "Mar 2016": "10",
+   "Mar 2017": "15",
+   "Mar 2018": "0",
+   "Mar 2019": "0",
+   "Mar 2020": "0",
+   "Mar 2021": "0",
+   "Mar 2022": "0",
+   "Mar 2023": "0",
+   "Mar 2024": "97",
+   "Mar 2025": "57",
+   "Mar 2026": "61"
+  },
+  "Receivables under 6m": {
+   "Mar 2015": "505",
+   "Mar 2016": "545",
+   "Mar 2017": "591",
+   "Mar 2018": "720",
+   "Mar 2019": "782",
+   "Mar 2020": "822",
+   "Mar 2021": "1,003",
+   "Mar 2022": "1,143",
+   "Mar 2023": "1,290",
+   "Mar 2024": "1,294",
+   "Mar 2025": "1,300",
+   "Mar 2026": "1,407"
+  },
+  "Prov for Doubtful": {
+   "Mar 2015": "-3",
+   "Mar 2016": "-9",
+   "Mar 2017": "-15",
+   "Mar 2018": "-18",
+   "Mar 2019": "-27",
+   "Mar 2020": "-35",
+   "Mar 2021": "-47",
+   "Mar 2022": "-49",
+   "Mar 2023": "-52",
+   "Mar 2024": "-57",
+   "Mar 2025": "0",
+   "Mar 2026": "0"
+  }
+ }
+}

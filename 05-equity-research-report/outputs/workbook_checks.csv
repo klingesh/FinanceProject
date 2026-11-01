@@ -1,0 +1,71 @@
+check_no,check,company,result,tolerance
+1,Liabilities side: equity + borrowings + other liabilities - total,Asian Paints,PASS,|difference| <= Rs 2 cr each year
+2,Assets side: fixed assets + CWIP + investments + other assets - total,Asian Paints,PASS,|difference| <= Rs 2 cr each year
+3,Balance sheet balances: total assets - total liabilities and equity,Asian Paints,PASS,must be 0
+4,Liabilities side: equity + borrowings + other liabilities - total,Berger Paints,PASS,|difference| <= Rs 2 cr each year
+5,Assets side: fixed assets + CWIP + investments + other assets - total,Berger Paints,PASS,|difference| <= Rs 2 cr each year
+6,Balance sheet balances: total assets - total liabilities and equity,Berger Paints,PASS,must be 0
+7,Liabilities side: equity + borrowings + other liabilities - total,Kansai Nerolac,PASS,|difference| <= Rs 2 cr each year
+8,Assets side: fixed assets + CWIP + investments + other assets - total,Kansai Nerolac,PASS,|difference| <= Rs 2 cr each year
+9,Balance sheet balances: total assets - total liabilities and equity,Kansai Nerolac,PASS,must be 0
+10,Liabilities side: equity + borrowings + other liabilities - total,JSW Dulux,PASS,|difference| <= Rs 2 cr each year
+11,Assets side: fixed assets + CWIP + investments + other assets - total,JSW Dulux,PASS,|difference| <= Rs 2 cr each year
+12,Balance sheet balances: total assets - total liabilities and equity,JSW Dulux,PASS,must be 0
+13,Liabilities side: equity + borrowings + other liabilities - total,Indigo Paints,PASS,|difference| <= Rs 2 cr each year
+14,Assets side: fixed assets + CWIP + investments + other assets - total,Indigo Paints,PASS,|difference| <= Rs 2 cr each year
+15,Balance sheet balances: total assets - total liabilities and equity,Indigo Paints,PASS,must be 0
+16,3-step product - ROE,Asian Paints,PASS,|difference| < 0.00001%
+17,5-step product - ROE,Asian Paints,PASS,|difference| < 0.00001%
+18,3-step product - ROE,Berger Paints,PASS,|difference| < 0.00001%
+19,5-step product - ROE,Berger Paints,PASS,|difference| < 0.00001%
+20,3-step product - ROE,Kansai Nerolac,PASS,|difference| < 0.00001%
+21,5-step product - ROE,Kansai Nerolac,PASS,|difference| < 0.00001%
+22,3-step product - ROE,JSW Dulux,PASS,|difference| < 0.00001%
+23,5-step product - ROE,JSW Dulux,PASS,|difference| < 0.00001%
+24,3-step product - ROE,Indigo Paints,PASS,|difference| < 0.00001%
+25,5-step product - ROE,Indigo Paints,PASS,|difference| < 0.00001%
+26,Revenue: Screener vs company filing (% of revenue),Asian Paints,PASS,< 0.5%
+27,COGS: company filing vs S&P cost of revenue (% of revenue),Asian Paints,PASS,< 2.5% of revenue (S&P books some costs differently)
+28,PAT to owners: Screener vs S&P (% of PAT),Asian Paints,PASS,< 1%
+29,"PAT to owners: Screener vs company filing, FY2025-26 (% of PAT)",Asian Paints,PASS,< 0.5%
+30,Total assets: Screener vs S&P (% of total assets),Asian Paints,PASS,< 1%
+31,Inventories: Screener vs S&P (% of inventories),Asian Paints,PASS,< 1%
+32,Revenue: Screener vs company filing (% of revenue),Berger Paints,PASS,< 0.5%
+33,COGS: company filing vs S&P cost of revenue (% of revenue),Berger Paints,PASS,< 2.5% of revenue (S&P books some costs differently)
+34,PAT to owners: Screener vs S&P (% of PAT),Berger Paints,PASS,< 1%
+35,"PAT to owners: Screener vs company filing, FY2025-26 (% of PAT)",Berger Paints,PASS,< 0.5%
+36,Total assets: Screener vs S&P (% of total assets),Berger Paints,PASS,< 1%
+37,Inventories: Screener vs S&P (% of inventories),Berger Paints,PASS,< 1%
+38,Revenue: Screener vs company filing (% of revenue),Kansai Nerolac,PASS,< 0.5%
+39,COGS: company filing vs S&P cost of revenue (% of revenue),Kansai Nerolac,PASS,< 2.5% of revenue (S&P books some costs differently)
+40,PAT to owners: Screener vs S&P (% of PAT),Kansai Nerolac,PASS,< 1%
+41,"PAT to owners: Screener vs company filing, FY2025-26 (% of PAT)",Kansai Nerolac,PASS,< 0.5%
+42,Total assets: Screener vs S&P (% of total assets),Kansai Nerolac,PASS,< 1%
+43,Inventories: Screener vs S&P (% of inventories),Kansai Nerolac,PASS,< 1%
+44,Revenue: Screener vs company filing (% of revenue),JSW Dulux,PASS,< 0.5%
+45,COGS: company filing vs S&P cost of revenue (% of revenue),JSW Dulux,PASS,< 2.5% of revenue (S&P books some costs differently)
+46,PAT to owners: Screener vs S&P (% of PAT),JSW Dulux,PASS,< 1%
+47,"PAT to owners: Screener vs company filing, FY2025-26 (% of PAT)",JSW Dulux,PASS,< 0.5%
+48,Total assets: Screener vs S&P (% of total assets),JSW Dulux,PASS,< 1%
+49,Inventories: Screener vs S&P (% of inventories),JSW Dulux,PASS,< 1%
+50,Revenue: Screener vs company filing (% of revenue),Indigo Paints,PASS,< 0.5%
+51,COGS: company filing vs S&P cost of revenue (% of revenue),Indigo Paints,PASS,< 2.5% of revenue (S&P books some costs differently)
+52,PAT to owners: Screener vs S&P (% of PAT),Indigo Paints,PASS,< 1%
+53,"PAT to owners: Screener vs company filing, FY2025-26 (% of PAT)",Indigo Paints,PASS,< 0.5%
+54,Total assets: Screener vs S&P (% of total assets),Indigo Paints,PASS,< 1%
+55,Inventories: Screener vs S&P (% of inventories),Indigo Paints,PASS,< 1%
+56,Revenue from operations: workbook vs filing,Asian Paints,PASS,"G = filing (Consolidated results, year ended 31.03.2026 column (page 12)), H = workbook, I = gap; < 0.5%"
+57,"COGS = materials consumed 15,384.05 + purchases of stock-in-: workbook vs filing",Asian Paints,PASS,"G = filing (Consolidated results, year ended 31.03.2026 column (page 12)), H = workbook, I = gap; < 0.5%"
+58,Profit attributable to owners: workbook vs filing,Asian Paints,PASS,"G = filing (Consolidated results, year ended 31.03.2026 column (page 12)), H = workbook, I = gap; < 0.5%"
+59,Total assets: workbook vs filing,Asian Paints,PASS,"G = filing (Consolidated balance sheet as at 31.03.2026 (page 13)), H = workbook, I = gap; < 0.5%"
+60,Total current assets: workbook vs filing,Asian Paints,PASS,"G = filing (Consolidated balance sheet as at 31.03.2026 (page 13)), H = workbook, I = gap; < 0.5%"
+61,Total current liabilities: workbook vs filing,Asian Paints,PASS,"G = filing (Consolidated balance sheet as at 31.03.2026 (page 13)), H = workbook, I = gap; < 0.5%"
+62,Equity attributable to owners: workbook vs filing,Asian Paints,PASS,"G = filing (Consolidated balance sheet as at 31.03.2026 (page 13)), H = workbook, I = gap; < 0.5%"
+63,No error values on Raw_Data,All,PASS,count / difference must be 0
+64,No error values on Ratios,All,PASS,count / difference must be 0
+65,No error values on DuPont,All,PASS,count / difference must be 0
+66,No error values on Peer_Comparison,All,PASS,count / difference must be 0
+67,No error values on Charts,All,PASS,count / difference must be 0
+68,No error values on Conclusion,All,PASS,count / difference must be 0
+69,Key ratio inputs complete FY2022-26 (blank cells),All,PASS,count / difference must be 0
+70,Scorecard weights sum to 100%,All,PASS,count / difference must be 0

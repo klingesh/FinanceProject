@@ -1,0 +1,12 @@
+{
+ "url": "https://www.screener.in/api/company/1274826/schedules/?parent=Sales&section=profit-loss&consolidated=true",
+ "fetched": "2026-11-01 01:39 UTC",
+ "data": {
+  "Sales Growth %": {
+   "Mar 2023": "",
+   "Mar 2024": "21.69%",
+   "Mar 2025": "2.65%",
+   "Mar 2026": "4.80%"
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "url": "https://www.screener.in/api/company/1274826/schedules/?parent=Fixed%20Assets&section=balance-sheet&consolidated=true",
+ "fetched": "2026-11-01 01:39 UTC",
+ "data": {
+  "Land": {
+   "Mar 2023": "60",
+   "Mar 2024": "64",
+   "Mar 2025": "64",
+   "Mar 2026": "64",
+   "Sep 2026": ""
+  },
+  "Building": {
+   "Mar 2023": "117",
+   "Mar 2024": "173",
+   "Mar 2025": "186",
+   "Mar 2026": "214",
+   "Sep 2026": ""
+  },
+  "Plant Machinery": {
+   "Mar 2023": "160",
+   "Mar 2024": "416",
+   "Mar 2025": "436",
+   "Mar 2026": "483",
+   "Sep 2026": ""
+  },
+  "Equipments": {
+   "Mar 2023": "3",
+   "Mar 2024": "3",
+   "Mar 2025": "3",
+   "Mar 2026": "4",
+   "Sep 2026": ""
+  },
+  "Computers": {
+   "Mar 2023": "1",
+   "Mar 2024": "1",
+   "Mar 2025": "1",
+   "Mar 2026": "1",
+   "Sep 2026": ""
+  },
+  "Furniture n fittings": {
+   "Mar 2023": "11",
+   "Mar 2024": "33",
+   "Mar 2025": "33",
+   "Mar 2026": "39",
+   "Sep 2026": ""
+  },
+  "Vehicles": {
+   "Mar 2023": "1",
+   "Mar 2024": "2",
+   "Mar 2025": "3",
+   "Mar 2026": "3",
+   "Sep 2026": ""
+  },
+  "Intangible Assets": {
+   "Mar 2023": "31",
+   "Mar 2024": "40",
+   "Mar 2025": "40",
+   "Mar 2026": "40",
+   "Sep 2026": "54"
+  },
+  "Other fixed assets": {
+   "Mar 2023": "1",
+   "Mar 2024": "26",
+   "Mar 2025": "26",
+   "Mar 2026": "26",
+   "Sep 2026": ""
+  },
+  "Gross Block": {
+   "Mar 2023": "382",
+   "Mar 2024": "758",
+   "Mar 2025": "792",
+   "Mar 2026": "874",
+   "Sep 2026": "",
+   "setAttributes": {
+    "class": "strong"
+   }
+  },
+  "Accumulated Depreciation": {
+   "Mar 2023": "118",
+   "Mar 2024": "167",
+   "Mar 2025": "225",
+   "Mar 2026": "284",
+   "Sep 2026": ""
+  }
+ }
+}

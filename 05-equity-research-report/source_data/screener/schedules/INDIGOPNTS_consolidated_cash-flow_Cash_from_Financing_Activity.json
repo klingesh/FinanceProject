@@ -1,0 +1,42 @@
+{
+ "url": "https://www.screener.in/api/company/1274826/schedules/?parent=Cash%20from%20Financing%20Activity&section=cash-flow&consolidated=true",
+ "fetched": "2026-11-01 01:39 UTC",
+ "data": {
+  "Proceeds from shares": {
+   "Mar 2023": "0.02",
+   "Mar 2024": "0.03",
+   "Mar 2025": "0.01",
+   "Mar 2026": "0.04"
+  },
+  "Proceeds from borrowings": {
+   "Mar 2023": "0.00",
+   "Mar 2024": "1.90",
+   "Mar 2025": "4.32",
+   "Mar 2026": "0.00"
+  },
+  "Repayment of borrowings": {
+   "Mar 2023": "0.00",
+   "Mar 2024": "-0.56",
+   "Mar 2025": "-1.00",
+   "Mar 2026": "-4.50"
+  },
+  "Interest paid fin": {
+   "Mar 2023": "0.00",
+   "Mar 2024": "-0.21",
+   "Mar 2025": "-3.23",
+   "Mar 2026": "-2.53"
+  },
+  "Dividends paid": {
+   "Mar 2023": "-14.27",
+   "Mar 2024": "-16.66",
+   "Mar 2025": "-16.67",
+   "Mar 2026": "-16.67"
+  },
+  "Financial liabilities": {
+   "Mar 2023": "-5.81",
+   "Mar 2024": "-7.74",
+   "Mar 2025": "-7.37",
+   "Mar 2026": "-7.87"
+  }
+ }
+}

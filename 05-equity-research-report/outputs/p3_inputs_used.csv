@@ -1,0 +1,96 @@
+key,value,source
+fy27e_revenue,41349.23,data/p3/dcf_forecast.csv revenue_rs_cr FY2027E
+fy28e_revenue,44657.17,data/p3/dcf_forecast.csv revenue_rs_cr FY2028E
+fy29e_revenue,48453.03,data/p3/dcf_forecast.csv revenue_rs_cr FY2029E
+fy27e_ebitda,7267.06,data/p3/dcf_forecast.csv ebitda_rs_cr FY2027E
+fy28e_ebitda,8261.58,data/p3/dcf_forecast.csv ebitda_rs_cr FY2028E
+fy29e_ebitda,9206.07,data/p3/dcf_forecast.csv ebitda_rs_cr FY2029E
+fy27e_pat,5013.47,data/p3/dcf_forecast.csv pat_attributable_to_owners_rs_cr FY2027E
+fy28e_pat,5614.98,data/p3/dcf_forecast.csv pat_attributable_to_owners_rs_cr FY2028E
+fy29e_pat,6268.84,data/p3/dcf_forecast.csv pat_attributable_to_owners_rs_cr FY2029E
+fy27e_eps,52.27,data/p3/dcf_forecast.csv eps_rs FY2027E
+fy28e_eps,58.54,data/p3/dcf_forecast.csv eps_rs FY2028E
+fy29e_eps,65.36,data/p3/dcf_forecast.csv eps_rs FY2029E
+fy26a_fcff,4330.05,data/p3/dcf_forecast.csv fcff_rs_cr FY2026A
+fy27e_fcff,2500.06,data/p3/dcf_forecast.csv fcff_rs_cr FY2027E
+fy28e_fcff,3680.46,data/p3/dcf_forecast.csv fcff_rs_cr FY2028E
+fy29e_fcff,4232.21,data/p3/dcf_forecast.csv fcff_rs_cr FY2029E
+h1_revenue,20518.45,data/p3/dcf_forecast.csv revenue_rs_cr H1_FY2027A
+h1_ebitda,3725.83,data/p3/dcf_forecast.csv ebitda_rs_cr H1_FY2027A
+h1_growth,0.17450800000000002,data/p3/dcf_forecast.csv revenue_growth_pct H1
+h2_growth,0.15,data/p3/dcf_forecast.csv revenue_growth_pct H2
+h1_margin,0.181584,data/p3/dcf_forecast.csv ebitda_margin_pct H1
+h2_margin,0.17,data/p3/dcf_forecast.csv ebitda_margin_pct H2
+late_growth_lo,0.08,data/p3/dcf_forecast.csv revenue_growth_pct FY2028E-FY2031E (min)
+late_growth_hi,0.085,data/p3/dcf_forecast.csv revenue_growth_pct FY2028E-FY2031E (max)
+ebitda_fy31e,10787.68,data/p3/dcf_forecast.csv ebitda_rs_cr FY2031E
+cons_eps27,53.94,data/p3/dcf_forecast.csv consensus_eps_rs FY2027E
+cons_eps28,60.4,data/p3/dcf_forecast.csv consensus_eps_rs FY2028E
+cons_rev27,41672.4,data/p3/dcf_forecast.csv consensus_revenue_rs_cr FY2027E
+cons_rev28,44853.5,data/p3/dcf_forecast.csv consensus_revenue_rs_cr FY2028E
+cons_ebitda27,7544.4,data/p3/implied_values.csv EV/EBITDA FY27E asian_paints_metric_value
+wacc,0.126781,data/p3/dcf_summary.csv wacc_pct (workbook WACC!B28)
+ke,0.12810000000000002,data/p3/dcf_summary.csv cost_of_equity_pct (workbook WACC!B11)
+rf,0.0741,data/p3/dcf_summary.csv risk_free_rate_pct (workbook WACC!B5)
+beta,0.9,data/p3/dcf_summary.csv beta_used (workbook WACC!B9)
+erp,0.06,data/p3/dcf_summary.csv equity_risk_premium_pct (workbook WACC!B10)
+ke_damodaran,0.11912,data/p3/dcf_summary.csv memo_cost_of_equity_damodaran_method_pct (workbook WACC!B14)
+terminal_g,0.06,data/p3/dcf_summary.csv terminal_growth_pct (workbook DCF!B50)
+tv_share_ev,0.770667,data/p3/dcf_summary.csv terminal_value_share_of_ev_pct (workbook DCF!B70)
+exit_ev_ebitda,7.6153,data/p3/dcf_summary.csv implied_exit_ev_ebitda_x (workbook DCF!B72)
+exit_cross_x,20.8785,data/p3/dcf_summary.csv exit_multiple_cross_check_x (workbook DCF!B73)
+exit_cross_value,1539.52,data/p3/dcf_summary.csv value_per_share_at_exit_multiple_rs (workbook DCF!B76)
+exit_cross_g,0.10147,data/p3/dcf_summary.csv growth_implied_by_exit_multiple_pct (workbook DCF!B77)
+reverse_dcf_g,0.110513,data/p3/dcf_summary.csv market_implied_perpetual_growth_pct (workbook DCF!B80)
+market_ev,220802.2,data/p3/dcf_summary.csv market_ev_rs_cr (workbook DCF!B78)
+sum_pv_fcff,14289.3,data/p3/dcf_summary.csv sum_pv_fcff_rs_cr (workbook DCF!B48)
+pv_tv,48018.5,data/p3/dcf_summary.csv pv_terminal_value_rs_cr (workbook DCF!B53)
+tv,82151.7,data/p3/dcf_summary.csv terminal_value_rs_cr (workbook DCF!B52)
+dcf_value,667.64,data/p3/dcf_summary.csv dcf_value_per_share_rs (workbook DCF!B64)
+dcf_low,590.0,data/p3/dcf_summary.csv dcf_range_inner_3x3_low_rs (workbook Sensitivity!B24)
+dcf_high,772.0,data/p3/dcf_summary.csv dcf_range_inner_3x3_high_rs (workbook Sensitivity!B25)
+dcf_grid_low,530.0,data/p3/dcf_summary.csv dcf_grid_5x5_low_rs (workbook Sensitivity!B26)
+dcf_grid_high,921.0,data/p3/dcf_summary.csv dcf_grid_5x5_high_rs (workbook Sensitivity!C26)
+market_ev_ebitda27,30.384,data/p3/dcf_summary.csv market_ev_to_fy27e_ebitda_x (workbook DCF!B81)
+comps_q1,1486.0,data/p3/implied_values.csv P/E TTM implied_rs_per_share_at_p25
+comps_median,1610.0,data/p3/implied_values.csv P/E TTM implied_rs_per_share_at_median
+comps_q3,1784.0,data/p3/implied_values.csv P/E TTM implied_rs_per_share_at_p75
+pe_ttm_peer_median,31.1955,data/p3/implied_values.csv P/E TTM peer_median_x
+ap_pe_ttm,44.9473,data/p3/implied_values.csv P/E TTM asian_paints_multiple_x
+ap_pe_ttm_prem,0.44082299999999996,data/p3/implied_values.csv P/E TTM asian_paints_premium_to_peer_median_pct
+ev_q1,1240.0,data/p3/implied_values.csv EV/EBITDA TTM implied_rs_per_share_at_p25
+ev_median,1597.0,data/p3/implied_values.csv EV/EBITDA TTM implied_rs_per_share_at_median
+ev_q3,1919.0,data/p3/implied_values.csv EV/EBITDA TTM implied_rs_per_share_at_p75
+ev_peer_median,20.8785,data/p3/implied_values.csv EV/EBITDA TTM peer_median_x
+ev_peer_min,11.9623,data/p3/implied_values.csv EV/EBITDA TTM peer_min_x
+ev_peer_max,28.0339,data/p3/implied_values.csv EV/EBITDA TTM peer_max_x
+ap_ev_ebitda,30.392,data/p3/implied_values.csv EV/EBITDA TTM asian_paints_multiple_x
+ap_ev_prem,0.45565800000000006,data/p3/implied_values.csv EV/EBITDA TTM asian_paints_premium_to_peer_median_pct
+pe27_peer_median,28.1283,data/p3/implied_values.csv P/E FY27E peer_median_x
+ap_pe27,43.0076,data/p3/implied_values.csv P/E FY27E asian_paints_multiple_x
+ap_pe27_prem,0.528977,data/p3/implied_values.csv P/E FY27E asian_paints_premium_to_peer_median_pct
+pe_drop_lo,1602.0,data/p3/drop_one_sensitivity.csv Lowest drop-one result
+pe_drop_hi,1618.0,data/p3/drop_one_sensitivity.csv Highest drop-one result
+peer_roce_median,0.201,data/p3/comps_table.csv Peer median roce_fy26_pct
+ttm_eps,51.62,data/p3/implied_values.csv P/E TTM asian_paints_metric_value
+h1_wc_increase,1668.5,data/p3/dcf_forecast.csv increase_in_trade_working_capital_rs_cr H1_FY2027A
+relative_value,2275.979565276267,build/relative_value.py (this report)
+rel_low,2155.8668531674098,build/relative_value.py (this report)
+rel_high,2472.816252613331,build/relative_value.py (this report)
+rel_premium,0.3822040304215991,build/relative_value.py (this report)
+rel_p25,0.3092594937857534,build/relative_value.py (this report)
+rel_p75,0.5017430925129156,build/relative_value.py (this report)
+rel_premium_now,0.5497289340171008,build/relative_value.py (this report)
+rel_trailing_value,2336.3821939349164,build/relative_value.py (this report)
+peer_pe_now,32.338452422217884,build/relative_value.py (this report)
+peer_pe_start,77.47397924750602,build/relative_value.py (this report)
+own_pe_median,67.56872897697876,build/relative_value.py (this report)
+own_pe_min,37.4561565837304,build/relative_value.py (this report)
+own_pe_max,109.90724493054414,build/relative_value.py (this report)
+own_pe_start,94.7311186196776,build/relative_value.py (this report)
+own_pe_now,50.11583540004645,build/relative_value.py (this report)
+own_band_value,3531.81746362668,build/relative_value.py (this report)
+w_dcf,0.25,build_report.py WEIGHTS (fixed before the target was computed)
+w_comps,0.25,build_report.py WEIGHTS (fixed before the target was computed)
+w_rel,0.5,build_report.py WEIGHTS (fixed before the target was computed)
+football_field_png,fig8_football_field.png,drawn by this script from data/p3/football_field.csv plus Section 6 values

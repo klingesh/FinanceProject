@@ -1,0 +1,42 @@
+{
+ "url": "https://www.screener.in/api/company/1274826/schedules/?parent=Net%20Profit&section=profit-loss&consolidated=true",
+ "fetched": "2026-11-01 01:39 UTC",
+ "data": {
+  "Minority share": {
+   "Mar 2023": "0",
+   "Mar 2024": "-2",
+   "Mar 2025": "-0",
+   "Mar 2026": "-3"
+  },
+  "Exceptional items AT": {
+   "Mar 2023": "1",
+   "Mar 2024": "1",
+   "Mar 2025": "0",
+   "Mar 2026": "-5"
+  },
+  "Profit excl Excep": {
+   "Mar 2023": "131",
+   "Mar 2024": "148",
+   "Mar 2025": "142",
+   "Mar 2026": "152"
+  },
+  "Profit for PE": {
+   "Mar 2023": "131",
+   "Mar 2024": "147",
+   "Mar 2025": "141",
+   "Mar 2026": "150"
+  },
+  "Profit for EPS": {
+   "Mar 2023": "132",
+   "Mar 2024": "147",
+   "Mar 2025": "142",
+   "Mar 2026": "145"
+  },
+  "Profit Growth %": {
+   "Mar 2023": "",
+   "Mar 2024": "12%",
+   "Mar 2025": "-4%",
+   "Mar 2026": "6%"
+  }
+ }
+}

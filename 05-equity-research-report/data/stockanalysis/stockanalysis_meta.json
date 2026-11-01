@@ -1,0 +1,317 @@
+{
+  "ASIANPAINT_income": {
+    "url": "https://stockanalysis.com/quote/nse/ASIANPAINT/financials/income-statement/",
+    "final_url": "https://stockanalysis.com/quote/nse/ASIANPAINT/financials/income-statement/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 2
+  },
+  "ASIANPAINT_balance": {
+    "url": "https://stockanalysis.com/quote/nse/ASIANPAINT/financials/balance-sheet/",
+    "final_url": "https://stockanalysis.com/quote/nse/ASIANPAINT/financials/balance-sheet/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 4
+  },
+  "ASIANPAINT_cashflow": {
+    "url": "https://stockanalysis.com/quote/nse/ASIANPAINT/financials/cash-flow-statement/",
+    "final_url": "https://stockanalysis.com/quote/nse/ASIANPAINT/financials/cash-flow-statement/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 6
+  },
+  "ASIANPAINT_ratios": {
+    "url": "https://stockanalysis.com/quote/nse/ASIANPAINT/financials/ratios/",
+    "final_url": "https://stockanalysis.com/quote/nse/ASIANPAINT/financials/ratios/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 5
+  },
+  "ASIANPAINT_statistics": {
+    "url": "https://stockanalysis.com/quote/nse/ASIANPAINT/statistics/",
+    "final_url": "https://stockanalysis.com/quote/nse/ASIANPAINT/statistics/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 19
+  },
+  "ASIANPAINT_forecast": {
+    "url": "https://stockanalysis.com/quote/nse/ASIANPAINT/forecast/",
+    "final_url": "https://stockanalysis.com/quote/nse/ASIANPAINT/forecast/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 8
+  },
+  "ASIANPAINT_dividend": {
+    "url": "https://stockanalysis.com/quote/nse/ASIANPAINT/dividend/",
+    "final_url": "https://stockanalysis.com/quote/nse/ASIANPAINT/dividend/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 1
+  },
+  "BERGEPAINT_income": {
+    "url": "https://stockanalysis.com/quote/nse/BERGEPAINT/financials/income-statement/",
+    "final_url": "https://stockanalysis.com/quote/nse/BERGEPAINT/financials/income-statement/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 2
+  },
+  "BERGEPAINT_balance": {
+    "url": "https://stockanalysis.com/quote/nse/BERGEPAINT/financials/balance-sheet/",
+    "final_url": "https://stockanalysis.com/quote/nse/BERGEPAINT/financials/balance-sheet/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 4
+  },
+  "BERGEPAINT_cashflow": {
+    "url": "https://stockanalysis.com/quote/nse/BERGEPAINT/financials/cash-flow-statement/",
+    "final_url": "https://stockanalysis.com/quote/nse/BERGEPAINT/financials/cash-flow-statement/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 6
+  },
+  "BERGEPAINT_ratios": {
+    "url": "https://stockanalysis.com/quote/nse/BERGEPAINT/financials/ratios/",
+    "final_url": "https://stockanalysis.com/quote/nse/BERGEPAINT/financials/ratios/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 5
+  },
+  "BERGEPAINT_statistics": {
+    "url": "https://stockanalysis.com/quote/nse/BERGEPAINT/statistics/",
+    "final_url": "https://stockanalysis.com/quote/nse/BERGEPAINT/statistics/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 19
+  },
+  "BERGEPAINT_forecast": {
+    "url": "https://stockanalysis.com/quote/nse/BERGEPAINT/forecast/",
+    "final_url": "https://stockanalysis.com/quote/nse/BERGEPAINT/forecast/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 7
+  },
+  "BERGEPAINT_dividend": {
+    "url": "https://stockanalysis.com/quote/nse/BERGEPAINT/dividend/",
+    "final_url": "https://stockanalysis.com/quote/nse/BERGEPAINT/dividend/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 1
+  },
+  "KANSAINER_income": {
+    "url": "https://stockanalysis.com/quote/nse/KANSAINER/financials/income-statement/",
+    "final_url": "https://stockanalysis.com/quote/nse/KANSAINER/financials/income-statement/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 2
+  },
+  "KANSAINER_balance": {
+    "url": "https://stockanalysis.com/quote/nse/KANSAINER/financials/balance-sheet/",
+    "final_url": "https://stockanalysis.com/quote/nse/KANSAINER/financials/balance-sheet/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 4
+  },
+  "KANSAINER_cashflow": {
+    "url": "https://stockanalysis.com/quote/nse/KANSAINER/financials/cash-flow-statement/",
+    "final_url": "https://stockanalysis.com/quote/nse/KANSAINER/financials/cash-flow-statement/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 6
+  },
+  "KANSAINER_ratios": {
+    "url": "https://stockanalysis.com/quote/nse/KANSAINER/financials/ratios/",
+    "final_url": "https://stockanalysis.com/quote/nse/KANSAINER/financials/ratios/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 5
+  },
+  "KANSAINER_statistics": {
+    "url": "https://stockanalysis.com/quote/nse/KANSAINER/statistics/",
+    "final_url": "https://stockanalysis.com/quote/nse/KANSAINER/statistics/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 19
+  },
+  "KANSAINER_forecast": {
+    "url": "https://stockanalysis.com/quote/nse/KANSAINER/forecast/",
+    "final_url": "https://stockanalysis.com/quote/nse/KANSAINER/forecast/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 7
+  },
+  "KANSAINER_dividend": {
+    "url": "https://stockanalysis.com/quote/nse/KANSAINER/dividend/",
+    "final_url": "https://stockanalysis.com/quote/nse/KANSAINER/dividend/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 1
+  },
+  "JSWDULUX_income": {
+    "url": "https://stockanalysis.com/quote/nse/JSWDULUX/financials/income-statement/",
+    "final_url": "https://stockanalysis.com/quote/nse/JSWDULUX/financials/income-statement/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 2
+  },
+  "JSWDULUX_balance": {
+    "url": "https://stockanalysis.com/quote/nse/JSWDULUX/financials/balance-sheet/",
+    "final_url": "https://stockanalysis.com/quote/nse/JSWDULUX/financials/balance-sheet/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 4
+  },
+  "JSWDULUX_cashflow": {
+    "url": "https://stockanalysis.com/quote/nse/JSWDULUX/financials/cash-flow-statement/",
+    "final_url": "https://stockanalysis.com/quote/nse/JSWDULUX/financials/cash-flow-statement/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 6
+  },
+  "JSWDULUX_ratios": {
+    "url": "https://stockanalysis.com/quote/nse/JSWDULUX/financials/ratios/",
+    "final_url": "https://stockanalysis.com/quote/nse/JSWDULUX/financials/ratios/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 5
+  },
+  "JSWDULUX_statistics": {
+    "url": "https://stockanalysis.com/quote/nse/JSWDULUX/statistics/",
+    "final_url": "https://stockanalysis.com/quote/nse/JSWDULUX/statistics/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 19
+  },
+  "JSWDULUX_forecast": {
+    "url": "https://stockanalysis.com/quote/nse/JSWDULUX/forecast/",
+    "final_url": "https://stockanalysis.com/quote/nse/JSWDULUX/forecast/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 7
+  },
+  "JSWDULUX_dividend": {
+    "url": "https://stockanalysis.com/quote/nse/JSWDULUX/dividend/",
+    "final_url": "https://stockanalysis.com/quote/nse/JSWDULUX/dividend/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 1
+  },
+  "INDIGOPNTS_income": {
+    "url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/income-statement/",
+    "final_url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/income-statement/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 2
+  },
+  "INDIGOPNTS_balance": {
+    "url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/balance-sheet/",
+    "final_url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/balance-sheet/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 4
+  },
+  "INDIGOPNTS_cashflow": {
+    "url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/cash-flow-statement/",
+    "final_url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/cash-flow-statement/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": "Financials in millions INR.",
+    "updated": null,
+    "n_tables": 6
+  },
+  "INDIGOPNTS_ratios": {
+    "url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/ratios/",
+    "final_url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/financials/ratios/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 5
+  },
+  "INDIGOPNTS_statistics": {
+    "url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/statistics/",
+    "final_url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/statistics/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 19
+  },
+  "INDIGOPNTS_forecast": {
+    "url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/forecast/",
+    "final_url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/forecast/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 7
+  },
+  "INDIGOPNTS_dividend": {
+    "url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/dividend/",
+    "final_url": "https://stockanalysis.com/quote/nse/INDIGOPNTS/dividend/",
+    "status": 200,
+    "fetched": "2026-11-01 01:48 UTC",
+    "unit_note": null,
+    "updated": null,
+    "n_tables": 1
+  }
+}

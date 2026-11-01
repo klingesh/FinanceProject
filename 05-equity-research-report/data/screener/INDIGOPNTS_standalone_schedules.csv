@@ -1,0 +1,934 @@
+section,parent,item,period,value,raw
+profit-loss,Sales,Sales Growth %,Mar 2015,41.37,41.37%
+profit-loss,Sales,Sales Growth %,Mar 2016,37.91,37.91%
+profit-loss,Sales,Sales Growth %,Mar 2017,132.61,132.61%
+profit-loss,Sales,Sales Growth %,Mar 2018,42.15,42.15%
+profit-loss,Sales,Sales Growth %,Mar 2019,30.29,30.29%
+profit-loss,Sales,Sales Growth %,Mar 2020,16.65,16.65%
+profit-loss,Sales,Sales Growth %,Mar 2021,15.77,15.77%
+profit-loss,Sales,Sales Growth %,Mar 2022,25.25,25.25%
+profit-loss,Sales,Sales Growth %,Mar 2023,18.47,18.47%
+profit-loss,Sales,Sales Growth %,Mar 2024,16.91,16.91%
+profit-loss,Sales,Sales Growth %,Mar 2025,1.78,1.78%
+profit-loss,Sales,Sales Growth %,Mar 2026,4.14,4.14%
+profit-loss,Expenses,Material Cost %,Mar 2015,52.0,52%
+profit-loss,Expenses,Material Cost %,Mar 2016,49.0,49%
+profit-loss,Expenses,Material Cost %,Mar 2017,56.0,56%
+profit-loss,Expenses,Material Cost %,Mar 2018,56.0,56%
+profit-loss,Expenses,Material Cost %,Mar 2019,56.0,56%
+profit-loss,Expenses,Material Cost %,Mar 2020,52.0,52%
+profit-loss,Expenses,Material Cost %,Mar 2021,52.0,52%
+profit-loss,Expenses,Material Cost %,Mar 2022,57.0,57%
+profit-loss,Expenses,Material Cost %,Mar 2023,55.0,55%
+profit-loss,Expenses,Material Cost %,Mar 2024,52.0,52%
+profit-loss,Expenses,Material Cost %,Mar 2025,53.0,53%
+profit-loss,Expenses,Material Cost %,Mar 2026,53.0,53%
+profit-loss,Expenses,Manufacturing Cost %,Mar 2015,1.0,1%
+profit-loss,Expenses,Manufacturing Cost %,Mar 2016,1.0,1%
+profit-loss,Expenses,Manufacturing Cost %,Mar 2017,1.0,1%
+profit-loss,Expenses,Manufacturing Cost %,Mar 2018,12.0,12%
+profit-loss,Expenses,Manufacturing Cost %,Mar 2019,2.0,2%
+profit-loss,Expenses,Manufacturing Cost %,Mar 2020,2.0,2%
+profit-loss,Expenses,Manufacturing Cost %,Mar 2021,2.0,2%
+profit-loss,Expenses,Manufacturing Cost %,Mar 2022,2.0,2%
+profit-loss,Expenses,Manufacturing Cost %,Mar 2023,11.0,11%
+profit-loss,Expenses,Manufacturing Cost %,Mar 2024,12.0,12%
+profit-loss,Expenses,Manufacturing Cost %,Mar 2025,11.0,11%
+profit-loss,Expenses,Manufacturing Cost %,Mar 2026,11.0,11%
+profit-loss,Expenses,Employee Cost %,Mar 2015,8.0,8%
+profit-loss,Expenses,Employee Cost %,Mar 2016,8.0,8%
+profit-loss,Expenses,Employee Cost %,Mar 2017,8.0,8%
+profit-loss,Expenses,Employee Cost %,Mar 2018,7.0,7%
+profit-loss,Expenses,Employee Cost %,Mar 2019,7.0,7%
+profit-loss,Expenses,Employee Cost %,Mar 2020,7.0,7%
+profit-loss,Expenses,Employee Cost %,Mar 2021,7.0,7%
+profit-loss,Expenses,Employee Cost %,Mar 2022,6.0,6%
+profit-loss,Expenses,Employee Cost %,Mar 2023,7.0,7%
+profit-loss,Expenses,Employee Cost %,Mar 2024,7.0,7%
+profit-loss,Expenses,Employee Cost %,Mar 2025,8.0,8%
+profit-loss,Expenses,Employee Cost %,Mar 2026,9.0,9%
+profit-loss,Expenses,Other Cost %,Mar 2015,46.0,46%
+profit-loss,Expenses,Other Cost %,Mar 2016,46.0,46%
+profit-loss,Expenses,Other Cost %,Mar 2017,35.0,35%
+profit-loss,Expenses,Other Cost %,Mar 2018,19.0,19%
+profit-loss,Expenses,Other Cost %,Mar 2019,25.0,25%
+profit-loss,Expenses,Other Cost %,Mar 2020,25.0,25%
+profit-loss,Expenses,Other Cost %,Mar 2021,23.0,23%
+profit-loss,Expenses,Other Cost %,Mar 2022,21.0,21%
+profit-loss,Expenses,Other Cost %,Mar 2023,10.0,10%
+profit-loss,Expenses,Other Cost %,Mar 2024,10.0,10%
+profit-loss,Expenses,Other Cost %,Mar 2025,9.0,9%
+profit-loss,Expenses,Other Cost %,Mar 2026,9.0,9%
+profit-loss,Material Cost %,Raw material cost,Mar 2015,49.0,49
+profit-loss,Material Cost %,Raw material cost,Mar 2016,64.0,64
+profit-loss,Material Cost %,Raw material cost,Mar 2017,174.0,174
+profit-loss,Material Cost %,Raw material cost,Mar 2018,227.0,227
+profit-loss,Material Cost %,Raw material cost,Mar 2019,305.0,305
+profit-loss,Material Cost %,Raw material cost,Mar 2020,332.0,332
+profit-loss,Material Cost %,Raw material cost,Mar 2021,382.0,382
+profit-loss,Material Cost %,Raw material cost,Mar 2022,528.0,528
+profit-loss,Material Cost %,Raw material cost,Mar 2023,597.0,597
+profit-loss,Material Cost %,Raw material cost,Mar 2024,682.0,682
+profit-loss,Material Cost %,Raw material cost,Mar 2025,680.0,680
+profit-loss,Material Cost %,Raw material cost,Mar 2026,705.0,705
+profit-loss,Material Cost %,Change in inventory,Mar 2015,-2.0,-2
+profit-loss,Material Cost %,Change in inventory,Mar 2016,-3.0,-3
+profit-loss,Material Cost %,Change in inventory,Mar 2017,-12.0,-12
+profit-loss,Material Cost %,Change in inventory,Mar 2018,3.0,3
+profit-loss,Material Cost %,Change in inventory,Mar 2019,-6.0,-6
+profit-loss,Material Cost %,Change in inventory,Mar 2020,-10.0,-10
+profit-loss,Material Cost %,Change in inventory,Mar 2021,-5.0,-5
+profit-loss,Material Cost %,Change in inventory,Mar 2022,-15.0,-15
+profit-loss,Material Cost %,Change in inventory,Mar 2023,-2.0,-2
+profit-loss,Material Cost %,Change in inventory,Mar 2024,-29.0,-29
+profit-loss,Material Cost %,Change in inventory,Mar 2025,3.0,3
+profit-loss,Material Cost %,Change in inventory,Mar 2026,1.0,1
+profit-loss,Other Income,Exceptional items,Mar 2015,0.0,0.00
+profit-loss,Other Income,Exceptional items,Mar 2016,0.0,0.00
+profit-loss,Other Income,Exceptional items,Mar 2017,0.0,0.00
+profit-loss,Other Income,Exceptional items,Mar 2018,-1.32,-1.32
+profit-loss,Other Income,Exceptional items,Mar 2019,-0.41,-0.41
+profit-loss,Other Income,Exceptional items,Mar 2020,0.08,0.08
+profit-loss,Other Income,Exceptional items,Mar 2021,-0.03,-0.03
+profit-loss,Other Income,Exceptional items,Mar 2022,-0.06,-0.06
+profit-loss,Other Income,Exceptional items,Mar 2023,0.98,0.98
+profit-loss,Other Income,Exceptional items,Mar 2024,0.61,0.61
+profit-loss,Other Income,Exceptional items,Mar 2025,0.15,0.15
+profit-loss,Other Income,Exceptional items,Mar 2026,-5.82,-5.82
+profit-loss,Other Income,Other income normal,Mar 2015,1.83,1.83
+profit-loss,Other Income,Other income normal,Mar 2016,0.88,0.88
+profit-loss,Other Income,Other income normal,Mar 2017,1.1,1.10
+profit-loss,Other Income,Other income normal,Mar 2018,0.46,0.46
+profit-loss,Other Income,Other income normal,Mar 2019,1.62,1.62
+profit-loss,Other Income,Other income normal,Mar 2020,1.56,1.56
+profit-loss,Other Income,Other income normal,Mar 2021,3.59,3.59
+profit-loss,Other Income,Other income normal,Mar 2022,10.89,10.89
+profit-loss,Other Income,Other income normal,Mar 2023,9.09,9.09
+profit-loss,Other Income,Other income normal,Mar 2024,12.82,12.82
+profit-loss,Other Income,Other income normal,Mar 2025,17.31,17.31
+profit-loss,Other Income,Other income normal,Mar 2026,12.19,12.19
+profit-loss,Net Profit,Exceptional items AT,Mar 2015,0.0,0
+profit-loss,Net Profit,Exceptional items AT,Mar 2016,0.0,0
+profit-loss,Net Profit,Exceptional items AT,Mar 2017,0.0,0
+profit-loss,Net Profit,Exceptional items AT,Mar 2018,-1.0,-1
+profit-loss,Net Profit,Exceptional items AT,Mar 2019,-0.0,-0
+profit-loss,Net Profit,Exceptional items AT,Mar 2020,0.0,0
+profit-loss,Net Profit,Exceptional items AT,Mar 2021,-0.0,-0
+profit-loss,Net Profit,Exceptional items AT,Mar 2022,-0.0,-0
+profit-loss,Net Profit,Exceptional items AT,Mar 2023,1.0,1
+profit-loss,Net Profit,Exceptional items AT,Mar 2024,0.0,0
+profit-loss,Net Profit,Exceptional items AT,Mar 2025,0.0,0
+profit-loss,Net Profit,Exceptional items AT,Mar 2026,-4.0,-4
+profit-loss,Net Profit,Profit excl Excep,Mar 2015,-7.0,-7
+profit-loss,Net Profit,Profit excl Excep,Mar 2016,-6.0,-6
+profit-loss,Net Profit,Profit excl Excep,Mar 2017,-16.0,-16
+profit-loss,Net Profit,Profit excl Excep,Mar 2018,4.0,4
+profit-loss,Net Profit,Profit excl Excep,Mar 2019,27.0,27
+profit-loss,Net Profit,Profit excl Excep,Mar 2020,48.0,48
+profit-loss,Net Profit,Profit excl Excep,Mar 2021,71.0,71
+profit-loss,Net Profit,Profit excl Excep,Mar 2022,84.0,84
+profit-loss,Net Profit,Profit excl Excep,Mar 2023,131.0,131
+profit-loss,Net Profit,Profit excl Excep,Mar 2024,148.0,148
+profit-loss,Net Profit,Profit excl Excep,Mar 2025,144.0,144
+profit-loss,Net Profit,Profit excl Excep,Mar 2026,150.0,150
+profit-loss,Net Profit,Profit for PE,Mar 2015,-7.0,-7
+profit-loss,Net Profit,Profit for PE,Mar 2016,-6.0,-6
+profit-loss,Net Profit,Profit for PE,Mar 2017,-16.0,-16
+profit-loss,Net Profit,Profit for PE,Mar 2018,4.0,4
+profit-loss,Net Profit,Profit for PE,Mar 2019,27.0,27
+profit-loss,Net Profit,Profit for PE,Mar 2020,48.0,48
+profit-loss,Net Profit,Profit for PE,Mar 2021,71.0,71
+profit-loss,Net Profit,Profit for PE,Mar 2022,84.0,84
+profit-loss,Net Profit,Profit for PE,Mar 2023,131.0,131
+profit-loss,Net Profit,Profit for PE,Mar 2024,148.0,148
+profit-loss,Net Profit,Profit for PE,Mar 2025,144.0,144
+profit-loss,Net Profit,Profit for PE,Mar 2026,150.0,150
+profit-loss,Net Profit,Profit for EPS,Mar 2015,-7.0,-7
+profit-loss,Net Profit,Profit for EPS,Mar 2016,-6.0,-6
+profit-loss,Net Profit,Profit for EPS,Mar 2017,-16.0,-16
+profit-loss,Net Profit,Profit for EPS,Mar 2018,3.0,3
+profit-loss,Net Profit,Profit for EPS,Mar 2019,27.0,27
+profit-loss,Net Profit,Profit for EPS,Mar 2020,48.0,48
+profit-loss,Net Profit,Profit for EPS,Mar 2021,71.0,71
+profit-loss,Net Profit,Profit for EPS,Mar 2022,84.0,84
+profit-loss,Net Profit,Profit for EPS,Mar 2023,132.0,132
+profit-loss,Net Profit,Profit for EPS,Mar 2024,149.0,149
+profit-loss,Net Profit,Profit for EPS,Mar 2025,144.0,144
+profit-loss,Net Profit,Profit for EPS,Mar 2026,145.0,145
+profit-loss,Net Profit,Profit Growth %,Mar 2015,-2031.0,"-2,031%"
+profit-loss,Net Profit,Profit Growth %,Mar 2016,14.0,14%
+profit-loss,Net Profit,Profit Growth %,Mar 2017,-164.0,-164%
+profit-loss,Net Profit,Profit Growth %,Mar 2018,125.0,125%
+profit-loss,Net Profit,Profit Growth %,Mar 2019,599.0,599%
+profit-loss,Net Profit,Profit Growth %,Mar 2020,76.0,76%
+profit-loss,Net Profit,Profit Growth %,Mar 2021,48.0,48%
+profit-loss,Net Profit,Profit Growth %,Mar 2022,19.0,19%
+profit-loss,Net Profit,Profit Growth %,Mar 2023,56.0,56%
+profit-loss,Net Profit,Profit Growth %,Mar 2024,13.0,13%
+profit-loss,Net Profit,Profit Growth %,Mar 2025,-3.0,-3%
+profit-loss,Net Profit,Profit Growth %,Mar 2026,4.0,4%
+quarters,Expenses,Material Cost %,Sep 2023,54.0,54%
+quarters,Expenses,Material Cost %,Dec 2023,52.0,52%
+quarters,Expenses,Material Cost %,Mar 2024,51.0,51%
+quarters,Expenses,Material Cost %,Jun 2024,53.0,53%
+quarters,Expenses,Material Cost %,Sep 2024,56.0,56%
+quarters,Expenses,Material Cost %,Dec 2024,53.0,53%
+quarters,Expenses,Material Cost %,Mar 2025,53.0,53%
+quarters,Expenses,Material Cost %,Jun 2025,54.0,54%
+quarters,Expenses,Material Cost %,Sep 2025,55.0,55%
+quarters,Expenses,Material Cost %,Dec 2025,53.0,53%
+quarters,Expenses,Material Cost %,Mar 2026,51.0,51%
+quarters,Expenses,Material Cost %,Jun 2026,55.0,55%
+quarters,Expenses,Material Cost %,Sep 2026,62.0,62%
+quarters,Expenses,Employee Cost %,Sep 2023,9.0,9%
+quarters,Expenses,Employee Cost %,Dec 2023,7.0,7%
+quarters,Expenses,Employee Cost %,Mar 2024,6.0,6%
+quarters,Expenses,Employee Cost %,Jun 2024,9.0,9%
+quarters,Expenses,Employee Cost %,Sep 2024,9.0,9%
+quarters,Expenses,Employee Cost %,Dec 2024,8.0,8%
+quarters,Expenses,Employee Cost %,Mar 2025,6.0,6%
+quarters,Expenses,Employee Cost %,Jun 2025,10.0,10%
+quarters,Expenses,Employee Cost %,Sep 2025,10.0,10%
+quarters,Expenses,Employee Cost %,Dec 2025,9.0,9%
+quarters,Expenses,Employee Cost %,Mar 2026,8.0,8%
+quarters,Expenses,Employee Cost %,Jun 2026,10.0,10%
+quarters,Expenses,Employee Cost %,Sep 2026,10.0,10%
+quarters,Other Income,Exceptional items,Sep 2023,0.0,0.00
+quarters,Other Income,Exceptional items,Dec 2023,0.0,0.00
+quarters,Other Income,Exceptional items,Mar 2024,0.0,0.00
+quarters,Other Income,Exceptional items,Jun 2024,0.0,0.00
+quarters,Other Income,Exceptional items,Sep 2024,0.0,0.00
+quarters,Other Income,Exceptional items,Dec 2024,0.0,0.00
+quarters,Other Income,Exceptional items,Mar 2025,0.0,0.00
+quarters,Other Income,Exceptional items,Jun 2025,0.0,0.00
+quarters,Other Income,Exceptional items,Sep 2025,0.0,0.00
+quarters,Other Income,Exceptional items,Dec 2025,-5.85,-5.85
+quarters,Other Income,Exceptional items,Mar 2026,0.0,0.00
+quarters,Other Income,Exceptional items,Jun 2026,0.0,0.00
+quarters,Other Income,Exceptional items,Sep 2026,0.0,0.00
+quarters,Other Income,Other income normal,Sep 2023,2.97,2.97
+quarters,Other Income,Other income normal,Dec 2023,2.89,2.89
+quarters,Other Income,Other income normal,Mar 2024,4.05,4.05
+quarters,Other Income,Other income normal,Jun 2024,4.04,4.04
+quarters,Other Income,Other income normal,Sep 2024,4.89,4.89
+quarters,Other Income,Other income normal,Dec 2024,2.96,2.96
+quarters,Other Income,Other income normal,Mar 2025,5.57,5.57
+quarters,Other Income,Other income normal,Jun 2025,5.72,5.72
+quarters,Other Income,Other income normal,Sep 2025,2.74,2.74
+quarters,Other Income,Other income normal,Dec 2025,3.57,3.57
+quarters,Other Income,Other income normal,Mar 2026,0.19,0.19
+quarters,Other Income,Other income normal,Jun 2026,9.85,9.85
+quarters,Other Income,Other income normal,Sep 2026,1.99,1.99
+quarters,Net Profit,Exceptional items AT,Sep 2023,0.0,0.00
+quarters,Net Profit,Exceptional items AT,Dec 2023,0.0,0.00
+quarters,Net Profit,Exceptional items AT,Mar 2024,0.0,0.00
+quarters,Net Profit,Exceptional items AT,Jun 2024,0.0,0.00
+quarters,Net Profit,Exceptional items AT,Sep 2024,0.0,0.00
+quarters,Net Profit,Exceptional items AT,Dec 2024,0.0,0.00
+quarters,Net Profit,Exceptional items AT,Mar 2025,0.0,0.00
+quarters,Net Profit,Exceptional items AT,Jun 2025,0.0,0.00
+quarters,Net Profit,Exceptional items AT,Sep 2025,0.0,0.00
+quarters,Net Profit,Exceptional items AT,Dec 2025,-4.17,-4.17
+quarters,Net Profit,Exceptional items AT,Mar 2026,0.0,0.00
+quarters,Net Profit,Exceptional items AT,Jun 2026,0.0,0.00
+quarters,Net Profit,Exceptional items AT,Sep 2026,0.0,0.00
+quarters,Net Profit,Profit excl Excep,Sep 2023,26.14,26.14
+quarters,Net Profit,Profit excl Excep,Dec 2023,37.7,37.70
+quarters,Net Profit,Profit excl Excep,Mar 2024,53.52,53.52
+quarters,Net Profit,Profit excl Excep,Jun 2024,26.46,26.46
+quarters,Net Profit,Profit excl Excep,Sep 2024,24.12,24.12
+quarters,Net Profit,Profit excl Excep,Dec 2024,36.46,36.46
+quarters,Net Profit,Profit excl Excep,Mar 2025,56.9,56.90
+quarters,Net Profit,Profit excl Excep,Jun 2025,26.36,26.36
+quarters,Net Profit,Profit excl Excep,Sep 2025,25.53,25.53
+quarters,Net Profit,Profit excl Excep,Dec 2025,40.33,40.33
+quarters,Net Profit,Profit excl Excep,Mar 2026,57.34,57.34
+quarters,Net Profit,Profit excl Excep,Jun 2026,42.37,42.37
+quarters,Net Profit,Profit excl Excep,Sep 2026,13.81,13.81
+quarters,Net Profit,Profit for PE,Sep 2023,26.14,26.14
+quarters,Net Profit,Profit for PE,Dec 2023,37.7,37.70
+quarters,Net Profit,Profit for PE,Mar 2024,53.52,53.52
+quarters,Net Profit,Profit for PE,Jun 2024,26.46,26.46
+quarters,Net Profit,Profit for PE,Sep 2024,24.12,24.12
+quarters,Net Profit,Profit for PE,Dec 2024,36.46,36.46
+quarters,Net Profit,Profit for PE,Mar 2025,56.9,56.90
+quarters,Net Profit,Profit for PE,Jun 2025,26.36,26.36
+quarters,Net Profit,Profit for PE,Sep 2025,25.53,25.53
+quarters,Net Profit,Profit for PE,Dec 2025,40.33,40.33
+quarters,Net Profit,Profit for PE,Mar 2026,57.34,57.34
+quarters,Net Profit,Profit for PE,Jun 2026,42.37,42.37
+quarters,Net Profit,Profit for PE,Sep 2026,13.81,13.81
+quarters,Net Profit,Profit for EPS,Sep 2023,26.14,26.14
+quarters,Net Profit,Profit for EPS,Dec 2023,37.7,37.70
+quarters,Net Profit,Profit for EPS,Mar 2024,53.52,53.52
+quarters,Net Profit,Profit for EPS,Jun 2024,26.46,26.46
+quarters,Net Profit,Profit for EPS,Sep 2024,24.12,24.12
+quarters,Net Profit,Profit for EPS,Dec 2024,36.46,36.46
+quarters,Net Profit,Profit for EPS,Mar 2025,56.9,56.90
+quarters,Net Profit,Profit for EPS,Jun 2025,26.36,26.36
+quarters,Net Profit,Profit for EPS,Sep 2025,25.53,25.53
+quarters,Net Profit,Profit for EPS,Dec 2025,36.16,36.16
+quarters,Net Profit,Profit for EPS,Mar 2026,57.34,57.34
+quarters,Net Profit,Profit for EPS,Jun 2026,42.37,42.37
+quarters,Net Profit,Profit for EPS,Sep 2026,13.81,13.81
+quarters,Net Profit,YOY Profit Growth %,Sep 2023,-29.52,-29.52%
+quarters,Net Profit,YOY Profit Growth %,Dec 2023,43.56,43.56%
+quarters,Net Profit,YOY Profit Growth %,Mar 2024,9.94,9.94%
+quarters,Net Profit,YOY Profit Growth %,Jun 2024,-15.44,-15.44%
+quarters,Net Profit,YOY Profit Growth %,Sep 2024,-7.73,-7.73%
+quarters,Net Profit,YOY Profit Growth %,Dec 2024,-3.29,-3.29%
+quarters,Net Profit,YOY Profit Growth %,Mar 2025,6.32,6.32%
+quarters,Net Profit,YOY Profit Growth %,Jun 2025,-0.38,-0.38%
+quarters,Net Profit,YOY Profit Growth %,Sep 2025,5.85,5.85%
+quarters,Net Profit,YOY Profit Growth %,Dec 2025,10.61,10.61%
+quarters,Net Profit,YOY Profit Growth %,Mar 2026,0.77,0.77%
+quarters,Net Profit,YOY Profit Growth %,Jun 2026,60.74,60.74%
+quarters,Net Profit,YOY Profit Growth %,Sep 2026,-45.91,-45.91%
+balance-sheet,Borrowings,Long term Borrowings,Mar 2015,,
+balance-sheet,Borrowings,Long term Borrowings,Mar 2016,,
+balance-sheet,Borrowings,Long term Borrowings,Mar 2017,8.24,8.24
+balance-sheet,Borrowings,Long term Borrowings,Mar 2018,8.91,8.91
+balance-sheet,Borrowings,Long term Borrowings,Mar 2019,26.91,26.91
+balance-sheet,Borrowings,Long term Borrowings,Mar 2020,24.72,24.72
+balance-sheet,Borrowings,Long term Borrowings,Mar 2021,0.0,0.00
+balance-sheet,Borrowings,Long term Borrowings,Mar 2022,0.0,0.00
+balance-sheet,Borrowings,Long term Borrowings,Mar 2023,0.0,0.00
+balance-sheet,Borrowings,Long term Borrowings,Mar 2024,0.0,0.00
+balance-sheet,Borrowings,Long term Borrowings,Mar 2025,0.0,0.00
+balance-sheet,Borrowings,Long term Borrowings,Mar 2026,0.0,0.00
+balance-sheet,Borrowings,Long term Borrowings,Sep 2026,0.0,0.00
+balance-sheet,Borrowings,Short term Borrowings,Mar 2015,,
+balance-sheet,Borrowings,Short term Borrowings,Mar 2016,,
+balance-sheet,Borrowings,Short term Borrowings,Mar 2017,25.48,25.48
+balance-sheet,Borrowings,Short term Borrowings,Mar 2018,22.64,22.64
+balance-sheet,Borrowings,Short term Borrowings,Mar 2019,24.71,24.71
+balance-sheet,Borrowings,Short term Borrowings,Mar 2020,14.53,14.53
+balance-sheet,Borrowings,Short term Borrowings,Mar 2021,0.03,0.03
+balance-sheet,Borrowings,Short term Borrowings,Mar 2022,0.0,0.00
+balance-sheet,Borrowings,Short term Borrowings,Mar 2023,0.0,0.00
+balance-sheet,Borrowings,Short term Borrowings,Mar 2024,0.0,0.00
+balance-sheet,Borrowings,Short term Borrowings,Mar 2025,0.0,0.00
+balance-sheet,Borrowings,Short term Borrowings,Mar 2026,0.0,0.00
+balance-sheet,Borrowings,Short term Borrowings,Sep 2026,0.0,0.00
+balance-sheet,Borrowings,Lease Liabilities,Mar 2015,,
+balance-sheet,Borrowings,Lease Liabilities,Mar 2016,,
+balance-sheet,Borrowings,Lease Liabilities,Mar 2017,0.0,0.00
+balance-sheet,Borrowings,Lease Liabilities,Mar 2018,0.0,0.00
+balance-sheet,Borrowings,Lease Liabilities,Mar 2019,9.4,9.40
+balance-sheet,Borrowings,Lease Liabilities,Mar 2020,6.26,6.26
+balance-sheet,Borrowings,Lease Liabilities,Mar 2021,8.75,8.75
+balance-sheet,Borrowings,Lease Liabilities,Mar 2022,12.44,12.44
+balance-sheet,Borrowings,Lease Liabilities,Mar 2023,11.85,11.85
+balance-sheet,Borrowings,Lease Liabilities,Mar 2024,16.84,16.84
+balance-sheet,Borrowings,Lease Liabilities,Mar 2025,19.69,19.69
+balance-sheet,Borrowings,Lease Liabilities,Mar 2026,18.37,18.37
+balance-sheet,Borrowings,Lease Liabilities,Sep 2026,21.72,21.72
+balance-sheet,Borrowings,Preference Capital,Mar 2015,0.7,0.70
+balance-sheet,Borrowings,Preference Capital,Mar 2016,2.47,2.47
+balance-sheet,Borrowings,Preference Capital,Mar 2017,18.3,18.30
+balance-sheet,Borrowings,Preference Capital,Mar 2018,18.3,18.30
+balance-sheet,Borrowings,Preference Capital,Mar 2019,18.3,18.30
+balance-sheet,Borrowings,Preference Capital,Mar 2020,18.3,18.30
+balance-sheet,Borrowings,Preference Capital,Mar 2021,0.0,0.00
+balance-sheet,Borrowings,Preference Capital,Mar 2022,0.0,0.00
+balance-sheet,Borrowings,Preference Capital,Mar 2023,0.0,0.00
+balance-sheet,Borrowings,Preference Capital,Mar 2024,0.0,0.00
+balance-sheet,Borrowings,Preference Capital,Mar 2025,0.0,0.00
+balance-sheet,Borrowings,Preference Capital,Mar 2026,0.0,0.00
+balance-sheet,Borrowings,Preference Capital,Sep 2026,0.0,0.00
+balance-sheet,Borrowings,Other Borrowings,Mar 2015,2.89,2.89
+balance-sheet,Borrowings,Other Borrowings,Mar 2016,6.03,6.03
+balance-sheet,Borrowings,Other Borrowings,Mar 2017,0.0,0.00
+balance-sheet,Borrowings,Other Borrowings,Mar 2018,4.28,4.28
+balance-sheet,Borrowings,Other Borrowings,Mar 2019,8.51,8.51
+balance-sheet,Borrowings,Other Borrowings,Mar 2020,10.82,10.82
+balance-sheet,Borrowings,Other Borrowings,Mar 2021,0.0,0.00
+balance-sheet,Borrowings,Other Borrowings,Mar 2022,0.0,0.00
+balance-sheet,Borrowings,Other Borrowings,Mar 2023,0.01,0.01
+balance-sheet,Borrowings,Other Borrowings,Mar 2024,0.0,0.00
+balance-sheet,Borrowings,Other Borrowings,Mar 2025,0.01,0.01
+balance-sheet,Borrowings,Other Borrowings,Mar 2026,0.01,0.01
+balance-sheet,Borrowings,Other Borrowings,Sep 2026,,
+balance-sheet,Other Liabilities,Trade Payables,Mar 2015,27.0,27
+balance-sheet,Other Liabilities,Trade Payables,Mar 2016,37.0,37
+balance-sheet,Other Liabilities,Trade Payables,Mar 2017,85.0,85
+balance-sheet,Other Liabilities,Trade Payables,Mar 2018,107.0,107
+balance-sheet,Other Liabilities,Trade Payables,Mar 2019,136.0,136
+balance-sheet,Other Liabilities,Trade Payables,Mar 2020,139.0,139
+balance-sheet,Other Liabilities,Trade Payables,Mar 2021,186.0,186
+balance-sheet,Other Liabilities,Trade Payables,Mar 2022,201.0,201
+balance-sheet,Other Liabilities,Trade Payables,Mar 2023,199.0,199
+balance-sheet,Other Liabilities,Trade Payables,Mar 2024,220.0,220
+balance-sheet,Other Liabilities,Trade Payables,Mar 2025,165.0,165
+balance-sheet,Other Liabilities,Trade Payables,Mar 2026,199.0,199
+balance-sheet,Other Liabilities,Trade Payables,Sep 2026,206.0,206
+balance-sheet,Other Liabilities,Advance from Customers,Mar 2015,0.0,0
+balance-sheet,Other Liabilities,Advance from Customers,Mar 2016,0.0,0
+balance-sheet,Other Liabilities,Advance from Customers,Mar 2017,1.0,1
+balance-sheet,Other Liabilities,Advance from Customers,Mar 2018,1.0,1
+balance-sheet,Other Liabilities,Advance from Customers,Mar 2019,1.0,1
+balance-sheet,Other Liabilities,Advance from Customers,Mar 2020,2.0,2
+balance-sheet,Other Liabilities,Advance from Customers,Mar 2021,3.0,3
+balance-sheet,Other Liabilities,Advance from Customers,Mar 2022,3.0,3
+balance-sheet,Other Liabilities,Advance from Customers,Mar 2023,3.0,3
+balance-sheet,Other Liabilities,Advance from Customers,Mar 2024,4.0,4
+balance-sheet,Other Liabilities,Advance from Customers,Mar 2025,4.0,4
+balance-sheet,Other Liabilities,Advance from Customers,Mar 2026,5.0,5
+balance-sheet,Other Liabilities,Advance from Customers,Sep 2026,,
+balance-sheet,Other Liabilities,Other liability items,Mar 2015,3.0,3
+balance-sheet,Other Liabilities,Other liability items,Mar 2016,21.0,21
+balance-sheet,Other Liabilities,Other liability items,Mar 2017,12.0,12
+balance-sheet,Other Liabilities,Other liability items,Mar 2018,17.0,17
+balance-sheet,Other Liabilities,Other liability items,Mar 2019,19.0,19
+balance-sheet,Other Liabilities,Other liability items,Mar 2020,28.0,28
+balance-sheet,Other Liabilities,Other liability items,Mar 2021,51.0,51
+balance-sheet,Other Liabilities,Other liability items,Mar 2022,54.0,54
+balance-sheet,Other Liabilities,Other liability items,Mar 2023,71.0,71
+balance-sheet,Other Liabilities,Other liability items,Mar 2024,65.0,65
+balance-sheet,Other Liabilities,Other liability items,Mar 2025,121.0,121
+balance-sheet,Other Liabilities,Other liability items,Mar 2026,165.0,165
+balance-sheet,Other Liabilities,Other liability items,Sep 2026,152.0,152
+balance-sheet,Fixed Assets,Land,Mar 2015,1.96,1.96
+balance-sheet,Fixed Assets,Land,Mar 2016,1.96,1.96
+balance-sheet,Fixed Assets,Land,Mar 2017,8.3,8.30
+balance-sheet,Fixed Assets,Land,Mar 2018,7.77,7.77
+balance-sheet,Fixed Assets,Land,Mar 2019,27.6,27.60
+balance-sheet,Fixed Assets,Land,Mar 2020,27.85,27.85
+balance-sheet,Fixed Assets,Land,Mar 2021,36.94,36.94
+balance-sheet,Fixed Assets,Land,Mar 2022,36.94,36.94
+balance-sheet,Fixed Assets,Land,Mar 2023,59.59,59.59
+balance-sheet,Fixed Assets,Land,Mar 2024,62.1,62.10
+balance-sheet,Fixed Assets,Land,Mar 2025,62.1,62.10
+balance-sheet,Fixed Assets,Land,Mar 2026,62.1,62.10
+balance-sheet,Fixed Assets,Land,Sep 2026,,
+balance-sheet,Fixed Assets,Building,Mar 2015,7.18,7.18
+balance-sheet,Fixed Assets,Building,Mar 2016,8.06,8.06
+balance-sheet,Fixed Assets,Building,Mar 2017,23.89,23.89
+balance-sheet,Fixed Assets,Building,Mar 2018,25.95,25.95
+balance-sheet,Fixed Assets,Building,Mar 2019,46.69,46.69
+balance-sheet,Fixed Assets,Building,Mar 2020,76.59,76.59
+balance-sheet,Fixed Assets,Building,Mar 2021,107.04,107.04
+balance-sheet,Fixed Assets,Building,Mar 2022,114.39,114.39
+balance-sheet,Fixed Assets,Building,Mar 2023,116.58,116.58
+balance-sheet,Fixed Assets,Building,Mar 2024,168.4,168.40
+balance-sheet,Fixed Assets,Building,Mar 2025,178.05,178.05
+balance-sheet,Fixed Assets,Building,Mar 2026,206.52,206.52
+balance-sheet,Fixed Assets,Building,Sep 2026,,
+balance-sheet,Fixed Assets,Plant Machinery,Mar 2015,0.0,0.00
+balance-sheet,Fixed Assets,Plant Machinery,Mar 2016,4.25,4.25
+balance-sheet,Fixed Assets,Plant Machinery,Mar 2017,16.02,16.02
+balance-sheet,Fixed Assets,Plant Machinery,Mar 2018,34.75,34.75
+balance-sheet,Fixed Assets,Plant Machinery,Mar 2019,52.28,52.28
+balance-sheet,Fixed Assets,Plant Machinery,Mar 2020,85.47,85.47
+balance-sheet,Fixed Assets,Plant Machinery,Mar 2021,115.42,115.42
+balance-sheet,Fixed Assets,Plant Machinery,Mar 2022,140.71,140.71
+balance-sheet,Fixed Assets,Plant Machinery,Mar 2023,159.52,159.52
+balance-sheet,Fixed Assets,Plant Machinery,Mar 2024,411.71,411.71
+balance-sheet,Fixed Assets,Plant Machinery,Mar 2025,430.44,430.44
+balance-sheet,Fixed Assets,Plant Machinery,Mar 2026,474.72,474.72
+balance-sheet,Fixed Assets,Plant Machinery,Sep 2026,,
+balance-sheet,Fixed Assets,Equipments,Mar 2015,3.67,3.67
+balance-sheet,Fixed Assets,Equipments,Mar 2016,0.0,0.00
+balance-sheet,Fixed Assets,Equipments,Mar 2017,0.31,0.31
+balance-sheet,Fixed Assets,Equipments,Mar 2018,0.29,0.29
+balance-sheet,Fixed Assets,Equipments,Mar 2019,0.81,0.81
+balance-sheet,Fixed Assets,Equipments,Mar 2020,1.52,1.52
+balance-sheet,Fixed Assets,Equipments,Mar 2021,2.03,2.03
+balance-sheet,Fixed Assets,Equipments,Mar 2022,2.29,2.29
+balance-sheet,Fixed Assets,Equipments,Mar 2023,2.53,2.53
+balance-sheet,Fixed Assets,Equipments,Mar 2024,2.81,2.81
+balance-sheet,Fixed Assets,Equipments,Mar 2025,3.17,3.17
+balance-sheet,Fixed Assets,Equipments,Mar 2026,3.27,3.27
+balance-sheet,Fixed Assets,Equipments,Sep 2026,,
+balance-sheet,Fixed Assets,Computers,Mar 2015,0.25,0.25
+balance-sheet,Fixed Assets,Computers,Mar 2016,0.31,0.31
+balance-sheet,Fixed Assets,Computers,Mar 2017,0.91,0.91
+balance-sheet,Fixed Assets,Computers,Mar 2018,0.96,0.96
+balance-sheet,Fixed Assets,Computers,Mar 2019,0.26,0.26
+balance-sheet,Fixed Assets,Computers,Mar 2020,0.35,0.35
+balance-sheet,Fixed Assets,Computers,Mar 2021,0.43,0.43
+balance-sheet,Fixed Assets,Computers,Mar 2022,0.51,0.51
+balance-sheet,Fixed Assets,Computers,Mar 2023,0.57,0.57
+balance-sheet,Fixed Assets,Computers,Mar 2024,0.86,0.86
+balance-sheet,Fixed Assets,Computers,Mar 2025,0.98,0.98
+balance-sheet,Fixed Assets,Computers,Mar 2026,1.1,1.10
+balance-sheet,Fixed Assets,Computers,Sep 2026,,
+balance-sheet,Fixed Assets,Furniture n fittings,Mar 2015,0.77,0.77
+balance-sheet,Fixed Assets,Furniture n fittings,Mar 2016,0.82,0.82
+balance-sheet,Fixed Assets,Furniture n fittings,Mar 2017,1.63,1.63
+balance-sheet,Fixed Assets,Furniture n fittings,Mar 2018,6.48,6.48
+balance-sheet,Fixed Assets,Furniture n fittings,Mar 2019,6.26,6.26
+balance-sheet,Fixed Assets,Furniture n fittings,Mar 2020,9.01,9.01
+balance-sheet,Fixed Assets,Furniture n fittings,Mar 2021,10.78,10.78
+balance-sheet,Fixed Assets,Furniture n fittings,Mar 2022,11.68,11.68
+balance-sheet,Fixed Assets,Furniture n fittings,Mar 2023,11.35,11.35
+balance-sheet,Fixed Assets,Furniture n fittings,Mar 2024,31.35,31.35
+balance-sheet,Fixed Assets,Furniture n fittings,Mar 2025,31.77,31.77
+balance-sheet,Fixed Assets,Furniture n fittings,Mar 2026,36.87,36.87
+balance-sheet,Fixed Assets,Furniture n fittings,Sep 2026,,
+balance-sheet,Fixed Assets,Vehicles,Mar 2015,0.19,0.19
+balance-sheet,Fixed Assets,Vehicles,Mar 2016,0.19,0.19
+balance-sheet,Fixed Assets,Vehicles,Mar 2017,0.68,0.68
+balance-sheet,Fixed Assets,Vehicles,Mar 2018,0.75,0.75
+balance-sheet,Fixed Assets,Vehicles,Mar 2019,0.55,0.55
+balance-sheet,Fixed Assets,Vehicles,Mar 2020,0.55,0.55
+balance-sheet,Fixed Assets,Vehicles,Mar 2021,0.55,0.55
+balance-sheet,Fixed Assets,Vehicles,Mar 2022,1.08,1.08
+balance-sheet,Fixed Assets,Vehicles,Mar 2023,1.06,1.06
+balance-sheet,Fixed Assets,Vehicles,Mar 2024,1.06,1.06
+balance-sheet,Fixed Assets,Vehicles,Mar 2025,1.84,1.84
+balance-sheet,Fixed Assets,Vehicles,Mar 2026,1.84,1.84
+balance-sheet,Fixed Assets,Vehicles,Sep 2026,,
+balance-sheet,Fixed Assets,Intangible Assets,Mar 2015,0.0,0.00
+balance-sheet,Fixed Assets,Intangible Assets,Mar 2016,0.0,0.00
+balance-sheet,Fixed Assets,Intangible Assets,Mar 2017,50.92,50.92
+balance-sheet,Fixed Assets,Intangible Assets,Mar 2018,50.92,50.92
+balance-sheet,Fixed Assets,Intangible Assets,Mar 2019,30.55,30.55
+balance-sheet,Fixed Assets,Intangible Assets,Mar 2020,30.55,30.55
+balance-sheet,Fixed Assets,Intangible Assets,Mar 2021,30.55,30.55
+balance-sheet,Fixed Assets,Intangible Assets,Mar 2022,30.55,30.55
+balance-sheet,Fixed Assets,Intangible Assets,Mar 2023,30.55,30.55
+balance-sheet,Fixed Assets,Intangible Assets,Mar 2024,30.55,30.55
+balance-sheet,Fixed Assets,Intangible Assets,Mar 2025,30.55,30.55
+balance-sheet,Fixed Assets,Intangible Assets,Mar 2026,30.55,30.55
+balance-sheet,Fixed Assets,Intangible Assets,Sep 2026,31.36,31.36
+balance-sheet,Fixed Assets,Other fixed assets,Mar 2015,0.53,0.53
+balance-sheet,Fixed Assets,Other fixed assets,Mar 2016,0.84,0.84
+balance-sheet,Fixed Assets,Other fixed assets,Mar 2017,5.08,5.08
+balance-sheet,Fixed Assets,Other fixed assets,Mar 2018,0.79,0.79
+balance-sheet,Fixed Assets,Other fixed assets,Mar 2019,0.5,0.50
+balance-sheet,Fixed Assets,Other fixed assets,Mar 2020,0.51,0.51
+balance-sheet,Fixed Assets,Other fixed assets,Mar 2021,0.7,0.70
+balance-sheet,Fixed Assets,Other fixed assets,Mar 2022,0.71,0.71
+balance-sheet,Fixed Assets,Other fixed assets,Mar 2023,0.7,0.70
+balance-sheet,Fixed Assets,Other fixed assets,Mar 2024,1.11,1.11
+balance-sheet,Fixed Assets,Other fixed assets,Mar 2025,1.54,1.54
+balance-sheet,Fixed Assets,Other fixed assets,Mar 2026,1.63,1.63
+balance-sheet,Fixed Assets,Other fixed assets,Sep 2026,,
+balance-sheet,Fixed Assets,Gross Block,Mar 2015,14.55,14.55
+balance-sheet,Fixed Assets,Gross Block,Mar 2016,16.43,16.43
+balance-sheet,Fixed Assets,Gross Block,Mar 2017,107.74,107.74
+balance-sheet,Fixed Assets,Gross Block,Mar 2018,128.66,128.66
+balance-sheet,Fixed Assets,Gross Block,Mar 2019,165.5,165.50
+balance-sheet,Fixed Assets,Gross Block,Mar 2020,232.4,232.40
+balance-sheet,Fixed Assets,Gross Block,Mar 2021,304.44,304.44
+balance-sheet,Fixed Assets,Gross Block,Mar 2022,338.86,338.86
+balance-sheet,Fixed Assets,Gross Block,Mar 2023,382.45,382.45
+balance-sheet,Fixed Assets,Gross Block,Mar 2024,709.95,709.95
+balance-sheet,Fixed Assets,Gross Block,Mar 2025,740.44,740.44
+balance-sheet,Fixed Assets,Gross Block,Mar 2026,818.6,818.60
+balance-sheet,Fixed Assets,Gross Block,Sep 2026,,
+balance-sheet,Fixed Assets,Accumulated Depreciation,Mar 2015,2.17,2.17
+balance-sheet,Fixed Assets,Accumulated Depreciation,Mar 2016,3.1,3.10
+balance-sheet,Fixed Assets,Accumulated Depreciation,Mar 2017,16.59,16.59
+balance-sheet,Fixed Assets,Accumulated Depreciation,Mar 2018,33.71,33.71
+balance-sheet,Fixed Assets,Accumulated Depreciation,Mar 2019,16.94,16.94
+balance-sheet,Fixed Assets,Accumulated Depreciation,Mar 2020,31.65,31.65
+balance-sheet,Fixed Assets,Accumulated Depreciation,Mar 2021,55.1,55.10
+balance-sheet,Fixed Assets,Accumulated Depreciation,Mar 2022,85.53,85.53
+balance-sheet,Fixed Assets,Accumulated Depreciation,Mar 2023,117.75,117.75
+balance-sheet,Fixed Assets,Accumulated Depreciation,Mar 2024,161.62,161.62
+balance-sheet,Fixed Assets,Accumulated Depreciation,Mar 2025,214.99,214.99
+balance-sheet,Fixed Assets,Accumulated Depreciation,Mar 2026,269.53,269.53
+balance-sheet,Fixed Assets,Accumulated Depreciation,Sep 2026,,
+balance-sheet,Other Assets,Inventories,Mar 2015,12.0,12
+balance-sheet,Other Assets,Inventories,Mar 2016,15.0,15
+balance-sheet,Other Assets,Inventories,Mar 2017,48.0,48
+balance-sheet,Other Assets,Inventories,Mar 2018,51.0,51
+balance-sheet,Other Assets,Inventories,Mar 2019,69.0,69
+balance-sheet,Other Assets,Inventories,Mar 2020,77.0,77
+balance-sheet,Other Assets,Inventories,Mar 2021,95.0,95
+balance-sheet,Other Assets,Inventories,Mar 2022,118.0,118
+balance-sheet,Other Assets,Inventories,Mar 2023,118.0,118
+balance-sheet,Other Assets,Inventories,Mar 2024,166.0,166
+balance-sheet,Other Assets,Inventories,Mar 2025,149.0,149
+balance-sheet,Other Assets,Inventories,Mar 2026,173.0,173
+balance-sheet,Other Assets,Inventories,Sep 2026,207.0,207
+balance-sheet,Other Assets,Trade receivables,Mar 2015,26.0,26
+balance-sheet,Other Assets,Trade receivables,Mar 2016,33.0,33
+balance-sheet,Other Assets,Trade receivables,Mar 2017,78.0,78
+balance-sheet,Other Assets,Trade receivables,Mar 2018,104.0,104
+balance-sheet,Other Assets,Trade receivables,Mar 2019,104.0,104
+balance-sheet,Other Assets,Trade receivables,Mar 2020,104.0,104
+balance-sheet,Other Assets,Trade receivables,Mar 2021,121.0,121
+balance-sheet,Other Assets,Trade receivables,Mar 2022,172.0,172
+balance-sheet,Other Assets,Trade receivables,Mar 2023,200.0,200
+balance-sheet,Other Assets,Trade receivables,Mar 2024,204.0,204
+balance-sheet,Other Assets,Trade receivables,Mar 2025,220.0,220
+balance-sheet,Other Assets,Trade receivables,Mar 2026,257.0,257
+balance-sheet,Other Assets,Trade receivables,Sep 2026,239.0,239
+balance-sheet,Other Assets,Cash Equivalents,Mar 2015,8.0,8
+balance-sheet,Other Assets,Cash Equivalents,Mar 2016,3.0,3
+balance-sheet,Other Assets,Cash Equivalents,Mar 2017,8.0,8
+balance-sheet,Other Assets,Cash Equivalents,Mar 2018,5.0,5
+balance-sheet,Other Assets,Cash Equivalents,Mar 2019,14.0,14
+balance-sheet,Other Assets,Cash Equivalents,Mar 2020,6.0,6
+balance-sheet,Other Assets,Cash Equivalents,Mar 2021,258.0,258
+balance-sheet,Other Assets,Cash Equivalents,Mar 2022,100.0,100
+balance-sheet,Other Assets,Cash Equivalents,Mar 2023,49.0,49
+balance-sheet,Other Assets,Cash Equivalents,Mar 2024,33.0,33
+balance-sheet,Other Assets,Cash Equivalents,Mar 2025,37.0,37
+balance-sheet,Other Assets,Cash Equivalents,Mar 2026,29.0,29
+balance-sheet,Other Assets,Cash Equivalents,Sep 2026,12.0,12
+balance-sheet,Other Assets,Loans n Advances,Mar 2015,0.0,0
+balance-sheet,Other Assets,Loans n Advances,Mar 2016,0.0,0
+balance-sheet,Other Assets,Loans n Advances,Mar 2017,0.0,0
+balance-sheet,Other Assets,Loans n Advances,Mar 2018,1.0,1
+balance-sheet,Other Assets,Loans n Advances,Mar 2019,2.0,2
+balance-sheet,Other Assets,Loans n Advances,Mar 2020,3.0,3
+balance-sheet,Other Assets,Loans n Advances,Mar 2021,2.0,2
+balance-sheet,Other Assets,Loans n Advances,Mar 2022,3.0,3
+balance-sheet,Other Assets,Loans n Advances,Mar 2023,6.0,6
+balance-sheet,Other Assets,Loans n Advances,Mar 2024,6.0,6
+balance-sheet,Other Assets,Loans n Advances,Mar 2025,6.0,6
+balance-sheet,Other Assets,Loans n Advances,Mar 2026,8.0,8
+balance-sheet,Other Assets,Loans n Advances,Sep 2026,2.0,2
+balance-sheet,Other Assets,Other asset items,Mar 2015,1.0,1
+balance-sheet,Other Assets,Other asset items,Mar 2016,7.0,7
+balance-sheet,Other Assets,Other asset items,Mar 2017,3.0,3
+balance-sheet,Other Assets,Other asset items,Mar 2018,7.0,7
+balance-sheet,Other Assets,Other asset items,Mar 2019,11.0,11
+balance-sheet,Other Assets,Other asset items,Mar 2020,10.0,10
+balance-sheet,Other Assets,Other asset items,Mar 2021,33.0,33
+balance-sheet,Other Assets,Other asset items,Mar 2022,51.0,51
+balance-sheet,Other Assets,Other asset items,Mar 2023,42.0,42
+balance-sheet,Other Assets,Other asset items,Mar 2024,62.0,62
+balance-sheet,Other Assets,Other asset items,Mar 2025,39.0,39
+balance-sheet,Other Assets,Other asset items,Mar 2026,14.0,14
+balance-sheet,Other Assets,Other asset items,Sep 2026,24.0,24
+balance-sheet,Trade receivables,Receivables over 6m,Mar 2015,0.0,0
+balance-sheet,Trade receivables,Receivables over 6m,Mar 2016,0.0,0
+balance-sheet,Trade receivables,Receivables over 6m,Mar 2017,3.0,3
+balance-sheet,Trade receivables,Receivables over 6m,Mar 2018,3.0,3
+balance-sheet,Trade receivables,Receivables over 6m,Mar 2019,0.0,0
+balance-sheet,Trade receivables,Receivables over 6m,Mar 2020,0.0,0
+balance-sheet,Trade receivables,Receivables over 6m,Mar 2021,0.0,0
+balance-sheet,Trade receivables,Receivables over 6m,Mar 2022,4.0,4
+balance-sheet,Trade receivables,Receivables over 6m,Mar 2023,6.0,6
+balance-sheet,Trade receivables,Receivables over 6m,Mar 2024,8.0,8
+balance-sheet,Trade receivables,Receivables over 6m,Mar 2025,11.0,11
+balance-sheet,Trade receivables,Receivables over 6m,Mar 2026,11.0,11
+balance-sheet,Trade receivables,Receivables under 6m,Mar 2015,26.0,26
+balance-sheet,Trade receivables,Receivables under 6m,Mar 2016,33.0,33
+balance-sheet,Trade receivables,Receivables under 6m,Mar 2017,76.0,76
+balance-sheet,Trade receivables,Receivables under 6m,Mar 2018,102.0,102
+balance-sheet,Trade receivables,Receivables under 6m,Mar 2019,105.0,105
+balance-sheet,Trade receivables,Receivables under 6m,Mar 2020,106.0,106
+balance-sheet,Trade receivables,Receivables under 6m,Mar 2021,123.0,123
+balance-sheet,Trade receivables,Receivables under 6m,Mar 2022,169.0,169
+balance-sheet,Trade receivables,Receivables under 6m,Mar 2023,195.0,195
+balance-sheet,Trade receivables,Receivables under 6m,Mar 2024,200.0,200
+balance-sheet,Trade receivables,Receivables under 6m,Mar 2025,213.0,213
+balance-sheet,Trade receivables,Receivables under 6m,Mar 2026,251.0,251
+balance-sheet,Trade receivables,Prov for Doubtful,Mar 2015,-0.0,-0
+balance-sheet,Trade receivables,Prov for Doubtful,Mar 2016,-0.0,-0
+balance-sheet,Trade receivables,Prov for Doubtful,Mar 2017,-1.0,-1
+balance-sheet,Trade receivables,Prov for Doubtful,Mar 2018,-1.0,-1
+balance-sheet,Trade receivables,Prov for Doubtful,Mar 2019,-2.0,-2
+balance-sheet,Trade receivables,Prov for Doubtful,Mar 2020,-1.0,-1
+balance-sheet,Trade receivables,Prov for Doubtful,Mar 2021,-1.0,-1
+balance-sheet,Trade receivables,Prov for Doubtful,Mar 2022,-2.0,-2
+balance-sheet,Trade receivables,Prov for Doubtful,Mar 2023,-2.0,-2
+balance-sheet,Trade receivables,Prov for Doubtful,Mar 2024,-4.0,-4
+balance-sheet,Trade receivables,Prov for Doubtful,Mar 2025,-4.0,-4
+balance-sheet,Trade receivables,Prov for Doubtful,Mar 2026,-5.0,-5
+cash-flow,Cash from Operating Activity,Profit from operations,Mar 2015,-7.0,-7
+cash-flow,Cash from Operating Activity,Profit from operations,Mar 2016,-5.0,-5
+cash-flow,Cash from Operating Activity,Profit from operations,Mar 2017,-1.0,-1
+cash-flow,Cash from Operating Activity,Profit from operations,Mar 2018,25.0,25
+cash-flow,Cash from Operating Activity,Profit from operations,Mar 2019,56.0,56
+cash-flow,Cash from Operating Activity,Profit from operations,Mar 2020,92.0,92
+cash-flow,Cash from Operating Activity,Profit from operations,Mar 2021,124.0,124
+cash-flow,Cash from Operating Activity,Profit from operations,Mar 2022,139.0,139
+cash-flow,Cash from Operating Activity,Profit from operations,Mar 2023,191.0,191
+cash-flow,Cash from Operating Activity,Profit from operations,Mar 2024,242.0,242
+cash-flow,Cash from Operating Activity,Profit from operations,Mar 2025,238.0,238
+cash-flow,Cash from Operating Activity,Profit from operations,Mar 2026,248.0,248
+cash-flow,Cash from Operating Activity,Receivables,Mar 2015,-11.0,-11
+cash-flow,Cash from Operating Activity,Receivables,Mar 2016,-7.0,-7
+cash-flow,Cash from Operating Activity,Receivables,Mar 2017,-19.0,-19
+cash-flow,Cash from Operating Activity,Receivables,Mar 2018,-27.0,-27
+cash-flow,Cash from Operating Activity,Receivables,Mar 2019,-8.0,-8
+cash-flow,Cash from Operating Activity,Receivables,Mar 2020,-1.0,-1
+cash-flow,Cash from Operating Activity,Receivables,Mar 2021,-17.0,-17
+cash-flow,Cash from Operating Activity,Receivables,Mar 2022,-51.0,-51
+cash-flow,Cash from Operating Activity,Receivables,Mar 2023,-29.0,-29
+cash-flow,Cash from Operating Activity,Receivables,Mar 2024,-6.0,-6
+cash-flow,Cash from Operating Activity,Receivables,Mar 2025,-16.0,-16
+cash-flow,Cash from Operating Activity,Receivables,Mar 2026,-39.0,-39
+cash-flow,Cash from Operating Activity,Inventory,Mar 2015,-3.0,-3
+cash-flow,Cash from Operating Activity,Inventory,Mar 2016,-3.0,-3
+cash-flow,Cash from Operating Activity,Inventory,Mar 2017,-16.0,-16
+cash-flow,Cash from Operating Activity,Inventory,Mar 2018,-3.0,-3
+cash-flow,Cash from Operating Activity,Inventory,Mar 2019,-14.0,-14
+cash-flow,Cash from Operating Activity,Inventory,Mar 2020,-7.0,-7
+cash-flow,Cash from Operating Activity,Inventory,Mar 2021,-18.0,-18
+cash-flow,Cash from Operating Activity,Inventory,Mar 2022,-23.0,-23
+cash-flow,Cash from Operating Activity,Inventory,Mar 2023,0.0,0
+cash-flow,Cash from Operating Activity,Inventory,Mar 2024,-49.0,-49
+cash-flow,Cash from Operating Activity,Inventory,Mar 2025,17.0,17
+cash-flow,Cash from Operating Activity,Inventory,Mar 2026,-24.0,-24
+cash-flow,Cash from Operating Activity,Payables,Mar 2015,14.0,14
+cash-flow,Cash from Operating Activity,Payables,Mar 2016,28.0,28
+cash-flow,Cash from Operating Activity,Payables,Mar 2017,11.0,11
+cash-flow,Cash from Operating Activity,Payables,Mar 2018,32.0,32
+cash-flow,Cash from Operating Activity,Payables,Mar 2019,28.0,28
+cash-flow,Cash from Operating Activity,Payables,Mar 2020,2.0,2
+cash-flow,Cash from Operating Activity,Payables,Mar 2021,47.0,47
+cash-flow,Cash from Operating Activity,Payables,Mar 2022,11.0,11
+cash-flow,Cash from Operating Activity,Payables,Mar 2023,9.0,9
+cash-flow,Cash from Operating Activity,Payables,Mar 2024,26.0,26
+cash-flow,Cash from Operating Activity,Payables,Mar 2025,-56.0,-56
+cash-flow,Cash from Operating Activity,Payables,Mar 2026,38.0,38
+cash-flow,Cash from Operating Activity,Loans Advances,Mar 2015,0.0,0
+cash-flow,Cash from Operating Activity,Loans Advances,Mar 2016,0.0,0
+cash-flow,Cash from Operating Activity,Loans Advances,Mar 2017,0.0,0
+cash-flow,Cash from Operating Activity,Loans Advances,Mar 2018,0.0,0
+cash-flow,Cash from Operating Activity,Loans Advances,Mar 2019,-3.0,-3
+cash-flow,Cash from Operating Activity,Loans Advances,Mar 2020,-1.0,-1
+cash-flow,Cash from Operating Activity,Loans Advances,Mar 2021,0.0,0
+cash-flow,Cash from Operating Activity,Loans Advances,Mar 2022,0.0,0
+cash-flow,Cash from Operating Activity,Loans Advances,Mar 2023,0.0,0
+cash-flow,Cash from Operating Activity,Loans Advances,Mar 2024,0.0,0
+cash-flow,Cash from Operating Activity,Loans Advances,Mar 2025,0.0,0
+cash-flow,Cash from Operating Activity,Loans Advances,Mar 2026,0.0,0
+cash-flow,Cash from Operating Activity,Other WC items,Mar 2015,-0.0,-0
+cash-flow,Cash from Operating Activity,Other WC items,Mar 2016,-0.0,-0
+cash-flow,Cash from Operating Activity,Other WC items,Mar 2017,-1.0,-1
+cash-flow,Cash from Operating Activity,Other WC items,Mar 2018,-1.0,-1
+cash-flow,Cash from Operating Activity,Other WC items,Mar 2019,-4.0,-4
+cash-flow,Cash from Operating Activity,Other WC items,Mar 2020,1.0,1
+cash-flow,Cash from Operating Activity,Other WC items,Mar 2021,2.0,2
+cash-flow,Cash from Operating Activity,Other WC items,Mar 2022,15.0,15
+cash-flow,Cash from Operating Activity,Other WC items,Mar 2023,-31.0,-31
+cash-flow,Cash from Operating Activity,Other WC items,Mar 2024,-4.0,-4
+cash-flow,Cash from Operating Activity,Other WC items,Mar 2025,53.0,53
+cash-flow,Cash from Operating Activity,Other WC items,Mar 2026,46.0,46
+cash-flow,Cash from Operating Activity,Working capital changes,Mar 2015,0.0,0
+cash-flow,Cash from Operating Activity,Working capital changes,Mar 2016,17.0,17
+cash-flow,Cash from Operating Activity,Working capital changes,Mar 2017,-25.0,-25
+cash-flow,Cash from Operating Activity,Working capital changes,Mar 2018,2.0,2
+cash-flow,Cash from Operating Activity,Working capital changes,Mar 2019,-1.0,-1
+cash-flow,Cash from Operating Activity,Working capital changes,Mar 2020,-7.0,-7
+cash-flow,Cash from Operating Activity,Working capital changes,Mar 2021,14.0,14
+cash-flow,Cash from Operating Activity,Working capital changes,Mar 2022,-48.0,-48
+cash-flow,Cash from Operating Activity,Working capital changes,Mar 2023,-50.0,-50
+cash-flow,Cash from Operating Activity,Working capital changes,Mar 2024,-32.0,-32
+cash-flow,Cash from Operating Activity,Working capital changes,Mar 2025,-2.0,-2
+cash-flow,Cash from Operating Activity,Working capital changes,Mar 2026,21.0,21
+cash-flow,Cash from Operating Activity,Direct taxes,Mar 2015,-0.0,-0
+cash-flow,Cash from Operating Activity,Direct taxes,Mar 2016,-0.0,-0
+cash-flow,Cash from Operating Activity,Direct taxes,Mar 2017,-0.0,-0
+cash-flow,Cash from Operating Activity,Direct taxes,Mar 2018,-0.0,-0
+cash-flow,Cash from Operating Activity,Direct taxes,Mar 2019,-4.0,-4
+cash-flow,Cash from Operating Activity,Direct taxes,Mar 2020,-12.0,-12
+cash-flow,Cash from Operating Activity,Direct taxes,Mar 2021,-16.0,-16
+cash-flow,Cash from Operating Activity,Direct taxes,Mar 2022,-26.0,-26
+cash-flow,Cash from Operating Activity,Direct taxes,Mar 2023,-24.0,-24
+cash-flow,Cash from Operating Activity,Direct taxes,Mar 2024,-58.0,-58
+cash-flow,Cash from Operating Activity,Direct taxes,Mar 2025,-31.0,-31
+cash-flow,Cash from Operating Activity,Direct taxes,Mar 2026,-57.0,-57
+cash-flow,Cash from Operating Activity,Exceptional CF items,Mar 2015,1.0,1
+cash-flow,Cash from Operating Activity,Exceptional CF items,Mar 2016,0.0,0
+cash-flow,Cash from Operating Activity,Exceptional CF items,Mar 2017,0.0,0
+cash-flow,Cash from Operating Activity,Exceptional CF items,Mar 2018,0.0,0
+cash-flow,Cash from Operating Activity,Exceptional CF items,Mar 2019,0.0,0
+cash-flow,Cash from Operating Activity,Exceptional CF items,Mar 2020,0.0,0
+cash-flow,Cash from Operating Activity,Exceptional CF items,Mar 2021,0.0,0
+cash-flow,Cash from Operating Activity,Exceptional CF items,Mar 2022,0.0,0
+cash-flow,Cash from Operating Activity,Exceptional CF items,Mar 2023,0.0,0
+cash-flow,Cash from Operating Activity,Exceptional CF items,Mar 2024,0.0,0
+cash-flow,Cash from Operating Activity,Exceptional CF items,Mar 2025,0.0,0
+cash-flow,Cash from Operating Activity,Exceptional CF items,Mar 2026,0.0,0
+cash-flow,Cash from Investing Activity,Fixed assets purchased,Mar 2015,0.0,0
+cash-flow,Cash from Investing Activity,Fixed assets purchased,Mar 2016,0.0,0
+cash-flow,Cash from Investing Activity,Fixed assets purchased,Mar 2017,-10.0,-10
+cash-flow,Cash from Investing Activity,Fixed assets purchased,Mar 2018,-25.0,-25
+cash-flow,Cash from Investing Activity,Fixed assets purchased,Mar 2019,-63.0,-63
+cash-flow,Cash from Investing Activity,Fixed assets purchased,Mar 2020,-61.0,-61
+cash-flow,Cash from Investing Activity,Fixed assets purchased,Mar 2021,-66.0,-66
+cash-flow,Cash from Investing Activity,Fixed assets purchased,Mar 2022,-121.0,-121
+cash-flow,Cash from Investing Activity,Fixed assets purchased,Mar 2023,-199.0,-199
+cash-flow,Cash from Investing Activity,Fixed assets purchased,Mar 2024,-102.0,-102
+cash-flow,Cash from Investing Activity,Fixed assets purchased,Mar 2025,-133.0,-133
+cash-flow,Cash from Investing Activity,Fixed assets purchased,Mar 2026,-133.0,-133
+cash-flow,Cash from Investing Activity,Fixed assets sold,Mar 2015,0.0,0
+cash-flow,Cash from Investing Activity,Fixed assets sold,Mar 2016,0.0,0
+cash-flow,Cash from Investing Activity,Fixed assets sold,Mar 2017,2.0,2
+cash-flow,Cash from Investing Activity,Fixed assets sold,Mar 2018,0.0,0
+cash-flow,Cash from Investing Activity,Fixed assets sold,Mar 2019,0.0,0
+cash-flow,Cash from Investing Activity,Fixed assets sold,Mar 2020,0.0,0
+cash-flow,Cash from Investing Activity,Fixed assets sold,Mar 2021,0.0,0
+cash-flow,Cash from Investing Activity,Fixed assets sold,Mar 2022,0.0,0
+cash-flow,Cash from Investing Activity,Fixed assets sold,Mar 2023,2.0,2
+cash-flow,Cash from Investing Activity,Fixed assets sold,Mar 2024,0.0,0
+cash-flow,Cash from Investing Activity,Fixed assets sold,Mar 2025,0.0,0
+cash-flow,Cash from Investing Activity,Fixed assets sold,Mar 2026,0.0,0
+cash-flow,Cash from Investing Activity,Investments purchased,Mar 2015,0.0,0
+cash-flow,Cash from Investing Activity,Investments purchased,Mar 2016,0.0,0
+cash-flow,Cash from Investing Activity,Investments purchased,Mar 2017,0.0,0
+cash-flow,Cash from Investing Activity,Investments purchased,Mar 2018,0.0,0
+cash-flow,Cash from Investing Activity,Investments purchased,Mar 2019,0.0,0
+cash-flow,Cash from Investing Activity,Investments purchased,Mar 2020,0.0,0
+cash-flow,Cash from Investing Activity,Investments purchased,Mar 2021,-73.0,-73
+cash-flow,Cash from Investing Activity,Investments purchased,Mar 2022,-119.0,-119
+cash-flow,Cash from Investing Activity,Investments purchased,Mar 2023,-30.0,-30
+cash-flow,Cash from Investing Activity,Investments purchased,Mar 2024,-45.0,-45
+cash-flow,Cash from Investing Activity,Investments purchased,Mar 2025,-66.0,-66
+cash-flow,Cash from Investing Activity,Investments purchased,Mar 2026,-117.0,-117
+cash-flow,Cash from Investing Activity,Investments sold,Mar 2015,0.0,0
+cash-flow,Cash from Investing Activity,Investments sold,Mar 2016,0.0,0
+cash-flow,Cash from Investing Activity,Investments sold,Mar 2017,20.0,20
+cash-flow,Cash from Investing Activity,Investments sold,Mar 2018,0.0,0
+cash-flow,Cash from Investing Activity,Investments sold,Mar 2019,0.0,0
+cash-flow,Cash from Investing Activity,Investments sold,Mar 2020,0.0,0
+cash-flow,Cash from Investing Activity,Investments sold,Mar 2021,46.0,46
+cash-flow,Cash from Investing Activity,Investments sold,Mar 2022,0.0,0
+cash-flow,Cash from Investing Activity,Investments sold,Mar 2023,79.0,79
+cash-flow,Cash from Investing Activity,Investments sold,Mar 2024,31.0,31
+cash-flow,Cash from Investing Activity,Investments sold,Mar 2025,24.0,24
+cash-flow,Cash from Investing Activity,Investments sold,Mar 2026,56.0,56
+cash-flow,Cash from Investing Activity,Interest received,Mar 2015,0.0,0
+cash-flow,Cash from Investing Activity,Interest received,Mar 2016,0.0,0
+cash-flow,Cash from Investing Activity,Interest received,Mar 2017,0.0,0
+cash-flow,Cash from Investing Activity,Interest received,Mar 2018,1.0,1
+cash-flow,Cash from Investing Activity,Interest received,Mar 2019,0.0,0
+cash-flow,Cash from Investing Activity,Interest received,Mar 2020,0.0,0
+cash-flow,Cash from Investing Activity,Interest received,Mar 2021,0.0,0
+cash-flow,Cash from Investing Activity,Interest received,Mar 2022,6.0,6
+cash-flow,Cash from Investing Activity,Interest received,Mar 2023,3.0,3
+cash-flow,Cash from Investing Activity,Interest received,Mar 2024,0.0,0
+cash-flow,Cash from Investing Activity,Interest received,Mar 2025,0.0,0
+cash-flow,Cash from Investing Activity,Interest received,Mar 2026,0.0,0
+cash-flow,Cash from Investing Activity,Dividends received,Mar 2015,0.0,0
+cash-flow,Cash from Investing Activity,Dividends received,Mar 2016,0.0,0
+cash-flow,Cash from Investing Activity,Dividends received,Mar 2017,0.0,0
+cash-flow,Cash from Investing Activity,Dividends received,Mar 2018,0.0,0
+cash-flow,Cash from Investing Activity,Dividends received,Mar 2019,0.0,0
+cash-flow,Cash from Investing Activity,Dividends received,Mar 2020,0.0,0
+cash-flow,Cash from Investing Activity,Dividends received,Mar 2021,0.0,0
+cash-flow,Cash from Investing Activity,Dividends received,Mar 2022,0.0,0
+cash-flow,Cash from Investing Activity,Dividends received,Mar 2023,0.0,0
+cash-flow,Cash from Investing Activity,Dividends received,Mar 2024,0.0,0
+cash-flow,Cash from Investing Activity,Dividends received,Mar 2025,0.0,0
+cash-flow,Cash from Investing Activity,Dividends received,Mar 2026,0.0,0
+cash-flow,Cash from Investing Activity,Invest in subsidiaries,Mar 2015,0.0,0
+cash-flow,Cash from Investing Activity,Invest in subsidiaries,Mar 2016,0.0,0
+cash-flow,Cash from Investing Activity,Invest in subsidiaries,Mar 2017,0.0,0
+cash-flow,Cash from Investing Activity,Invest in subsidiaries,Mar 2018,0.0,0
+cash-flow,Cash from Investing Activity,Invest in subsidiaries,Mar 2019,0.0,0
+cash-flow,Cash from Investing Activity,Invest in subsidiaries,Mar 2020,0.0,0
+cash-flow,Cash from Investing Activity,Invest in subsidiaries,Mar 2021,0.0,0
+cash-flow,Cash from Investing Activity,Invest in subsidiaries,Mar 2022,0.0,0
+cash-flow,Cash from Investing Activity,Invest in subsidiaries,Mar 2023,0.0,0
+cash-flow,Cash from Investing Activity,Invest in subsidiaries,Mar 2024,-29.0,-29
+cash-flow,Cash from Investing Activity,Invest in subsidiaries,Mar 2025,-0.0,-0
+cash-flow,Cash from Investing Activity,Invest in subsidiaries,Mar 2026,0.0,0
+cash-flow,Cash from Investing Activity,Other investing items,Mar 2015,-10.0,-10
+cash-flow,Cash from Investing Activity,Other investing items,Mar 2016,-123.0,-123
+cash-flow,Cash from Investing Activity,Other investing items,Mar 2017,3.0,3
+cash-flow,Cash from Investing Activity,Other investing items,Mar 2018,1.0,1
+cash-flow,Cash from Investing Activity,Other investing items,Mar 2019,0.0,0
+cash-flow,Cash from Investing Activity,Other investing items,Mar 2020,0.0,0
+cash-flow,Cash from Investing Activity,Other investing items,Mar 2021,-225.0,-225
+cash-flow,Cash from Investing Activity,Other investing items,Mar 2022,165.0,165
+cash-flow,Cash from Investing Activity,Other investing items,Mar 2023,61.0,61
+cash-flow,Cash from Investing Activity,Other investing items,Mar 2024,2.0,2
+cash-flow,Cash from Investing Activity,Other investing items,Mar 2025,-0.0,-0
+cash-flow,Cash from Investing Activity,Other investing items,Mar 2026,-0.0,-0
+cash-flow,Cash from Financing Activity,Proceeds from shares,Mar 2015,0.02,0.02
+cash-flow,Cash from Financing Activity,Proceeds from shares,Mar 2016,0.02,0.02
+cash-flow,Cash from Financing Activity,Proceeds from shares,Mar 2017,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from shares,Mar 2018,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from shares,Mar 2019,1.72,1.72
+cash-flow,Cash from Financing Activity,Proceeds from shares,Mar 2020,1.77,1.77
+cash-flow,Cash from Financing Activity,Proceeds from shares,Mar 2021,299.58,299.58
+cash-flow,Cash from Financing Activity,Proceeds from shares,Mar 2022,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from shares,Mar 2023,0.02,0.02
+cash-flow,Cash from Financing Activity,Proceeds from shares,Mar 2024,0.03,0.03
+cash-flow,Cash from Financing Activity,Proceeds from shares,Mar 2025,0.01,0.01
+cash-flow,Cash from Financing Activity,Proceeds from shares,Mar 2026,0.04,0.04
+cash-flow,Cash from Financing Activity,Proceeds from debentures,Mar 2015,29.98,29.98
+cash-flow,Cash from Financing Activity,Proceeds from debentures,Mar 2016,109.98,109.98
+cash-flow,Cash from Financing Activity,Proceeds from debentures,Mar 2017,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from debentures,Mar 2018,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from debentures,Mar 2019,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from debentures,Mar 2020,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from debentures,Mar 2021,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from debentures,Mar 2022,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from debentures,Mar 2023,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from debentures,Mar 2024,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from debentures,Mar 2025,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from debentures,Mar 2026,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from borrowings,Mar 2015,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from borrowings,Mar 2016,3.14,3.14
+cash-flow,Cash from Financing Activity,Proceeds from borrowings,Mar 2017,7.16,7.16
+cash-flow,Cash from Financing Activity,Proceeds from borrowings,Mar 2018,2.36,2.36
+cash-flow,Cash from Financing Activity,Proceeds from borrowings,Mar 2019,32.57,32.57
+cash-flow,Cash from Financing Activity,Proceeds from borrowings,Mar 2020,0.12,0.12
+cash-flow,Cash from Financing Activity,Proceeds from borrowings,Mar 2021,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from borrowings,Mar 2022,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from borrowings,Mar 2023,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from borrowings,Mar 2024,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from borrowings,Mar 2025,0.0,0.00
+cash-flow,Cash from Financing Activity,Proceeds from borrowings,Mar 2026,0.0,0.00
+cash-flow,Cash from Financing Activity,Repayment of borrowings,Mar 2015,-11.38,-11.38
+cash-flow,Cash from Financing Activity,Repayment of borrowings,Mar 2016,-0.02,-0.02
+cash-flow,Cash from Financing Activity,Repayment of borrowings,Mar 2017,0.0,0.00
+cash-flow,Cash from Financing Activity,Repayment of borrowings,Mar 2018,-2.85,-2.85
+cash-flow,Cash from Financing Activity,Repayment of borrowings,Mar 2019,-12.5,-12.50
+cash-flow,Cash from Financing Activity,Repayment of borrowings,Mar 2020,-10.18,-10.18
+cash-flow,Cash from Financing Activity,Repayment of borrowings,Mar 2021,-50.01,-50.01
+cash-flow,Cash from Financing Activity,Repayment of borrowings,Mar 2022,-0.03,-0.03
+cash-flow,Cash from Financing Activity,Repayment of borrowings,Mar 2023,0.0,0.00
+cash-flow,Cash from Financing Activity,Repayment of borrowings,Mar 2024,0.0,0.00
+cash-flow,Cash from Financing Activity,Repayment of borrowings,Mar 2025,0.0,0.00
+cash-flow,Cash from Financing Activity,Repayment of borrowings,Mar 2026,0.0,0.00
+cash-flow,Cash from Financing Activity,Interest paid fin,Mar 2015,-0.81,-0.81
+cash-flow,Cash from Financing Activity,Interest paid fin,Mar 2016,-0.35,-0.35
+cash-flow,Cash from Financing Activity,Interest paid fin,Mar 2017,-2.57,-2.57
+cash-flow,Cash from Financing Activity,Interest paid fin,Mar 2018,-3.9,-3.90
+cash-flow,Cash from Financing Activity,Interest paid fin,Mar 2019,0.67,0.67
+cash-flow,Cash from Financing Activity,Interest paid fin,Mar 2020,-4.69,-4.69
+cash-flow,Cash from Financing Activity,Interest paid fin,Mar 2021,-3.33,-3.33
+cash-flow,Cash from Financing Activity,Interest paid fin,Mar 2022,-0.23,-0.23
+cash-flow,Cash from Financing Activity,Interest paid fin,Mar 2023,0.0,0.00
+cash-flow,Cash from Financing Activity,Interest paid fin,Mar 2024,-1.52,-1.52
+cash-flow,Cash from Financing Activity,Interest paid fin,Mar 2025,-2.03,-2.03
+cash-flow,Cash from Financing Activity,Interest paid fin,Mar 2026,-2.0,-2.00
+cash-flow,Cash from Financing Activity,Dividends paid,Mar 2015,-0.05,-0.05
+cash-flow,Cash from Financing Activity,Dividends paid,Mar 2016,0.0,0.00
+cash-flow,Cash from Financing Activity,Dividends paid,Mar 2017,0.0,0.00
+cash-flow,Cash from Financing Activity,Dividends paid,Mar 2018,0.0,0.00
+cash-flow,Cash from Financing Activity,Dividends paid,Mar 2019,0.0,0.00
+cash-flow,Cash from Financing Activity,Dividends paid,Mar 2020,0.0,0.00
+cash-flow,Cash from Financing Activity,Dividends paid,Mar 2021,0.0,0.00
+cash-flow,Cash from Financing Activity,Dividends paid,Mar 2022,0.0,0.00
+cash-flow,Cash from Financing Activity,Dividends paid,Mar 2023,-14.27,-14.27
+cash-flow,Cash from Financing Activity,Dividends paid,Mar 2024,-16.66,-16.66
+cash-flow,Cash from Financing Activity,Dividends paid,Mar 2025,-16.67,-16.67
+cash-flow,Cash from Financing Activity,Dividends paid,Mar 2026,-16.67,-16.67
+cash-flow,Cash from Financing Activity,Financial liabilities,Mar 2015,0.0,0.00
+cash-flow,Cash from Financing Activity,Financial liabilities,Mar 2016,0.0,0.00
+cash-flow,Cash from Financing Activity,Financial liabilities,Mar 2017,0.0,0.00
+cash-flow,Cash from Financing Activity,Financial liabilities,Mar 2018,0.0,0.00
+cash-flow,Cash from Financing Activity,Financial liabilities,Mar 2019,-3.44,-3.44
+cash-flow,Cash from Financing Activity,Financial liabilities,Mar 2020,-4.25,-4.25
+cash-flow,Cash from Financing Activity,Financial liabilities,Mar 2021,-4.11,-4.11
+cash-flow,Cash from Financing Activity,Financial liabilities,Mar 2022,-5.03,-5.03
+cash-flow,Cash from Financing Activity,Financial liabilities,Mar 2023,-5.81,-5.81
+cash-flow,Cash from Financing Activity,Financial liabilities,Mar 2024,-5.67,-5.67
+cash-flow,Cash from Financing Activity,Financial liabilities,Mar 2025,-6.79,-6.79
+cash-flow,Cash from Financing Activity,Financial liabilities,Mar 2026,-7.33,-7.33
+cash-flow,Cash from Financing Activity,Other financing items,Mar 2015,-1.32,-1.32
+cash-flow,Cash from Financing Activity,Other financing items,Mar 2016,0.0,0.00
+cash-flow,Cash from Financing Activity,Other financing items,Mar 2017,3.01,3.01
+cash-flow,Cash from Financing Activity,Other financing items,Mar 2018,0.0,0.00
+cash-flow,Cash from Financing Activity,Other financing items,Mar 2019,0.0,0.00
+cash-flow,Cash from Financing Activity,Other financing items,Mar 2020,0.0,0.00
+cash-flow,Cash from Financing Activity,Other financing items,Mar 2021,-6.41,-6.41
+cash-flow,Cash from Financing Activity,Other financing items,Mar 2022,0.0,0.00
+cash-flow,Cash from Financing Activity,Other financing items,Mar 2023,0.0,0.00
+cash-flow,Cash from Financing Activity,Other financing items,Mar 2024,0.0,0.00
+cash-flow,Cash from Financing Activity,Other financing items,Mar 2025,0.0,0.00
+cash-flow,Cash from Financing Activity,Other financing items,Mar 2026,0.0,0.00

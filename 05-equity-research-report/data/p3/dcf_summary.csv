@@ -1,0 +1,49 @@
+item,value,units,workbook_cell,note
+valuation_date,2026-09-30,date,,30-Sep-2026 balance sheet; cash flows discounted from this date
+price_date,2026-10-30,date,,Yahoo Finance close
+share_price_rs,2320.0,Rs per share,DCF!B65,
+dcf_value_per_share_rs,667.64,Rs per share,DCF!B64,Base case
+upside_vs_price_pct,-71.2226,%,DCF!B66,Value / price - 1
+verdict,DCF value is more than 10% below the market price,text,DCF!B67,
+wacc_pct,12.6781,%,WACC!B28,
+terminal_growth_pct,6.0,%,DCF!B50,Judgment
+risk_free_rate_pct,7.41,%,WACC!B5,"India 10-year G-sec, 30-Oct-2026"
+beta_regression_5y_weekly,0.8854,beta,WACC!B6,"OLS vs NIFTY 50, 260 weeks"
+beta_blume_adjusted,0.9232,beta,WACC!B7,0.67 x raw + 0.33
+beta_peer_median,0.8927,beta,WACC!B8,"Four peers, same method"
+beta_used,0.9,beta,WACC!B9,Judgment
+equity_risk_premium_pct,6.0,%,WACC!B10,Judgment
+cost_of_equity_pct,12.81,%,WACC!B11,rf + beta x ERP
+memo_cost_of_equity_damodaran_method_pct,11.912,%,WACC!B14,(rf - default spread) + beta x total ERP
+pre_tax_cost_of_debt_pct,8.41,%,WACC!B18,rf + 1.0%
+tax_rate_pct,25.17,%,WACC!B20,s.115BAA
+after_tax_cost_of_debt_pct,6.2932,%,WACC!B21,
+equity_weight_pct,97.9766,%,WACC!B26,Market values
+debt_weight_pct,2.0234,%,WACC!B27,Debt incl. leases
+sum_pv_fcff_rs_cr,14289.3,Rs crore,DCF!B48,H2 FY2027E to FY2031E
+fcff_fy2031e_rs_cr,5175.7,Rs crore,DCF!B51,
+terminal_value_rs_cr,82151.7,Rs crore,DCF!B52,"Gordon growth, end-FY2031E"
+pv_terminal_value_rs_cr,48018.5,Rs crore,DCF!B53,
+enterprise_value_rs_cr,62307.8,Rs crore,DCF!B54,
+plus_cash_and_bank_rs_cr,612.61,Rs crore,DCF!B55,30-Sep-2026
+plus_current_investments_rs_cr,5511.97,Rs crore,DCF!B56,Liquid mutual funds
+plus_noncurrent_investments_rs_cr,877.21,Rs crore,DCF!B57,"Incl. associates, book value"
+less_borrowings_rs_cr,2899.88,Rs crore,DCF!B58,
+less_lease_liabilities_rs_cr,1695.82,Rs crore,DCF!B59,
+less_minority_interest_rs_cr,674.31,Rs crore,DCF!B60,Book value
+net_adjustments_ev_to_equity_rs_cr,1731.78,Rs crore,DCF!B61,
+equity_value_rs_cr,64039.6,Rs crore,DCF!B62,
+diluted_shares_crore,95.9198,crore shares,DCF!B63,
+terminal_value_share_of_ev_pct,77.0667,%,DCF!B70,
+implied_exit_ev_ebitda_x,7.6153,x,DCF!B72,Gordon TV / FY2031E EBITDA
+exit_multiple_cross_check_x,20.8785,x,DCF!B73,Peer median EV/EBITDA TTM
+value_per_share_at_exit_multiple_rs,1539.52,Rs per share,DCF!B76,Cross-check only
+growth_implied_by_exit_multiple_pct,10.147,%,DCF!B77,
+market_ev_rs_cr,220802.2,Rs crore,DCF!B78,Market cap - net adjustments
+market_implied_perpetual_growth_pct,11.0513,%,DCF!B80,g that makes the DCF equal the price
+market_ev_to_fy27e_ebitda_x,30.384,x,DCF!B81,
+dcf_ev_to_fy27e_ebitda_x,8.574,x,DCF!B82,
+dcf_range_inner_3x3_low_rs,590.0,Rs per share,Sensitivity!B24,"WACC +/-0.5 pp, g +/-0.5 pp"
+dcf_range_inner_3x3_high_rs,772.0,Rs per share,Sensitivity!B25,"WACC +/-0.5 pp, g +/-0.5 pp"
+dcf_grid_5x5_low_rs,530.0,Rs per share,Sensitivity!B26,"WACC +/-1.0 pp, g +/-1.0 pp"
+dcf_grid_5x5_high_rs,921.0,Rs per share,Sensitivity!C26,"WACC +/-1.0 pp, g +/-1.0 pp"

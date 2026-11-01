@@ -1,0 +1,14 @@
+# Project 5: Asian Paints initiation report (tested with Python 3.14 on Windows)
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+matplotlib>=3.7
+PyMuPDF>=1.24           # PDF read-back check, page previews, source_data trim
+# online download steps only (build/fetch_*.py)
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+yfinance>=0.2.40
+# Excel recalculation through COM (build/verify_workbook.py); needs Microsoft Excel
+pywin32>=306; sys_platform == "win32"
+# The PDF is printed by Microsoft Edge in headless mode (no Python package needed).

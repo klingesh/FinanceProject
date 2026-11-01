@@ -1,0 +1,22 @@
+Excel recalculation done: AsianPaints_Ratio_Analysis.xlsx
+Scanned 6501 non-empty cells on 8 sheets: 0 error values
+Checks sheet: 70 checks, 0 FAIL, OVERALL = PASS
+Ratios + DuPont: 1020 cells compared with ratio_engine.py, worst relative gap 0.00e+00
+Peer tables, ranks and scorecard: 0 mismatches
+   Asian Paints    FY2026 weighted rank 1.425 (#1), 5-yr 2.325 (#1)
+   Berger Paints   FY2026 weighted rank 3.025 (#2), 5-yr 2.875 (#4)
+   Kansai Nerolac  FY2026 weighted rank 4.350 (#5), 5-yr 4.550 (#5)
+   JSW Dulux       FY2026 weighted rank 3.125 (#4), 5-yr 2.400 (#2)
+   Indigo Paints   FY2026 weighted rank 3.075 (#3), 5-yr 2.850 (#3)
+Cover: FY2026 | Asian Paints | PASS | 70 of 70
+Conclusion verdict: Verdict: on the weighted scorecard (FY2026 basis, Peer_Comparison section C), the strongest company is Asian Paints.
+   Returns. Asian Paints earned the highest ROE excluding one-offs (21.8%) and the highest ROCE (26.3%) of the five in FY2026. JSW Dulux was next on both (19.4% and 23.0%); its reported ROE of 104% is inflated by the one-off gain on its slump sale.
+   Margins. Its EBITDA margin of 18.8% was the highest (Indigo 18.1%, Berger 15.4%). Gross margin of 43.8% ranks second to Indigo (46.5%), so Asian Paints turns gross profit into operating profit more efficiently: scale spreads advertising, distribution and overheads over a revenue base three times Berger's.
+   DuPont. The 5-step split shows the ROE lead comes from operating margin: EBIT margin 17.4% vs 13.0% at Berger. Asset turnover is lower than Berger's (1.10x vs 1.24x) and leverage is modest (equity multiplier 1.59x vs 1.47x), so the lead is not bought with debt.
+   Cash. Cash from operations was 106% of EBITDA and the free-cash-flow margin was 15.7%, both the best of the group, after capex of Rs 1,487 cr.
+   Working capital. Its cash conversion cycle of 88 days ranks fourth: inventory days are high (114) and payable days are the lowest of the five (70), against 14 days at JSW Dulux.
+   Trend. Returns have fallen from the FY2024 peak: ROE excluding one-offs went from 31.5% in FY2024 to 21.8% in FY2026 and EBITDA margin from 21.4% to 18.8%. Revenue grew 2.9%, -4.5% and 4.9% in FY2024-FY2026 as demand slowed and Birla Opus entered, so the gap to peers has narrowed.
+   Asian Paints is still the strongest business in the group on returns, margins and cash, which supports a quality premium. The investment debate is whether it can defend that lead as competition rises; the valuation (phase 2, from Project 3) decides whether the price already reflects it.
+   All numbers above are live links or TEXT() formulas on the Ratios, DuPont and Peer_Comparison sheets. Educational project, not investment advice.
+Asian Paints FY2026: GM 0.4379, EBITDAM 0.1883, NPM 0.1215, ROE 0.2122, ROE_ADJ 0.2178, ROCE 0.2632, AT 1.0970, CCC 88.3677, FCFM 0.1574
+VERIFICATION PASSED in 1.4 s

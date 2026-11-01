@@ -1,0 +1,49 @@
+READY - Project 3 (Asian Paints comps + DCF): workbook and outputs are final.
+Written 01-Nov-2026 16:15 by build/make_outputs.py from the Excel-recalculated workbook.
+Workbook: AsianPaints_Comps_and_DCF.xlsx | Checks sheet: PASS (22 of 22 checks pass)
+Price date: 30-Oct-2026 close (Yahoo Finance). Valuation / balance-sheet date: 30-Sep-2026.
+Units: Rs crore unless stated; per-share values in Rs.
+
+== Headline ==
+Share price (30-Oct-2026): Rs 2,320.00
+DCF value per share (base): Rs 667.64  (vs price -71.2%)
+WACC: 12.68%  (Ke 12.81% = rf 7.41% + beta 0.90 x ERP 6.00%; Kd after tax 6.29%; D/(D+E) 2.02%)
+Terminal growth g: 6.00%
+DCF range, inner 3x3 of the WACC x g grid (+/-0.5 pp each): Rs 590 - 772; full 5x5 grid Rs 530 - 921
+Enterprise value Rs 62,308 cr; equity value Rs 64,040 cr; terminal value 77.1% of EV; implied exit EV/EBITDA 7.6x
+Cross-check: exit multiple 20.9x (peer median) gives Rs 1,540/share; perpetual growth implied by the market price 11.05%
+
+== Comps: implied Asian Paints value per share (Rs) ==
+multiple            | peer 25th / median / 75th (x) | implied 25th / median / 75th (Rs) | min - max (Rs) | AP own multiple
+EV/EBITDA TTM       | 16.2 / 20.9 / 25.1 | 1,240 / 1,597 / 1,919 | 919 - 2,141 | 30.4x (premium +45.6% to median)
+P/E TTM             | 28.8 / 31.2 / 34.6 | 1,486 / 1,610 / 1,784 | 1,139 - 2,281 | 44.9x (premium +44.1% to median)
+EV/Sales TTM        | 2.60 / 3.15 / 3.57 | 1,058 / 1,276 / 1,446 | 591 - 1,769 | 5.74x (premium +82.4% to median)
+EV/EBITDA FY27E     | 14.3 / 17.5 / 21.2 | 1,132 / 1,384 / 1,680 | 892 - 2,050 | 29.4x (premium +68.0% to median)
+P/E FY27E           | 24.6 / 28.1 / 32.6 | 1,330 / 1,517 / 1,756 | 1,066 - 2,174 | 43.0x (premium +52.9% to median)
+
+== Football field ranges (Rs per share) ==
+52-week trading range                    low  2,115  high  2,986  mid    n/a  price inside: Yes  [context]
+DCF (WACC +/-0.5 pp, g +/-0.5 pp)        low    590  high    772  mid    668  price inside: No  [valuation]
+EV/EBITDA comps (peer 25th-75th, TTM)    low  1,240  high  1,919  mid  1,597  price inside: No  [valuation]
+P/E comps (peer 25th-75th, TTM)          low  1,486  high  1,784  mid  1,610  price inside: No  [valuation]
+EV/Sales comps (peer 25th-75th, TTM)     low  1,058  high  1,446  mid  1,276  price inside: No  [valuation]
+Analyst price targets (low-high)         low  1,925  high  3,300  mid  2,850  price inside: Yes  [context]
+Share price, 30-Oct-2026 close           2,320.00
+
+== Forecast (DCF sheet; Rs crore, EPS in Rs) ==
+line                                 FY2026A   FY2027E   FY2028E   FY2029E
+Revenue                               35,584    41,349    44,657    48,453
+Revenue growth (%)                       4.9      16.2       8.0       8.5
+EBITDA                                 6,696     7,267     8,262     9,206
+EBITDA margin (%)                       18.8      17.6      18.5      19.0
+PAT attributable to owners             4,325     5,013     5,615     6,269
+EPS (Rs, 95.92 cr shares)              45.09     52.27     58.54     65.36
+Consensus EPS (Rs, S&P)                          53.94     60.40          
+FCFF                                   4,330     2,500     3,680     4,232
+FY2027E = H1 FY2027 actual (filed 29-Oct-2026) + H2 FY2027E forecast.
+
+== Files ==
+outputs/comps_table.csv, outputs/implied_values.csv, outputs/drop_one_sensitivity.csv,
+outputs/dcf_summary.csv, outputs/dcf_forecast.csv, outputs/sensitivity_wacc_g.csv, outputs/football_field.csv
+figures/football_field.png, figures/multiples_bar.png, figures/margin_vs_multiple.png
+Percent columns in the CSVs are percent numbers (12.68 = 12.68%).
