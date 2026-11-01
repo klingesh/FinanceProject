@@ -2,7 +2,7 @@
 
 **Rating: SELL. 12-month target ₹1,707, 26.4% below the 30-Oct-2026 close of ₹2,320.**
 
-A 9-page initiation-of-coverage report on Asian Paints, India's largest paint company, built the way a sell-side analyst would: ratio and DuPont benchmarking against four listed peers, a review of the Q2 FY27 results, industry and competition research, risks with numbers attached, forecasts, a valuation and a rating. Asian Paints is still the best business of the five on FY2026 data (ROE excluding one-offs 21.8% against a peer median of 15.8%, ROCE 26.3% against 20.4%), but the price assumes more than that lead is likely to deliver. To justify ₹2,320, Project 3's DCF needs free cash flow to grow 11.05% a year forever after FY2031. The target blends Project 3's DCF (₹668, weight 25%), peer P/E comps (₹1,610, 25%) and a P/E that keeps Asian Paints' 5-year median premium of 38% to its peers (₹2,276, 50%). Every weighting tested puts the target below the price; with no weight on the DCF it is ₹2,109 (-9.1%, a Hold).
+A 9-page initiation-of-coverage report on Asian Paints, India's largest paint company, built the way a sell-side analyst would: ratio and DuPont benchmarking against four listed peers, a review of the Q2 FY27 results, industry and competition research, risks with numbers attached, forecasts, a valuation and a rating. Asian Paints is still the best business of the five on FY2026 data (ROE excluding one-offs 21.8% against a peer median of 15.8%, ROCE 26.3% against 20.4%), but the price assumes more than that lead is likely to deliver. To justify ₹2,320, Project 3's DCF needs free cash flow to grow 11.05% a year forever after FY2031. The target blends Project 3's DCF (₹668, weight 25%), peer P/E comps (₹1,610, 25%) and a P/E that keeps Asian Paints' 5-year median premium of 38% to its peers (₹2,276, 50%). Every weighting of these three values puts the target below the price; with no weight on the DCF it is ₹2,109 (-9.1%, a Hold). Only replacing the peer premium with Asian Paints' own 5-year P/E band lifts the target to about the price (₹2,335, +0.7%).
 
 Deliverables:
 - [report/AsianPaints_Initiation_Report.pdf](report/AsianPaints_Initiation_Report.pdf): the 9-page report (HTML source next to it).
@@ -126,7 +126,7 @@ Decorative volume grew 6.4% and value 14.5% in Q2. Standalone gross margin fell 
 1. Asian Paints is still the best business in Indian paints on returns, margins and cash: first of five on the FY2026 scorecard and on 5-year averages.
 2. The lead has narrowed: ROE excluding one-offs fell from 31.5% (FY2024) to 21.8% (FY2026), EBITDA margin from 21.4% to 18.8%, and revenue grew 1.0% a year over FY2023-FY2026 as Birla Opus and JSW Dulux added capacity.
 3. The price assumes the lead lasts: 11.05% perpetual growth in the reverse DCF, and a P/E premium to peers of 55% against a 5-year median of 38%.
-4. The SELL rating does not hinge on one method: every weighting tested gives a target below ₹2,320. A Hold needs either no weight on the DCF or a return to the 2021-2023 sector multiples.
+4. The SELL rating does not hinge on one method: every weighting of the DCF, comps and premium-adjusted values gives a target below ₹2,320. A Hold needs either no weight on the DCF or a return to the 2021-2023 sector multiples (the own P/E band row, ₹2,335).
 5. What would change the view: an EBITDA margin back above 20% with 8-10% volume growth, or evidence that the new entrants are cutting discounts.
 
 ## Limitations
