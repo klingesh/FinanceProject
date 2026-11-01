@@ -1,0 +1,441 @@
+company,fiscal_year,ratio,label,unit,value,workbook_row
+Hero MotoCorp,FY2022,gross_margin,Gross margin,%,0.292066,5
+Hero MotoCorp,FY2022,ebitda_margin,EBITDA margin (ex other income),%,0.11018,6
+Hero MotoCorp,FY2022,net_margin,Net profit margin,%,0.078402,7
+Hero MotoCorp,FY2022,roe,ROE (PAT / avg equity),%,0.148218,8
+Hero MotoCorp,FY2022,roa,ROA (PAT / avg total assets),%,0.101674,9
+Hero MotoCorp,FY2022,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.158166,10
+Hero MotoCorp,FY2022,int_cover_ebit,Interest cover (EBIT / finance costs),x,48.332015,16
+Hero MotoCorp,FY2022,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,61.317326,17
+Hero MotoCorp,FY2022,asset_turnover,Asset turnover,x,1.296835,19
+Hero MotoCorp,FY2022,inventory_days,Inventory days,days,28.453459,20
+Hero MotoCorp,FY2022,receivable_days,Receivable days,days,27.377952,21
+Hero MotoCorp,FY2022,dupont_net_margin,DuPont: net margin,%,0.078402,25
+Hero MotoCorp,FY2022,dupont_asset_turnover,DuPont: asset turnover,x,1.296835,26
+Hero MotoCorp,FY2022,dupont_equity_multiplier,DuPont: equity multiplier,x,1.457774,27
+Hero MotoCorp,FY2022,dupont_roe,DuPont ROE,%,0.148218,28
+Hero MotoCorp,FY2022,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.038189,46
+Hero MotoCorp,FY2022,cash_to_debt,Cash and bank / borrowings,x,0.495299,47
+Hero MotoCorp,FY2022,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.128615,48
+Hero MotoCorp,FY2022,roce_incl_oi,ROCE proxy incl. other income,%,0.191741,49
+Hero MotoCorp,FY2022,oi_share_pbt,Other income as % of PBT,%,0.178143,50
+Hero MotoCorp,FY2022,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.078402,52
+Hero MotoCorp,FY2022,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.148218,53
+Hero MotoCorp,FY2023,gross_margin,Gross margin,%,0.299029,5
+Hero MotoCorp,FY2023,ebitda_margin,EBITDA margin (ex other income),%,0.119988,6
+Hero MotoCorp,FY2023,net_margin,Net profit margin,%,0.082263,7
+Hero MotoCorp,FY2023,roe,ROE (PAT / avg equity),%,0.172909,8
+Hero MotoCorp,FY2023,roa,ROA (PAT / avg total assets),%,0.121131,9
+Hero MotoCorp,FY2023,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.202002,10
+Hero MotoCorp,FY2023,int_cover_ebit,Interest cover (EBIT / finance costs),x,32.429539,16
+Hero MotoCorp,FY2023,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,39.078947,17
+Hero MotoCorp,FY2023,asset_turnover,Asset turnover,x,1.472489,19
+Hero MotoCorp,FY2023,inventory_days,Inventory days,days,24.609725,20
+Hero MotoCorp,FY2023,receivable_days,Receivable days,days,26.061766,21
+Hero MotoCorp,FY2023,dupont_net_margin,DuPont: net margin,%,0.082263,25
+Hero MotoCorp,FY2023,dupont_asset_turnover,DuPont: asset turnover,x,1.472489,26
+Hero MotoCorp,FY2023,dupont_equity_multiplier,DuPont: equity multiplier,x,1.427454,27
+Hero MotoCorp,FY2023,dupont_roe,DuPont ROE,%,0.172909,28
+Hero MotoCorp,FY2023,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.034075,46
+Hero MotoCorp,FY2023,cash_to_debt,Cash and bank / borrowings,x,0.74497,47
+Hero MotoCorp,FY2023,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.136596,48
+Hero MotoCorp,FY2023,roce_incl_oi,ROCE proxy incl. other income,%,0.235695,49
+Hero MotoCorp,FY2023,oi_share_pbt,Other income as % of PBT,%,0.146829,50
+Hero MotoCorp,FY2023,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.082263,52
+Hero MotoCorp,FY2023,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.172909,53
+Hero MotoCorp,FY2024,gross_margin,Gross margin,%,0.324944,5
+Hero MotoCorp,FY2024,ebitda_margin,EBITDA margin (ex other income),%,0.138532,6
+Hero MotoCorp,FY2024,net_margin,Net profit margin,%,0.099099,7
+Hero MotoCorp,FY2024,roe,ROE (PAT / avg equity),%,0.218011,8
+Hero MotoCorp,FY2024,roa,ROA (PAT / avg total assets),%,0.149584,9
+Hero MotoCorp,FY2024,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.252057,10
+Hero MotoCorp,FY2024,int_cover_ebit,Interest cover (EBIT / finance costs),x,58.630221,16
+Hero MotoCorp,FY2024,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,68.547204,17
+Hero MotoCorp,FY2024,asset_turnover,Asset turnover,x,1.509437,19
+Hero MotoCorp,FY2024,inventory_days,Inventory days,days,25.127675,20
+Hero MotoCorp,FY2024,receivable_days,Receivable days,days,25.836308,21
+Hero MotoCorp,FY2024,dupont_net_margin,DuPont: net margin,%,0.099099,25
+Hero MotoCorp,FY2024,dupont_asset_turnover,DuPont: asset turnover,x,1.509437,26
+Hero MotoCorp,FY2024,dupont_equity_multiplier,DuPont: equity multiplier,x,1.457446,27
+Hero MotoCorp,FY2024,dupont_roe,DuPont ROE,%,0.218011,28
+Hero MotoCorp,FY2024,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.034263,46
+Hero MotoCorp,FY2024,cash_to_debt,Cash and bank / borrowings,x,1.148513,47
+Hero MotoCorp,FY2024,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.156765,48
+Hero MotoCorp,FY2024,roce_incl_oi,ROCE proxy incl. other income,%,0.290841,49
+Hero MotoCorp,FY2024,oi_share_pbt,Other income as % of PBT,%,0.135354,50
+Hero MotoCorp,FY2024,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.099099,52
+Hero MotoCorp,FY2024,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.218011,53
+Hero MotoCorp,FY2025,gross_margin,Gross margin,%,0.342415,5
+Hero MotoCorp,FY2025,ebitda_margin,EBITDA margin (ex other income),%,0.141456,6
+Hero MotoCorp,FY2025,net_margin,Net profit margin,%,0.106992,7
+Hero MotoCorp,FY2025,roe,ROE (PAT / avg equity),%,0.23686,8
+Hero MotoCorp,FY2025,roa,ROA (PAT / avg total assets),%,0.160551,9
+Hero MotoCorp,FY2025,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.259385,10
+Hero MotoCorp,FY2025,int_cover_ebit,Interest cover (EBIT / finance costs),x,70.265817,16
+Hero MotoCorp,FY2025,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,81.937297,17
+Hero MotoCorp,FY2025,asset_turnover,Asset turnover,x,1.50059,19
+Hero MotoCorp,FY2025,inventory_days,Inventory days,days,25.561871,20
+Hero MotoCorp,FY2025,receivable_days,Receivable days,days,26.808624,21
+Hero MotoCorp,FY2025,dupont_net_margin,DuPont: net margin,%,0.106992,25
+Hero MotoCorp,FY2025,dupont_asset_turnover,DuPont: asset turnover,x,1.50059,26
+Hero MotoCorp,FY2025,dupont_equity_multiplier,DuPont: equity multiplier,x,1.475296,27
+Hero MotoCorp,FY2025,dupont_roe,DuPont ROE,%,0.23686,28
+Hero MotoCorp,FY2025,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.036318,46
+Hero MotoCorp,FY2025,cash_to_debt,Cash and bank / borrowings,x,0.820196,47
+Hero MotoCorp,FY2025,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.166868,48
+Hero MotoCorp,FY2025,roce_incl_oi,ROCE proxy incl. other income,%,0.313722,49
+Hero MotoCorp,FY2025,oi_share_pbt,Other income as % of PBT,%,0.175262,50
+Hero MotoCorp,FY2025,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.106992,52
+Hero MotoCorp,FY2025,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.23686,53
+Hero MotoCorp,FY2026,gross_margin,Gross margin,%,0.331817,5
+Hero MotoCorp,FY2026,ebitda_margin,EBITDA margin (ex other income),%,0.148886,6
+Hero MotoCorp,FY2026,net_margin,Net profit margin,%,0.121105,7
+Hero MotoCorp,FY2026,roe,ROE (PAT / avg equity),%,0.280884,8
+Hero MotoCorp,FY2026,roa,ROA (PAT / avg total assets),%,0.185688,9
+Hero MotoCorp,FY2026,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.292899,10
+Hero MotoCorp,FY2026,int_cover_ebit,Interest cover (EBIT / finance costs),x,79.262425,16
+Hero MotoCorp,FY2026,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,90.186023,17
+Hero MotoCorp,FY2026,asset_turnover,Asset turnover,x,1.53328,19
+Hero MotoCorp,FY2026,inventory_days,Inventory days,days,26.865306,20
+Hero MotoCorp,FY2026,receivable_days,Receivable days,days,22.022374,21
+Hero MotoCorp,FY2026,dupont_net_margin,DuPont: net margin,%,0.121105,25
+Hero MotoCorp,FY2026,dupont_asset_turnover,DuPont: asset turnover,x,1.53328,26
+Hero MotoCorp,FY2026,dupont_equity_multiplier,DuPont: equity multiplier,x,1.512672,27
+Hero MotoCorp,FY2026,dupont_roe,DuPont ROE,%,0.280884,28
+Hero MotoCorp,FY2026,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.036028,46
+Hero MotoCorp,FY2026,cash_to_debt,Cash and bank / borrowings,x,0.984704,47
+Hero MotoCorp,FY2026,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.176516,48
+Hero MotoCorp,FY2026,roce_incl_oi,ROCE proxy incl. other income,%,0.354747,49
+Hero MotoCorp,FY2026,oi_share_pbt,Other income as % of PBT,%,0.176177,50
+Hero MotoCorp,FY2026,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.121105,52
+Hero MotoCorp,FY2026,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.280884,53
+Bajaj Auto,FY2022,gross_margin,Gross margin,%,0.265952,5
+Bajaj Auto,FY2022,ebitda_margin,EBITDA margin (ex other income),%,0.158662,6
+Bajaj Auto,FY2022,net_margin,Net profit margin,%,0.186029,7
+Bajaj Auto,FY2022,roe,ROE (PAT / avg equity),%,0.215842,8
+Bajaj Auto,FY2022,roa,ROA (PAT / avg total assets),%,0.179468,9
+Bajaj Auto,FY2022,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.173903,10
+Bajaj Auto,FY2022,int_cover_ebit,Interest cover (EBIT / finance costs),x,576.101617,16
+Bajaj Auto,FY2022,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,607.251732,17
+Bajaj Auto,FY2022,asset_turnover,Asset turnover,x,0.96473,19
+Bajaj Auto,FY2022,inventory_days,Inventory days,days,20.435951,20
+Bajaj Auto,FY2022,receivable_days,Receivable days,days,23.308832,21
+Bajaj Auto,FY2022,dupont_net_margin,DuPont: net margin,%,0.186029,25
+Bajaj Auto,FY2022,dupont_asset_turnover,DuPont: asset turnover,x,0.96473,26
+Bajaj Auto,FY2022,dupont_equity_multiplier,DuPont: equity multiplier,x,1.202682,27
+Bajaj Auto,FY2022,dupont_roe,DuPont ROE,%,0.215842,28
+Bajaj Auto,FY2022,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.004112,46
+Bajaj Auto,FY2022,cash_to_debt,Cash and bank / borrowings,x,7.803698,47
+Bajaj Auto,FY2022,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.239257,48
+Bajaj Auto,FY2022,roce_incl_oi,ROCE proxy incl. other income,%,0.267016,49
+Bajaj Auto,FY2022,oi_share_pbt,Other income as % of PBT,%,0.349113,50
+Bajaj Auto,FY2022,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.186029,52
+Bajaj Auto,FY2022,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.215842,53
+Bajaj Auto,FY2023,gross_margin,Gross margin,%,0.283473,5
+Bajaj Auto,FY2023,ebitda_margin,EBITDA margin (ex other income),%,0.17733,6
+Bajaj Auto,FY2023,net_margin,Net profit margin,%,0.166236,7
+Bajaj Auto,FY2023,roe,ROE (PAT / avg equity),%,0.204664,8
+Bajaj Auto,FY2023,roa,ROA (PAT / avg total assets),%,0.172538,9
+Bajaj Auto,FY2023,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.207802,10
+Bajaj Auto,FY2023,int_cover_ebit,Interest cover (EBIT / finance costs),x,156.385472,16
+Bajaj Auto,FY2023,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,163.620349,17
+Bajaj Auto,FY2023,asset_turnover,Asset turnover,x,1.03791,19
+Bajaj Auto,FY2023,inventory_days,Inventory days,days,19.521116,20
+Bajaj Auto,FY2023,receivable_days,Receivable days,days,16.364054,21
+Bajaj Auto,FY2023,dupont_net_margin,DuPont: net margin,%,0.166236,25
+Bajaj Auto,FY2023,dupont_asset_turnover,DuPont: asset turnover,x,1.03791,26
+Bajaj Auto,FY2023,dupont_equity_multiplier,DuPont: equity multiplier,x,1.186191,27
+Bajaj Auto,FY2023,dupont_roe,DuPont ROE,%,0.204664,28
+Bajaj Auto,FY2023,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.004231,46
+Bajaj Auto,FY2023,cash_to_debt,Cash and bank / borrowings,x,5.558078,47
+Bajaj Auto,FY2023,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.224037,48
+Bajaj Auto,FY2023,roce_incl_oi,ROCE proxy incl. other income,%,0.265066,49
+Bajaj Auto,FY2023,oi_share_pbt,Other income as % of PBT,%,0.217126,50
+Bajaj Auto,FY2023,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.166236,52
+Bajaj Auto,FY2023,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.204664,53
+Bajaj Auto,FY2024,gross_margin,Gross margin,%,0.289215,5
+Bajaj Auto,FY2024,ebitda_margin,EBITDA margin (ex other income),%,0.195333,6
+Bajaj Auto,FY2024,net_margin,Net profit margin,%,0.171789,7
+Bajaj Auto,FY2024,roe,ROE (PAT / avg equity),%,0.264325,8
+Bajaj Auto,FY2024,roa,ROA (PAT / avg total assets),%,0.206988,9
+Bajaj Auto,FY2024,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.278327,10
+Bajaj Auto,FY2024,int_cover_ebit,Interest cover (EBIT / finance costs),x,139.163519,16
+Bajaj Auto,FY2024,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,145.206759,17
+Bajaj Auto,FY2024,asset_turnover,Asset turnover,x,1.204896,19
+Bajaj Auto,FY2024,inventory_days,Inventory days,days,18.610368,20
+Bajaj Auto,FY2024,receivable_days,Receivable days,days,15.569334,21
+Bajaj Auto,FY2024,dupont_net_margin,DuPont: net margin,%,0.171789,25
+Bajaj Auto,FY2024,dupont_asset_turnover,DuPont: asset turnover,x,1.204896,26
+Bajaj Auto,FY2024,dupont_equity_multiplier,DuPont: equity multiplier,x,1.277008,27
+Bajaj Auto,FY2024,dupont_roe,DuPont ROE,%,0.264325,28
+Bajaj Auto,FY2024,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.066008,46
+Bajaj Auto,FY2024,cash_to_debt,Cash and bank / borrowings,x,0.499712,47
+Bajaj Auto,FY2024,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.233231,48
+Bajaj Auto,FY2024,roce_incl_oi,ROCE proxy incl. other income,%,0.334672,49
+Bajaj Auto,FY2024,oi_share_pbt,Other income as % of PBT,%,0.169371,50
+Bajaj Auto,FY2024,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.171789,52
+Bajaj Auto,FY2024,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.264325,53
+Bajaj Auto,FY2025,gross_margin,Gross margin,%,0.308569,5
+Bajaj Auto,FY2025,ebitda_margin,EBITDA margin (ex other income),%,0.187365,6
+Bajaj Auto,FY2025,net_margin,Net profit margin,%,0.143638,7
+Bajaj Auto,FY2025,roe,ROE (PAT / avg equity),%,0.228358,8
+Bajaj Auto,FY2025,roa,ROA (PAT / avg total assets),%,0.156756,9
+Bajaj Auto,FY2025,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.242363,10
+Bajaj Auto,FY2025,int_cover_ebit,Interest cover (EBIT / finance costs),x,23.503137,16
+Bajaj Auto,FY2025,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,24.568269,17
+Bajaj Auto,FY2025,asset_turnover,Asset turnover,x,1.091334,19
+Bajaj Auto,FY2025,inventory_days,Inventory days,days,19.493218,20
+Bajaj Auto,FY2025,receivable_days,Receivable days,days,15.033702,21
+Bajaj Auto,FY2025,dupont_net_margin,DuPont: net margin,%,0.143638,25
+Bajaj Auto,FY2025,dupont_asset_turnover,DuPont: asset turnover,x,1.091334,26
+Bajaj Auto,FY2025,dupont_equity_multiplier,DuPont: equity multiplier,x,1.456772,27
+Bajaj Auto,FY2025,dupont_roe,DuPont ROE,%,0.228358,28
+Bajaj Auto,FY2025,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.266112,46
+Bajaj Auto,FY2025,cash_to_debt,Cash and bank / borrowings,x,0.304096,47
+Bajaj Auto,FY2025,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.216232,48
+Bajaj Auto,FY2025,roce_incl_oi,ROCE proxy incl. other income,%,0.281396,49
+Bajaj Auto,FY2025,oi_share_pbt,Other income as % of PBT,%,0.143987,50
+Bajaj Auto,FY2025,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.143638,52
+Bajaj Auto,FY2025,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.228358,53
+Bajaj Auto,FY2026,gross_margin,Gross margin,%,0.325811,5
+Bajaj Auto,FY2026,ebitda_margin,EBITDA margin (ex other income),%,0.208206,6
+Bajaj Auto,FY2026,net_margin,Net profit margin,%,0.170801,7
+Bajaj Auto,FY2026,roe,ROE (PAT / avg equity),%,0.290303,8
+Bajaj Auto,FY2026,roa,ROA (PAT / avg total assets),%,0.164004,9
+Bajaj Auto,FY2026,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.234736,10
+Bajaj Auto,FY2026,int_cover_ebit,Interest cover (EBIT / finance costs),x,10.656021,16
+Bajaj Auto,FY2026,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,11.207703,17
+Bajaj Auto,FY2026,asset_turnover,Asset turnover,x,0.960206,19
+Bajaj Auto,FY2026,inventory_days,Inventory days,days,36.026118,20
+Bajaj Auto,FY2026,receivable_days,Receivable days,days,16.242834,21
+Bajaj Auto,FY2026,dupont_net_margin,DuPont: net margin,%,0.170801,25
+Bajaj Auto,FY2026,dupont_asset_turnover,DuPont: asset turnover,x,0.960206,26
+Bajaj Auto,FY2026,dupont_equity_multiplier,DuPont: equity multiplier,x,1.770097,27
+Bajaj Auto,FY2026,dupont_roe,DuPont ROE,%,0.290303,28
+Bajaj Auto,FY2026,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.584908,46
+Bajaj Auto,FY2026,cash_to_debt,Cash and bank / borrowings,x,0.135247,47
+Bajaj Auto,FY2026,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.250613,48
+Bajaj Auto,FY2026,roce_incl_oi,ROCE proxy incl. other income,%,0.285022,49
+Bajaj Auto,FY2026,oi_share_pbt,Other income as % of PBT,%,0.191205,50
+Bajaj Auto,FY2026,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.145384,52
+Bajaj Auto,FY2026,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.247104,53
+TVS Motor,FY2022,gross_margin,Gross margin,%,0.332495,5
+TVS Motor,FY2022,ebitda_margin,EBITDA margin (ex other income),%,0.113102,6
+TVS Motor,FY2022,net_margin,Net profit margin,%,0.031074,7
+TVS Motor,FY2022,roe,ROE (PAT / avg equity),%,0.184005,8
+TVS Motor,FY2022,roa,ROA (PAT / avg total assets),%,0.031027,9
+TVS Motor,FY2022,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.111048,10
+TVS Motor,FY2022,int_cover_ebit,Interest cover (EBIT / finance costs),x,2.13968,16
+TVS Motor,FY2022,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,2.929772,17
+TVS Motor,FY2022,asset_turnover,Asset turnover,x,0.998492,19
+TVS Motor,FY2022,inventory_days,Inventory days,days,33.7871,20
+TVS Motor,FY2022,receivable_days,Receivable days,days,16.534267,21
+TVS Motor,FY2022,dupont_net_margin,DuPont: net margin,%,0.031074,25
+TVS Motor,FY2022,dupont_asset_turnover,DuPont: asset turnover,x,0.998492,26
+TVS Motor,FY2022,dupont_equity_multiplier,DuPont: equity multiplier,x,5.930442,27
+TVS Motor,FY2022,dupont_roe,DuPont ROE,%,0.184005,28
+TVS Motor,FY2022,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,3.597543,46
+TVS Motor,FY2022,cash_to_debt,Cash and bank / borrowings,x,0.097023,47
+TVS Motor,FY2022,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.112906,48
+TVS Motor,FY2022,roce_incl_oi,ROCE proxy incl. other income,%,0.110785,49
+TVS Motor,FY2022,oi_share_pbt,Other income as % of PBT,%,-0.004462,50
+TVS Motor,FY2022,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.031074,52
+TVS Motor,FY2022,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.184005,53
+TVS Motor,FY2023,gross_margin,Gross margin,%,0.348024,5
+TVS Motor,FY2023,ebitda_margin,EBITDA margin (ex other income),%,0.125935,6
+TVS Motor,FY2023,net_margin,Net profit margin,%,0.041555,7
+TVS Motor,FY2023,roe,ROE (PAT / avg equity),%,0.268298,8
+TVS Motor,FY2023,roa,ROA (PAT / avg total assets),%,0.042899,9
+TVS Motor,FY2023,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.131697,10
+TVS Motor,FY2023,int_cover_ebit,Interest cover (EBIT / finance costs),x,2.315822,16
+TVS Motor,FY2023,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,2.943694,17
+TVS Motor,FY2023,asset_turnover,Asset turnover,x,1.032357,19
+TVS Motor,FY2023,inventory_days,Inventory days,days,31.200142,20
+TVS Motor,FY2023,receivable_days,Receivable days,days,13.8911,21
+TVS Motor,FY2023,dupont_net_margin,DuPont: net margin,%,0.041555,25
+TVS Motor,FY2023,dupont_asset_turnover,DuPont: asset turnover,x,1.032357,26
+TVS Motor,FY2023,dupont_equity_multiplier,DuPont: equity multiplier,x,6.254122,27
+TVS Motor,FY2023,dupont_roe,DuPont ROE,%,0.268298,28
+TVS Motor,FY2023,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,4.064592,46
+TVS Motor,FY2023,cash_to_debt,Cash and bank / borrowings,x,0.08398,47
+TVS Motor,FY2023,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.130193,48
+TVS Motor,FY2023,roce_incl_oi,ROCE proxy incl. other income,%,0.137356,49
+TVS Motor,FY2023,oi_share_pbt,Other income as % of PBT,%,0.070314,50
+TVS Motor,FY2023,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.041555,52
+TVS Motor,FY2023,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.268298,53
+TVS Motor,FY2024,gross_margin,Gross margin,%,0.374137,5
+TVS Motor,FY2024,ebitda_margin,EBITDA margin (ex other income),%,0.140142,6
+TVS Motor,FY2024,net_margin,Net profit margin,%,0.043487,7
+TVS Motor,FY2024,roe,ROE (PAT / avg equity),%,0.274463,8
+TVS Motor,FY2024,roa,ROA (PAT / avg total assets),%,0.043774,9
+TVS Motor,FY2024,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.147632,10
+TVS Motor,FY2024,int_cover_ebit,Interest cover (EBIT / finance costs),x,2.336638,16
+TVS Motor,FY2024,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,2.835516,17
+TVS Motor,FY2024,asset_turnover,Asset turnover,x,1.006608,19
+TVS Motor,FY2024,inventory_days,Inventory days,days,31.355652,20
+TVS Motor,FY2024,receivable_days,Receivable days,days,14.569572,21
+TVS Motor,FY2024,dupont_net_margin,DuPont: net margin,%,0.043487,25
+TVS Motor,FY2024,dupont_asset_turnover,DuPont: asset turnover,x,1.006608,26
+TVS Motor,FY2024,dupont_equity_multiplier,DuPont: equity multiplier,x,6.269966,27
+TVS Motor,FY2024,dupont_roe,DuPont ROE,%,0.274463,28
+TVS Motor,FY2024,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,3.833664,46
+TVS Motor,FY2024,cash_to_debt,Cash and bank / borrowings,x,0.093277,47
+TVS Motor,FY2024,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.143515,48
+TVS Motor,FY2024,roce_incl_oi,ROCE proxy incl. other income,%,0.151943,49
+TVS Motor,FY2024,oi_share_pbt,Other income as % of PBT,%,0.048571,50
+TVS Motor,FY2024,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.043487,52
+TVS Motor,FY2024,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.274463,53
+TVS Motor,FY2025,gross_margin,Gross margin,%,0.393866,5
+TVS Motor,FY2025,ebitda_margin,EBITDA margin (ex other income),%,0.149416,6
+TVS Motor,FY2025,net_margin,Net profit margin,%,0.050706,7
+TVS Motor,FY2025,roe,ROE (PAT / avg equity),%,0.292481,8
+TVS Motor,FY2025,roa,ROA (PAT / avg total assets),%,0.049859,9
+TVS Motor,FY2025,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.158568,10
+TVS Motor,FY2025,int_cover_ebit,Interest cover (EBIT / finance costs),x,2.647577,16
+TVS Motor,FY2025,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,3.147068,17
+TVS Motor,FY2025,asset_turnover,Asset turnover,x,0.983308,19
+TVS Motor,FY2025,inventory_days,Inventory days,days,31.857654,20
+TVS Motor,FY2025,receivable_days,Receivable days,days,14.720245,21
+TVS Motor,FY2025,dupont_net_margin,DuPont: net margin,%,0.050706,25
+TVS Motor,FY2025,dupont_asset_turnover,DuPont: asset turnover,x,0.983308,26
+TVS Motor,FY2025,dupont_equity_multiplier,DuPont: equity multiplier,x,5.86613,27
+TVS Motor,FY2025,dupont_roe,DuPont ROE,%,0.292481,28
+TVS Motor,FY2025,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,3.364393,46
+TVS Motor,FY2025,cash_to_debt,Cash and bank / borrowings,x,0.153318,47
+TVS Motor,FY2025,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.151377,48
+TVS Motor,FY2025,roce_incl_oi,ROCE proxy incl. other income,%,0.161042,49
+TVS Motor,FY2025,oi_share_pbt,Other income as % of PBT,%,0.024459,50
+TVS Motor,FY2025,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.050706,52
+TVS Motor,FY2025,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.292481,53
+TVS Motor,FY2026,gross_margin,Gross margin,%,0.377919,5
+TVS Motor,FY2026,ebitda_margin,EBITDA margin (ex other income),%,0.148963,6
+TVS Motor,FY2026,net_margin,Net profit margin,%,0.053832,7
+TVS Motor,FY2026,roe,ROE (PAT / avg equity),%,0.334115,8
+TVS Motor,FY2026,roa,ROA (PAT / avg total assets),%,0.058159,9
+TVS Motor,FY2026,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.178177,10
+TVS Motor,FY2026,int_cover_ebit,Interest cover (EBIT / finance costs),x,3.174978,16
+TVS Motor,FY2026,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,3.745715,17
+TVS Motor,FY2026,asset_turnover,Asset turnover,x,1.080374,19
+TVS Motor,FY2026,inventory_days,Inventory days,days,25.511352,20
+TVS Motor,FY2026,receivable_days,Receivable days,days,14.226724,21
+TVS Motor,FY2026,dupont_net_margin,DuPont: net margin,%,0.053832,25
+TVS Motor,FY2026,dupont_asset_turnover,DuPont: asset turnover,x,1.080374,26
+TVS Motor,FY2026,dupont_equity_multiplier,DuPont: equity multiplier,x,5.744888,27
+TVS Motor,FY2026,dupont_roe,DuPont ROE,%,0.334115,28
+TVS Motor,FY2026,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,3.428498,46
+TVS Motor,FY2026,cash_to_debt,Cash and bank / borrowings,x,0.137267,47
+TVS Motor,FY2026,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.148462,48
+TVS Motor,FY2026,roce_incl_oi,ROCE proxy incl. other income,%,0.177471,49
+TVS Motor,FY2026,oi_share_pbt,Other income as % of PBT,%,-0.005822,50
+TVS Motor,FY2026,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.053832,52
+TVS Motor,FY2026,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.334115,53
+Eicher Motors,FY2022,gross_margin,Gross margin,%,0.421365,5
+Eicher Motors,FY2022,ebitda_margin,EBITDA margin (ex other income),%,0.211459,6
+Eicher Motors,FY2022,net_margin,Net profit margin,%,0.162811,7
+Eicher Motors,FY2022,roe,ROE (PAT / avg equity),%,0.139449,8
+Eicher Motors,FY2022,roa,ROA (PAT / avg total assets),%,0.10923,9
+Eicher Motors,FY2022,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.141602,10
+Eicher Motors,FY2022,int_cover_ebit,Interest cover (EBIT / finance costs),x,91.887114,16
+Eicher Motors,FY2022,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,115.951544,17
+Eicher Motors,FY2022,asset_turnover,Asset turnover,x,0.670902,19
+Eicher Motors,FY2022,inventory_days,Inventory days,days,61.469467,20
+Eicher Motors,FY2022,receivable_days,Receivable days,days,8.155747,21
+Eicher Motors,FY2022,dupont_net_margin,DuPont: net margin,%,0.162811,25
+Eicher Motors,FY2022,dupont_asset_turnover,DuPont: asset turnover,x,0.670902,26
+Eicher Motors,FY2022,dupont_equity_multiplier,DuPont: equity multiplier,x,1.27665,27
+Eicher Motors,FY2022,dupont_roe,DuPont ROE,%,0.139449,28
+Eicher Motors,FY2022,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.008543,46
+Eicher Motors,FY2022,cash_to_debt,Cash and bank / borrowings,x,25.275926,47
+Eicher Motors,FY2022,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.259591,48
+Eicher Motors,FY2022,roce_incl_oi,ROCE proxy incl. other income,%,0.182274,49
+Eicher Motors,FY2022,oi_share_pbt,Other income as % of PBT,%,0.225039,50
+Eicher Motors,FY2022,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.162811,52
+Eicher Motors,FY2022,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.139449,53
+Eicher Motors,FY2023,gross_margin,Gross margin,%,0.430987,5
+Eicher Motors,FY2023,ebitda_margin,EBITDA margin (ex other income),%,0.238587,6
+Eicher Motors,FY2023,net_margin,Net profit margin,%,0.201766,7
+Eicher Motors,FY2023,roe,ROE (PAT / avg equity),%,0.211168,8
+Eicher Motors,FY2023,roa,ROA (PAT / avg total assets),%,0.164921,9
+Eicher Motors,FY2023,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.208578,10
+Eicher Motors,FY2023,int_cover_ebit,Interest cover (EBIT / finance costs),x,104.19379,16
+Eicher Motors,FY2023,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,122.97359,17
+Eicher Motors,FY2023,asset_turnover,Asset turnover,x,0.817386,19
+Eicher Motors,FY2023,inventory_days,Inventory days,days,53.539735,20
+Eicher Motors,FY2023,receivable_days,Receivable days,days,8.478651,21
+Eicher Motors,FY2023,dupont_net_margin,DuPont: net margin,%,0.201766,25
+Eicher Motors,FY2023,dupont_asset_turnover,DuPont: asset turnover,x,0.817386,26
+Eicher Motors,FY2023,dupont_equity_multiplier,DuPont: equity multiplier,x,1.280423,27
+Eicher Motors,FY2023,dupont_roe,DuPont ROE,%,0.211168,28
+Eicher Motors,FY2023,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.01924,46
+Eicher Motors,FY2023,cash_to_debt,Cash and bank / borrowings,x,2.654485,47
+Eicher Motors,FY2023,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.301468,48
+Eicher Motors,FY2023,roce_incl_oi,ROCE proxy incl. other income,%,0.273458,49
+Eicher Motors,FY2023,oi_share_pbt,Other income as % of PBT,%,0.239007,50
+Eicher Motors,FY2023,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.201766,52
+Eicher Motors,FY2023,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.211168,53
+Eicher Motors,FY2024,gross_margin,Gross margin,%,0.456311,5
+Eicher Motors,FY2024,ebitda_margin,EBITDA margin (ex other income),%,0.261818,6
+Eicher Motors,FY2024,net_margin,Net profit margin,%,0.241961,7
+Eicher Motors,FY2024,roe,ROE (PAT / avg equity),%,0.242223,8
+Eicher Motors,FY2024,roa,ROA (PAT / avg total assets),%,0.189116,9
+Eicher Motors,FY2024,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.221183,10
+Eicher Motors,FY2024,int_cover_ebit,Interest cover (EBIT / finance costs),x,73.344536,16
+Eicher Motors,FY2024,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,85.089819,17
+Eicher Motors,FY2024,asset_turnover,Asset turnover,x,0.781598,19
+Eicher Motors,FY2024,inventory_days,Inventory days,days,54.566979,20
+Eicher Motors,FY2024,receivable_days,Receivable days,days,8.196937,21
+Eicher Motors,FY2024,dupont_net_margin,DuPont: net margin,%,0.241961,25
+Eicher Motors,FY2024,dupont_asset_turnover,DuPont: asset turnover,x,0.781598,26
+Eicher Motors,FY2024,dupont_equity_multiplier,DuPont: equity multiplier,x,1.280815,27
+Eicher Motors,FY2024,dupont_roe,DuPont ROE,%,0.242223,28
+Eicher Motors,FY2024,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.023243,46
+Eicher Motors,FY2024,cash_to_debt,Cash and bank / borrowings,x,0.348822,47
+Eicher Motors,FY2024,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.353809,48
+Eicher Motors,FY2024,roce_incl_oi,ROCE proxy incl. other income,%,0.311341,49
+Eicher Motors,FY2024,oi_share_pbt,Other income as % of PBT,%,0.292411,50
+Eicher Motors,FY2024,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.241961,52
+Eicher Motors,FY2024,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.242223,53
+Eicher Motors,FY2025,gross_margin,Gross margin,%,0.453821,5
+Eicher Motors,FY2025,ebitda_margin,EBITDA margin (ex other income),%,0.250264,6
+Eicher Motors,FY2025,net_margin,Net profit margin,%,0.250893,7
+Eicher Motors,FY2025,roe,ROE (PAT / avg equity),%,0.240681,8
+Eicher Motors,FY2025,roa,ROA (PAT / avg total assets),%,0.188287,9
+Eicher Motors,FY2025,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.198572,10
+Eicher Motors,FY2025,int_cover_ebit,Interest cover (EBIT / finance costs),x,73.486198,16
+Eicher Motors,FY2025,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,86.907803,17
+Eicher Motors,FY2025,asset_turnover,Asset turnover,x,0.750468,19
+Eicher Motors,FY2025,inventory_days,Inventory days,days,52.650217,20
+Eicher Motors,FY2025,receivable_days,Receivable days,days,8.930632,21
+Eicher Motors,FY2025,dupont_net_margin,DuPont: net margin,%,0.250893,25
+Eicher Motors,FY2025,dupont_asset_turnover,DuPont: asset turnover,x,0.750468,26
+Eicher Motors,FY2025,dupont_equity_multiplier,DuPont: equity multiplier,x,1.278265,27
+Eicher Motors,FY2025,dupont_roe,DuPont ROE,%,0.240681,28
+Eicher Motors,FY2025,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.021512,46
+Eicher Motors,FY2025,cash_to_debt,Cash and bank / borrowings,x,0.574095,47
+Eicher Motors,FY2025,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.355941,48
+Eicher Motors,FY2025,roce_incl_oi,ROCE proxy incl. other income,%,0.297736,49
+Eicher Motors,FY2025,oi_share_pbt,Other income as % of PBT,%,0.336111,50
+Eicher Motors,FY2025,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.250893,52
+Eicher Motors,FY2025,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.240681,53
+Eicher Motors,FY2026,gross_margin,Gross margin,%,0.441568,5
+Eicher Motors,FY2026,ebitda_margin,EBITDA margin (ex other income),%,0.247322,6
+Eicher Motors,FY2026,net_margin,Net profit margin,%,0.235617,7
+Eicher Motors,FY2026,roe,ROE (PAT / avg equity),%,0.237743,8
+Eicher Motors,FY2026,roa,ROA (PAT / avg total assets),%,0.185892,9
+Eicher Motors,FY2026,roce_proxy,ROCE proxy (EBIT / avg equity + borrowings),%,0.20895,10
+Eicher Motors,FY2026,int_cover_ebit,Interest cover (EBIT / finance costs),x,69.185517,16
+Eicher Motors,FY2026,int_cover_ebitda,Interest cover (EBITDA / finance costs),x,80.934014,17
+Eicher Motors,FY2026,asset_turnover,Asset turnover,x,0.788957,19
+Eicher Motors,FY2026,inventory_days,Inventory days,days,49.30651,20
+Eicher Motors,FY2026,receivable_days,Receivable days,days,7.041523,21
+Eicher Motors,FY2026,dupont_net_margin,DuPont: net margin,%,0.235617,25
+Eicher Motors,FY2026,dupont_asset_turnover,DuPont: asset turnover,x,0.788957,26
+Eicher Motors,FY2026,dupont_equity_multiplier,DuPont: equity multiplier,x,1.278928,27
+Eicher Motors,FY2026,dupont_roe,DuPont ROE,%,0.237743,28
+Eicher Motors,FY2026,de_proxy,"Debt-to-equity (borrowings / equity, ex leases)",x,0.020476,46
+Eicher Motors,FY2026,cash_to_debt,Cash and bank / borrowings,x,0.498181,47
+Eicher Motors,FY2026,ebitda_margin_incl_oi,EBITDA margin incl. other income,%,0.342366,48
+Eicher Motors,FY2026,roce_incl_oi,ROCE proxy incl. other income,%,0.302883,49
+Eicher Motors,FY2026,oi_share_pbt,Other income as % of PBT,%,0.313254,50
+Eicher Motors,FY2026,net_margin_ex_oneoff,Net margin ex one-off gains (approx.),%,0.235617,52
+Eicher Motors,FY2026,roe_ex_oneoff,ROE ex one-off gains (approx.),%,0.237743,53

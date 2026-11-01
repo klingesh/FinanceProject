@@ -1,0 +1,11 @@
+# Only needed for the scripts in build/; the workbook itself needs only Excel.
+# Tested with Python 3.14, openpyxl 3.1.5, pandas 3.0, numpy 2.4, matplotlib 3.11, pymupdf 1.28
+openpyxl>=3.1
+pandas>=2.2
+numpy>=2.0
+matplotlib>=3.8
+pymupdf>=1.24          # reads the one-page PDF (check_workbook.py) and cuts annual-report extracts
+requests>=2.31         # only for build/fetch_sources.py
+beautifulsoup4>=4.12   # only for build/fetch_sources.py
+lxml>=5.0              # only for build/fetch_sources.py
+pywin32>=306; sys_platform == "win32"   # only for build/export_excel_charts.py (needs Microsoft Excel)

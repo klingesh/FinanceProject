@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+
+# Full annual-report PDFs (17-18 MB each) downloaded by build/fetch_sources.py; source_data/ keeps page extracts.
+build/_cache/
+
+# Saved copies of news articles are copyrighted: they stay on the local PC only.
+# source_data/README.md lists each one with its link.
+source_data/news_and_macro/*.html
