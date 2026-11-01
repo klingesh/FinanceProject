@@ -1,0 +1,36 @@
+{
+ "url": "https://www.screener.in/api/company/1274826/schedules/?parent=Expenses&section=quarters&consolidated=true",
+ "fetched": "2026-11-01 01:39 UTC",
+ "data": {
+  "Material Cost %": {
+   "Sep 2023": "54%",
+   "Dec 2023": "52%",
+   "Mar 2024": "51%",
+   "Jun 2024": "53%",
+   "Sep 2024": "56%",
+   "Dec 2024": "53%",
+   "Mar 2025": "53%",
+   "Jun 2025": "54%",
+   "Sep 2025": "55%",
+   "Dec 2025": "53%",
+   "Mar 2026": "52%",
+   "Jun 2026": "55%",
+   "Sep 2026": "62%"
+  },
+  "Employee Cost %": {
+   "Sep 2023": "9%",
+   "Dec 2023": "7%",
+   "Mar 2024": "6%",
+   "Jun 2024": "10%",
+   "Sep 2024": "10%",
+   "Dec 2024": "8%",
+   "Mar 2025": "7%",
+   "Jun 2025": "10%",
+   "Sep 2025": "10%",
+   "Dec 2025": "9%",
+   "Mar 2026": "8%",
+   "Jun 2026": "10%",
+   "Sep 2026": "10%"
+  }
+ }
+}

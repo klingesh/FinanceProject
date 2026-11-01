@@ -1,0 +1,6 @@
+multiple,asian_paints_metric,asian_paints_metric_value,metric_units,asian_paints_multiple_x,peer_min_x,peer_p25_x,peer_median_x,peer_p75_x,peer_max_x,asian_paints_premium_to_peer_median_pct,implied_rs_per_share_at_min,implied_rs_per_share_at_p25,implied_rs_per_share_at_median,implied_rs_per_share_at_p75,implied_rs_per_share_at_max,median_implied_vs_price_pct,share_price_rs,basis
+EV/EBITDA TTM,TTM EBITDA (Rs cr),7294.0,Rs crore,30.392,11.9623,16.1946,20.8785,25.1222,28.0339,45.5658,919.0,1240.0,1597.0,1919.0,2141.0,-31.1824,2320.0,TTM to Sep-2026
+P/E TTM,TTM EPS (Rs),51.62,Rs per share,44.9473,22.0699,28.7935,31.1955,34.5668,44.1979,44.0823,1139.0,1486.0,1610.0,1784.0,2281.0,-30.5952,2320.0,TTM to Sep-2026
+EV/Sales TTM,TTM revenue (Rs cr),38633.0,Rs crore,5.7381,1.4461,2.6044,3.1461,3.569,4.3709,82.388,591.0,1058.0,1276.0,1446.0,1769.0,-44.9984,2320.0,TTM to Sep-2026
+EV/EBITDA FY27E,FY27E EBITDA (Rs cr),7544.4,Rs crore,29.3833,11.2284,14.2831,17.4892,21.246,25.9531,68.0086,892.0,1132.0,1384.0,1680.0,2050.0,-40.3238,2320.0,"S&P consensus, FY ending Mar-2027"
+P/E FY27E,FY27E EPS (Rs),53.94,Rs per share,43.0076,19.7579,24.649,28.1283,32.5571,40.2963,52.8977,1066.0,1330.0,1517.0,1756.0,2174.0,-34.5968,2320.0,"S&P consensus, FY ending Mar-2027"

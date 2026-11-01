@@ -1,0 +1,11 @@
+OK   AsianPaints_Q2FY27_Financial_Results_29Oct2026.pdf: 8.56 MB
+OK   AsianPaints_Q2FY27_Press_Release_29Oct2026.pdf: 8.56 MB
+OK   AsianPaints_Q2FY27_Investor_Presentation_29Oct2026.pdf: 5.16 MB
+OK   AsianPaints_Q2FY27_Call_Recording_Link_29Oct2026.pdf: 0.28 MB
+OK   AsianPaints_Q1FY27_Press_Release_29Jul2026.pdf: 5.82 MB
+OK   AsianPaints_Q1FY27_Investor_Presentation_29Jul2026.pdf: 4.42 MB
+OK   AsianPaints_Q4FY26_Results_and_Press_Release_29May2026.pdf: 10.85 MB
+OK   AsianPaints_Q4FY26_Investor_Presentation_29May2026.pdf: 5.33 MB
+OK   AsianPaints_Q4FY26_Earnings_Call_Transcript_29May2026.pdf: 3.70 MB
+OK   AsianPaints_BRSR_FY2025-26.pdf: 1.33 MB
+BIG  AsianPaints_Integrated_Annual_Report_FY2025-26.pdf: 26.3 MB kept outside the repo in _scratch/p05/big_files (link recorded)

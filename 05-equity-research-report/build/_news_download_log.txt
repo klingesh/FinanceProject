@@ -1,0 +1,16 @@
+OK   2024-03-07_ETBrandEquity_Pidilite_Haisha.html: 304 KB raw -> 103 KB saved
+OK   2025-05-13_ETCFO_Birla_bet_rattles_AsianPaints.html: 295 KB raw -> 96 KB saved
+OK   2025-07-01_CCI_order_Grasim_v_AsianPaints.pdf: 523 KB (PDF, untouched)
+OK   2025-10-14_ETBrandEquity_SC_AsianPaints_CCI.html: 300 KB raw -> 100 KB saved
+OK   2025-12-10_JSW_press_release_AkzoNobel_India.html: 48 KB raw -> 25 KB saved
+OK   2026-03-13_ETBrandEquity_JSW_Dulux_rename.html: 288 KB raw -> 94 KB saved
+BLOCK 2026-08-13_NDTVProfit_BirlaOpus_Q1FY27.html: HTTP 403 -> wrote 2026-08-13_NDTVProfit_BirlaOpus_Q1FY27.md
+OK   2026-09-08_FinancialExpress_paint_shares.html: 553 KB raw -> 117 KB saved
+OK   2026-09-30_TheHindu_monsoon_deficit.html: 249 KB raw -> 137 KB saved
+OK   2026-10-25_ET_TiO2_antidumping_duty.html: 324 KB raw -> 180 KB saved
+OK   2026-10-27_Moneycontrol_paint_dealers_discounts.html: 702 KB raw -> 177 KB saved
+OK   2026-10-29_BusinessStandard_AsianPaints_Q2FY27_result.html: 213 KB raw -> 51 KB saved
+OK   2026-10-30_ET_AsianPaints_broker_target_cuts.html: 345 KB raw -> 200 KB saved
+OK   2026-10-30_Yahoo_GuruFocus_AsianPaints_Q2FY27_call_highlights.html: 724 KB raw -> 249 KB saved
+OK   2026-10-31_BusinessWorld_Grasim_BirlaOpus_share.html: 147 KB raw -> 126 KB saved
+OK   Grasim_paints_business_page.html: 28 KB raw -> 20 KB saved

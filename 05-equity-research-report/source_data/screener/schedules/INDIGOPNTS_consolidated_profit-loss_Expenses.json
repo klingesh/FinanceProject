@@ -1,0 +1,31 @@
+{
+ "url": "https://www.screener.in/api/company/1274826/schedules/?parent=Expenses&section=profit-loss&consolidated=true",
+ "fetched": "2026-11-01 01:39 UTC",
+ "data": {
+  "Material Cost %": {
+   "Mar 2023": "55%",
+   "Mar 2024": "52%",
+   "Mar 2025": "54%",
+   "Mar 2026": "53%",
+   "isExpandable": "Company.showSchedule(\"Material Cost %\", \"profit-loss\", this)"
+  },
+  "Manufacturing Cost %": {
+   "Mar 2023": "11%",
+   "Mar 2024": "12%",
+   "Mar 2025": "11%",
+   "Mar 2026": "11%"
+  },
+  "Employee Cost %": {
+   "Mar 2023": "7%",
+   "Mar 2024": "8%",
+   "Mar 2025": "8%",
+   "Mar 2026": "9%"
+  },
+  "Other Cost %": {
+   "Mar 2023": "10%",
+   "Mar 2024": "10%",
+   "Mar 2025": "9%",
+   "Mar 2026": "9%"
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "url": "https://www.screener.in/api/company/1274826/schedules/?parent=Material%20Cost%20%25&section=profit-loss&consolidated=true",
+ "fetched": "2026-11-01 01:39 UTC",
+ "data": {
+  "Raw material cost": {
+   "Mar 2023": "597",
+   "Mar 2024": "713",
+   "Mar 2025": "721",
+   "Mar 2026": "751"
+  },
+  "Change in inventory": {
+   "Mar 2023": "-2",
+   "Mar 2024": "-29",
+   "Mar 2025": "3",
+   "Mar 2026": "1"
+  }
+ }
+}

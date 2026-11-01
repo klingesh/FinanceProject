@@ -1,0 +1,34 @@
+{
+ "url": "https://www.screener.in/api/company/429/schedules/?parent=Material%20Cost%20%25&section=profit-loss&consolidated=true",
+ "fetched": "2026-11-01 01:39 UTC",
+ "data": {
+  "Raw material cost": {
+   "Mar 2015": "2,550",
+   "Mar 2016": "2,490",
+   "Mar 2017": "2,358",
+   "Mar 2018": "2,731",
+   "Mar 2019": "3,426",
+   "Mar 2020": "3,307",
+   "Mar 2021": "3,579",
+   "Mar 2022": "5,125",
+   "Mar 2023": "6,066",
+   "Mar 2024": "5,804",
+   "Mar 2025": "6,156",
+   "Mar 2026": "6,149"
+  },
+  "Change in inventory": {
+   "Mar 2015": "-19",
+   "Mar 2016": "-20",
+   "Mar 2017": "-125",
+   "Mar 2018": "-100",
+   "Mar 2019": "-174",
+   "Mar 2020": "-19",
+   "Mar 2021": "-187",
+   "Mar 2022": "-381",
+   "Mar 2023": "-93",
+   "Mar 2024": "125",
+   "Mar 2025": "-134",
+   "Mar 2026": "-74"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+ASIANPAINT/ASIANPAINT: 41 annual filings listed (https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=ASIANPAINT&period=Annual)
+ASIANPAINT FY2021: Consolidated filed 13-May-2021 11:56 rev 21712.79 cogs 12097.23
+ASIANPAINT FY2022: Consolidated filed 10-May-2022 23:03 rev 29101.28 cogs 18300.75
+ASIANPAINT FY2023: Consolidated filed 11-May-2023 20:26 rev 34488.59 cogs 21156.50
+ASIANPAINT FY2024: Consolidated filed 09-May-2024 19:55 rev 35494.73 cogs 20090.21
+ASIANPAINT FY2025: no Consolidated XBRL filing listed
+ASIANPAINT FY2026: no Consolidated XBRL filing listed
+BERGEPAINT/BERGEPAINT: 42 annual filings listed (https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=BERGEPAINT&period=Annual)
+BERGEPAINT FY2021: Consolidated filed 26-May-2021 20:44 rev 6817.59 cogs 3868.56
+BERGEPAINT FY2022: Consolidated filed 26-May-2022 18:09 rev 8761.78 cogs 5429.07
+BERGEPAINT FY2023: Consolidated filed 15-May-2023 19:04 rev 10567.84 cogs 6730.52
+BERGEPAINT FY2024: Consolidated filed 15-May-2024 16:15 rev 11198.92 cogs 6646.00
+BERGEPAINT FY2025: no Consolidated XBRL filing listed
+BERGEPAINT FY2026: no Consolidated XBRL filing listed
+KANSAINER/KANSAINER: 39 annual filings listed (https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=KANSAINER&period=Annual)
+KANSAINER FY2021: Consolidated filed 07-May-2021 22:34 rev 5074.25 cogs 3146.53
+KANSAINER FY2022: Consolidated filed 11-May-2022 15:23 rev 6369.35 cogs 4427.30
+KANSAINER FY2023: Consolidated filed 09-May-2023 17:21 rev 7542.73 cogs 5264.28
+KANSAINER FY2024: Consolidated filed 04-May-2024 19:30 rev 7801.44 cogs 5044.11
+KANSAINER FY2025: no Consolidated XBRL filing listed
+KANSAINER FY2026: no Consolidated XBRL filing listed
+JSWDULUX/JSWDULUX: 31 annual filings listed (https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=JSWDULUX&period=Annual)
+JSWDULUX/AKZOINDIA: 0 annual filings listed (https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=AKZOINDIA&period=Annual)
+JSWDULUX FY2021: Consolidated filed 23-May-2021 11:27 rev 2421.35 cogs 1322.75
+JSWDULUX FY2022: Consolidated filed 27-May-2022 17:04 rev 3148.58 cogs 1878.44
+JSWDULUX FY2023: Consolidated filed 24-May-2023 13:00 rev 3802.08 cogs 2290.05
+JSWDULUX FY2024: Consolidated filed 16-May-2024 20:24 rev 3961.58 cogs 2222.80
+JSWDULUX FY2025: no Consolidated XBRL filing listed
+JSWDULUX FY2026: no Consolidated XBRL filing listed
+INDIGOPNTS/INDIGOPNTS: 5 annual filings listed (https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=INDIGOPNTS&period=Annual)
+INDIGOPNTS FY2021: Non-Consolidated filed 15-May-2021 16:16 rev 723.32 cogs 376.52
+INDIGOPNTS FY2022: Non-Consolidated filed 20-May-2022 18:26 rev 905.97 cogs 513.52
+INDIGOPNTS FY2023: Non-Consolidated filed 26-May-2023 20:19 rev 1073.33 cogs 595.25
+INDIGOPNTS FY2024: Consolidated filed 23-May-2024 14:01 rev 1306.09 cogs 683.94
+INDIGOPNTS FY2025: no Consolidated XBRL filing listed
+INDIGOPNTS FY2026: no Consolidated XBRL filing listed

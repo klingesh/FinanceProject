@@ -1,0 +1,48 @@
+{
+ "url": "https://www.screener.in/api/company/115/schedules/?parent=Other%20Liabilities&section=balance-sheet&consolidated=true",
+ "fetched": "2026-11-01 01:39 UTC",
+ "data": {
+  "Trade Payables": {
+   "Mar 2009": "186",
+   "Mar 2016": "589",
+   "Mar 2017": "623",
+   "Mar 2018": "664",
+   "Mar 2019": "606",
+   "Mar 2020": "676",
+   "Mar 2021": "798",
+   "Mar 2022": "845",
+   "Mar 2023": "863",
+   "Mar 2024": "998",
+   "Mar 2025": "956",
+   "Mar 2026": "756"
+  },
+  "Advance from Customers": {
+   "Mar 2009": "0",
+   "Mar 2016": "3",
+   "Mar 2017": "2",
+   "Mar 2018": "1",
+   "Mar 2019": "1",
+   "Mar 2020": "3",
+   "Mar 2021": "6",
+   "Mar 2022": "9",
+   "Mar 2023": "6",
+   "Mar 2024": "9",
+   "Mar 2025": "8",
+   "Mar 2026": "10"
+  },
+  "Other liability items": {
+   "Mar 2009": "175",
+   "Mar 2016": "286",
+   "Mar 2017": "246",
+   "Mar 2018": "273",
+   "Mar 2019": "351",
+   "Mar 2020": "344",
+   "Mar 2021": "374",
+   "Mar 2022": "408",
+   "Mar 2023": "485",
+   "Mar 2024": "507",
+   "Mar 2025": "547",
+   "Mar 2026": "498"
+  }
+ }
+}

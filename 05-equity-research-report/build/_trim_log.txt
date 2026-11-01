@@ -1,0 +1,51 @@
+already compressed: AsianPaints_Q4FY26_Results_and_Press_Release_29May2026.pdf (5.02 MB)
+already compressed: AsianPaints_Q4FY26_Earnings_Call_Transcript_29May2026.pdf (1.50 MB)
+already compressed: peers/BergerPaints_Q4FY26_Financial_Results_12May2026.pdf (1.81 MB)
+already compressed: peers/JSWDulux_Q4FY26_Financial_Results_13May2026.pdf (1.87 MB)
+extract exists: AsianPaints_Annual_Report_FY2025-26_extract.pdf (2.34 MB)
+extract peers/KansaiNerolac_Q4FY26_Results_extract.pdf (pages [1, 2, 14, 15, 16, 17, 18, 19] of KansaiNerolac_Q4FY26_Results_and_Press_Release_06May2026.pdf): 7.07 MB -> 2.70 MB (8 pages, text identical)
+extract peers/KansaiNerolac_Q4FY25_Results_extract.pdf (pages [1, 14, 15, 16] of KansaiNerolac_Q4FY25_Results_May2025.pdf): 7.71 MB -> 1.68 MB (4 pages, text identical)
+extract peers/IndigoPaints_Q4FY26_Financial_Results_extract.pdf (pages [1, 13, 14, 15, 16] of IndigoPaints_Q4FY26_Financial_Results_22May2026.pdf): 19.12 MB -> 1.08 MB (5 pages, text identical)
+moved company_filings\AsianPaints_Q1FY27_Investor_Presentation_29Jul2026.pdf -> D:\Financeprojects\_scratch\p05\big_files\company_filings\AsianPaints_Q1FY27_Investor_Presentation_29Jul2026.pdf
+moved company_filings\AsianPaints_Q1FY27_Press_Release_29Jul2026.pdf -> D:\Financeprojects\_scratch\p05\big_files\company_filings\AsianPaints_Q1FY27_Press_Release_29Jul2026.pdf
+moved company_filings\AsianPaints_Q4FY26_Investor_Presentation_29May2026.pdf -> D:\Financeprojects\_scratch\p05\big_files\company_filings\AsianPaints_Q4FY26_Investor_Presentation_29May2026.pdf
+moved company_filings\AsianPaints_BRSR_FY2025-26.pdf -> D:\Financeprojects\_scratch\p05\big_files\company_filings\AsianPaints_BRSR_FY2025-26.pdf
+moved company_filings\peers\IndigoPaints_Q2FY27_Investor_Presentation_30Oct2026.pdf -> D:\Financeprojects\_scratch\p05\big_files\company_filings\peers\IndigoPaints_Q2FY27_Investor_Presentation_30Oct2026.pdf
+moved company_filings\peers\JSWDulux_Q4FY26_Investor_Presentation_13May2026.pdf -> D:\Financeprojects\_scratch\p05\big_files\company_filings\peers\JSWDulux_Q4FY26_Investor_Presentation_13May2026.pdf
+moved stockanalysis\raw\ASIANPAINT_cashflow.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\ASIANPAINT_cashflow.html
+moved stockanalysis\raw\ASIANPAINT_ratios.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\ASIANPAINT_ratios.html
+moved stockanalysis\raw\ASIANPAINT_statistics.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\ASIANPAINT_statistics.html
+moved stockanalysis\raw\BERGEPAINT_cashflow.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\BERGEPAINT_cashflow.html
+moved stockanalysis\raw\BERGEPAINT_dividend.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\BERGEPAINT_dividend.html
+moved stockanalysis\raw\BERGEPAINT_forecast.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\BERGEPAINT_forecast.html
+moved stockanalysis\raw\BERGEPAINT_ratios.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\BERGEPAINT_ratios.html
+moved stockanalysis\raw\BERGEPAINT_statistics.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\BERGEPAINT_statistics.html
+moved stockanalysis\raw\INDIGOPNTS_cashflow.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\INDIGOPNTS_cashflow.html
+moved stockanalysis\raw\INDIGOPNTS_dividend.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\INDIGOPNTS_dividend.html
+moved stockanalysis\raw\INDIGOPNTS_forecast.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\INDIGOPNTS_forecast.html
+moved stockanalysis\raw\INDIGOPNTS_ratios.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\INDIGOPNTS_ratios.html
+moved stockanalysis\raw\INDIGOPNTS_statistics.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\INDIGOPNTS_statistics.html
+moved stockanalysis\raw\JSWDULUX_cashflow.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\JSWDULUX_cashflow.html
+moved stockanalysis\raw\JSWDULUX_dividend.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\JSWDULUX_dividend.html
+moved stockanalysis\raw\JSWDULUX_forecast.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\JSWDULUX_forecast.html
+moved stockanalysis\raw\JSWDULUX_ratios.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\JSWDULUX_ratios.html
+moved stockanalysis\raw\JSWDULUX_statistics.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\JSWDULUX_statistics.html
+moved stockanalysis\raw\KANSAINER_cashflow.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\KANSAINER_cashflow.html
+moved stockanalysis\raw\KANSAINER_dividend.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\KANSAINER_dividend.html
+moved stockanalysis\raw\KANSAINER_forecast.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\KANSAINER_forecast.html
+moved stockanalysis\raw\KANSAINER_ratios.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\KANSAINER_ratios.html
+moved stockanalysis\raw\KANSAINER_statistics.html -> D:\Financeprojects\_scratch\p05\big_files\stockanalysis\raw\KANSAINER_statistics.html
+moved screener\raw\ASIANPAINT_standalone.html -> D:\Financeprojects\_scratch\p05\big_files\screener\raw\ASIANPAINT_standalone.html
+moved screener\raw\BERGEPAINT_standalone.html -> D:\Financeprojects\_scratch\p05\big_files\screener\raw\BERGEPAINT_standalone.html
+moved screener\raw\JSWDULUX_standalone.html -> D:\Financeprojects\_scratch\p05\big_files\screener\raw\JSWDULUX_standalone.html
+moved screener\raw\KANSAINER_standalone.html -> D:\Financeprojects\_scratch\p05\big_files\screener\raw\KANSAINER_standalone.html
+source_data/: 186 files, 35.9 MB (limit 40 MB); largest file 5.2 MB (limit 20 MB)
+    5.16 MB  company_filings\AsianPaints_Q2FY27_Investor_Presentation_29Oct2026.pdf
+    5.02 MB  company_filings\AsianPaints_Q4FY26_Results_and_Press_Release_29May2026.pdf
+    4.27 MB  company_filings\AsianPaints_Q2FY27_Results_and_Press_Release_29Oct2026.pdf
+    2.70 MB  company_filings\peers\KansaiNerolac_Q4FY26_Results_extract.pdf
+    2.34 MB  company_filings\AsianPaints_Annual_Report_FY2025-26_extract.pdf
+    1.87 MB  company_filings\peers\JSWDulux_Q4FY26_Financial_Results_13May2026.pdf
+    1.81 MB  company_filings\peers\BergerPaints_Q4FY26_Financial_Results_12May2026.pdf
+    1.68 MB  company_filings\peers\KansaiNerolac_Q4FY25_Results_extract.pdf
+SIZE CHECK PASS

@@ -1,0 +1,67 @@
+P3 source: data/p3/ (Project 3 folder not found, saved copies used)
+P3 READY.txt: Written 01-Nov-2026 16:15 by build/make_outputs.py from the Excel-recalculated workbook. | Workbook: AsianPaints_Comps_and_DCF.xlsx | Checks sheet: PASS (22 of 22 checks pass)
+P3 workbook not available: saved CSV values used without the workbook cross-check
+P3 values loaded: 79 of 95 keys (relative-value keys follow from build/relative_value.py)
+Valuation: DCF 667.64, comps 1610, relative 2275.98 -> target 1707.40, upside -26.41%, rating SELL; Equal weights 1518 (SELL); DCF-heavy 1305 (SELL); No DCF 2109 (HOLD); own band 2335 (HOLD)
+P3 dict after the relative value: 95 of 95 keys filled; sources in outputs/p3_inputs_used.csv
+HTML: AsianPaints_Initiation_Report.html (52 KB); figures: fig1_price_vs_nifty.png, fig2_returns_fy2026.png, fig3_ebitda_margin_trend.png, fig4_working_capital_days.png, fig5_quarterly.png, fig6_shareholding.png, fig7_ap_margins_returns.png, fig8_football_field.png, fig9_pe_premium.png
+PDF: AsianPaints_Initiation_Report.pdf, 9 pages, 0.84 MB
+  OK   price: 2,320.00
+  OK   market cap: 222,534
+  OK   FY26 revenue: 35,584
+  OK   FY26 EBITDA: 6,700
+  OK   FY26 PAT: 4,325
+  OK   FY26 EPS: 45.09
+  OK   ROE adj: 21.8%
+  OK   ROCE: 26.3%
+  OK   EBITDA margin: 18.8%
+  OK   Q2 net sales: 9,953.9
+  OK   Q2 PAT: 1,067.6
+  OK   H1 net sales: 20,475.3
+  OK   Q2 PBDIT margin: 15.6%
+  OK   consensus EPS: 53.94
+  OK   target low: 1,925
+  OK   target avg: 2,756
+  OK   target median: 2,850
+  OK   target high: 3,300
+  OK   NIFTY: 23,053.10
+  OK   promoters: 52.65%
+  OK   checks: 70 of 70
+  OK   5y return: -25.2%
+  OK   scorecard AP: 1.43
+  OK   disclaimer: Educational project, not investment advice. The author holds no position.
+  OK   forecast revenue: 41,349 44,657 48,453
+  OK   forecast EBITDA: 7,267 8,262 9,206
+  OK   forecast PAT: 5,013 5,615 6,269
+  OK   forecast EPS: 52.27 58.54 65.36
+  OK   forecast FCFF: 4,330 2,500 3,680 4,232
+  OK   consensus EPS FY27E FY28E: 53.94 60.40
+  OK   consensus revenue FY27E FY28E: 41,672 44,854
+  OK   WACC: 12.68%
+  OK   cost of equity: 12.81% = 7.41% + 0.90 x 6.0%
+  OK   TV share; exit multiple: 77%; 7.6x
+  OK   DCF value: (vs price -71%) 668
+  OK   DCF ranges: 590-772 (530-921)
+  OK   exit-multiple cross-check: EBITDA 1,540
+  OK   reverse DCF g: (reverse DCF) 11.05%
+  OK   implied FY2031E exit multiple: implied by 2,320 32.8x
+  OK   comps P/E: 1,486 / 1,610 / 1,784
+  OK   comps P/E multiples: 31.2x 44.9x
+  OK   comps EV/EBITDA: 1,240 / 1,597 / 1,919
+  OK   comps EV/EBITDA multiples: 20.9x 30.4x
+  OK   P/E FY27E multiples: 28.1x 43.0x
+  OK   drop-one P/E range: between 1,602 and 1,618
+  OK   premium median and quartiles: 38.2% (31%-50%)
+  OK   premium-adjusted P/E: premium-adjusted P/E 38.9x
+  OK   relative value and range: 2,276 (2,156-2,473)
+  OK   target row: 12-month target price 1,707 100% Upside vs 2,320.00: -26.4%. Rating: SELL
+  OK   page 1 rating: Rating: SELL 12-month target 1,707
+  OK   sensitivity Equal weights: Equal weights 33 / 33 / 33 1,518 -34.6% SELL
+  OK   sensitivity DCF-heavy: DCF-heavy 50 / 25 / 25 1,305 -43.7% SELL
+  OK   sensitivity No DCF: No DCF 0 / 25 / 75 2,109 -9.1% HOLD
+  OK   sensitivity own band: relative lens 25 / 25 / 50 2,335 +0.7% HOLD
+  OK   rating from the rule (SELL) = rating the thesis text was written for (SELL)
+  P3 placeholders still in the PDF: 0 keys -> none
+  page count OK (target 7-9)
+CHECK PASSED
+P3 keys used in HTML (0): 

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+
+# Saved copies of news articles are copyrighted: they stay on the local PC only.
+# source_data/README.md lists each one with its link.
+source_data/news_and_macro/*.html
+# Company material in the same folder is published (company press release, company web page).
+!source_data/news_and_macro/2025-12-10_JSW_press_release_AkzoNobel_India.html
+!source_data/news_and_macro/Grasim_paints_business_page.html
