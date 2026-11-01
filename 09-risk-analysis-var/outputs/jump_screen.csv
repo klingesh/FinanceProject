@@ -1,0 +1,36 @@
+date,ticker,threshold_pct,raw_return_pct,clean_return_pct,clean_close,nse_close,nse_prev_close,status
+2025-10-24,MON100.NS,8.0,-9.62,0.56,241.8,241.8,240.46,artefact: within threshold after the data fix (bad print or missing session)
+2025-10-27,MON100.NS,8.0,12.87,1.44,245.2899932861328,245.29,241.8,artefact: within threshold after the data fix (bad print or missing session)
+2022-02-24,GOLDBEES.NS,3.0,3.55,3.55,44.619998931884766,44.62,43.09,genuine: close and previous close match NSE bhavcopy
+2022-03-07,GOLDBEES.NS,3.0,3.02,3.02,46.0,46.0,44.65,genuine: close and previous close match NSE bhavcopy
+2024-04-01,GOLDBEES.NS,3.0,3.02,3.02,58.31999969482422,58.32,56.61,genuine: close and previous close match NSE bhavcopy
+2024-07-23,GOLDBEES.NS,3.0,-3.09,-3.09,60.15999984741211,60.16,62.08,genuine: close and previous close match NSE bhavcopy
+2025-04-01,GOLDBEES.NS,3.0,3.45,3.45,76.72000122070312,76.72,74.16,genuine: close and previous close match NSE bhavcopy
+2025-04-11,GOLDBEES.NS,3.0,4.02,4.02,77.9000015258789,77.9,74.89,genuine: close and previous close match NSE bhavcopy
+2025-04-23,GOLDBEES.NS,3.0,-3.03,-3.03,80.38999938964844,80.39,82.9,genuine: close and previous close match NSE bhavcopy
+2025-05-06,GOLDBEES.NS,3.0,3.2,3.2,82.12999725341797,82.13,79.58,genuine: close and previous close match NSE bhavcopy
+2025-05-12,GOLDBEES.NS,3.0,-3.49,-3.49,77.9800033569336,77.98,80.8,genuine: close and previous close match NSE bhavcopy
+2025-10-23,GOLDBEES.NS,3.0,-3.78,-3.78,101.6999969482422,101.7,105.69,genuine: close and previous close match NSE bhavcopy
+2025-10-28,GOLDBEES.NS,3.0,-3.3,-3.3,96.83999633789062,96.84,100.14,genuine: close and previous close match NSE bhavcopy
+2025-10-29,GOLDBEES.NS,3.0,3.21,3.21,99.9499969482422,99.95,96.84,genuine: close and previous close match NSE bhavcopy
+2026-01-20,GOLDBEES.NS,3.0,3.93,3.93,125.86000061035156,125.86,121.1,genuine: close and previous close match NSE bhavcopy
+2026-01-21,GOLDBEES.NS,3.0,7.24,7.24,134.97000122070312,134.97,125.86,genuine: close and previous close match NSE bhavcopy
+2026-01-22,GOLDBEES.NS,3.0,-7.88,-7.88,124.33999633789062,124.34,134.97,genuine: close and previous close match NSE bhavcopy
+2026-01-27,GOLDBEES.NS,3.0,3.16,3.16,131.4499969482422,131.45,127.42,genuine: close and previous close match NSE bhavcopy
+2026-01-28,GOLDBEES.NS,3.0,3.32,3.32,135.82000732421875,135.82,131.45,genuine: close and previous close match NSE bhavcopy
+2026-01-29,GOLDBEES.NS,3.0,7.89,7.89,146.52999877929688,146.53,135.82,genuine: close and previous close match NSE bhavcopy
+2026-01-30,GOLDBEES.NS,3.0,-10.52,-10.52,131.1199951171875,131.12,146.53,genuine: close and previous close match NSE bhavcopy
+2026-02-01,GOLDBEES.NS,3.0,,-6.72,122.31,122.31,131.12,genuine: close and previous close match NSE bhavcopy
+2026-02-02,GOLDBEES.NS,3.0,-9.5,-2.98,118.66999816894533,118.67,122.31,artefact: within threshold after the data fix (bad print or missing session)
+2026-02-03,GOLDBEES.NS,3.0,5.5,5.5,125.1999969482422,125.2,118.67,genuine: close and previous close match NSE bhavcopy
+2026-02-04,GOLDBEES.NS,3.0,3.51,3.51,129.60000610351562,129.6,125.2,genuine: close and previous close match NSE bhavcopy
+2026-02-05,GOLDBEES.NS,3.0,-3.38,-3.38,125.22000122070312,125.22,129.6,genuine: close and previous close match NSE bhavcopy
+2026-03-02,GOLDBEES.NS,3.0,5.11,5.11,138.32000732421875,138.32,131.6,genuine: close and previous close match NSE bhavcopy
+2026-03-04,GOLDBEES.NS,3.0,-3.15,-3.15,133.9600067138672,133.96,138.32,genuine: close and previous close match NSE bhavcopy
+2026-03-19,GOLDBEES.NS,3.0,-5.15,-5.15,121.31999969482422,121.32,127.91,genuine: close and previous close match NSE bhavcopy
+2026-03-23,GOLDBEES.NS,3.0,-8.54,-8.54,110.72000122070312,110.72,121.06,genuine: close and previous close match NSE bhavcopy
+2026-03-24,GOLDBEES.NS,3.0,4.31,4.31,115.48999786376952,115.49,110.72,genuine: close and previous close match NSE bhavcopy
+2026-03-25,GOLDBEES.NS,3.0,3.29,3.29,119.29000091552734,119.29,115.49,genuine: close and previous close match NSE bhavcopy
+2026-03-30,GOLDBEES.NS,3.0,3.11,3.11,121.19000244140624,121.19,117.53,genuine: close and previous close match NSE bhavcopy
+2026-05-13,GOLDBEES.NS,3.0,5.72,5.72,131.74000549316406,131.74,124.61,genuine: close and previous close match NSE bhavcopy
+2026-06-10,GOLDBEES.NS,3.0,-3.38,-3.38,121.1500015258789,121.15,125.39,genuine: close and previous close match NSE bhavcopy

@@ -1,0 +1,39 @@
+check,result,detail
+Weights sum to 1,PASS,sum = 1.000000000000
+No missing returns in the window,PASS,1240 days x 6 ETFs
+Cleaned closes equal every NSE bhavcopy close fetched,PASS,453 ETF-days on 76 dates; Yahoo as downloaded matched 399
+Every large one-day move is confirmed by NSE or removed by a data fix,PASS,"35 moves screened: 32 genuine, 3 artefacts of bad prints or missing sessions"
+Bond ETF screen selects the gilt ETF held in the portfolio,PASS,selected ['SETF10GILT.NS']; 1 of 9 candidates eligible
+Historical VaR 95% (full window) equals the empirical quantile,PASS,"own 91,053.63 vs numpy 91,053.63 vs pandas 91,053.63 Rs"
+Historical VaR 95% (last 250 days) equals the empirical quantile,PASS,"own 103,106.97 vs numpy 103,106.97 vs pandas 103,106.97 Rs"
+Historical VaR 99% (full window) equals the empirical quantile,PASS,"own 155,854.70 vs numpy 155,854.70 vs pandas 155,854.70 Rs"
+Historical VaR 99% (last 250 days) equals the empirical quantile,PASS,"own 187,664.61 vs numpy 187,664.61 vs pandas 187,664.61 Rs"
+MC normal VaR 95% within 2% of parametric normal VaR,PASS,"MC 91,573 vs parametric 91,454 Rs (+0.13%)"
+MC Student-t VaR 95% within 2% of analytic t VaR,PASS,"MC 85,442 vs analytic 84,960 Rs (+0.57%)"
+MC normal VaR 99% within 2% of parametric normal VaR,PASS,"MC 129,136 vs parametric 129,346 Rs (-0.16%)"
+MC Student-t VaR 99% within 2% of analytic t VaR,PASS,"MC 147,523 vs analytic 146,669 Rs (+0.58%)"
+"ES >= VaR for every method, confidence and horizon",PASS,"34 rows checked, 0 violations"
+MC normal ES 95% within 3 standard errors of the closed-form ES,PASS,"MC 114,741 vs closed form 114,687 Rs (+0.05%, 0.1 SE; SE = Rs 431)"
+MC Student-t ES 95% within 3 standard errors of the closed-form ES,PASS,"MC 125,505 vs closed form 125,546 Rs (-0.03%, 0.0 SE; SE = Rs 863)"
+MC normal ES 99% within 3 standard errors of the closed-form ES,PASS,"MC 147,928 vs closed form 148,187 Rs (-0.17%, 0.3 SE; SE = Rs 799)"
+MC Student-t ES 99% within 3 standard errors of the closed-form ES,PASS,"MC 197,027 vs closed form 200,617 Rs (-1.79%, 1.5 SE; SE = Rs 2,431)"
+Student-t ES 95%: closed form equals numerical integral,PASS,"125,546.43 vs 125,546.43 Rs"
+Student-t ES 99%: closed form equals numerical integral,PASS,"200,617.10 vs 200,617.10 Rs"
+10-day square-root-of-time rows equal sqrt(10) x the 1-day figures,PASS,"largest gap Rs 5.82e-11; historical 99%: Rs 492,856 in var_summary, Rs 492,856 in ten_day_effects"
+"Component VaRs sum to portfolio VaR (sample, 95%)",PASS,"sum 91,454.2570 vs total 91,454.2570 Rs"
+"Component VaRs sum to portfolio VaR (EWMA, 95%)",PASS,"sum 94,932.4418 vs total 94,932.4418 Rs"
+"Component VaRs sum to portfolio VaR (sample, 99%)",PASS,"sum 129,345.5009 vs total 129,345.5009 Rs"
+"Component VaRs sum to portfolio VaR (EWMA, 99%)",PASS,"sum 134,264.7641 vs total 134,264.7641 Rs"
+Cornish-Fisher ES 95%: closed form equals numerical integral,PASS,"150,542.49 vs 150,542.49 Rs"
+Cornish-Fisher ES 99%: closed form equals numerical integral,PASS,"253,640.88 vs 253,640.88 Rs"
+"Cornish-Fisher quantile is monotone on z in [-5, 0]",PASS,"skew -0.316, excess kurtosis 3.353"
+Cholesky factor reproduces the covariance matrix,PASS,max abs error 2.71e-20
+EWMA covariance is positive definite,PASS,smallest eigenvalue 5.406e-06
+MC normal: simulated portfolio sigma within 2% of sample sigma,PASS,ratio 1.0007
+MC Student-t: simulated portfolio sigma within 2% of sample sigma,PASS,ratio 0.9967
+Backtest covers every day after the first 250,PASS,990 out-of-sample days
+"Kupiec test reproduces the textbook acceptance region (T = 1000, 99%)",PASS,accepts 5 to 16 exceptions; published region 5 to 16
+"Kupiec test reproduces the textbook acceptance region (T = 1000, 95%)",PASS,accepts 38 to 64 exceptions; published region 38 to 64
+Conditional coverage LR = Kupiec LR (days 2..n) + independence LR,PASS,"10 model-level pairs, largest gap 0.0e+00"
+"Basel traffic-light zones match the binomial rule (250 days, 99%)",PASS,"green up to 4 exceptions, red from 10"
+Backtest forecasts use only past data (no look-ahead),PASS,forecasts for 28-Aug-2024 recomputed after deleting later days and changing that day's returns; largest difference 0.0e+00

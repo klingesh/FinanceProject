@@ -1,0 +1,6 @@
+model,key,var95_inr,var95_pct,var99_inr,var99_pct
+Historical simulation,hs,103107.0,1.0311,187665.0,1.8766
+Normal (sample sigma),n_sample,113680.0,1.1368,160780.0,1.6078
+Normal (EWMA sigma),n_ewma,94932.0,0.9493,134265.0,1.3426
+Student-t (EWMA sigma),t_ewma,91217.0,0.9122,148745.0,1.4874
+Filtered HS (EWMA),fhs,115782.0,1.1578,174023.0,1.7402

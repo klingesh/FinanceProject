@@ -1,0 +1,7 @@
+ticker,label,first_yahoo_date,years_in_window,trading_days,gap_days,gap_dates,stale_days,stale_pct,zero_volume_days,zero_volume_pct,median_traded_value_lakh,ann_vol_pct,lag1_autocorr,roll_spread_pct,max_abs_return_pct,moves_above_threshold,splits_recorded,dividends_recorded
+NIFTYBEES.NS,NIFTYBEES,2021-10-01,5.0,1236,1,2025-10-24,4,0.32,3,0.24,8841.7,12.62,0.024,0.0,3.9,0,0,0
+JUNIORBEES.NS,JUNIORBEES,2021-10-01,5.0,1236,1,2025-10-24,3,0.24,3,0.24,1274.2,16.58,0.06,0.0,5.26,0,0,0
+BANKBEES.NS,BANKBEES,2021-10-01,5.0,1236,1,2025-10-24,4,0.32,3,0.24,3190.0,15.59,0.025,0.0,5.84,0,0,0
+MON100.NS,MON100,2021-10-01,5.0,1236,0,,7,0.57,5,0.4,944.4,22.7,-0.025,0.454,12.87,2,0,0
+GOLDBEES.NS,GOLDBEES,2021-10-01,5.0,1236,1,2025-10-24,18,1.46,2,0.16,3917.0,18.46,-0.035,0.439,10.52,32,0,0
+SETF10GILT.NS,SETF10GILT,2021-10-01,5.0,1236,1,2025-10-24,30,2.43,8,0.65,14.4,5.45,-0.288,0.37,2.26,0,0,0

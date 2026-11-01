@@ -1,0 +1,3 @@
+confidence,sqrt10_x_1day_inr,sqrt10_x_1day_demeaned_inr,direct_overlapping_inr,direct_demeaned_inr,drift_10d_inr,nonoverlap_min_inr,nonoverlap_max_inr,nonoverlap_obs
+0.95,287937,301605,248203,290394,43223,211821,267588,124
+0.99,492856,506524,415396,456908,43223,313239,473349,124

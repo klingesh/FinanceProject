@@ -1,0 +1,7 @@
+method,confidence,sqrt_time_var_inr,direct_var_inr,direct_over_sqrt_time,sqrt_time_es_inr,direct_es_inr
+Historical (full window),0.95,287937,248203,0.862,417832,357560
+Historical (full window),0.99,492856,415396,0.843,621532,481132
+Monte Carlo normal,0.95,289578,285884,0.987,362843,356753
+Monte Carlo normal,0.99,408365,401257,0.983,467789,458435
+Monte Carlo Student-t,0.95,270190,283734,1.05,396881,369531
+Monte Carlo Student-t,0.99,466510,418863,0.898,623054,506813

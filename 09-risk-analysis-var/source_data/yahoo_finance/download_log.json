@@ -1,0 +1,127 @@
+{
+  "downloaded_at": "2026-10-31T23:51:10",
+  "yfinance_version": "1.7.0",
+  "tickers": {
+    "NIFTYBEES.NS": {
+      "rows": 1255,
+      "first": "2021-10-01",
+      "last": "2026-10-30",
+      "last_close": 262.89
+    },
+    "JUNIORBEES.NS": {
+      "rows": 1255,
+      "first": "2021-10-01",
+      "last": "2026-10-30",
+      "last_close": 730.9
+    },
+    "BANKBEES.NS": {
+      "rows": 1255,
+      "first": "2021-10-01",
+      "last": "2026-10-30",
+      "last_close": 565.47
+    },
+    "MON100.NS": {
+      "rows": 1256,
+      "first": "2021-10-01",
+      "last": "2026-10-30",
+      "last_close": 284.94
+    },
+    "GOLDBEES.NS": {
+      "rows": 1255,
+      "first": "2021-10-01",
+      "last": "2026-10-30",
+      "last_close": 115.23
+    },
+    "SETF10GILT.NS": {
+      "rows": 1255,
+      "first": "2021-10-01",
+      "last": "2026-10-30",
+      "last_close": 258.85
+    },
+    "LTGILTBEES.NS": {
+      "rows": 1234,
+      "first": "2021-10-01",
+      "last": "2026-10-30",
+      "last_close": 29.27
+    },
+    "GILT5YBEES.NS": {
+      "rows": 1251,
+      "first": "2021-10-01",
+      "last": "2026-10-30",
+      "last_close": 65.35
+    },
+    "EBBETF0433.NS": {
+      "rows": 408,
+      "first": "2025-03-03",
+      "last": "2026-10-30",
+      "last_close": 1283.85
+    },
+    "EBBETF0430.NS": {
+      "rows": 1255,
+      "first": "2021-10-01",
+      "last": "2026-10-30",
+      "last_close": 1593.4301
+    },
+    "EBBETF0431.NS": {
+      "rows": 1234,
+      "first": "2021-10-01",
+      "last": "2026-10-30",
+      "last_close": 1414.9399
+    },
+    "LICNETFGSC.NS": {
+      "rows": 1255,
+      "first": "2021-10-01",
+      "last": "2026-10-30",
+      "last_close": 28.85
+    },
+    "GSEC10IETF.NS": {
+      "rows": 427,
+      "first": "2025-02-03",
+      "last": "2026-10-30",
+      "last_close": 256.83
+    },
+    "GSEC10ABSL.NS": {
+      "rows": 408,
+      "first": "2025-03-03",
+      "last": "2026-10-30",
+      "last_close": 109.93
+    },
+    "^NSEI": {
+      "rows": 1255,
+      "first": "2021-10-01",
+      "last": "2026-10-30",
+      "last_close": 23053.0996
+    }
+  },
+  "names": {
+    "NIFTYBEES.NS": "Nippon India ETF Nifty 50 BeES",
+    "JUNIORBEES.NS": "Nippon India ETF Nifty Next 50 Junior BeES",
+    "BANKBEES.NS": "Nippon India ETF Nifty Bank BeES",
+    "MON100.NS": "Motilal Oswal NASDAQ 100 ETF",
+    "GOLDBEES.NS": "Nippon India ETF Gold BeES",
+    "SETF10GILT.NS": "SBI Nifty 10 yr Benchmark G-Sec ETF",
+    "LTGILTBEES.NS": "Nippon India Mutual Fund - Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt",
+    "GILT5YBEES.NS": "Nippon India ETF Nifty 5 Yr Benchmark G-Sec",
+    "EBBETF0433.NS": "BHARAT Bond ETF - April 2033",
+    "EBBETF0430.NS": "BHARAT Bond ETF April 2030",
+    "EBBETF0431.NS": "Edelweiss Amc Ltd - Edelweiss Mutual Fund - Edelweiss Bharat Bond Exchange Traded Fund, April 2031",
+    "LICNETFGSC.NS": "LIC MF Nifty 8-13 yr G-SEC ETF",
+    "GSEC10IETF.NS": "ICICI Prudential Nifty 10 yr Benchmark G-Sec ETF",
+    "GSEC10ABSL.NS": "Aditya BSL CRISIL 10 Year Gilt ETF"
+  },
+  "nse_requests": {
+    "total": 665,
+    "status_counts": {
+      "404": 588,
+      "200": 77
+    },
+    "added_later": "3 verification requests (3, 4 and 5 June 2024, all HTTP 200) added on 2026-11-01 with the same fetch_bhavcopy function",
+    "sessions_missing_on_yahoo": [
+      "2023-11-12",
+      "2024-01-20",
+      "2024-03-02",
+      "2024-05-18",
+      "2026-02-01"
+    ]
+  }
+}
