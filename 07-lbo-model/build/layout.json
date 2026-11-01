@@ -1,0 +1,2002 @@
+{
+ "pos": {
+  "cv_scen": [
+   "Cover",
+   6
+  ],
+  "cv_0": [
+   "Cover",
+   7
+  ],
+  "cv_1": [
+   "Cover",
+   8
+  ],
+  "cv_2": [
+   "Cover",
+   9
+  ],
+  "cv_3": [
+   "Cover",
+   10
+  ],
+  "cv_4": [
+   "Cover",
+   11
+  ],
+  "cv_5": [
+   "Cover",
+   12
+  ],
+  "cv_6": [
+   "Cover",
+   13
+  ],
+  "cv_7": [
+   "Cover",
+   14
+  ],
+  "cv_8": [
+   "Cover",
+   15
+  ],
+  "cv_9": [
+   "Cover",
+   16
+  ],
+  "cv_10": [
+   "Cover",
+   17
+  ],
+  "cv_11": [
+   "Cover",
+   18
+  ],
+  "cv_12": [
+   "Cover",
+   19
+  ],
+  "cv_13": [
+   "Cover",
+   20
+  ],
+  "cv_14": [
+   "Cover",
+   21
+  ],
+  "cv_15": [
+   "Cover",
+   22
+  ],
+  "cv_16": [
+   "Cover",
+   23
+  ],
+  "cv_17": [
+   "Cover",
+   24
+  ],
+  "cv_18": [
+   "Cover",
+   25
+  ],
+  "cv_chk": [
+   "Cover",
+   28
+  ],
+  "cv_cov": [
+   "Cover",
+   29
+  ],
+  "cv_s0": [
+   "Cover",
+   33
+  ],
+  "cv_s1": [
+   "Cover",
+   34
+  ],
+  "cv_s2": [
+   "Cover",
+   35
+  ],
+  "h_rev": [
+   "Historical",
+   6
+  ],
+  "h_oi": [
+   "Historical",
+   7
+  ],
+  "h_rm": [
+   "Historical",
+   8
+  ],
+  "h_tr": [
+   "Historical",
+   9
+  ],
+  "h_chg": [
+   "Historical",
+   10
+  ],
+  "h_cogs": [
+   "Historical",
+   11
+  ],
+  "h_gp": [
+   "Historical",
+   12
+  ],
+  "h_emp": [
+   "Historical",
+   13
+  ],
+  "h_oth": [
+   "Historical",
+   14
+  ],
+  "h_roy": [
+   "Historical",
+   15
+  ],
+  "h_ebitda": [
+   "Historical",
+   16
+  ],
+  "h_da": [
+   "Historical",
+   17
+  ],
+  "h_fin": [
+   "Historical",
+   18
+  ],
+  "h_exc": [
+   "Historical",
+   19
+  ],
+  "h_pbt_calc": [
+   "Historical",
+   20
+  ],
+  "h_pbt_rep": [
+   "Historical",
+   21
+  ],
+  "h_tax": [
+   "Historical",
+   22
+  ],
+  "h_pat_rep": [
+   "Historical",
+   23
+  ],
+  "h_pat_calc": [
+   "Historical",
+   24
+  ],
+  "h_g": [
+   "Historical",
+   27
+  ],
+  "h_gm": [
+   "Historical",
+   28
+  ],
+  "h_em": [
+   "Historical",
+   29
+  ],
+  "h_dap": [
+   "Historical",
+   30
+  ],
+  "h_etr": [
+   "Historical",
+   31
+  ],
+  "h_royp": [
+   "Historical",
+   32
+  ],
+  "h_scr_sales": [
+   "Historical",
+   33
+  ],
+  "h_scr_sales_d": [
+   "Historical",
+   34
+  ],
+  "h_scr_op": [
+   "Historical",
+   35
+  ],
+  "h_scr_op_d": [
+   "Historical",
+   36
+  ],
+  "h_inv": [
+   "Historical",
+   39
+  ],
+  "h_rec": [
+   "Historical",
+   40
+  ],
+  "h_pay": [
+   "Historical",
+   41
+  ],
+  "h_nwc": [
+   "Historical",
+   42
+  ],
+  "h_cash": [
+   "Historical",
+   43
+  ],
+  "h_bank": [
+   "Historical",
+   44
+  ],
+  "h_cash_tot": [
+   "Historical",
+   45
+  ],
+  "h_invest": [
+   "Historical",
+   46
+  ],
+  "h_lease": [
+   "Historical",
+   47
+  ],
+  "h_borrow": [
+   "Historical",
+   48
+  ],
+  "h_equity": [
+   "Historical",
+   49
+  ],
+  "h_netcash": [
+   "Historical",
+   50
+  ],
+  "h_invd": [
+   "Historical",
+   53
+  ],
+  "h_recd": [
+   "Historical",
+   54
+  ],
+  "h_payd": [
+   "Historical",
+   55
+  ],
+  "h_nwcp": [
+   "Historical",
+   56
+  ],
+  "h_cfo": [
+   "Historical",
+   59
+  ],
+  "h_capex": [
+   "Historical",
+   60
+  ],
+  "h_fcf": [
+   "Historical",
+   61
+  ],
+  "h_div": [
+   "Historical",
+   62
+  ],
+  "h_lprin": [
+   "Historical",
+   63
+  ],
+  "h_lint": [
+   "Historical",
+   64
+  ],
+  "h_capexp": [
+   "Historical",
+   65
+  ],
+  "h_fcfconv": [
+   "Historical",
+   66
+  ],
+  "h_payout": [
+   "Historical",
+   67
+  ],
+  "h_eps": [
+   "Historical",
+   68
+  ],
+  "scen_in": [
+   "Assumptions",
+   6
+  ],
+  "scen": [
+   "Assumptions",
+   7
+  ],
+  "scen_name": [
+   "Assumptions",
+   8
+  ],
+  "val_date": [
+   "Assumptions",
+   11
+  ],
+  "px": [
+   "Assumptions",
+   12
+  ],
+  "vwap60": [
+   "Assumptions",
+   13
+  ],
+  "hi52": [
+   "Assumptions",
+   14
+  ],
+  "oo_price": [
+   "Assumptions",
+   15
+  ],
+  "prem_in": [
+   "Assumptions",
+   16
+  ],
+  "prem": [
+   "Assumptions",
+   17
+  ],
+  "offer": [
+   "Assumptions",
+   18
+  ],
+  "shares": [
+   "Assumptions",
+   19
+  ],
+  "shares_cr": [
+   "Assumptions",
+   20
+  ],
+  "entry_date": [
+   "Assumptions",
+   23
+  ],
+  "exit_date": [
+   "Assumptions",
+   24
+  ],
+  "txn_fee": [
+   "Assumptions",
+   25
+  ],
+  "fin_fee": [
+   "Assumptions",
+   26
+  ],
+  "fin_fee_yrs": [
+   "Assumptions",
+   27
+  ],
+  "min_cash": [
+   "Assumptions",
+   28
+  ],
+  "mip": [
+   "Assumptions",
+   29
+  ],
+  "hurdle": [
+   "Assumptions",
+   30
+  ],
+  "tax": [
+   "Assumptions",
+   31
+  ],
+  "int_ded": [
+   "Assumptions",
+   32
+  ],
+  "gsec": [
+   "Assumptions",
+   35
+  ],
+  "repo": [
+   "Assumptions",
+   36
+  ],
+  "tbill": [
+   "Assumptions",
+   37
+  ],
+  "tla_x": [
+   "Assumptions",
+   38
+  ],
+  "tla_spread": [
+   "Assumptions",
+   39
+  ],
+  "tla_rate": [
+   "Assumptions",
+   40
+  ],
+  "tla_amort": [
+   "Assumptions",
+   41
+  ],
+  "tlb_x": [
+   "Assumptions",
+   42
+  ],
+  "tlb_spread": [
+   "Assumptions",
+   43
+  ],
+  "tlb_rate": [
+   "Assumptions",
+   44
+  ],
+  "tlb_amort": [
+   "Assumptions",
+   45
+  ],
+  "mezz_x": [
+   "Assumptions",
+   46
+  ],
+  "mezz_spread": [
+   "Assumptions",
+   47
+  ],
+  "mezz_cash": [
+   "Assumptions",
+   48
+  ],
+  "mezz_pik": [
+   "Assumptions",
+   49
+  ],
+  "mezz_allin": [
+   "Assumptions",
+   50
+  ],
+  "total_x": [
+   "Assumptions",
+   51
+  ],
+  "lev_scale": [
+   "Assumptions",
+   52
+  ],
+  "rcf_commit": [
+   "Assumptions",
+   53
+  ],
+  "rcf_spread": [
+   "Assumptions",
+   54
+  ],
+  "rcf_rate": [
+   "Assumptions",
+   55
+  ],
+  "rcf_fee": [
+   "Assumptions",
+   56
+  ],
+  "sweep": [
+   "Assumptions",
+   57
+  ],
+  "cov_lev": [
+   "Assumptions",
+   58
+  ],
+  "cov_icr": [
+   "Assumptions",
+   59
+  ],
+  "debt_exist": [
+   "Assumptions",
+   62
+  ],
+  "lease": [
+   "Assumptions",
+   63
+  ],
+  "lease_rate": [
+   "Assumptions",
+   64
+  ],
+  "lease_prin": [
+   "Assumptions",
+   65
+  ],
+  "nonop": [
+   "Assumptions",
+   66
+  ],
+  "q4_25_rev": [
+   "Assumptions",
+   69
+  ],
+  "q4_g": [
+   "Assumptions",
+   70
+  ],
+  "q4_rev": [
+   "Assumptions",
+   71
+  ],
+  "q4_gm": [
+   "Assumptions",
+   72
+  ],
+  "q4_em": [
+   "Assumptions",
+   73
+  ],
+  "q4_da": [
+   "Assumptions",
+   74
+  ],
+  "q4_oi": [
+   "Assumptions",
+   75
+  ],
+  "q4_fin": [
+   "Assumptions",
+   76
+  ],
+  "capex26": [
+   "Assumptions",
+   77
+  ],
+  "inv26": [
+   "Assumptions",
+   78
+  ],
+  "rec26": [
+   "Assumptions",
+   79
+  ],
+  "pay26": [
+   "Assumptions",
+   80
+  ],
+  "int_dps": [
+   "Assumptions",
+   81
+  ],
+  "vol_b": [
+   "Assumptions",
+   84
+  ],
+  "vol_u": [
+   "Assumptions",
+   85
+  ],
+  "vol_d": [
+   "Assumptions",
+   86
+  ],
+  "vol": [
+   "Assumptions",
+   87
+  ],
+  "pm_b": [
+   "Assumptions",
+   88
+  ],
+  "pm_u": [
+   "Assumptions",
+   89
+  ],
+  "pm_d": [
+   "Assumptions",
+   90
+  ],
+  "pm": [
+   "Assumptions",
+   91
+  ],
+  "gm_b": [
+   "Assumptions",
+   92
+  ],
+  "gm_u": [
+   "Assumptions",
+   93
+  ],
+  "gm_d": [
+   "Assumptions",
+   94
+  ],
+  "gm": [
+   "Assumptions",
+   95
+  ],
+  "em_b": [
+   "Assumptions",
+   96
+  ],
+  "em_u": [
+   "Assumptions",
+   97
+  ],
+  "em_d": [
+   "Assumptions",
+   98
+  ],
+  "em": [
+   "Assumptions",
+   99
+  ],
+  "cx_b": [
+   "Assumptions",
+   100
+  ],
+  "cx_u": [
+   "Assumptions",
+   101
+  ],
+  "cx_d": [
+   "Assumptions",
+   102
+  ],
+  "cx": [
+   "Assumptions",
+   103
+  ],
+  "invd_b": [
+   "Assumptions",
+   104
+  ],
+  "invd_u": [
+   "Assumptions",
+   105
+  ],
+  "invd_d": [
+   "Assumptions",
+   106
+  ],
+  "invd": [
+   "Assumptions",
+   107
+  ],
+  "recd_b": [
+   "Assumptions",
+   108
+  ],
+  "recd_u": [
+   "Assumptions",
+   109
+  ],
+  "recd_d": [
+   "Assumptions",
+   110
+  ],
+  "recd": [
+   "Assumptions",
+   111
+  ],
+  "payd_b": [
+   "Assumptions",
+   112
+  ],
+  "payd_u": [
+   "Assumptions",
+   113
+  ],
+  "payd_d": [
+   "Assumptions",
+   114
+  ],
+  "payd": [
+   "Assumptions",
+   115
+  ],
+  "da_pct": [
+   "Assumptions",
+   116
+  ],
+  "xd_b": [
+   "Assumptions",
+   117
+  ],
+  "xd_u": [
+   "Assumptions",
+   118
+  ],
+  "xd_d": [
+   "Assumptions",
+   119
+  ],
+  "xd": [
+   "Assumptions",
+   120
+  ],
+  "su_px": [
+   "Sources_Uses",
+   6
+  ],
+  "su_prem": [
+   "Sources_Uses",
+   7
+  ],
+  "su_oo": [
+   "Sources_Uses",
+   8
+  ],
+  "su_offer": [
+   "Sources_Uses",
+   9
+  ],
+  "su_prem_close": [
+   "Sources_Uses",
+   10
+  ],
+  "su_prem_oo": [
+   "Sources_Uses",
+   11
+  ],
+  "su_prem_vwap": [
+   "Sources_Uses",
+   12
+  ],
+  "su_prem_hi": [
+   "Sources_Uses",
+   13
+  ],
+  "su_shares": [
+   "Sources_Uses",
+   14
+  ],
+  "su_eq": [
+   "Sources_Uses",
+   15
+  ],
+  "b_cash_jun": [
+   "Sources_Uses",
+   18
+  ],
+  "b_ebitda": [
+   "Sources_Uses",
+   19
+  ],
+  "b_oi": [
+   "Sources_Uses",
+   20
+  ],
+  "b_tax": [
+   "Sources_Uses",
+   21
+  ],
+  "b_nwc": [
+   "Sources_Uses",
+   22
+  ],
+  "b_capex": [
+   "Sources_Uses",
+   23
+  ],
+  "b_lease": [
+   "Sources_Uses",
+   24
+  ],
+  "b_div": [
+   "Sources_Uses",
+   25
+  ],
+  "cash_close": [
+   "Sources_Uses",
+   26
+  ],
+  "ev_eq": [
+   "Sources_Uses",
+   29
+  ],
+  "ev_debt": [
+   "Sources_Uses",
+   30
+  ],
+  "ev_lease": [
+   "Sources_Uses",
+   31
+  ],
+  "ev_cash": [
+   "Sources_Uses",
+   32
+  ],
+  "ev_inv": [
+   "Sources_Uses",
+   33
+  ],
+  "ev": [
+   "Sources_Uses",
+   34
+  ],
+  "e_26": [
+   "Sources_Uses",
+   35
+  ],
+  "e_ltm": [
+   "Sources_Uses",
+   36
+  ],
+  "e_25": [
+   "Sources_Uses",
+   37
+  ],
+  "m_26": [
+   "Sources_Uses",
+   38
+  ],
+  "m_ltm": [
+   "Sources_Uses",
+   39
+  ],
+  "m_25": [
+   "Sources_Uses",
+   40
+  ],
+  "pe_26": [
+   "Sources_Uses",
+   41
+  ],
+  "mkt_ev": [
+   "Sources_Uses",
+   42
+  ],
+  "mkt_m": [
+   "Sources_Uses",
+   43
+  ],
+  "ds_ebitda": [
+   "Sources_Uses",
+   46
+  ],
+  "ds_tla_x": [
+   "Sources_Uses",
+   47
+  ],
+  "ds_tlb_x": [
+   "Sources_Uses",
+   48
+  ],
+  "ds_mz_x": [
+   "Sources_Uses",
+   49
+  ],
+  "tla_amt": [
+   "Sources_Uses",
+   50
+  ],
+  "tlb_amt": [
+   "Sources_Uses",
+   51
+  ],
+  "mz_amt": [
+   "Sources_Uses",
+   52
+  ],
+  "debt_amt": [
+   "Sources_Uses",
+   53
+  ],
+  "debt_x": [
+   "Sources_Uses",
+   54
+  ],
+  "rcf_avail": [
+   "Sources_Uses",
+   55
+  ],
+  "u_eq": [
+   "Sources_Uses",
+   58
+  ],
+  "u_refi": [
+   "Sources_Uses",
+   59
+  ],
+  "u_txn": [
+   "Sources_Uses",
+   60
+  ],
+  "u_fin": [
+   "Sources_Uses",
+   61
+  ],
+  "u_tot": [
+   "Sources_Uses",
+   62
+  ],
+  "s_rcf": [
+   "Sources_Uses",
+   65
+  ],
+  "s_tla": [
+   "Sources_Uses",
+   66
+  ],
+  "s_tlb": [
+   "Sources_Uses",
+   67
+  ],
+  "s_mz": [
+   "Sources_Uses",
+   68
+  ],
+  "s_cash": [
+   "Sources_Uses",
+   69
+  ],
+  "s_eq": [
+   "Sources_Uses",
+   70
+  ],
+  "s_tot": [
+   "Sources_Uses",
+   71
+  ],
+  "su_diff": [
+   "Sources_Uses",
+   72
+  ],
+  "cash_post": [
+   "Sources_Uses",
+   75
+  ],
+  "nd_post": [
+   "Sources_Uses",
+   76
+  ],
+  "nd_x": [
+   "Sources_Uses",
+   77
+  ],
+  "eq_pct": [
+   "Sources_Uses",
+   78
+  ],
+  "pf_int": [
+   "Sources_Uses",
+   79
+  ],
+  "pf_icr": [
+   "Sources_Uses",
+   80
+  ],
+  "d_rate": [
+   "Sources_Uses",
+   81
+  ],
+  "d_rate_at": [
+   "Sources_Uses",
+   82
+  ],
+  "ebitda_yield": [
+   "Sources_Uses",
+   83
+  ],
+  "o_vol": [
+   "Operating_Model",
+   7
+  ],
+  "o_pm": [
+   "Operating_Model",
+   8
+  ],
+  "o_gd": [
+   "Operating_Model",
+   9
+  ],
+  "o_g": [
+   "Operating_Model",
+   10
+  ],
+  "o_rev": [
+   "Operating_Model",
+   11
+  ],
+  "o_gm": [
+   "Operating_Model",
+   14
+  ],
+  "o_gp": [
+   "Operating_Model",
+   15
+  ],
+  "o_cogs": [
+   "Operating_Model",
+   16
+  ],
+  "o_md": [
+   "Operating_Model",
+   17
+  ],
+  "o_em": [
+   "Operating_Model",
+   18
+  ],
+  "o_ebitda": [
+   "Operating_Model",
+   19
+  ],
+  "o_opex": [
+   "Operating_Model",
+   20
+  ],
+  "o_opexp": [
+   "Operating_Model",
+   21
+  ],
+  "o_dap": [
+   "Operating_Model",
+   22
+  ],
+  "o_da": [
+   "Operating_Model",
+   23
+  ],
+  "o_ebit": [
+   "Operating_Model",
+   24
+  ],
+  "o_oi": [
+   "Operating_Model",
+   27
+  ],
+  "o_fin": [
+   "Operating_Model",
+   28
+  ],
+  "o_ii": [
+   "Operating_Model",
+   29
+  ],
+  "o_itla": [
+   "Operating_Model",
+   30
+  ],
+  "o_itlb": [
+   "Operating_Model",
+   31
+  ],
+  "o_imc": [
+   "Operating_Model",
+   32
+  ],
+  "o_ipik": [
+   "Operating_Model",
+   33
+  ],
+  "o_ircf": [
+   "Operating_Model",
+   34
+  ],
+  "o_ilease": [
+   "Operating_Model",
+   35
+  ],
+  "o_fee": [
+   "Operating_Model",
+   36
+  ],
+  "o_netfin": [
+   "Operating_Model",
+   37
+  ],
+  "o_pbt": [
+   "Operating_Model",
+   40
+  ],
+  "o_acq": [
+   "Operating_Model",
+   41
+  ],
+  "o_taxable": [
+   "Operating_Model",
+   42
+  ],
+  "o_tax": [
+   "Operating_Model",
+   43
+  ],
+  "o_ni": [
+   "Operating_Model",
+   44
+  ],
+  "o_etr": [
+   "Operating_Model",
+   45
+  ],
+  "o_invd": [
+   "Operating_Model",
+   48
+  ],
+  "o_recd": [
+   "Operating_Model",
+   49
+  ],
+  "o_payd": [
+   "Operating_Model",
+   50
+  ],
+  "o_inv": [
+   "Operating_Model",
+   51
+  ],
+  "o_rec": [
+   "Operating_Model",
+   52
+  ],
+  "o_pay": [
+   "Operating_Model",
+   53
+  ],
+  "o_nwc": [
+   "Operating_Model",
+   54
+  ],
+  "o_dnwc": [
+   "Operating_Model",
+   55
+  ],
+  "o_cxp": [
+   "Operating_Model",
+   58
+  ],
+  "o_capex": [
+   "Operating_Model",
+   59
+  ],
+  "o_lprin": [
+   "Operating_Model",
+   60
+  ],
+  "u_ebitda": [
+   "Operating_Model",
+   63
+  ],
+  "u_tax": [
+   "Operating_Model",
+   64
+  ],
+  "u_capex": [
+   "Operating_Model",
+   65
+  ],
+  "u_nwc": [
+   "Operating_Model",
+   66
+  ],
+  "u_lease": [
+   "Operating_Model",
+   67
+  ],
+  "o_ufcf": [
+   "Operating_Model",
+   68
+  ],
+  "l_ni": [
+   "Operating_Model",
+   71
+  ],
+  "l_da": [
+   "Operating_Model",
+   72
+  ],
+  "l_pik": [
+   "Operating_Model",
+   73
+  ],
+  "l_fee": [
+   "Operating_Model",
+   74
+  ],
+  "l_nwc": [
+   "Operating_Model",
+   75
+  ],
+  "l_capex": [
+   "Operating_Model",
+   76
+  ],
+  "l_lease": [
+   "Operating_Model",
+   77
+  ],
+  "o_lfcf": [
+   "Operating_Model",
+   78
+  ],
+  "o_lfcf2": [
+   "Operating_Model",
+   79
+  ],
+  "o_lfcf_diff": [
+   "Operating_Model",
+   80
+  ],
+  "o_conv": [
+   "Operating_Model",
+   81
+  ],
+  "d_open_cash": [
+   "Debt_Schedule",
+   6
+  ],
+  "d_lfcf": [
+   "Debt_Schedule",
+   7
+  ],
+  "d_min": [
+   "Debt_Schedule",
+   8
+  ],
+  "d_avail": [
+   "Debt_Schedule",
+   9
+  ],
+  "d_m_tla": [
+   "Debt_Schedule",
+   10
+  ],
+  "d_m_tlb": [
+   "Debt_Schedule",
+   11
+  ],
+  "d_after_m": [
+   "Debt_Schedule",
+   12
+  ],
+  "d_rcf_draw": [
+   "Debt_Schedule",
+   13
+  ],
+  "d_rcf_rep": [
+   "Debt_Schedule",
+   14
+  ],
+  "d_for_sweep": [
+   "Debt_Schedule",
+   15
+  ],
+  "d_sweep_amt": [
+   "Debt_Schedule",
+   16
+  ],
+  "d_s_tlb": [
+   "Debt_Schedule",
+   17
+  ],
+  "d_s_tla": [
+   "Debt_Schedule",
+   18
+  ],
+  "d_close_cash": [
+   "Debt_Schedule",
+   19
+  ],
+  "tla_open": [
+   "Debt_Schedule",
+   22
+  ],
+  "tla_m": [
+   "Debt_Schedule",
+   23
+  ],
+  "tla_s": [
+   "Debt_Schedule",
+   24
+  ],
+  "tla_close": [
+   "Debt_Schedule",
+   25
+  ],
+  "tla_r": [
+   "Debt_Schedule",
+   26
+  ],
+  "tla_int": [
+   "Debt_Schedule",
+   27
+  ],
+  "tlb_open": [
+   "Debt_Schedule",
+   30
+  ],
+  "tlb_m": [
+   "Debt_Schedule",
+   31
+  ],
+  "tlb_s": [
+   "Debt_Schedule",
+   32
+  ],
+  "tlb_close": [
+   "Debt_Schedule",
+   33
+  ],
+  "tlb_r": [
+   "Debt_Schedule",
+   34
+  ],
+  "tlb_int": [
+   "Debt_Schedule",
+   35
+  ],
+  "mz_open": [
+   "Debt_Schedule",
+   38
+  ],
+  "mz_pik": [
+   "Debt_Schedule",
+   39
+  ],
+  "mz_close": [
+   "Debt_Schedule",
+   40
+  ],
+  "mz_int": [
+   "Debt_Schedule",
+   41
+  ],
+  "rcf_open": [
+   "Debt_Schedule",
+   44
+  ],
+  "rcf_dr": [
+   "Debt_Schedule",
+   45
+  ],
+  "rcf_rp": [
+   "Debt_Schedule",
+   46
+  ],
+  "rcf_close": [
+   "Debt_Schedule",
+   47
+  ],
+  "rcf_int": [
+   "Debt_Schedule",
+   48
+  ],
+  "rcf_cfee": [
+   "Debt_Schedule",
+   49
+  ],
+  "ls_bal": [
+   "Debt_Schedule",
+   52
+  ],
+  "ls_int": [
+   "Debt_Schedule",
+   53
+  ],
+  "ii": [
+   "Debt_Schedule",
+   54
+  ],
+  "ff_open": [
+   "Debt_Schedule",
+   55
+  ],
+  "ff_am": [
+   "Debt_Schedule",
+   56
+  ],
+  "ff_close": [
+   "Debt_Schedule",
+   57
+  ],
+  "d_tot": [
+   "Debt_Schedule",
+   60
+  ],
+  "d_lease": [
+   "Debt_Schedule",
+   61
+  ],
+  "d_cash": [
+   "Debt_Schedule",
+   62
+  ],
+  "d_nd": [
+   "Debt_Schedule",
+   63
+  ],
+  "d_ebitda": [
+   "Debt_Schedule",
+   64
+  ],
+  "d_lev_tot": [
+   "Debt_Schedule",
+   65
+  ],
+  "d_lev_net": [
+   "Debt_Schedule",
+   66
+  ],
+  "d_lev_sr": [
+   "Debt_Schedule",
+   67
+  ],
+  "d_cint": [
+   "Debt_Schedule",
+   68
+  ],
+  "d_icr": [
+   "Debt_Schedule",
+   69
+  ],
+  "d_icr2": [
+   "Debt_Schedule",
+   70
+  ],
+  "d_paydown": [
+   "Debt_Schedule",
+   71
+  ],
+  "d_cov_lev": [
+   "Debt_Schedule",
+   74
+  ],
+  "d_t_lev": [
+   "Debt_Schedule",
+   75
+  ],
+  "d_headroom": [
+   "Debt_Schedule",
+   76
+  ],
+  "d_cov_icr": [
+   "Debt_Schedule",
+   77
+  ],
+  "d_t_icr": [
+   "Debt_Schedule",
+   78
+  ],
+  "d_cov_all": [
+   "Debt_Schedule",
+   79
+  ],
+  "x_ebitda": [
+   "Returns",
+   6
+  ],
+  "x_entry_m": [
+   "Returns",
+   7
+  ],
+  "x_delta": [
+   "Returns",
+   8
+  ],
+  "x_mult": [
+   "Returns",
+   9
+  ],
+  "x_ev": [
+   "Returns",
+   10
+  ],
+  "x_tla": [
+   "Returns",
+   11
+  ],
+  "x_tlb": [
+   "Returns",
+   12
+  ],
+  "x_mz": [
+   "Returns",
+   13
+  ],
+  "x_rcf": [
+   "Returns",
+   14
+  ],
+  "x_lease": [
+   "Returns",
+   15
+  ],
+  "x_cash": [
+   "Returns",
+   16
+  ],
+  "x_inv": [
+   "Returns",
+   17
+  ],
+  "x_eq": [
+   "Returns",
+   18
+  ],
+  "nd_exit": [
+   "Returns",
+   19
+  ],
+  "r_inv": [
+   "Returns",
+   22
+  ],
+  "r_gain": [
+   "Returns",
+   23
+  ],
+  "r_mip": [
+   "Returns",
+   24
+  ],
+  "r_proc": [
+   "Returns",
+   25
+  ],
+  "r_moic": [
+   "Returns",
+   26
+  ],
+  "r_years": [
+   "Returns",
+   27
+  ],
+  "cf_date": [
+   "Returns",
+   31
+  ],
+  "cf_flow": [
+   "Returns",
+   32
+  ],
+  "r_irr": [
+   "Returns",
+   33
+  ],
+  "r_irr_cf": [
+   "Returns",
+   34
+  ],
+  "r_npv": [
+   "Returns",
+   35
+  ],
+  "a_ebitda": [
+   "Returns",
+   39
+  ],
+  "a_mult": [
+   "Returns",
+   40
+  ],
+  "a_debt": [
+   "Returns",
+   41
+  ],
+  "a_fees": [
+   "Returns",
+   42
+  ],
+  "a_mip": [
+   "Returns",
+   43
+  ],
+  "a_tot": [
+   "Returns",
+   44
+  ],
+  "a_chk": [
+   "Returns",
+   45
+  ],
+  "a_diff": [
+   "Returns",
+   46
+  ],
+  "uf_flow": [
+   "Returns",
+   49
+  ],
+  "u_irr": [
+   "Returns",
+   50
+  ],
+  "u_dcost": [
+   "Returns",
+   51
+  ],
+  "u_spread": [
+   "Returns",
+   52
+  ],
+  "rd_ev": [
+   "Real_Deal_Context",
+   6
+  ],
+  "rd_mult": [
+   "Real_Deal_Context",
+   7
+  ],
+  "rd_ebitda": [
+   "Real_Deal_Context",
+   8
+  ],
+  "rd_eq": [
+   "Real_Deal_Context",
+   9
+  ],
+  "rd_minor": [
+   "Real_Deal_Context",
+   10
+  ],
+  "rd_stake": [
+   "Real_Deal_Context",
+   11
+  ],
+  "rd_proc": [
+   "Real_Deal_Context",
+   12
+  ],
+  "rd_cpp": [
+   "Real_Deal_Context",
+   13
+  ],
+  "rd_holdco": [
+   "Real_Deal_Context",
+   14
+  ],
+  "rd_holdco_x": [
+   "Real_Deal_Context",
+   15
+  ],
+  "rd_rcf": [
+   "Real_Deal_Context",
+   16
+  ],
+  "rd_rcf_in": [
+   "Real_Deal_Context",
+   17
+  ],
+  "rd_fx_deal": [
+   "Real_Deal_Context",
+   18
+  ],
+  "rd_fx_now": [
+   "Real_Deal_Context",
+   19
+  ],
+  "rd_ev_inr": [
+   "Real_Deal_Context",
+   20
+  ],
+  "rd_oo": [
+   "Real_Deal_Context",
+   23
+  ],
+  "rd_oo_sh": [
+   "Real_Deal_Context",
+   24
+  ],
+  "rd_oo_pct": [
+   "Real_Deal_Context",
+   25
+  ],
+  "rd_oo_size": [
+   "Real_Deal_Context",
+   26
+  ],
+  "rd_oo_usd": [
+   "Real_Deal_Context",
+   27
+  ],
+  "rd_prom": [
+   "Real_Deal_Context",
+   28
+  ],
+  "rd_prom_pct": [
+   "Real_Deal_Context",
+   29
+  ],
+  "rd_max": [
+   "Real_Deal_Context",
+   30
+  ],
+  "rd_spa": [
+   "Real_Deal_Context",
+   31
+  ],
+  "rd_enh_rate": [
+   "Real_Deal_Context",
+   32
+  ],
+  "rd_dps": [
+   "Real_Deal_Context",
+   33
+  ],
+  "rd_enh": [
+   "Real_Deal_Context",
+   34
+  ],
+  "rd_mcap": [
+   "Real_Deal_Context",
+   37
+  ],
+  "rd_mcap_usd": [
+   "Real_Deal_Context",
+   38
+  ],
+  "rd_ebitda_in": [
+   "Real_Deal_Context",
+   39
+  ],
+  "rd_ebitda_sh": [
+   "Real_Deal_Context",
+   40
+  ],
+  "rd_ev_oo": [
+   "Real_Deal_Context",
+   41
+  ],
+  "rd_m_oo": [
+   "Real_Deal_Context",
+   42
+  ],
+  "rd_m_mkt": [
+   "Real_Deal_Context",
+   43
+  ],
+  "rd_m_26": [
+   "Real_Deal_Context",
+   44
+  ],
+  "rd_m_ltm": [
+   "Real_Deal_Context",
+   45
+  ],
+  "rd_m_glob": [
+   "Real_Deal_Context",
+   46
+  ],
+  "rd_vs_glob": [
+   "Real_Deal_Context",
+   47
+  ],
+  "rd_vs_oo": [
+   "Real_Deal_Context",
+   48
+  ],
+  "rd_vs_enh": [
+   "Real_Deal_Context",
+   49
+  ],
+  "scen_ovr": [
+   "Sensitivities",
+   5
+  ],
+  "metric_ovr": [
+   "Sensitivities",
+   6
+  ],
+  "prem_ovr": [
+   "Sensitivities",
+   7
+  ],
+  "exit_ovr": [
+   "Sensitivities",
+   8
+  ],
+  "lev_ovr": [
+   "Sensitivities",
+   9
+  ],
+  "m_delta": [
+   "Sensitivities",
+   10
+  ],
+  "g_delta": [
+   "Sensitivities",
+   11
+  ],
+  "sens_hurdle": [
+   "Sensitivities",
+   12
+  ],
+  "t5_1": [
+   "Sensitivities",
+   64
+  ],
+  "t5_2": [
+   "Sensitivities",
+   65
+  ],
+  "t5_3": [
+   "Sensitivities",
+   66
+  ],
+  "chk_overall": [
+   "Checks",
+   4
+  ],
+  "chk_core": [
+   "Checks",
+   5
+  ],
+  "chk_state": [
+   "Checks",
+   6
+  ]
+ },
+ "sens": {
+  "tables": [
+   {
+    "id": "t1",
+    "range": "C19:J26",
+    "body": "D20:J26",
+    "row_input": "D8",
+    "col_input": "D7",
+    "top": [
+     12.0,
+     13.0,
+     14.0,
+     15.0,
+     16.0,
+     17.0,
+     18.0
+    ],
+    "left": [
+     0.05,
+     0.1,
+     0.15,
+     0.2,
+     0.25,
+     0.3,
+     0.35
+    ],
+    "out": "r_irr",
+    "title": "Sponsor IRR: offer premium (rows) x exit multiple (columns)"
+   },
+   {
+    "id": "t2",
+    "range": "C30:J37",
+    "body": "D31:J37",
+    "row_input": "D8",
+    "col_input": "D9",
+    "top": [
+     12.0,
+     13.0,
+     14.0,
+     15.0,
+     16.0,
+     17.0,
+     18.0
+    ],
+    "left": [
+     2.5,
+     3.0,
+     3.5,
+     3.75,
+     4.0,
+     4.5,
+     5.0
+    ],
+    "out": "r_irr",
+    "title": "Sponsor IRR: total leverage at close (rows) x exit multiple (columns)"
+   },
+   {
+    "id": "t3",
+    "range": "C41:J48",
+    "body": "D42:J48",
+    "row_input": "D11",
+    "col_input": "D10",
+    "top": [
+     -0.03,
+     -0.02,
+     -0.01,
+     0.0,
+     0.01,
+     0.02,
+     0.03
+    ],
+    "left": [
+     -0.03,
+     -0.02,
+     -0.01,
+     0.0,
+     0.01,
+     0.02,
+     0.03
+    ],
+    "out": "r_irr",
+    "title": "Sponsor IRR: EBITDA margin change (rows) x revenue growth change (columns), applied to every year CY2027E-CY2031E"
+   },
+   {
+    "id": "t4",
+    "range": "C52:J59",
+    "body": "D53:J59",
+    "row_input": "D8",
+    "col_input": "D7",
+    "top": [
+     12.0,
+     13.0,
+     14.0,
+     15.0,
+     16.0,
+     17.0,
+     18.0
+    ],
+    "left": [
+     0.05,
+     0.1,
+     0.15,
+     0.2,
+     0.25,
+     0.3,
+     0.35
+    ],
+    "out": "r_moic",
+    "title": "Sponsor MOIC: offer premium (rows) x exit multiple (columns)"
+   },
+   {
+    "id": "t5",
+    "range": "C63:M66",
+    "body": "D64:M66",
+    "row_input": "D6",
+    "col_input": "D5",
+    "top": [
+     "Sponsor IRR",
+     "MOIC",
+     "CY2031E EBITDA (Rs crore)",
+     "EBITDA CAGR CY2026E-31E",
+     "Exit EV (Rs crore)",
+     "Exit equity (Rs crore)",
+     "Net debt / EBITDA at exit",
+     "Lowest EBITDA / cash interest",
+     "Covenant tests",
+     "Core model checks"
+    ],
+    "left": [
+     1,
+     2,
+     3
+    ],
+    "out": "scenario",
+    "title": "Scenario comparison"
+   }
+  ],
+  "drivers": {
+   "scen_ovr": "D5",
+   "metric_ovr": "D6",
+   "prem_ovr": "D7",
+   "exit_ovr": "D8",
+   "lev_ovr": "D9",
+   "m_delta": "D10",
+   "g_delta": "D11"
+  }
+ },
+ "checks": {
+  "first_core": 9,
+  "last_core": 26,
+  "first_state": 29,
+  "last_state": 31
+ },
+ "scen_cell": "C6"
+}

@@ -1,0 +1,62 @@
+{
+  "url": "https://www.screener.in/api/company/589/schedules/?parent=Expenses&section=profit-loss",
+  "data": {
+    "Material Cost %": {
+      "Dec 2014": "57%",
+      "Dec 2015": "49%",
+      "Dec 2016": "45%",
+      "Dec 2017": "46%",
+      "Dec 2018": "49%",
+      "Dec 2019": "45%",
+      "Dec 2020": "42%",
+      "Dec 2021": "49%",
+      "Dec 2022": "52%",
+      "Dec 2023": "52%",
+      "Dec 2024": "51%",
+      "Dec 2025": "51%",
+      "isExpandable": "Company.showSchedule(\"Material Cost %\", \"profit-loss\", this)"
+    },
+    "Manufacturing Cost %": {
+      "Dec 2014": "5%",
+      "Dec 2015": "5%",
+      "Dec 2016": "5%",
+      "Dec 2017": "5%",
+      "Dec 2018": "6%",
+      "Dec 2019": "6%",
+      "Dec 2020": "7%",
+      "Dec 2021": "6%",
+      "Dec 2022": "5%",
+      "Dec 2023": "5%",
+      "Dec 2024": "5%",
+      "Dec 2025": "5%"
+    },
+    "Employee Cost %": {
+      "Dec 2014": "5%",
+      "Dec 2015": "5%",
+      "Dec 2016": "5%",
+      "Dec 2017": "5%",
+      "Dec 2018": "5%",
+      "Dec 2019": "6%",
+      "Dec 2020": "7%",
+      "Dec 2021": "6%",
+      "Dec 2022": "6%",
+      "Dec 2023": "6%",
+      "Dec 2024": "6%",
+      "Dec 2025": "5%"
+    },
+    "Other Cost %": {
+      "Dec 2014": "12%",
+      "Dec 2015": "14%",
+      "Dec 2016": "14%",
+      "Dec 2017": "14%",
+      "Dec 2018": "13%",
+      "Dec 2019": "14%",
+      "Dec 2020": "17%",
+      "Dec 2021": "14%",
+      "Dec 2022": "14%",
+      "Dec 2023": "14%",
+      "Dec 2024": "14%",
+      "Dec 2025": "15%"
+    }
+  }
+}

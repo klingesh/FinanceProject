@@ -1,0 +1,17 @@
+verification run 2026-11-01 16:35:55 on Castrol_India_LBO_Model.xlsx
+data table t1 C19:J26: =TABLE(D8,D7)
+data table t2 C30:J37: =TABLE(D8,D9)
+data table t3 C41:J48: =TABLE(D11,D10)
+data table t4 C52:J59: =TABLE(D8,D7)
+data table t5 C63:M66: =TABLE(D6,D5)
+scenario 1 Base: IRR 0.1188, MOIC 1.753, entry 15.69x, exit equity 33,110, checks ALL PASS, covenants PASS
+scenario 2 Upside: IRR 0.1615, MOIC 2.114, entry 15.69x, exit equity 40,347, checks ALL PASS, covenants PASS
+scenario 3 Downside: IRR 0.0003, MOIC 1.001, entry 15.69x, exit equity 18,055, checks ALL PASS, covenants PASS
+live scenario table row 1: [0.11876034140586855, 1.7531490517042654, 2101.605658495835, 0.08316966882800525, 32971.42625128827, 33110.348016284304, 0.1131935641885483, 2.9887835244459433, 'PASS', 'PASS']
+live scenario table row 2: [0.1614599883556366, 2.1144594398002403, 2491.7179566198442, 0.1206913525823925, 39091.77466932706, 40346.90825229172, -0.3524971920000774, 3.2034976076520283, 'PASS', 'PASS']
+live scenario table row 3: [0.00028970539569854746, 1.0014501674564094, 1460.0860099538936, 0.0070752722440039495, 19986.655435147793, 18054.832220391287, 1.5811624787976735, 2.5400356547680714, 'PASS', 'PASS']
+saved with Excel at 2026-11-01 16:35:59
+formula cells: 1149; error values: 0; formulas without cached value: 0; data-table cells: 226, empty/error: 0
+checks ALL PASS in all three scenarios: True; saved file (Base) overall: ALL PASS
+sanity of key outputs (IRR, MOIC, entry multiple, sources = uses): True
+RESULT: VERIFIED in 4.6s

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+
+# Copyrighted third-party copies stay on the local PC only: news articles, a broker report and law-firm or
+# consultancy commentary. source_data/README.md lists each one with its link.
+source_data/news_and_macro/*.html
+source_data/news_and_macro/Kotak_Securities_*.pdf
+source_data/regulation/*.html
+source_data/regulation/Cyril_Amarchand_*.pdf
+source_data/regulation/Khaitan_*.pdf

@@ -1,0 +1,77 @@
+yfinance: {"ticker": "CASTROLIND.NS", "source": "Yahoo Finance via yfinance (auto_adjust=False)", "fetched_utc": "2026-10-31 18:24:20", "close_date": "2026-10-30", "close": 188.0, "adj_close": 188.0, "high_52w": 203.4, "low_52w": 170.1, "avg_close_60d": 191.81, "vwap_60d_proxy": 193.14, "dividends_last_24m": {"2023-05-04": 3.5, "2023-08-08": 3.0, "2024-03-21": 4.5, "2024-08-07": 3.5, "2025-03-18": 9.5, "2025-08-11": 3.5, "2026-03-23": 5.25, "2026-08-11": 6.25}}
+Price        Adj Close       Close  Dividends        High         Low        Open  Stock Splits   Volume
+Date                                                                                                    
+2026-10-21  196.190002  196.190002        0.0  197.919998  194.839996  196.500000           0.0  2602316
+2026-10-22  197.380005  197.380005        0.0  199.000000  194.820007  196.000000           0.0  3462415
+2026-10-23  194.639999  194.639999        0.0  197.000000  193.550003  196.419998           0.0  2610511
+2026-10-26  190.779999  190.779999        0.0  191.899994  184.000000  190.550003           0.0  7089307
+2026-10-27  188.860001  188.860001        0.0  191.279999  186.229996  190.000000           0.0  6259323
+2026-10-28  188.899994  188.899994        0.0  190.000000  187.130005  188.199997           0.0  1349673
+2026-10-29  187.619995  187.619995        0.0  188.970001  186.600006  188.009995           0.0  4251120
+2026-10-30  188.000000  188.000000        0.0  189.050003  187.080002  187.619995           0.0  3417888
+fx/prices: {"source": "Yahoo Finance via yfinance: INR=X and CASTROLIND.NS closes", "usdinr_close_2025-12-23": 89.6039, "usdinr_close_2026-10-30": 95.1524, "castrolind_close_2025-12-23": 185.93, "castrolind_close_2025-12-24": 189.39, "castrolind_close_2025-12-26": 193.48, "castrolind_closes_2025-12-19_to_2025-12-31": {"2025-12-19": 182.82, "2025-12-22": 183.94, "2025-12-23": 185.93, "2025-12-24": 189.39, "2025-12-26": 193.48, "2025-12-29": 190.18, "2025-12-30": 188.65, "2025-12-31": 192.55}}
+stockanalysis income_annual: status=200 len=219512 url=https://stockanalysis.com/quote/nse/CASTROLIND/financials/
+  table0 shape=(7, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table1 shape=(3, 6) cols=['Fiscal Year | Period Ending', "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table2 shape=(5, 7) cols=['Fiscal Year | Period Ending', "Current | Sep '26 Sep 30, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table3 shape=(4, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table4 shape=(5, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table5 shape=(3, 7) cols=['Fiscal Year | Period Ending', "Current | Oct '26 Oct 31, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table6 shape=(3, 7) cols=['Fiscal Year | Period Ending', "Current | Oct '26 Oct 31, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+stockanalysis income_quarterly: status=200 len=200323 url=https://stockanalysis.com/quote/nse/CASTROLIND/financials/?p=quarterly
+  table0 shape=(7, 21) cols=['Fiscal Quarter | Period Ending', "Q3 2026 | Sep '26 Sep 30, 2026", "Q2 2026 | Jun '26 Jun 30, 2026", "Q1 2026 | Mar '26 Mar 31, 2026", "Q4 2025 | Dec '25 Dec 31, 2025", "Q3 2025 | Sep '25 Sep 30, 2025", "Q2 2025 | Jun '25 Jun 30, 2025", "Q1 2025 | Mar '25 Mar 31, 2025", "Q4 2024 | Dec '24 Dec 31, 2024", "Q3 2024 | Sep '24 Sep 30, 2024"]
+  table1 shape=(5, 21) cols=['Fiscal Quarter | Period Ending', "Q3 2026 | Sep '26 Sep 30, 2026", "Q2 2026 | Jun '26 Jun 30, 2026", "Q1 2026 | Mar '26 Mar 31, 2026", "Q4 2025 | Dec '25 Dec 31, 2025", "Q3 2025 | Sep '25 Sep 30, 2025", "Q2 2025 | Jun '25 Jun 30, 2025", "Q1 2025 | Mar '25 Mar 31, 2025", "Q4 2024 | Dec '24 Dec 31, 2024", "Q3 2024 | Sep '24 Sep 30, 2024"]
+  table2 shape=(4, 21) cols=['Fiscal Quarter | Period Ending', "Q3 2026 | Sep '26 Sep 30, 2026", "Q2 2026 | Jun '26 Jun 30, 2026", "Q1 2026 | Mar '26 Mar 31, 2026", "Q4 2025 | Dec '25 Dec 31, 2025", "Q3 2025 | Sep '25 Sep 30, 2025", "Q2 2025 | Jun '25 Jun 30, 2025", "Q1 2025 | Mar '25 Mar 31, 2025", "Q4 2024 | Dec '24 Dec 31, 2024", "Q3 2024 | Sep '24 Sep 30, 2024"]
+  table3 shape=(3, 21) cols=['Fiscal Quarter | Period Ending', "Q3 2026 | Sep '26 Sep 30, 2026", "Q2 2026 | Jun '26 Jun 30, 2026", "Q1 2026 | Mar '26 Mar 31, 2026", "Q4 2025 | Dec '25 Dec 31, 2025", "Q3 2025 | Sep '25 Sep 30, 2025", "Q2 2025 | Jun '25 Jun 30, 2025", "Q1 2025 | Mar '25 Mar 31, 2025", "Q4 2024 | Dec '24 Dec 31, 2024", "Q3 2024 | Sep '24 Sep 30, 2024"]
+  table4 shape=(2, 21) cols=['Fiscal Quarter | Period Ending', "Q3 2026 | Sep '26 Sep 30, 2026", "Q2 2026 | Jun '26 Jun 30, 2026", "Q1 2026 | Mar '26 Mar 31, 2026", "Q4 2025 | Dec '25 Dec 31, 2025", "Q3 2025 | Sep '25 Sep 30, 2025", "Q2 2025 | Jun '25 Jun 30, 2025", "Q1 2025 | Mar '25 Mar 31, 2025", "Q4 2024 | Dec '24 Dec 31, 2024", "Q3 2024 | Sep '24 Sep 30, 2024"]
+stockanalysis balance_annual: status=200 len=228435 url=https://stockanalysis.com/quote/nse/CASTROLIND/financials/balance-sheet/
+  table0 shape=(17, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table1 shape=(11, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table2 shape=(5, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table3 shape=(14, 7) cols=['Fiscal Year | Period Ending', "TTM | Sep '26 Sep 30, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+stockanalysis balance_quarterly: status=200 len=290062 url=https://stockanalysis.com/quote/nse/CASTROLIND/financials/balance-sheet/?p=quarterly
+  table0 shape=(17, 21) cols=['Fiscal Quarter | Period Ending', "Q3 2026 | Sep '26 Sep 30, 2026", "Q2 2026 | Jun '26 Jun 30, 2026", "Q1 2026 | Mar '26 Mar 31, 2026", "Q4 2025 | Dec '25 Dec 31, 2025", "Q3 2025 | Sep '25 Sep 30, 2025", "Q2 2025 | Jun '25 Jun 30, 2025", "Q1 2025 | Mar '25 Mar 31, 2025", "Q4 2024 | Dec '24 Dec 31, 2024", "Q3 2024 | Sep '24 Sep 30, 2024"]
+  table1 shape=(11, 21) cols=['Fiscal Quarter | Period Ending', "Q3 2026 | Sep '26 Sep 30, 2026", "Q2 2026 | Jun '26 Jun 30, 2026", "Q1 2026 | Mar '26 Mar 31, 2026", "Q4 2025 | Dec '25 Dec 31, 2025", "Q3 2025 | Sep '25 Sep 30, 2025", "Q2 2025 | Jun '25 Jun 30, 2025", "Q1 2025 | Mar '25 Mar 31, 2025", "Q4 2024 | Dec '24 Dec 31, 2024", "Q3 2024 | Sep '24 Sep 30, 2024"]
+  table2 shape=(5, 21) cols=['Fiscal Quarter | Period Ending', "Q3 2026 | Sep '26 Sep 30, 2026", "Q2 2026 | Jun '26 Jun 30, 2026", "Q1 2026 | Mar '26 Mar 31, 2026", "Q4 2025 | Dec '25 Dec 31, 2025", "Q3 2025 | Sep '25 Sep 30, 2025", "Q2 2025 | Jun '25 Jun 30, 2025", "Q1 2025 | Mar '25 Mar 31, 2025", "Q4 2024 | Dec '24 Dec 31, 2024", "Q3 2024 | Sep '24 Sep 30, 2024"]
+  table3 shape=(14, 21) cols=['Fiscal Quarter | Period Ending', "Q3 2026 | Sep '26 Sep 30, 2026", "Q2 2026 | Jun '26 Jun 30, 2026", "Q1 2026 | Mar '26 Mar 31, 2026", "Q4 2025 | Dec '25 Dec 31, 2025", "Q3 2025 | Sep '25 Sep 30, 2025", "Q2 2025 | Jun '25 Jun 30, 2025", "Q1 2025 | Mar '25 Mar 31, 2025", "Q4 2024 | Dec '24 Dec 31, 2024", "Q3 2024 | Sep '24 Sep 30, 2024"]
+stockanalysis cashflow_annual: status=200 len=216503 url=https://stockanalysis.com/quote/nse/CASTROLIND/financials/cash-flow-statement/
+  table0 shape=(14, 6) cols=['Fiscal Year | Period Ending', "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table1 shape=(5, 6) cols=['Fiscal Year | Period Ending', "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table2 shape=(6, 6) cols=['Fiscal Year | Period Ending', "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table3 shape=(2, 6) cols=['Fiscal Year | Period Ending', "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table4 shape=(7, 6) cols=['Fiscal Year | Period Ending', "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table5 shape=(3, 6) cols=['Fiscal Year | Period Ending', "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+stockanalysis ratios_annual: status=200 len=178133 url=https://stockanalysis.com/quote/nse/CASTROLIND/financials/ratios/
+  table0 shape=(4, 7) cols=['Fiscal Year | Period Ending', "Current | Oct '26 Oct 29, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table1 shape=(6, 7) cols=['Fiscal Year | Period Ending', "Current | Oct '26 Oct 29, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table2 shape=(4, 7) cols=['Fiscal Year | Period Ending', "Current | Oct '26 Oct 29, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table3 shape=(14, 7) cols=['Fiscal Year | Period Ending', "Current | Oct '26 Oct 29, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+  table4 shape=(5, 7) cols=['Fiscal Year | Period Ending', "Current | Oct '26 Oct 29, 2026", "FY 2025 | Dec '25 Dec 31, 2025", "FY 2024 | Dec '24 Dec 31, 2024", "FY 2023 | Dec '23 Dec 31, 2023", "FY 2022 | Dec '22 Dec 31, 2022", "FY 2021 | Dec '21 Dec 31, 2021"]
+stockanalysis statistics: status=200 len=124906 url=https://stockanalysis.com/quote/nse/CASTROLIND/statistics/
+  table0 shape=(2, 2) cols=['0', '1']
+  table1 shape=(2, 2) cols=['0', '1']
+  table2 shape=(7, 2) cols=['0', '1']
+  table3 shape=(8, 2) cols=['0', '1']
+  table4 shape=(5, 2) cols=['0', '1']
+  table5 shape=(6, 2) cols=['0', '1']
+  table6 shape=(10, 2) cols=['0', '1']
+  table7 shape=(2, 2) cols=['0', '1']
+  table8 shape=(6, 2) cols=['0', '1']
+  table9 shape=(5, 2) cols=['0', '1']
+  table10 shape=(8, 2) cols=['0', '1']
+  table11 shape=(7, 2) cols=['0', '1']
+  table12 shape=(6, 2) cols=['0', '1']
+  table13 shape=(7, 2) cols=['0', '1']
+  table14 shape=(10, 2) cols=['0', '1']
+  table15 shape=(4, 2) cols=['0', '1']
+  table16 shape=(6, 2) cols=['0', '1']
+  table17 shape=(3, 2) cols=['0', '1']
+  table18 shape=(2, 2) cols=['0', '1']
+stockanalysis forecast: status=200 len=161324 url=https://stockanalysis.com/quote/nse/CASTROLIND/forecast/
+  table0 shape=(2, 5) cols=['Target', 'Low', 'Average', 'Median', 'High']
+  table1 shape=(6, 7) cols=['Rating', "Jan '26", "Feb '26", "Apr '26", "Jul '26", "Aug '26", "Oct '26"]
+  table2 shape=(13, 9) cols=['Fiscal Year | Period Ending', 'FY 2021 | Dec 31, 2021', 'FY 2022 | Dec 31, 2022', 'FY 2023 | Dec 31, 2023', 'FY 2024 | Dec 31, 2024', 'FY 2025 | Dec 31, 2025', 'FY 2026 | Dec 31, 2026', 'FY 2027 | Dec 31, 2027', 'FY 2028 | Dec 31, 2028']
+  table3 shape=(3, 4) cols=['Revenue', '2026', '2027', '2028']
+  table4 shape=(3, 4) cols=['Revenue Growth', '2026', '2027', '2028']
+  table5 shape=(3, 4) cols=['EPS', '2026', '2027', '2028']
+  table6 shape=(3, 4) cols=['EPS Growth', '2026', '2027', '2028']
