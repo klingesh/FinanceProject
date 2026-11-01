@@ -50,6 +50,8 @@ flowchart LR
 
 ## Where every important number came from
 
+Files under `news_and_macro/` are saved news articles. They are copyrighted, so they stay on your PC and are not in the GitHub copy. Use the link in the Source column instead.
+
 | Number | Value | Source | File in source_data/ |
 |---|---|---|---|
 | Asian Paints share price, 30-Oct-2026 | Rs 2,320.00 | [Yahoo Finance ASIANPAINT.NS](https://finance.yahoo.com/quote/ASIANPAINT.NS/history/) via yfinance | `yahoo_finance/ASIANPAINT.NS_daily.csv` |
