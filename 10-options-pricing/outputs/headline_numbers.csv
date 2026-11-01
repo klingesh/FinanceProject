@@ -1,0 +1,47 @@
+key,value,unit,note
+spot_close,23053.1,index points,NIFTY 50 close 30-Oct-2026
+r_continuous,0.05760831262031336,decimal,ln(1.0593)
+forward_23nov,23097.28975315664,index points,parity-implied
+forward_minus_spot_23nov,44.18975315664284,index points,
+carry_23nov,0.02912446481627907,decimal p.a.,ln(F/S)/T
+q_implied_23nov,0.028483847804034287,decimal p.a.,r - carry
+nov_futures_close,23101.4,index points,Capital Market
+atm_iv_23nov,0.14070043108619643,decimal,interpolated at K = F
+nse_atm_iv_23nov,0.1300941713525971,decimal,NSE field interpolated at K = F (OTM side)
+iv_90_23nov,0.2214358731692671,decimal,K/F = 0.90
+iv_95_23nov,0.1734987461488416,decimal,K/F = 0.95
+iv_105_23nov,0.1293831558240953,decimal,K/F = 1.05
+smile_strike_range_23nov,20750-25300,index points,OTM quotes used
+skew_95_105_volpts,4.41155903247463,vol points,
+atm_iv_30d_monthlies,0.13953326812928837,decimal,23-Nov and 29-Dec total variance interpolation
+atm_iv_30d_bracketing,0.1382321365551737,decimal,23-Nov and 01-Dec
+model_free_vol_30d,0.14963339668497255,decimal,"VIX formula, 23-Nov and 29-Dec"
+india_vix,0.153,decimal,Yahoo close
+realised_vol_21d,0.1468935093573002,decimal,"NIFTY close-to-close, to 30-Oct-2026"
+vix_minus_next21d_rv_mean,2.058356599577144,vol points,Oct-2021 to Sep-2026
+vix_above_next21d_rv_share,0.7671009771986971,share of days,
+r_nse_fit,0.06390062227436714,decimal,rate reproducing NSE IV field
+mean_abs_iv_diff_own_vs_nse,1.5692434249838831,vol points,all usable quotes
+atm_strike,23100.0,index points,
+otm_put_strike,21900.0,index points,
+otm_put_iv,0.1759522439895279,decimal,
+n_usable_quotes,773,count,"after filters, all expiries"
+n_valid_iv_quotes,729,count,usable quotes inside no-arbitrage bounds
+n_smile_quotes_23nov,79,count,
+lr_max_diff_pts,6.78361829500318e-05,index points,
+crr_max_diff_pts,0.07909559287526235,index points,
+max_american_premium_pts,42.4989182707975,index points,
+hedge_std_daily_pts,57.44546370983015,index points,
+hedge_mean_daily_pts,-0.2761309382559873,index points,
+call_premium_pts,329.6499999999994,index points,model premium at ATM call IV
+hedge_std_384_pts,14.825609856037723,index points,384 rebalances
+hedge_mean_real10_pts,95.35115693299036,index points,realised vol 10%
+hedge_mean_real18_pts,-92.87608632393493,index points,realised vol 18%
+cp_gap_own_volpts,0.07546530611606174,vol points,"mean |call IV - put IV|, strikes within 2% of F"
+cp_gap_nse_volpts,2.3105263157894735,vol points,"same, NSE field"
+cp_gap_spot_div_volpts,1.0022249044694878,vol points,"same, spot with q = 1.42% (factsheet)"
+american_premium_23000_pts,2.8198560120559364,index points,"K = 23,000 put"
+boundary_1y_q0_over_K,0.8910902744200968,ratio,tau = 1 year
+boundary_1y_qdiv_over_K,0.8752744542902613,ratio,"tau = 1 year, q = 1.42%"
+div_yield_factsheet,0.0142,decimal,"NIFTY 50 factsheet, 30-Oct-2026"
+perpetual_put_limit_q0,0.8533728113336891,ratio,2r/(2r+vol^2)
