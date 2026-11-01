@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+
+# Saved copies of news articles and broker web pages are copyrighted: they stay on the local PC only.
+# source_data/README.md lists each one with its link. The RBI page is a regulator page, so it is published.
+source_data/news_and_macro/*.html
+!source_data/news_and_macro/RBI_*.html

@@ -1,0 +1,29 @@
+section,test,value,target,status,note
+BSM,"Hull example call price (S=42, K=40, r=10%, vol=20%, T=0.5)",4.759422392871536,4.76 (2 dp),PASS,
+BSM,Hull example put price,0.8085993729000943,0.81 (2 dp),PASS,
+Parity,"max |C - P - (S e^-qT - K e^-rT)|, 10,000 random contracts",7.105427357601002e-14,< 1e-10,PASS,
+Greeks,"Hull example: max |analytic - finite difference| (5 Greeks, call+put, q=0 and 3%)",4.5379453617044874e-07,< 1e-4,PASS,
+Greeks,NIFTY-size contract: max relative |analytic - finite difference|,3.5148095299041183e-06,< 1e-4,PASS,
+Implied vol,Newton solver recovers input vol (1606 identifiable contracts),4.79450654178315e-09,< 1e-8,PASS,contracts priced within 1e-10 of a bound or with vega < 1e-6 are not identifiable in double precision
+Implied vol,"Brent fallback recovers input vol (Newton capped at 1 step, 179 contracts)",7.230351872777874e-10,< 1e-8,PASS,179 solved by brentq
+Implied vol,prices outside no-arbitrage bounds return NaN (5 cases),5.0,5 of 5 NaN,PASS,
+Binomial,"CRR European call, N=1000: |price - BSM|",0.0003948924047438851,< 1e-3,PASS,
+Binomial,CRR average of N=1000 and N=1001: |price - BSM|,3.105136153358501e-05,< 1e-4,PASS,
+Binomial,"Leisen-Reimer European call, N=101: |price - BSM|",3.509445998695071e-06,< 1e-5,PASS,
+Binomial,"Leisen-Reimer European put, N=101: |price - BSM|",3.509445679283907e-06,< 1e-5,PASS,
+American,"American call, no dividends: |American - European| (CRR N=1000)",0.0,< 1e-12,PASS,
+American,"American put - European put, Hull S=42 example (CRR N=1000)",0.10141719648338776,> 0,PASS,
+American,"Hull American put (S=K=50, r=10%, vol=40%, 5 months), 5 steps",4.488458534725922,4.49 (2 dp),PASS,
+American,Same put with 30/50/100/500 steps,4.2830212764505164,4.263/4.272/4.278/4.283 (3 dp),PASS,4.2634 / 4.2720 / 4.2781 / 4.2830
+American,Put exercise boundary lies between perpetual limit 2r/(2r+vol^2) and K,0.7237450056708881,>= 0.5556 and <= 1,PASS,
+Binomial,CRR N=1000 tree Greeks vs BSM: max relative error,0.0006927040942004289,< 0.5%,PASS,"delta 9.9e-05, gamma 5.9e-04, theta 1.4e-04, vega 6.9e-04, rho 1.3e-04"
+Market data,Yahoo close equals NSE JSON underlyingValue,23053.1,"23,053.10",PASS,
+Market data,"23-Nov parity forward vs NIFTY Nov-2026 futures close 23,101.40",23097.28975315664,within 0.1%,PASS,difference -4.11 pts
+Market data,near-ATM synthetic-forward bid/ask bands overlap (no conversion/reversal arbitrage),1.031979549654352,> 0 for all 6 expiries,PASS,narrowest overlap 1.03 pts
+Market IV,OTM usable quotes with a valid implied vol (424 quotes),424.0,424,PASS,44 of 349 ITM quotes have a mid below intrinsic value and get no IV
+Market IV,BSM at own IV (q = implied) reproduces the mid price (729 quotes): max error,1.0231815394945443e-11,< 1e-6 pts,PASS,
+Market IV,23-Nov call vs put IV at same strike (within 2% of F): mean |gap|,0.07546530611606174,< 0.5 vol pts,PASS,NSE field: 2.31 vol pts
+Market trees,Leisen-Reimer N=501 vs BSM on 79 23-Nov contracts: max |diff|,6.78361829500318e-05,< 0.01 pts,PASS,
+Market trees,CRR N=1000 vs BSM on 79 23-Nov contracts: max |diff|,0.07909559287526235,< 5% of median spread (0.10 pts),PASS,
+Market IV,"NSE IV field reproduced with spot, q=0, r=6.39%: median |diff|",0.002619969484849577,< 0.05 vol pts,PASS,
+Market vol,30-day model-free vol (23-Nov and 29-Dec strips) vs India VIX 15.30,14.963339668497255,within 1 vol pt,PASS,gap -0.34 vol pts
