@@ -1,0 +1,359 @@
+{
+  "CASTROLIND": {
+    "url": "https://www.screener.in/company/CASTROLIND/",
+    "fetched_utc": "2026-10-31 18:03:09",
+    "name": "Castrol India Ltd",
+    "top_ratios": {
+      "Market Cap": {
+        "text": "\u20b9 18,596 Cr.",
+        "numbers": [
+          18596.0
+        ]
+      },
+      "Current Price": {
+        "text": "\u20b9 188",
+        "numbers": [
+          188.0
+        ]
+      },
+      "High / Low": {
+        "text": "\u20b9 203 / 170",
+        "numbers": [
+          203.0,
+          170.0
+        ]
+      },
+      "Stock P/E": {
+        "text": "18.1",
+        "numbers": [
+          18.1
+        ]
+      },
+      "Book Value": {
+        "text": "\u20b9 19.3",
+        "numbers": [
+          19.3
+        ]
+      },
+      "Dividend Yield": {
+        "text": "4.65 %",
+        "numbers": [
+          4.65
+        ]
+      },
+      "ROCE": {
+        "text": "60.3 %",
+        "numbers": [
+          60.3
+        ]
+      },
+      "ROE": {
+        "text": "45.9 %",
+        "numbers": [
+          45.9
+        ]
+      },
+      "Face Value": {
+        "text": "\u20b9 5.00",
+        "numbers": [
+          5.0
+        ]
+      }
+    },
+    "quarters_shape": [
+      11,
+      14
+    ],
+    "quarters_columns": [
+      "item",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "quarters_items": [
+      "Sales",
+      "Expenses",
+      "Operating Profit",
+      "OPM %",
+      "Other Income",
+      "Interest",
+      "Depreciation",
+      "Profit before tax",
+      "Tax %",
+      "Net Profit",
+      "EPS in Rs"
+    ],
+    "profit-loss_shape": [
+      12,
+      14
+    ],
+    "profit-loss_columns": [
+      "item",
+      "Dec 2014",
+      "Dec 2015",
+      "Dec 2016",
+      "Dec 2017",
+      "Dec 2018",
+      "Dec 2019",
+      "Dec 2020",
+      "Dec 2021",
+      "Dec 2022",
+      "Dec 2023",
+      "Dec 2024",
+      "Dec 2025",
+      "TTM"
+    ],
+    "profit-loss_items": [
+      "Sales",
+      "Expenses",
+      "Operating Profit",
+      "OPM %",
+      "Other Income",
+      "Interest",
+      "Depreciation",
+      "Profit before tax",
+      "Tax %",
+      "Net Profit",
+      "EPS in Rs",
+      "Dividend Payout %"
+    ],
+    "balance-sheet_shape": [
+      10,
+      14
+    ],
+    "balance-sheet_columns": [
+      "item",
+      "Dec 2014",
+      "Dec 2015",
+      "Dec 2016",
+      "Dec 2017",
+      "Dec 2018",
+      "Dec 2019",
+      "Dec 2020",
+      "Dec 2021",
+      "Dec 2022",
+      "Dec 2023",
+      "Dec 2024",
+      "Dec 2025",
+      "Jun 2026"
+    ],
+    "balance-sheet_items": [
+      "Equity Capital",
+      "Reserves",
+      "Borrowings",
+      "Other Liabilities",
+      "Total Liabilities",
+      "Fixed Assets",
+      "CWIP",
+      "Investments",
+      "Other Assets",
+      "Total Assets"
+    ],
+    "cash-flow_shape": [
+      6,
+      13
+    ],
+    "cash-flow_columns": [
+      "item",
+      "Dec 2014",
+      "Dec 2015",
+      "Dec 2016",
+      "Dec 2017",
+      "Dec 2018",
+      "Dec 2019",
+      "Dec 2020",
+      "Dec 2021",
+      "Dec 2022",
+      "Dec 2023",
+      "Dec 2024",
+      "Dec 2025"
+    ],
+    "cash-flow_items": [
+      "Cash from Operating Activity",
+      "Cash from Investing Activity",
+      "Cash from Financing Activity",
+      "Net Cash Flow",
+      "Free Cash Flow",
+      "CFO/EBITDA  Share of operating profit converting into cash: CFO (before tax) / Operating Profit"
+    ],
+    "ratios_shape": [
+      6,
+      13
+    ],
+    "ratios_columns": [
+      "item",
+      "Dec 2014",
+      "Dec 2015",
+      "Dec 2016",
+      "Dec 2017",
+      "Dec 2018",
+      "Dec 2019",
+      "Dec 2020",
+      "Dec 2021",
+      "Dec 2022",
+      "Dec 2023",
+      "Dec 2024",
+      "Dec 2025"
+    ],
+    "ratios_items": [
+      "Debtor Days",
+      "Inventory Days",
+      "Days Payable",
+      "Cash Conversion Cycle",
+      "Working Capital Days",
+      "ROCE %"
+    ],
+    "company_id": "589",
+    "about": "Castrol India Ltd is principally engaged in the business of manufacturing & marketing of automotive and industrial lubricants and related services. [1]",
+    "schedules": {
+      "quarters|Sales": {
+        "ok": true,
+        "keys": [
+          "YOY Sales Growth %"
+        ]
+      },
+      "quarters|Expenses": {
+        "ok": true,
+        "keys": [
+          "Material Cost %",
+          "Employee Cost %"
+        ]
+      },
+      "quarters|Other Income": {
+        "ok": true,
+        "keys": [
+          "Exceptional items",
+          "Other income normal"
+        ]
+      },
+      "quarters|Net Profit": {
+        "ok": true,
+        "keys": [
+          "Exceptional items AT",
+          "Profit excl Excep",
+          "Profit for PE",
+          "Profit for EPS",
+          "YOY Profit Growth %"
+        ]
+      },
+      "profit-loss|Sales": {
+        "ok": true,
+        "keys": [
+          "Sales Growth %"
+        ]
+      },
+      "profit-loss|Expenses": {
+        "ok": true,
+        "keys": [
+          "Material Cost %",
+          "Manufacturing Cost %",
+          "Employee Cost %",
+          "Other Cost %"
+        ]
+      },
+      "profit-loss|Other Income": {
+        "ok": true,
+        "keys": [
+          "Exceptional items",
+          "Other income normal"
+        ]
+      },
+      "profit-loss|Net Profit": {
+        "ok": true,
+        "keys": [
+          "Exceptional items AT",
+          "Profit excl Excep",
+          "Profit for PE",
+          "Profit for EPS",
+          "Profit Growth %"
+        ]
+      },
+      "balance-sheet|Borrowings": {
+        "ok": true,
+        "keys": [
+          "Lease Liabilities"
+        ]
+      },
+      "balance-sheet|Other Liabilities": {
+        "ok": true,
+        "keys": [
+          "Trade Payables",
+          "Advance from Customers",
+          "Other liability items"
+        ]
+      },
+      "balance-sheet|Fixed Assets": {
+        "ok": true,
+        "keys": [
+          "Land",
+          "Building",
+          "Plant Machinery",
+          "Equipments",
+          "Computers",
+          "Furniture n fittings",
+          "Vehicles",
+          "Intangible Assets",
+          "Other fixed assets",
+          "Gross Block",
+          "Accumulated Depreciation"
+        ]
+      },
+      "balance-sheet|Other Assets": {
+        "ok": true,
+        "keys": [
+          "Inventories",
+          "Trade receivables",
+          "Cash Equivalents",
+          "Loans n Advances",
+          "Other asset items"
+        ]
+      },
+      "balance-sheet|Investments": {
+        "ok": true,
+        "keys": []
+      },
+      "cash-flow|Cash from Operating Activity": {
+        "ok": true,
+        "keys": [
+          "Profit from operations",
+          "Receivables",
+          "Inventory",
+          "Payables",
+          "Loans Advances",
+          "Other WC items",
+          "Working capital changes",
+          "Direct taxes"
+        ]
+      },
+      "cash-flow|Cash from Investing Activity": {
+        "ok": true,
+        "keys": [
+          "Fixed assets purchased",
+          "Fixed assets sold",
+          "Investments purchased",
+          "Interest received",
+          "Other investing items"
+        ]
+      },
+      "cash-flow|Cash from Financing Activity": {
+        "ok": true,
+        "keys": [
+          "Interest paid fin",
+          "Dividends paid",
+          "Financial liabilities",
+          "Other financing items"
+        ]
+      }
+    }
+  }
+}

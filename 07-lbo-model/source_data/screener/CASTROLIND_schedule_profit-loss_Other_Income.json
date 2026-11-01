@@ -1,0 +1,33 @@
+{
+  "url": "https://www.screener.in/api/company/589/schedules/?parent=Other%20Income&section=profit-loss",
+  "data": {
+    "Exceptional items": {
+      "Dec 2014": "-1",
+      "Dec 2015": "-6",
+      "Dec 2016": "10",
+      "Dec 2017": "18",
+      "Dec 2018": "0",
+      "Dec 2019": "-1",
+      "Dec 2020": "-0",
+      "Dec 2021": "-1",
+      "Dec 2022": "7",
+      "Dec 2023": "16",
+      "Dec 2024": "10",
+      "Dec 2025": "-11"
+    },
+    "Other income normal": {
+      "Dec 2014": "48",
+      "Dec 2015": "96",
+      "Dec 2016": "76",
+      "Dec 2017": "66",
+      "Dec 2018": "84",
+      "Dec 2019": "65",
+      "Dec 2020": "62",
+      "Dec 2021": "48",
+      "Dec 2022": "60",
+      "Dec 2023": "67",
+      "Dec 2024": "79",
+      "Dec 2025": "56"
+    }
+  }
+}

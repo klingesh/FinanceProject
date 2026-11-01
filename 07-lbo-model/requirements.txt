@@ -1,0 +1,12 @@
+# Python 3.14 on Windows. Versions are the ones the project was built and verified with (1-Nov-2026).
+# Build, verify and chart (offline): build/run_all.py
+openpyxl==3.1.5
+pandas==3.0.3
+numpy==2.4.6
+matplotlib==3.11.2
+pywin32==312          # Excel COM automation in build/finalise_with_excel.py (needs Microsoft Excel)
+# Optional online data refresh: build/fetch_screener_standalone.py, build/fetch_market_data.py
+requests==2.34.2
+beautifulsoup4==4.15.0
+lxml==6.1.1
+yfinance==1.7.0

@@ -1,0 +1,29 @@
+item,unit,CY2021,CY2022,CY2023,CY2024,CY2025,9M_CY2025,9M_CY2026,Q3_CY2025,Q2_CY2026,Q3_CY2026,source
+revenue,Rs crore,4192.06,4774.49,5074.61,5364.85,5721.50,4281.58,5151.43,1362.75,1871.47,1734.72,"Statement of profit and loss: AR2022 p123 (CY2021), AR2023 p151 (CY2022-23), AR2025 p161 (CY2024-25); quarterly results 4-Aug-2026 and 24-Oct-2026"
+other_income,Rs crore,48.43,67.05,83.15,88.61,67.43,53.80,50.74,12.30,14.00,13.40,Same as revenue
+raw_and_packing_materials,Rs crore,1879.08,2278.87,2407.18,2505.62,2655.61,2039.28,2791.68,635.79,939.54,1085.86,Same as revenue (note 17.1)
+purchase_of_traded_goods,Rs crore,191.85,249.40,240.61,236.55,254.06,199.09,239.65,66.35,89.04,76.54,Same as revenue (note 17.2)
+change_in_inventories,Rs crore,-12.11,-28.35,-11.38,-14.34,9.74,-44.00,-223.13,-18.31,-108.36,-61.65,Same as revenue (note 17.3); negative = inventory build credited to P&L
+employee_benefits,Rs crore,231.99,272.58,291.58,312.80,296.20,225.63,284.17,79.32,107.03,87.13,Same as revenue (note 18)
+other_expenses,Rs crore,835.29,890.89,948.71,1046.07,1158.37,881.90,973.53,276.80,350.04,284.80,Same as revenue (note 21)
+finance_costs,Rs crore,2.41,4.01,7.53,9.38,9.29,7.01,5.29,2.06,1.70,1.72,Same as revenue (note 19; mostly interest on lease liabilities)
+depreciation_amortisation,Rs crore,82.70,81.39,92.43,99.77,100.82,76.34,88.46,25.17,30.45,30.34,Same as revenue (note 20; includes right-of-use asset amortisation)
+exceptional_items,Rs crore,0.00,0.00,0.00,0.00,-22.53,0.00,0.00,0.00,0.00,0.00,AR2025 note 34 (CY2025 exceptional charge)
+pbt_reported,Rs crore,1029.28,1092.75,1181.10,1257.61,1282.31,950.13,1042.52,307.87,476.03,243.38,Same as revenue
+tax_expense,Rs crore,271.19,277.60,316.97,330.38,332.38,244.87,276.27,80.07,128.33,67.01,Same as revenue (current + deferred)
+pat_reported,Rs crore,758.09,815.15,864.13,927.23,949.93,705.26,766.25,227.80,347.70,176.37,Same as revenue
+royalty_to_castrol_ltd_uk,Rs crore,104.61,112.44,122.42,129.31,132.49,,,,,,"Other expenses note 21: AR2022 p152, AR2023 p179, AR2025 p97"
+inventories,Rs crore,491.65,534.44,532.92,524.21,546.34,,,,1041.83,,"Balance sheet at 31-Dec: AR2022 p122, AR2023 p150, AR2025 p160; 30-Jun-2026 from results of 4-Aug-2026 (in the Q2_CY2026 column)"
+trade_receivables,Rs crore,311.65,350.36,422.82,437.69,473.21,,,,757.70,,Same as inventories
+trade_payables,Rs crore,620.65,678.86,706.43,703.65,786.05,,,,1213.15,,Same as inventories (MSME + other creditors)
+cash_and_cash_equivalents,Rs crore,184.23,554.50,493.21,452.87,426.62,,,,492.28,,Same as inventories (note 4.4)
+other_bank_balances,Rs crore,1115.98,663.21,706.58,946.10,714.37,,,,370.60,,Same as inventories (note 4.5; bank deposits up to 12 months)
+non_current_investment,Rs crore,0.00,325.00,487.50,487.50,442.80,,,,376.81,,"Same as inventories (note 4.6: unquoted CCPS and equity of TVS Automobile Solutions, ex Ki Mobility; at fair value through OCI)"
+lease_liabilities,Rs crore,6.72,49.95,76.95,82.02,62.81,,,,53.15,,Same as inventories (current + non-current)
+borrowings,Rs crore,0.00,0.00,0.00,0.00,0.00,,,,0.00,,Same as inventories (no borrowings; AR2025 p107 says debt-equity ratio not applicable)
+total_equity,Rs crore,1645.51,1886.03,2121.69,2278.37,1900.30,,,,1908.92,,Same as inventories
+cash_from_operations,Rs crore,630.21,915.56,853.04,1044.10,1090.14,,,,308.13,,"Cash flow statement: AR2022 p124, AR2023 p152 (CY2022 as restated), AR2025 p163; H1 CY2026 from results of 4-Aug-2026 (in the Q2_CY2026 column)"
+capex,Rs crore,83.21,109.71,95.54,92.70,97.33,,,,84.47,,Same as cash_from_operations (purchase of PPE incl. CWIP and intangibles)
+dividends_paid,Rs crore,542.47,593.47,642.93,791.30,1285.86,,,,519.29,,Same as cash_from_operations
+lease_principal_paid,Rs crore,12.61,10.54,13.51,19.26,20.18,,,,9.66,,Same as cash_from_operations
+lease_interest_paid,Rs crore,1.31,2.33,5.87,6.68,6.11,,,,2.43,,Same as cash_from_operations

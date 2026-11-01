@@ -1,0 +1,110 @@
+{
+  "_note": "Facts used on the Real_Deal_Context sheet and in the README. Each fact carries its source URL and date. Retrieved 31-Oct-2026.",
+  "bp_stonepeak": {
+    "announcement_date": "2025-12-24",
+    "stake_sold": 0.65,
+    "ev_usd_bn": 10.1,
+    "ev_ltm_ebitda_x": 8.6,
+    "equity_value_usd_bn": 8.0,
+    "jv_minority_interests_usd_bn": 1.8,
+    "debt_like_usd_bn": 0.3,
+    "net_proceeds_to_bp_usd_bn": 6.0,
+    "dividend_prepayment_usd_bn": 0.8,
+    "castrol_india_minority_interest": 0.49,
+    "completion_expected": "by end of 2026, subject to regulatory approvals",
+    "source": "bp press release, 24-Dec-2025",
+    "url": "https://www.bp.com/press-and-publications/press-releases/bp-agrees-to-sell-a-65-per-cent-shareholding-in-castrol-to-stonepeak-at-an-enterprise-value-of-10-billion",
+    "pdf_url": "http://bp.com/api/files/6cqieuqhq4no/master/4F4krNIzOL2e0opQdSGB1W/2766915e59b4094d9349ce9cac8e53ff/bp-agrees-to-sell-a-65-per-cent-shareholding-in-castrol-to-stonepeak-at-an-enterprise-value-of-10-billion.pdf"
+  },
+  "cpp_investments": {
+    "investment_usd_bn": 1.05,
+    "source": "CPP Investments news release, 24-Dec-2025",
+    "url": "https://www.cppinvestments.com/wp-content/uploads/attachments/News-Release-CPP-Investments-to-Acquire-Minority-Stake-in-Castrol-EN.pdf"
+  },
+  "global_financing": {
+    "holdco_debt_usd_bn": 3.75,
+    "senior_secured_notes_usd_bn": 1.0,
+    "term_loans_usd_bn": 2.75,
+    "opco_rcf_usd_bn": 1.3,
+    "rcf_for_india_tender_offer_usd_bn": 0.3,
+    "completion_expected": "by year-end 2026",
+    "source": "Latham & Watkins deal note, Jul-2026",
+    "url": "https://www.lw.com/en/news/2026/07/latham-advises-on-financing-for-stonepeak-acquisition-of-castrol-from-bp"
+  },
+  "open_offer": {
+    "public_announcement_date": "2025-12-24",
+    "spa_date": "2025-12-23",
+    "acquirer": "Motion JVCo Limited (Jersey), with Stonepeak Motion Holdco Limited, Stonepeak Infrastructure Fund V Cayman (AIV I) LP, Stonepeak Infrastructure Fund V (Lux) (AIV I) SCSp and CPP Investment Board Private Holdings (6) Inc. as persons acting in concert",
+    "manager": "UBS Securities India Private Limited",
+    "trigger": "Indirect acquisition of control: Castrol Limited (UK) holds 50,44,52,416 shares (51.00%); SEBI SAST Regulations 3(1), 4 and 5(1)",
+    "promoter_shares": 504452416,
+    "fully_diluted_shares": 989122384,
+    "offer_shares": 257171820,
+    "offer_pct": 0.26,
+    "initial_offer_price_inr": 194.04,
+    "offer_size_inr_crore": 4990.16,
+    "price_enhancement": "Initial offer price to be enhanced at 10% per annum from 23-Dec-2025 to the date of the detailed public statement (SEBI SAST Reg 8(12)); the DPS is due within 5 working days of completion of the underlying transaction",
+    "minimum_acceptance": "Not conditional on any minimum level of acceptance",
+    "source": "Public announcement filed with BSE/NSE, 24-Dec-2025",
+    "url": "https://bsmedia.business-standard.com/_media/bs/data/announcements/bse/24122025/ccedebac-a5e1-448a-aaf9-f4ec30d0f085.pdf"
+  },
+  "status_oct_2026": {
+    "summary": "Not completed at 30-Oct-2026. Castrol India's CFO said on 26-Oct-2026 that legal and operational licences across 50+ countries were still being obtained and that the SEBI filing would follow completion. BP's 3Q 2026 results (30-Oct-2026) described closure as imminent and still expected about US$6bn of proceeds in 2026. The DPS has not been published, so the open offer has not opened and there is no acceptance outcome yet.",
+    "sources": [
+      {"what": "Castrol India official transcript of the Q3 CY2026 post-earnings call of 26-Oct-2026 (filed 29-Oct-2026; source_data/company_filings/Castrol_India_Q3CY2026_earnings_call_transcript_26Oct2026.pdf)", "url": "https://www.castrol.com/content/dam/castrol/country-sites-new/en_in/india/home/documents/investors/clse-intimation-analyst-call-26-oct-2026-transcriptsigned.pdf"},
+      {"what": "Castrol India Q3 CY2026 earnings call transcript summary, 26-Oct-2026 (Investing.com)", "url": "https://in.investing.com/news/stock-market-news/earnings-call-transcript-castrol-india-q3-2026-profit-falls-as-margins-narrow-93CH-5653381"},
+      {"what": "Alliance News via AJ Bell on BP 3Q 2026 results, 30-Oct-2026", "url": "https://www.ajbell.co.uk/news/articles/bp-hits-debt-target-year-ahead-schedule-profit-beats-forecast"}
+    ]
+  },
+  "castrol_india_q3_cy2026": {
+    "revenue_cr": 1735,
+    "ebitda_cr": 262,
+    "ebitda_margin": "about 15%",
+    "nine_month_revenue_cr": 5151,
+    "nine_month_ebitda_cr": 1086,
+    "medium_term_ebitda_margin_frame": "21-24%",
+    "volume_ambition": "1.5-2x market growth; market growth 3-4% in a normal year",
+    "capex_guidance_cr": "100-150 per year",
+    "crude_comment": "Crude moved from about US$120/bbl in the June quarter to about US$80 and back to about US$114-115 by late October 2026",
+    "raw_material_bill": "up more than 60% y/y in Q3 CY2026",
+    "plant_utilisation": "70-80%",
+    "source": "Castrol India Q3 CY2026 earnings call, 26-Oct-2026 (official transcript; facts re-checked against it on 1-Nov-2026)",
+    "url": "https://www.castrol.com/content/dam/castrol/country-sites-new/en_in/india/home/documents/investors/clse-intimation-analyst-call-26-oct-2026-transcriptsigned.pdf",
+    "secondary_url": "https://in.investing.com/news/stock-market-news/earnings-call-transcript-castrol-india-q3-2026-profit-falls-as-margins-narrow-93CH-5653381"
+  },
+  "kotak_q2cy26": {
+    "date": "2026-08-06",
+    "realisation_inr_per_litre": 265,
+    "view": "Long-term cautious on volume growth given the gradual EV transition; stock likely range-bound near the Rs194 open offer",
+    "url": "https://www.kotakneo.com/uploads/Castrol_One_Pager_Result_Update_Q2_CY_26_6_Aug2026_0c6b28aa63.pdf"
+  },
+  "royalty": {
+    "cy2025_inr_cr": 132.49,
+    "cy2024_inr_cr": 129.31,
+    "payee": "Castrol Limited, UK (holding company)",
+    "source": "Castrol India Annual Report 2025, related-party note",
+    "url": "https://www.castrol.com/content/dam/castrol/country-sites-new/en_in/india/home/documents/investors/cil-annual-report-2025.pdf"
+  },
+  "regulation": {
+    "sebi_sast": {
+      "points": "Open offer for at least 26% on crossing 25% or acquiring control (Reg 3(1), 4, 7(1)); offer price enhanced at 10% p.a. for indirect acquisitions (Reg 8(12)); acquirer may seek delisting through the open offer if intent is declared, for indirect acquisitions initially in the DPS (Reg 5A); an acquirer that crosses the maximum non-public shareholding through an open offer cannot make a voluntary delisting offer for 12 months (Reg 7(5))",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785911192198.pdf"
+    },
+    "sebi_delisting": {
+      "points": "Delisting offer succeeds only if the acquirer's post-offer holding plus accepted shares reaches 90% of total issued shares (Reg 21(a)); counter-offer allowed if holding reaches 75% and at least 50% of public shares are tendered (Reg 22(4), amended 25-Sep-2024); fixed-price route added in 2024",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1786948319926.pdf"
+    },
+    "rbi_acquisition_finance": {
+      "points": "Banks were historically barred from lending to buy shares of other companies. RBI's Commercial Banks - Credit Facilities Amendment Directions, 2026 allow bank acquisition finance up to 75% of the acquisition value for eligible acquirers (net worth at least Rs 500 crore, 3-year profit record, investment-grade rating if unlisted, post-deal debt/equity cap of 3:1)",
+      "urls": [
+        "https://kpmg.com/in/en/blogs/2026/03/rbis-power-play-to-fire-up-m-as.html",
+        "https://ksandk.com/banking/sponsor-side-leveraged-finance-in-india/",
+        "https://economictimes.indiatimes.com/opinion/et-commentary/rbi-opens-bank-lending-for-acquisitions-under-new-framework/articleshow/132100398.cms"
+      ]
+    },
+    "fema_companies_act": {
+      "points": "ECB proceeds cannot be used to buy equity in India; a foreign-owned or controlled Indian company cannot use domestic borrowings to buy shares of another Indian company; Section 67 of the Companies Act 2013 bars a public company from giving financial assistance for the purchase of its own shares",
+      "url": "https://ksandk.com/banking/sponsor-side-leveraged-finance-in-india/"
+    }
+  }
+}

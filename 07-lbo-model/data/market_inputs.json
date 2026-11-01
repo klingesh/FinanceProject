@@ -1,0 +1,64 @@
+{
+  "_note": "Market and macro inputs for the Castrol India LBO model. Valuation date: Friday 30-Oct-2026 close. Each value carries its source.",
+  "share_price_close_30oct2026": {
+    "value": 188.00,
+    "unit": "Rs per share",
+    "source": "Yahoo Finance CASTROLIND.NS close 30-Oct-2026 (source_data/yahoo_finance/quote_30Oct2026.json); Screener top ratios show Rs 188",
+    "url": "https://finance.yahoo.com/quote/CASTROLIND.NS/history/"
+  },
+  "high_52w": {"value": 203.40, "unit": "Rs", "source": "Yahoo Finance daily highs, 31-Oct-2025 to 30-Oct-2026"},
+  "low_52w": {"value": 170.10, "unit": "Rs", "source": "Yahoo Finance daily lows, 31-Oct-2025 to 30-Oct-2026"},
+  "vwap_60d_proxy": {"value": 193.14, "unit": "Rs", "source": "Volume-weighted average of daily closes, last 60 trading days to 30-Oct-2026 (Yahoo Finance)"},
+  "fully_diluted_shares": {
+    "value": 989122384,
+    "unit": "shares",
+    "source": "Open offer public announcement 24-Dec-2025 (Equity Share Capital, fully diluted) and AR2025 statement of changes in equity",
+    "url": "https://www.castrol.com/content/dam/castrol/country-sites-new/en_in/india/home/documents/investors/stock-exchange-intimation-public-announcement.pdf"
+  },
+  "usd_inr_30oct2026": {"value": 95.1524, "unit": "Rs per US$", "source": "Yahoo Finance INR=X close 30-Oct-2026"},
+  "usd_inr_23dec2025": {"value": 89.6039, "unit": "Rs per US$", "source": "Yahoo Finance INR=X close 23-Dec-2025 (SPA signing date)"},
+  "gsec_10y_yield": {
+    "value": 0.0741,
+    "unit": "% a year",
+    "source": "Benchmark 6.94% GS 2036 closed at 7.4139% on 30-Oct-2026 (Reuters via ETBFSI); Trading Economics shows 7.40% for 30-Oct-2026. The 7.44% figure in the shared conventions is the 28-Oct-2026 close (Economic Times, 29-Oct-2026).",
+    "urls": [
+      "https://bfsi.economictimes.indiatimes.com/articles/india-bonds-buckle-for-fourth-straight-month-on-oils-climb/135363689",
+      "https://tradingeconomics.com/india/government-bond-yield",
+      "https://m.economictimes.com/markets/bonds/g-sec-10-year-yields-come-down-5-bps-to-7-39-on-fed-signals/amp_articleshow/135335834.cms"
+    ]
+  },
+  "rbi_repo_rate": {
+    "value": 0.055,
+    "unit": "% a year",
+    "source": "RBI MPC raised the repo rate 25 bp to 5.50% on 7-Oct-2026 (The Hindu; Mint)",
+    "urls": [
+      "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
+      "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-october-2026-repo-rate-hiked-by-25-bps-to-5-50-growth-inflation-forecast-other-key-takeaways-11791344804917.html"
+    ]
+  },
+  "tbill_91d_yield": {
+    "value": 0.0593,
+    "unit": "% a year",
+    "source": "91-day T-bill cut-off yield, RBI auction of 28-Oct-2026 (Economic Times)",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-accepts-20-bps-higher-treasury-bill-cutoff-yields-than-last-auction/articleshow/135284706.cms"
+  },
+  "corporate_tax_rate": {"value": 0.2517, "unit": "%", "source": "Income-tax Act s.115BAA: 22% + 10% surcharge + 4% cess = 25.168%"},
+  "open_offer": {
+    "initial_offer_price": 194.04,
+    "offer_shares": 257171820,
+    "offer_size_rs_crore": 4990.16,
+    "spa_date": "2025-12-23",
+    "pa_date": "2025-12-24",
+    "price_enhancement_rate": 0.10,
+    "source": "Public announcement under SEBI SAST Regulations 3(1), 4 and 5(1), 24-Dec-2025 (manager: UBS Securities India)",
+    "url": "https://www.castrol.com/content/dam/castrol/country-sites-new/en_in/india/home/documents/investors/stock-exchange-intimation-public-announcement.pdf"
+  },
+  "dividends_paid_cy2026": {
+    "final_cy2025_dps": 5.25,
+    "final_cy2025_paid_h1_2026_rs_crore": 519.29,
+    "interim_cy2026_dps": 6.25,
+    "interim_paid_by": "2026-09-02",
+    "source": "H1 CY2026 cash flow statement and press release, outcome of board meeting 4-Aug-2026",
+    "url": "https://www.castrol.com/content/dam/castrol/country-sites-new/en_in/india/home/documents/investors/Outcome-of-BM-Signed.pdf"
+  }
+}

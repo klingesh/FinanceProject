@@ -1,0 +1,19 @@
+{
+  "url": "https://www.screener.in/api/company/589/schedules/?parent=Sales&section=profit-loss",
+  "data": {
+    "Sales Growth %": {
+      "Dec 2014": "6.69%",
+      "Dec 2015": "-2.78%",
+      "Dec 2016": "2.19%",
+      "Dec 2017": "6.35%",
+      "Dec 2018": "8.93%",
+      "Dec 2019": "-0.71%",
+      "Dec 2020": "-22.70%",
+      "Dec 2021": "39.88%",
+      "Dec 2022": "13.89%",
+      "Dec 2023": "6.29%",
+      "Dec 2024": "5.72%",
+      "Dec 2025": "6.65%"
+    }
+  }
+}
